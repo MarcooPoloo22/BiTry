@@ -1,0 +1,27 @@
+.pie-stat {
+  position: relative;
+  display: inline-block;
+}
+
+.pie-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  pointer-events: none;
+  color: #222831; /* dark text for center (adjust depending on background) */
+  width: 70%;
+}
+
+.pie-center-main {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.pie-center-sub {
+  margin-top: 4px;
+  font-size: 0.75rem;
+  color: rgba(34,40,49,0.9);
+}

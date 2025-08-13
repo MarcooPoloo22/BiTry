@@ -29,7 +29,7 @@ export default function Navbar() {
         <nav className={`nav-links ${menuOpen ? "open" : ""}`}>
           <ul>
             <li>
-              <NavLink to="/" end className={({ isActive }) => (isActive ? "active" : "")}>
+              <NavLink to="/dashboard" end className={({ isActive }) => (isActive ? "active" : "")}>
                 Dashboard
               </NavLink>
             </li>

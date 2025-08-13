@@ -18,7 +18,7 @@ function App() {
       <main className="main-area">
         <Routes>
           <Route path="/home" element={<Homepage />} />
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/learn" element={<Learn />} />
           <Route path="/trade" element={<Trade />} />
           <Route path="/news" element={<News />} />

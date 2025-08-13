@@ -8,7 +8,7 @@
   --muted: #eeeeee;
   --radius: 8px;
   --auth-radius: 6px;    /* outer auth rectangle radius (now small) */
-  --max-width: 1200px;
+  --max-width: 100%;
 
   --login-bg: #211F1F;   /* outer dark rectangle */
   --signup-bg: #EEEEEE;  /* signup rectangle */
@@ -241,19 +241,8 @@ body {
 /* ---------- Main Area / Page Layout ---------- */
 .main-area {
   max-width: var(--max-width);
-  margin: 20px auto;
-  padding: 16px;
   min-height: calc(100vh - 100px);
   width: 100%;
-}
-
-.page-card {
-  background: rgba(255,255,255,0.03);
-  border: 1px solid rgba(255,255,255,0.04);
-  padding: 18px;
-  border-radius: 12px;
-  color: var(--muted);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.35);
 }
 
 .page-title { margin: 0 0 10px 0; font-size: 1.35rem; font-weight:700; color: var(--muted); }
