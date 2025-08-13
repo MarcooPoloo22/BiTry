@@ -1,15 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
+
+/* Pages */
+import Homepage from "./components/Homepage";
+import Dashboard from "./components/Dashboard";
+import Learn from "./components/Learn";
+import Trade from "./components/Trade";
+import News from "./components/News";
+import Login from "./components/Login";
+import Signup from "./components/Signup";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          BiTry Motherfuckers!
-        </p>
-      </header>
+    <div className="app-container">
+      <Navbar />
+      <main className="main-area">
+        <Routes>
+          <Route path="/home" element={<Homepage />} />
+          <Route path="/" element={<Dashboard />} />
+          <Route path="/learn" element={<Learn />} />
+          <Route path="/trade" element={<Trade />} />
+          <Route path="/news" element={<News />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
+          <Route path="*" element={<Dashboard />} />
+        </Routes>
+      </main>
     </div>
   );
 }
