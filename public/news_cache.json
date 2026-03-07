@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-07T19:15:53.914Z",
+  "timestamp": "2026-03-07T20:16:11.102Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Logan Hitchcock",
+        "title": "Binance Denies $1.7 Billion in Iran Sanctions Violations Amid US Senate Probe",
+        "description": "Binance denied $1.7 billion in Iran sanctions violations and stood behind its compliance operations, in a new letter to Senator Richard Blumenthal.",
+        "url": "https://decrypt.co/360273/binance-denies-1-7-billion-iran-sanctions-violations-senate-probe",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+        "publishedAt": "2026-03-06T19:38:50Z",
+        "content": "In brief\r\n<ul><li>Binance denied violating Iran sanctions with more than $1.7 billion in transactions in a new letter to Senator Blumenthal. </li><li>The Senator opened an investigation into the firm… [+3129 chars]"
+      },
       {
         "source": {
           "id": null,
