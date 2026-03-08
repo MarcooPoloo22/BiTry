@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-08T05:37:46.100Z",
+  "timestamp": "2026-03-08T06:33:01.395Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ciaran Lyons",
+        "title": "Bitcoin dip may not be over as retail ramps up buying below $70K: Santiment",
+        "description": "Crypto sentiment platform Santiment said whales have been selling aggressively since Bitcoin hit $74,000, while retail investors have been buying the dip, indicating potential further downside.",
+        "url": "https://cointelegraph.com/news/bitcoin-price-decline-downside-retail-whales-pattern-santiment",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019c0d0e-ede4-7d3d-a54a-3b58b5d4b4ed.jpg",
+        "publishedAt": "2026-03-07T06:02:01Z",
+        "content": "Retail investors have been scooping up Bitcoin after it slipped below $70,000, but whale activity suggests the price could still head lower if past patterns repeat, according to crypto sentiment plat… [+2230 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Bitcoin could crash by another 30% as four-year cycle gains strength, investment firm says",
+        "description": "Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.",
+        "url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-could-crash-another-30-as-four-year-cycle-gains-strength-investment-firm-says",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/aa651f593b05892413d8006cdf3a5cea49f53472-1260x843.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-07T05:44:21Z",
+        "content": "Bitcoin BTC\r\n$67,920.10 is firmly in the deepest phase of the bear market and the pain may worsen, according to CK Zheng, founder of crypto investment firm ZX Squared Capital.\r\n\"Bitcoin's price is co… [+2464 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -30,6 +56,19 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/generated_image8.png?fit=2848%2C1600",
         "publishedAt": "2026-03-07T02:00:04Z",
         "content": "Ethereums co-founder Vitalik Buterin has called for bolder and more openminded experimentation at Ethereums application layer while keeping the core principles untouched.\r\nIn a long post on the socia… [+3705 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "Odds of Bitcoin price drop to $65K rise as private credit woes, US war rattle markets",
+        "description": "Bitcoin’s weekly gains evaporated as oil prices surged, the war in Iran expanded, and the risk of contagion in US private credit markets spooked investors.",
+        "url": "https://cointelegraph.com/markets/odds-of-bitcoin-price-drop-to-65k-rise-as-private-credit-woes-us-war-rattle-markets",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cc509-5985-7bbf-b473-aed82c08d3b5.jpeg",
+        "publishedAt": "2026-03-06T22:15:00Z",
+        "content": "Key takeaways:\r\n<ul><li>Bitcoin faced pressure as rising oil prices and weak US data sparked risk-off sentiment and drove investors to gold.\r\n</li><li>A redemption spike in private credit funds from … [+4229 chars]"
       },
       {
         "source": {
@@ -407,32 +446,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cbdc1-3753-77c0-b4f2-e86df53d19ca.jpg",
         "publishedAt": "2026-03-05T12:22:11Z",
         "content": "While Bitcoin (BTC) remains more than 42% below its $126,000 all-time high, several technical setups suggest that the price range between $60,000 and $72,000 may be the new bottom range, before a sus… [+4077 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "James Halver",
-        "title": "Bitcoin Price Shakes Iran Fear as ETF Inflows Drive Short Squeeze Into The Vital $70K Level",
-        "description": "Bitcoin’s price recovered to around $73,000 in early March, after having fallen to the mid-$60,000 range from late January due to geopolitical unrest. What The Data Says Bitcoin’s price notable instability during the first trimester of the year seems to have …",
-        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-price-etf-inflows-short-squeeze-70k-level/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/generated_image7.png",
-        "publishedAt": "2026-03-05T11:23:29Z",
-        "content": "Bitcoin’s price recovered to around $73,000 in early March, after having fallen to the mid-$60,000 range from late January due to geopolitical unrest.\r\nBitcoins price notable instability during the f… [+2546 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "James Van Straten",
-        "title": "Chamath Palihapitiya questions bitcoin’s role as central bank reserve asset",
-        "description": "Billionaire Venture capitalist points to privacy and fungibility concerns, while debate grows over corporate bitcoin strategies such as Strategy’s massive holdings.",
-        "url": "https://www.coindesk.com/markets/2026/03/05/chamath-palihapitiya-questions-bitcoin-s-role-as-central-bank-reserve-asset",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b59cb7fdf99f08dec49b5fd5a13a138ae46766d2-1024x683.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-05T11:07:03Z",
-        "content": "Billionaire investor Chamath Palihapitiya, a venture capitalist and former Facebook executive, recently argued that bitcoin has a structural failing that could limit its long term adoption by governm… [+2768 chars]"
       }
     ]
   }
