@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-11T11:27:06.874Z",
+  "timestamp": "2026-03-11T12:39:54.417Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "South Korea sells $21.5M in recovered Bitcoin after custody breach",
+        "description": "The sale follows a custody breach that briefly removed seized Bitcoin from prosecutors’ control, raising questions about handling confiscated crypto.",
+        "url": "https://cointelegraph.com/news/south-korea-sells-21-5m-in-recovered-bitcoin-after-custody-breach",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cd055-fda3-780e-b855-64ec18e71dc4.jpg",
+        "publishedAt": "2026-03-10T12:18:58Z",
+        "content": "South Korean prosecutors have sold 320.8 Bitcoin recovered after a phishing incident temporarily removed the crypto from government custody.\r\nThe Gwangju District Prosecutors Office said it sold 320.… [+2082 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Is Repeating 2022 Playbook That Triggered Crash To $17,500",
+        "description": "The 2022 Bitcoin crash has been one for the history books, where the price went from $69,000 to $16,000 before hitting a bottom. Being the most recent bear market before the current cycle, there have been a lot of comparisons between the current trend and the…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-repeating-2022-playbook/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-23-2026-08_23_08-AM.png?fit=1222%2C814",
+        "publishedAt": "2026-03-10T11:30:06Z",
+        "content": "The 2022 Bitcoin crash has been one for the history books, where the price went from $69,000 to $16,000 before hitting a bottom. Being the most recent bear market before the current cycle, there have… [+2204 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,19 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Bitcoin-Price-Breakdown.jpg",
         "publishedAt": "2026-03-09T02:44:07Z",
         "content": "Bitcoin price started a fresh decline below $68,500 and $68,000. BTC is now consolidating and might struggle to start a recovery wave above $68,500.\r\n<ul><li>Bitcoin started a fresh decline after it … [+2241 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Bitcoin Price Must Not Drop Below $63,700, Analyst Warns",
-        "description": "An on-chain data expert has identified a critical level that the Bitcoin price must not break, or it could be at risk of a significant downturn. Critical Levels For BTC Price: Alphractal CEO On Saturday, March 7, Alphractal founder and CEO Joao Wedson reveale…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-price-must-not-fall-below-63700/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/2026-03-08-11.54.21.jpg?fit=1280%2C853",
-        "publishedAt": "2026-03-08T19:00:55Z",
-        "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
       }
     ]
   }
