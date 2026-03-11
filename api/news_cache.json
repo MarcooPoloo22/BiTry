@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-11T10:30:56.049Z",
+  "timestamp": "2026-03-11T11:27:06.874Z",
   "data": {
     "status": "ok",
     "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Winklevoss Twins Move $130M in Bitcoin to Gemini Hot Wallets: Arkham",
+        "description": "Arkham claimed that the transfers were intended “presumably to sell,” though neither Cameron nor Tyler Winklevoss has commented on the move.",
+        "url": "https://decrypt.co/360539/winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-03-10T11:02:35Z",
+        "content": "In brief\r\n<ul><li>Gemini founders Tyler and Cameron Winklevoss have transferred around $130 million in Bitcoin to the exchange's hot wallets over the past week, said Arkham.</li><li>The blockchain an… [+2842 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,19 +381,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/2026-03-08-11.54.21.jpg?fit=1280%2C853",
         "publishedAt": "2026-03-08T19:00:55Z",
         "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Bitcoin ETFs Break 5-Month Streak With 2nd Consecutive Week Of Inflows",
-        "description": "A Blockstream executive made waves on social media Saturday with a striking comparison: US spot Bitcoin exchange-traded funds have pulled in roughly the same amount of cumulative investor money as gold ETFs collected over their first 15 years — and Bitcoin di…",
-        "url": "http://www.newsbtc.com/news/bitcoin-etfs-break-5-month-streak-with-2nd-consecutive-week-of-inflows/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/a_02cbf9.jpg?fit=2000%2C1334",
-        "publishedAt": "2026-03-08T17:00:41Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
       }
     ]
   }
