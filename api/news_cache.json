@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-12T06:42:53.488Z",
+  "timestamp": "2026-03-12T07:41:07.430Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "Bitcoin May Sink To $50K Before Rallying, Standard Chartered’s Kendrick Warns",
+        "description": "Standard Chartered’s Geoffrey Kendrick says Bitcoin could still face a final washout to $50,000 before recovering sharply, arguing that the current drawdown looks more like a macro-led tech capitulation than a crypto-specific breakdown. Speaking on Deribit’s …",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-50k-before-rallying-standard-chartered-kendrick/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-122610.png?fit=1960%2C1232",
+        "publishedAt": "2026-03-11T07:00:16Z",
+        "content": "Standard Chartereds Geoffrey Kendrick says Bitcoin could still face a final washout to $50,000 before recovering sharply, arguing that the current drawdown looks more like a macro-led tech capitulati… [+3991 chars]"
+      },
       {
         "source": {
           "id": null,
