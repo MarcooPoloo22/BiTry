@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-12T13:57:39.551Z",
+  "timestamp": "2026-03-12T14:45:50.737Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
       {
         "source": {
@@ -433,19 +433,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cd49d-b9cb-75e4-bc6b-d10dea261a4e.jpg",
         "publishedAt": "2026-03-09T22:07:11Z",
         "content": "Key takeaways:\r\n<ul><li>Oil price spikes often precede 20% spikes in Bitcoin value, though initial market reactions remain volatile and unpredictable.\r\n</li><li>Bitcoin currently mirrors tech stocks … [+4030 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Stephen Graves",
-        "title": "Moldova's Anticorruption Center Alleges $107M Crypto Scheme to Influence Elections",
-        "description": "Blockchain analysis firm TRM Labs identified links to a Russia-backed influence operation paying agitators in cryptocurrency.",
-        "url": "https://decrypt.co/360396/moldova-107m-crypto-scheme-influence-elections",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png",
-        "publishedAt": "2026-03-09T21:50:27Z",
-        "content": "In brief\r\n<ul><li>Moldova's National Anticorruption Center has identified an election-influence scheme that saw some $107 million used to promote candidates and bribe voters.</li><li>The \"complex tra… [+5010 chars]"
       }
     ]
   }
