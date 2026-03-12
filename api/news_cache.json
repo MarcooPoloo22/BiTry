@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-12T09:35:01.028Z",
+  "timestamp": "2026-03-12T10:31:10.445Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Amin Haqshanas",
+        "title": "US seeks forfeiture of $3.4M in USDt tied to crypto investment scam",
+        "description": "US prosecutors filed a civil forfeiture action to recover $3.44 million in USDt linked to a crypto investment scam that persuaded victims to send Ether to fraudulent wallets.",
+        "url": "https://cointelegraph.com/news/us-seeks-forfeiture-3-4m-usdt-crypto-investment-scam",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cdc5c-285a-778a-904b-66d3fab5c716.jpg",
+        "publishedAt": "2026-03-11T10:25:42Z",
+        "content": "US federal prosecutors have filed a civil forfeiture action to recover roughly 3.44 million USDt tied to an alleged online crypto investment scam that targeted victims across several states.\r\nAccordi… [+2416 chars]"
+      },
       {
         "source": {
           "id": null,
