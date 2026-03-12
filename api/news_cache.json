@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-12T15:51:09.295Z",
+  "timestamp": "2026-03-12T16:52:06.233Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Francisco Rodrigues",
+        "title": "Crypto-friendly fintech Revolut gains full UK banking license",
+        "description": "The move is a major step in Revolut's goal to become a global digital bank, though services like crypto and stock trading remain separate.",
+        "url": "https://www.coindesk.com/policy/2026/03/11/crypto-friendly-fintech-revolut-gains-full-uk-banking-license",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/669c3873a927924abdbbced4c7b661b281ba919f-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-11T16:41:12Z",
+        "content": "Revolut, the London-based crypto-friendly fintech, said it received a full U.K. banking license, allowing it to offer a wider range of services and providing deposit protection for eligible funds alm… [+1527 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Sylvia To",
+        "title": "Crypto Long & Short: AI agents choosing denationalized money",
+        "description": "In this week’s Crypto Long & Short Newsletter, Sylvia To on AI agents choosing denationalized money.",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/03/11/crypto-long-and-short-ai-agents-choosing-denationalized-money",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/1826e15e8fe0baba229c5b62f9cfd133bbe72c66-7360x5100.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-11T16:02:20Z",
+        "content": "Welcome to our institutional newsletter, Crypto Long &amp; Short. This week:\r\n<ul><li>Sylvia To on AI agents choosing denationalized money</li><li>Top headlines institutions should pay attention to b… [+8393 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,32 +459,6 @@
         "urlToImage": "https://coinjournal.net/wp-content/uploads/2025/08/Bitcoin-Cash-price-forecast.png",
         "publishedAt": "2026-03-10T09:58:30Z",
         "content": "<ul><li>Exchange outflows reduce available Bitcoin, tightening the market.</li><li>Easing Iran tensions boosts investor confidence and trading activity.</li><li>Traders and institutions step in, supp… [+2910 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "BitMine Acquires 60,000 ETH; Chair Discusses Outlook For Ethereum And Crypto Prices",
-        "description": "BitMine Immersion Technologies (BMNR), the largest corporate holder of Ethereum (ETH) worldwide, announced on Monday that it had made a significant new purchase of nearly 61,000 ETH.  BitMine Holds 3.7% Of Total Ethereum Supply BitMine’s latest transaction, c…",
-        "url": "http://www.newsbtc.com/news/ethereum/bitmine-acquires-60000-eth-chair-discusses-outlook-for-ethereum-and-crypto-prices/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/09/Screenshot_1259.jpg?fit=1277%2C718",
-        "publishedAt": "2026-03-10T09:00:02Z",
-        "content": "BitMine Immersion Technologies (BMNR), the largest corporate holder of Ethereum (ETH) worldwide, announced on Monday that it had made a significant new purchase of nearly 61,000 ETH. \r\nBitMine’s late… [+2665 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Dogecoin (DOGE) Bounce Weakens, Downtrend Risks Return Quickly",
-        "description": "Dogecoin started a recovery wave above the $0.090 zone against the US Dollar. DOGE is now facing hurdles near $0.0930 and might struggle to continue higher. DOGE price started a recovery wave from $0.0860 and climbed above $0.090. The price is trading above t…",
-        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-bounce-weakens-0-095/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Dogecoin-DOGE-Bounce-Weakens-Downtrend-Risks-Return-Quickly.jpg?fit=1408%2C768",
-        "publishedAt": "2026-03-10T05:08:15Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
