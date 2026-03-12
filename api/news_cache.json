@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-12T10:31:10.445Z",
+  "timestamp": "2026-03-12T11:27:08.384Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "DOJ Seeks Forfeiture of $3.4M in USDT Tied to Ethereum Investment Scam",
+        "description": "Federal prosecutors in Massachusetts have moved to forfeit 3.44 million USDT linked to an alleged text-based crypto investment fraud.",
+        "url": "https://decrypt.co/360650/doj-seeks-forfeiture-of-3-4m-in-usdt-tied-to-ethereum-investment-scam",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-gID_7.png",
+        "publishedAt": "2026-03-11T10:52:18Z",
+        "content": "In brief\r\n<ul><li>U.S. prosecutors in Massachusetts have filed a civil forfeiture complaint targeting $3.4 million in USDT tied to an alleged investment scam.</li><li>Investigators say victims were a… [+2168 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,32 +407,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png",
         "publishedAt": "2026-03-09T19:37:58Z",
         "content": "In brief\r\n<ul><li>Bitcoin is up 4.78% today trading at $69,128.</li><li>Last week's apparent triangle breakout closed as a massive bullish wick a classic false breakout signal.</li><li>On Myriad, pre… [+5391 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 3/9: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
-        "description": "Bitcoin and altcoins rallied toward their respective range highs as investors piled into crypto despite the war in Iran and record-high oil prices.",
-        "url": "https://cointelegraph.com/markets/price-predictions-3-9-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cd3a6-8b9e-751d-a3e3-6b9c5abb5ca2.jpg",
-        "publishedAt": "2026-03-09T17:57:56Z",
-        "content": "Key points:\r\n<ul><li>Rising oil prices have not hurt crypto sentiment as buyers attempt to push Bitcoin above $69,000\r\n</li><li>Buyers are attempting to propel several major altcoins above their over… [+8829 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Helene Braun, Krisztian Sandor",
-        "title": "Bitcoin rises to $69,000, stocks reverse big early losses, as crude oil sinks back below $100",
-        "description": "WTI crude oil, which soared nearly 30% to $120 per barrel overnight, has pulled back to $95, easing pressure on risk assets.",
-        "url": "https://www.coindesk.com/markets/2026/03/09/bitcoin-rises-to-usd69-000-stocks-reverse-big-early-losses-as-crude-oil-sinks-back-below-usd100",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/3ac88042e38f03c85b8fd0117c230c2b8673d5ad-1920x1080.jpg?auto=format",
-        "publishedAt": "2026-03-09T16:02:15Z",
-        "content": "Crypto assets traded higher during the U.S. session on Monday, rebounding from sharp overnight losses that had brought bitcoin BTC\r\n$69,030.27 down to nearly $65,000.\r\nBitcoin was trading just shy of… [+1861 chars]"
       }
     ]
   }
