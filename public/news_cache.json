@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-11T23:18:22.435Z",
+  "timestamp": "2026-03-12T01:11:46.015Z",
   "data": {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Worth Nearly $12 Million Moved By Bhutan In Fresh On-Chain Activity",
+        "description": "Proceeds from Bitcoin sales have paid for healthcare, environmental programs, and government worker salaries in Bhutan — a detail that puts the kingdom’s latest crypto move in sharper focus. Related Reading: WAR Token Explodes 100%, Then Crashes 20% In Sudden…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-worth-nearly-12-million-moved-by-bhutan-in-fresh-on-chain-activity/",
+        "urlToImage": null,
+        "publishedAt": "2026-03-11T01:00:17Z",
+        "content": "Proceeds from Bitcoin sales have paid for healthcare, environmental programs, and government worker salaries in Bhutan a detail that puts the kingdom’s latest crypto move in sharper focus.\r\nOn Monday… [+2740 chars]"
+      },
       {
         "source": {
           "id": null,
