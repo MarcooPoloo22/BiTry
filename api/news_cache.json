@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-13T14:37:24.652Z",
+  "timestamp": "2026-03-13T15:35:27.209Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Has Bitcoin Price Bottomed Yet? Analyst Says We’re Not There Yet",
+        "description": "Crypto analyst Leshka has explained why it is unlikely that the Bitcoin price has bottomed even as it continues to attempt a recovery above $70,000. His analysis also aligns with predictions from analysts such as Doctor Profit, who predict that BTC could stil…",
+        "url": "http://www.newsbtc.com/news/bitcoin/has-bitcoin-price-bottomed-yet/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Pixabay-9.jpg?fit=1280%2C853",
+        "publishedAt": "2026-03-12T15:00:45Z",
+        "content": "Crypto analyst Leshka has explained why it is unlikely that the Bitcoin price has bottomed even as it continues to attempt a recovery above $70,000. His analysis also aligns with predictions from ana… [+2454 chars]"
+      },
       {
         "source": {
           "id": null,
