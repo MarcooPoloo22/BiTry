@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-14T09:25:18.068Z",
+  "timestamp": "2026-03-14T10:20:19.137Z",
   "data": {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin 'passing geopolitical stress test' as BTC price spikes above $72K",
+        "description": "Bitcoin price analysis saw conditions slowly \"building\" to support a breakout as BTC emerged as the strongest macro performer since the Iran conflict began.",
+        "url": "https://cointelegraph.com/markets/bitcoin-passing-geopolitical-stress-test-btc-price-spikes-above-72k",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b6e86-4ef5-79b0-8df3-8376542a5458.jpg",
+        "publishedAt": "2026-03-13T09:58:54Z",
+        "content": "Bitcoin (BTC) hit eight-day highs into Fridays Wall Street open as markets awaited key US inflation cues.\r\nKey points:\r\n<ul><li>Bitcoin shows resilience despite macro market uncertainty with another … [+3586 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Bitcoin holds above $71,000, defying rising dollar, oil and U.S. bond yields",
+        "description": "Stronger dollar, rising Treasury yields, and tech equities treading water contrast with bitcoin’s resilience amid geopolitical tensions.",
+        "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-holds-above-usd71-000-defying-rising-dollar-oil-and-u-s-bond-yields",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5c3dbb59812805bd08833ffe02ee76e11cc7f1ba-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-13T09:32:45Z",
+        "content": "Bitcoin BTC\r\n$72,301.23 rose above $71,500 on Friday, outperforming U.S. equities even as the dollar strengthened and oil prices remained elevated as the war with Iran was set to enter its third week… [+1736 chars]"
+      },
       {
         "source": {
           "id": null,
