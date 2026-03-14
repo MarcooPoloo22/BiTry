@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-14T16:21:07.432Z",
+  "timestamp": "2026-03-14T17:19:32.772Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 27,
     "articles": [
       {
         "source": {
@@ -355,32 +355,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Ethereum-Price-Sinks.jpg?fit=1024%2C572",
         "publishedAt": "2026-03-12T03:18:01Z",
         "content": "Ethereum price started a recovery wave above the $2,020 zone. ETH is now struggling to clear $2,080 and remains at risk of another decline in the near term.\r\n<ul><li>Ethereum started a recovery wave … [+2161 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Rally Fades, Market Braces for Possible Downside",
-        "description": "Bitcoin price failed to extend its recovery wave above the $70,500 zone. BTC is now consolidating and might decline again below $68,500. Bitcoin started a decent recovery wave above the $68,500 zone. The price is trading above $68,650 and the 100 hourly simpl…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-rally-fades-70k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Bitcoin-Price-Breakdown.jpg",
-        "publishedAt": "2026-03-12T03:07:27Z",
-        "content": "Bitcoin price failed to extend its recovery wave above the $70,500 zone. BTC is now consolidating and might decline again below $68,500.\r\n<ul><li>Bitcoin started a decent recovery wave above the $68,… [+2235 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Crypto Thieves Pivot To Phishing As Protocol Hacks Decline In February",
-        "description": "Bybit blocked more than $300 million in unauthorized withdrawals during the final quarter of last year — a figure that puts February’s total crypto theft losses in sharp relief. Related Reading: Bitcoin Crosses 20 Million Coins Mined — And Only 1 In 20 Remain…",
-        "url": "http://www.newsbtc.com/news/crypto-thieves-pivot-to-phishing-as-protocol-hacks-decline-in-february/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/a_9e51fd.jpg?fit=1600%2C1008",
-        "publishedAt": "2026-03-12T03:00:02Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
       }
     ]
   }
