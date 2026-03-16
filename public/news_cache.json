@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-16T21:31:00.829Z",
+  "timestamp": "2026-03-16T22:24:40.042Z",
   "data": {
     "status": "ok",
-    "totalResults": 39,
+    "totalResults": 40,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Vince Quill",
+        "title": "CLARITY Act risks handing crypto to centralized players: Gnosis exec",
+        "description": "The CLARITY bill, as it is currently written, undermines the core ethos and value proposition of permissionless finance, according to one of the Gnosis founders.",
+        "url": "https://cointelegraph.com/news/clarity-act-hand-crypto-centralized-player",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cf34e-0c0f-7093-86d9-9c69cc5d0b5f.jpg",
+        "publishedAt": "2026-03-15T21:32:48Z",
+        "content": "The regulatory provisions outlined in the US Digital Asset Market Structure Clarity Act, otherwise known as the CLARITY Act, threaten to give large financial institutions control over crypto, accordi… [+2821 chars]"
+      },
       {
         "source": {
           "id": null,
