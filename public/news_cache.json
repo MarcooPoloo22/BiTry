@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-16T15:58:01.358Z",
+  "timestamp": "2026-03-16T16:59:44.204Z",
   "data": {
     "status": "ok",
     "totalResults": 39,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Coinbase Premium Turns Positive After 10 Weeks – Is US Demand Finally Returning?",
+        "description": "Bitcoin’s recent price action may be showing its first signs of relief as a closely watched indicator tied to US demand has just changed direction. The Coinbase Premium Gap has moved back into positive territory following nearly 10 weeks of persistent negativ…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-coinbase-premium-turns-positive-after-10-weeks-is-us-demand-finally-returning/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/a_b39b94.jpg?fit=4952%2C3327",
+        "publishedAt": "2026-03-15T16:00:56Z",
+        "content": "Bitcoins recent price action may be showing its first signs of relief as a closely watched indicator tied to US demand has just changed direction. The Coinbase Premium Gap has moved back into positiv… [+2879 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -498,19 +511,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Solana-SOL-Upside-Awakens.jpg?fit=1408%2C768",
         "publishedAt": "2026-03-13T05:18:57Z",
         "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Jake Simmons",
-        "title": "Weiss Crypto Flags 3 Key Risks For Hyperliquid And HYPE",
-        "description": "Weiss Crypto is making a two-sided case on Hyperliquid’s HYPE token: bullish on the protocol’s fee-driven tokenomics, but clear that investors should not mistake momentum for the absence of risk. In a series of posts over the past days, the research outlet ar…",
-        "url": "http://www.newsbtc.com/news/weiss-crypto-3-key-risks-hyperliquid-hype/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-11_58_28-AM.png?fit=1222%2C814",
-        "publishedAt": "2026-03-13T05:00:19Z",
-        "content": "Weiss Crypto is making a two-sided case on Hyperliquids HYPE token: bullish on the protocols fee-driven tokenomics, but clear that investors should not mistake momentum for the absence of risk. In a … [+3706 chars]"
       }
     ]
   }
