@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-16T14:16:27.115Z",
+  "timestamp": "2026-03-16T15:58:01.358Z",
   "data": {
     "status": "ok",
     "totalResults": 39,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price teases key support reclaims with weekly close above $70K",
+        "description": "Bitcoin attempts to reclaim its 200-week moving average trend line and old 2021 all-time high as it eyes a weekly close above $70,000.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-teases-key-support-reclaims-weekly-close-above-70k",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019caf67-9abc-7465-a784-080cd4686ef4.jpg",
+        "publishedAt": "2026-03-15T15:12:03Z",
+        "content": "Bitcoin (BTC) inched higher on Sunday as bulls sought to seal a weekly close above $70,000.\r\nKey points:\r\n<ul><li>Bitcoin eyes its highest daily close in over a week with a fresh weekend push above $… [+3117 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -498,19 +511,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-11_58_28-AM.png?fit=1222%2C814",
         "publishedAt": "2026-03-13T05:00:19Z",
         "content": "Weiss Crypto is making a two-sided case on Hyperliquids HYPE token: bullish on the protocols fee-driven tokenomics, but clear that investors should not mistake momentum for the absence of risk. In a … [+3706 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Brayden Lindrea",
-        "title": "Dems say they will oversee reported DOJ probe into Binance",
-        "description": "Senators Chris Van Hollen, Elizabeth Warren and Ruben Gallego have vowed to ensure that the Justice Department “conducts a serious investigation into Binance.”",
-        "url": "https://cointelegraph.com/news/democrats-oversee-doj-probe-binance",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019ce573-e2da-74c2-a49a-b618e2547c02.jpg",
-        "publishedAt": "2026-03-13T04:39:25Z",
-        "content": "A group of Democratic senators say they will oversee a reported Justice Department investigation into possible Iran-related sanctions violations on the crypto exchange Binance.\r\nSenators Chris Van Ho… [+2086 chars]"
       }
     ]
   }
