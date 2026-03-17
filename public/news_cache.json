@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-17T14:19:49.578Z",
+  "timestamp": "2026-03-17T15:57:03.126Z",
   "data": {
     "status": "ok",
-    "totalResults": 41,
+    "totalResults": 42,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Logan Hitchcock",
+        "title": "Ethereum Price Hits 6-Week High as Tom Lee's BitMine Reveals Latest ETH Buy",
+        "description": "Publicly traded Ethereum treasury firm BitMine Immersion Technologies added more ETH amid its climb to $2,300 for the first time in six weeks.",
+        "url": "https://decrypt.co/361236/ethereum-price-6-week-high-tom-lee-bitmine-eth-buy",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-gID_7.jpg",
+        "publishedAt": "2026-03-16T15:17:43Z",
+        "content": "In brief\r\n<ul><li>Ethereum treasury firm BitMine Immersion Technologies added another $138 million worth of ETH last week.</li><li>The firm's purchase comes as BitMine Chairman Tom Lee thinks the cry… [+3175 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "Bitcoin And US Election Cycles: An Age-Long Romance That Says $400,000 Is Possible",
+        "description": "Every few years, a chart pattern resurfaces in the Bitcoin market that commands serious attention because it has repeated itself with near-mechanical consistency across every major US midterm election cycle since Bitcoin first started trading.  Bitcoin’s pric…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-us-election-cycles-400000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-27-2026-12_56_16-PM.png?fit=1222%2C814",
+        "publishedAt": "2026-03-16T14:30:18Z",
+        "content": "Every few years, a chart pattern resurfaces in the Bitcoin market that commands serious attention because it has repeated itself with near-mechanical consistency across every major US midterm electio… [+2871 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -524,19 +550,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/image_I70Uqjus_1770394322826_raw.jpg?fit=1024%2C1024",
         "publishedAt": "2026-03-14T08:00:23Z",
         "content": "Bitcoin (BTC) made a notable recovery on Friday, witnessing a 4% surge that led the leading cryptocurrency to retest the critical $74,000 resistance level, which has remained unbroken for the past mo… [+2735 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Brayden Lindrea",
-        "title": "BlackRock says 'exotic' ETF structures not part of its crypto strategy",
-        "description": "BlackRock’s digital assets head Robert Mitchnick said it won’t experiment with “exotic” crypto ETF structures and instead take a “discerning approach” to its crypto strategy.",
-        "url": "https://cointelegraph.com/news/blackrock-wont-consider-exotic-crypto-etfs",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cea4b-c96a-7d1e-bda1-3ca1856602ec.jpg",
-        "publishedAt": "2026-03-14T04:52:48Z",
-        "content": "BlackRocks digital assets head, Robert Mitchnick,said the $14 trillion asset manager wont get too creative with the types of crypto exchange-traded funds it offers, even as it launched a staking-focu… [+2426 chars]"
       }
     ]
   }
