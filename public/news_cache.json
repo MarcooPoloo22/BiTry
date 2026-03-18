@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-17T23:24:37.196Z",
+  "timestamp": "2026-03-18T01:22:57.156Z",
   "data": {
     "status": "ok",
     "totalResults": 38,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sebastian Villafuerte",
+        "title": "XRP Supply Tightens On Binance As Scarcity Index Signals Limited Liquidity",
+        "description": "XRP has reclaimed the $1.40 level as the broader cryptocurrency market begins to show renewed bullish behavior after a period of volatility and consolidation. The recent move higher suggests that buyers are gradually regaining momentum, with traders closely m…",
+        "url": "http://www.newsbtc.com/xrp-news/xrp-supply-tightens-on-binance-as-scarcity-index-signals-limited-liquidity/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Untitled-design-49.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-03-17T01:00:41Z",
+        "content": "XRP has reclaimed the $1.40 level as the broader cryptocurrency market begins to show renewed bullish behavior after a period of volatility and consolidation. The recent move higher suggests that buy… [+4345 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Hits 40-Day High As US-Iran Tensions Trigger $113M In Short Liquidations",
+        "description": "A potential US military strike on Iran’s main oil export terminal helped push Bitcoin to its highest price in over a month Monday, as traders poured money into crypto while pulling back from stocks. Related Reading: WLFI Holders Face New 6-Month Lockup Rule T…",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-hits-40-day-high-as-us-iran-tensions-trigger-113m-in-short-liquidations/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/a_394df0.jpg?fit=3000%2C2000",
+        "publishedAt": "2026-03-17T00:00:49Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,32 +498,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/2026-03-14-09.52.12.jpg?fit=1280%2C853",
         "publishedAt": "2026-03-15T02:00:17Z",
         "content": "The Bitcoin price has not particularly impressed over the past two weeks, but it appears to have steadied its movement within a clear consolidation range. In its latest attempt to shine, the premier … [+2435 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Crash Far From Over? Analyst Shares How Painful Bear Markets Can Get",
-        "description": "Bitcoin’s extended pullback from its all-time high has left traders in uncertainty, and many investors are unsure whether the worst of the decline has already passed.  One analyst known as Jelle on X is of the notion that the conversation may be missing an un…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-crash-far-from-over-analyst-shares-how-painful-bear-markets-can-get/",
-        "urlToImage": null,
-        "publishedAt": "2026-03-15T01:00:07Z",
-        "content": "Bitcoins extended pullback from its all-time high has left traders in uncertainty, and many investors are unsure whether the worst of the decline has already passed. \r\nOne analyst known as Jelle on X… [+3127 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Godspower Owie",
-        "title": "Bitcoin Probes $73,000 Liquidity Pocket: Is The Next Leg Toward $80,000 Loading?",
-        "description": "Bitcoin recently pushed into a key liquidity pocket near the $73,000 level, briefly tapping overhead liquidity before encountering a sharp reaction to the downside. With structure still holding and buyers stepping in on dips, attention is now shifting to whet…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-probes-liquidity-pocket/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Pixabay-23.jpg?fit=960%2C501",
-        "publishedAt": "2026-03-15T00:00:11Z",
-        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
       }
     ]
   }
