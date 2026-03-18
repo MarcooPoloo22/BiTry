@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-18T01:22:57.156Z",
+  "timestamp": "2026-03-18T04:16:25.018Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Upside Run Intensifies — $2,400 Break Incoming?",
+        "description": "Ethereum price started a major increase above the $2,250 zone. ETH is now showing positive signs and might aim for more gains above $2,400. Ethereum started a steady upward move above the $2,250 zone. The price is trading above $2,300 and the 100-hourly Simpl…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-upside-run-intensifies-2400/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Ethereum-Price-Rallies.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-03-17T03:18:27Z",
+        "content": "Ethereum price started a major increase above the $2,250 zone. ETH is now showing positive signs and might aim for more gains above $2,400.\r\n<ul><li>Ethereum started a steady upward move above the $2… [+2122 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Rally Roars On — $76K Level Falls to Bulls",
+        "description": "Bitcoin price started a strong increase above the $75,000 zone. BTC is now consolidating and might aim for more gains if it clears $76,000. Bitcoin started a decent upward move above the $74,000 zone. The price is trading above $74,200 and the 100 hourly simp…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-rally-roars-on-76k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-Price-Rally-Roars-On-—-76K-Level-Falls-to-Bulls.jpg",
+        "publishedAt": "2026-03-17T02:42:10Z",
+        "content": "Bitcoin price started a strong increase above the $75,000 zone. BTC is now consolidating and might aim for more gains if it clears $76,000.\r\n<ul><li>Bitcoin started a decent upward move above the $74… [+2162 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,45 +485,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c8f05-6acb-7bf5-8a1a-891005dfdebb.jpg",
         "publishedAt": "2026-03-15T10:01:51Z",
         "content": "Regulatory uncertainty around stablecoins could place traditional banks at a greater disadvantage than crypto companies, according to Colin Butler, executive vice president of capital markets at Mega… [+3594 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Vince Quill",
-        "title": "Altseason is dead, expect shorter cycles and ‘violent’ rotations: Crypto exec",
-        "description": "The traditional dynamics of the altcoin market have changed due to several factors, according to market analysts and crypto industry executives.",
-        "url": "https://cointelegraph.com/news/altseaon-dead-short-cycles-violent-rotation",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019af959-27ff-740a-a082-e65816524b1a",
-        "publishedAt": "2026-03-15T09:00:34Z",
-        "content": "Traditional altcoin cycles, which featured broad market rallies called altseason, are now a relic of the past as new crypto market dynamics set in, according to Andrei Grachev, Managing Partner of DW… [+2325 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Godspower Owie",
-        "title": "Ethereum Price Coils Near Key Resistance: A Breakout Could Be Explosive",
-        "description": "Ethereum is tightening below a critical $2,149 resistance level, building pressure as bulls and bears jockey for control. A decisive breakout above this zone could trigger strong momentum, potentially sending the price toward the next major resistance near $2…",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-coils-near-resistance/",
-        "urlToImage": null,
-        "publishedAt": "2026-03-15T03:00:47Z",
-        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "On-Chain Data Shows Why Bitcoin’s Next Stop Could Be At $82K",
-        "description": "The Bitcoin price has not particularly impressed over the past two weeks, but it appears to have steadied its movement within a clear consolidation range. In its latest attempt to shine, the premier cryptocurrency faced fierce resistance around $74,000 on Fri…",
-        "url": "http://www.newsbtc.com/news/bitcoin/why-bitcoin-next-stop-could-be-at-82k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/2026-03-14-09.52.12.jpg?fit=1280%2C853",
-        "publishedAt": "2026-03-15T02:00:17Z",
-        "content": "The Bitcoin price has not particularly impressed over the past two weeks, but it appears to have steadied its movement within a clear consolidation range. In its latest attempt to shine, the premier … [+2435 chars]"
       }
     ]
   }
