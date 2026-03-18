@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-18T05:57:50.884Z",
+  "timestamp": "2026-03-18T06:59:42.298Z",
   "data": {
     "status": "ok",
     "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Jesse Coghlan",
+        "title": "Ex-LA cop gets 5 years prison for helping crypto ‘Godfather’ extort victims",
+        "description": "Former LA Sheriff’s Department deputy Michael Coberg will spend over 5 years in prison for his role on a roster of corrupt cops that helped jailed crypto extorter and self-titled “Godfather” Adam Iza.",
+        "url": "https://cointelegraph.com/news/ex-la-cop-5-years-prison-helping-crypto-godfather-extortion",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cf9b8-0aaf-7147-b57c-60e1c2e5dc86.jpg",
+        "publishedAt": "2026-03-17T06:06:32Z",
+        "content": "A former Los Angeles County Sheriffs Department deputy has been sentenced to more than five years in prison for helping Adam Iza, a jailed crypto founder dubbed The Godfather, extort victims.\r\nA Cali… [+2059 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,19 +472,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cf1d6-359a-7018-8e09-be8297796504.jpg",
         "publishedAt": "2026-03-15T14:16:22Z",
         "content": "Key takeaways\r\n<ul><li>The 2026 Iran conflict created a major geopolitical shock that triggered volatility across global markets. It pushed investors to reassess traditional safe-haven assets such as… [+10293 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Is Bitcoin Price Bottom In? MVRV Z-Score Says ‘Not Yet’",
-        "description": "After another failed attempt at breaking the $74,000 resistance, the Bitcoin price continues to hover around the psychological $70,000 level, with very little — if any — momentum to boast of. Some analysts expect this price level to serve as a rebound point f…",
-        "url": "http://www.newsbtc.com/news/bitcoin/is-bitcoin-price-bottom-in-mvrv-z-score-says-not-yet/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/07/iStock-1314151934.jpg?fit=1248%2C840",
-        "publishedAt": "2026-03-15T14:00:58Z",
-        "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
       }
     ]
   }
