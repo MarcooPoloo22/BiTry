@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-19T21:27:39.162Z",
+  "timestamp": "2026-03-19T22:19:38.026Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
       {
         "source": {
@@ -407,19 +407,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cfca3-4612-7a79-93c3-a89a614f6269.jpg",
         "publishedAt": "2026-03-17T20:27:57Z",
         "content": "Bitcoin (BTC) is closing in on its average entry price for US spot BTC exchange-traded fund (ETF) investors at $79,900. The narrowing gap between Bitcoins market price and the ETF holders cost basis … [+3680 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Just Flashed The Most Powerful Fractal In The Market, Here’s What To Expect",
-        "description": "Crypto analyst Merlijn revealed that Bitcoin has flashed the most powerful fractal in the markets right now. This comes amid BTC’s rally to a one-month high of $75,000 despite the escalating tensions between the U.S. and Iran.  Bitcoin Flashes Most Powerful F…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-most-powerful-fractal/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Pixabay-7.jpg?fit=1280%2C905",
-        "publishedAt": "2026-03-17T19:00:48Z",
-        "content": "Crypto analyst Merlijn revealed that Bitcoin has flashed the most powerful fractal in the markets right now. This comes amid BTCs rally to a one-month high of $75,000 despite the escalating tensions … [+2703 chars]"
       }
     ]
   }
