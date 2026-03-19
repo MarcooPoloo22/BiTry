@@ -1,10 +1,88 @@
 {
   "version": 3,
-  "timestamp": "2026-03-19T14:03:44.455Z",
+  "timestamp": "2026-03-19T15:44:37.854Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Stephen Graves",
+        "title": "'Crypto Castle': YouTube Comedy Takes You Back to When Bitcoin Was Just $250",
+        "description": "“The Crypto Castle” takes a look at the early days of Bitcoin—and the \"sad evolution\" it's undergone since then.",
+        "url": "https://decrypt.co/360897/new-youtube-comedy-set-bitcoin-just-250",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/crypto-castle-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-03-18T15:31:02Z",
+        "content": "In brief\r\n<ul><li>New YouTube series \"The Crypto Castle\" dials back the clock to 2015, when Bitcoin was just $250.</li><li>Viv Ford stars as Viv, who moves into a house full of early Bitcoin adopters… [+3087 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Will Canny",
+        "title": "Payward, parent of crypto exchange Kraken, has put its IPO plans on hold",
+        "description": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
+        "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/350e51e2451b87ad30e2ee3a500adb4910c3274e-1920x1079.jpg?auto=format",
+        "publishedAt": "2026-03-18T15:14:18Z",
+        "content": "Crypto exchange Kraken, which announced four months ago that it planned to go public, has put its plan on hold, according to two people with knowledge of the matter. \r\nThe company is still considerin… [+2992 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "André Beganski",
+        "title": "Bitcoin, Ethereum Slip on Inflation Surprise as Oil Prices Jump",
+        "description": "Bitcoin fell alongside U.S. stocks after the world's largest gas field came under attack amid hotter-than-expected inflation data.",
+        "url": "https://decrypt.co/361556/bitcoin-ethereum-slip-inflation-surprise-oil-prices-jump",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/bitcoin-oil-decrypt-style-1-gID_7.jpg",
+        "publishedAt": "2026-03-18T15:05:40Z",
+        "content": "In brief\r\n<ul><li>Bitcoin dove from $74,000 after a hotter-than-expected inflation reading.</li><li>Oil prices surged on reports that the worlds largest gas field was struck in Iran.</li><li>Fed Chai… [+2891 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Bitcoin hash rate is tumbling as Iran war lifts energy prices",
+        "description": "A falling hash rate and the resultant pressure on miners could signal another potential capitulation phase, which could push prices down further",
+        "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-hash-rate-is-tumbling-as-iran-war-lifts-energy-prices",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2f8f0af7ccc034c06cbbfaf318c734fc0eb012fe-1069x719.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-18T14:53:08Z",
+        "content": "Bitcoin's hash rate is tumbling as the Middle East conflict drives up energy prices, adding pressure to the mining sector and broader market.\r\nThe drop in hash rate is likely tied to geopolitical ten… [+1113 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Aaron Wood",
+        "title": "Crypto industry ties were a liability in Illinois primary",
+        "description": "Crypto PACs supported Representative Raja Krishnamoorthi in a Democratic senate primary in Illinois, running millions of dollars of ads against his opponent.",
+        "url": "https://cointelegraph.com/features/crypto-industry-ties-liability-illinois-primary",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d014a-7b08-7e98-ba82-25ff860c553a.jpg",
+        "publishedAt": "2026-03-18T14:20:36Z",
+        "content": "Not all voters are sold on crypto, and in Illinois, the crypto industry lobby failed to secure a victory, despite spending millions. \r\nOn Tuesday, Illinois Lieutenant Governor Juliana Stratton won a … [+5875 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Canadian Regulator Revokes Registrations of 23 Crypto Firms",
+        "description": "Canada's FINTRAC pulled the licenses of multiple money services businesses, in a \"significantly increased pace of action.\"",
+        "url": "https://decrypt.co/361546/canadian-regulator-revokes-registration-of-23-crypto-firms",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+        "publishedAt": "2026-03-18T14:07:17Z",
+        "content": "In brief\r\n<ul><li>Canadian financial intelligence unit FINTRAC revoked the registrations of 23 money services businesses offering crypto-related services Tuesday.</li><li>Canadas Finance Minister sai… [+2187 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,97 +472,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/08/Screenshot_386.jpg?fit=1309%2C737",
         "publishedAt": "2026-03-17T09:00:54Z",
         "content": "Bitcoin (BTC) has briefly surpassed the critical resistance level of $74,000, generating renewed optimism among investors as key market indicators suggest the potential for a bottom and further recov… [+2725 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Jesse Coghlan",
-        "title": "Ex-LA cop gets 5 years prison for helping crypto ‘Godfather’ extort victims",
-        "description": "Former LA Sheriff’s Department deputy Michael Coberg will spend over 5 years in prison for his role on a roster of corrupt cops that helped jailed crypto extorter and self-titled “Godfather” Adam Iza.",
-        "url": "https://cointelegraph.com/news/ex-la-cop-5-years-prison-helping-crypto-godfather-extortion",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cf9b8-0aaf-7147-b57c-60e1c2e5dc86.jpg",
-        "publishedAt": "2026-03-17T06:06:32Z",
-        "content": "A former Los Angeles County Sheriffs Department deputy has been sentenced to more than five years in prison for helping Adam Iza, a jailed crypto founder dubbed The Godfather, extort victims.\r\nA Cali… [+2059 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Solana (SOL) Momentum Explodes as $100 Barrier Comes Into Focus",
-        "description": "Solana started a fresh increase above the $92 zone. SOL price is now consolidating near $95 and might aim for more gains above the $98 zone. SOL price started a fresh upward move above the $92 and $95 levels against the US Dollar. The price is now trading abo…",
-        "url": "http://www.newsbtc.com/analysis/solana-sol-momentum-explodes-100/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Solana-SOL-Momentum-Explodes-as-100-Barrier-Comes-Into-Focus.jpg?fit=1408%2C768",
-        "publishedAt": "2026-03-17T05:08:30Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price Upside Run Intensifies — $2,400 Break Incoming?",
-        "description": "Ethereum price started a major increase above the $2,250 zone. ETH is now showing positive signs and might aim for more gains above $2,400. Ethereum started a steady upward move above the $2,250 zone. The price is trading above $2,300 and the 100-hourly Simpl…",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-upside-run-intensifies-2400/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Ethereum-Price-Rallies.jpg?fit=1792%2C1024",
-        "publishedAt": "2026-03-17T03:18:27Z",
-        "content": "Ethereum price started a major increase above the $2,250 zone. ETH is now showing positive signs and might aim for more gains above $2,400.\r\n<ul><li>Ethereum started a steady upward move above the $2… [+2122 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Rally Roars On — $76K Level Falls to Bulls",
-        "description": "Bitcoin price started a strong increase above the $75,000 zone. BTC is now consolidating and might aim for more gains if it clears $76,000. Bitcoin started a decent upward move above the $74,000 zone. The price is trading above $74,200 and the 100 hourly simp…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-rally-roars-on-76k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-Price-Rally-Roars-On-—-76K-Level-Falls-to-Bulls.jpg",
-        "publishedAt": "2026-03-17T02:42:10Z",
-        "content": "Bitcoin price started a strong increase above the $75,000 zone. BTC is now consolidating and might aim for more gains if it clears $76,000.\r\n<ul><li>Bitcoin started a decent upward move above the $74… [+2162 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sebastian Villafuerte",
-        "title": "XRP Supply Tightens On Binance As Scarcity Index Signals Limited Liquidity",
-        "description": "XRP has reclaimed the $1.40 level as the broader cryptocurrency market begins to show renewed bullish behavior after a period of volatility and consolidation. The recent move higher suggests that buyers are gradually regaining momentum, with traders closely m…",
-        "url": "http://www.newsbtc.com/xrp-news/xrp-supply-tightens-on-binance-as-scarcity-index-signals-limited-liquidity/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Untitled-design-49.jpg?fit=1792%2C1024",
-        "publishedAt": "2026-03-17T01:00:41Z",
-        "content": "XRP has reclaimed the $1.40 level as the broader cryptocurrency market begins to show renewed bullish behavior after a period of volatility and consolidation. The recent move higher suggests that buy… [+4345 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Bitcoin Hits 40-Day High As US-Iran Tensions Trigger $113M In Short Liquidations",
-        "description": "A potential US military strike on Iran’s main oil export terminal helped push Bitcoin to its highest price in over a month Monday, as traders poured money into crypto while pulling back from stocks. Related Reading: WLFI Holders Face New 6-Month Lockup Rule T…",
-        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-hits-40-day-high-as-us-iran-tensions-trigger-113m-in-short-liquidations/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/a_394df0.jpg?fit=3000%2C2000",
-        "publishedAt": "2026-03-17T00:00:49Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 3/16: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE",
-        "description": "Bitcoin opened the week by rallying straight into a key resistance level. If it holds, BTC and altcoins could embark on the next leg of the crypto bull market.",
-        "url": "https://cointelegraph.com/markets/price-predictions-3-16-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cf78b-f025-7e1c-a03c-d8ac86f61ab5.jpg",
-        "publishedAt": "2026-03-16T22:00:00Z",
-        "content": "Key points:\r\n<ul><li>Sellers will attempt to halt the recovery at $74,508, but if buyers bulldoze their way through, the rally may reach $84,000. \r\n</li><li>Select major altcoins have risen above the… [+8607 chars]"
       }
     ]
   }
