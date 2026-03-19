@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-19T19:41:35.737Z",
+  "timestamp": "2026-03-19T20:28:39.563Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
       {
         "source": {
@@ -446,19 +446,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b29fa-ffe9-71cc-a445-3eb98335bc5e.jpg",
         "publishedAt": "2026-03-17T15:35:35Z",
         "content": "Strategy paused its Bitcoin (BTC) accumulation via STRC preferred stock after failing to raise fresh capital since Friday, marking a notable shift after two aggressive weeks of buying.\r\nStrategys STR… [+3018 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor",
-        "title": "Crypto trading firm GSR expands token advisory with $57 million in acquisitions",
-        "description": "The firm, best known for being one of the oldest crypto market makers, acquired Autonomous and Architech to combine token launch services, trading and treasury management tools.",
-        "url": "https://www.coindesk.com/business/2026/03/17/crypto-trading-firm-gsr-expands-token-advisory-with-usd57-million-in-acquisitions",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-17T14:15:09Z",
-        "content": "Crypto trading firm GSR said Tuesday it is acquiring Autonomous and Architech for $57 million, expanding into token advisory and capital markets services.\r\nAutonomous will keep its brand and focus on… [+926 chars]"
       }
     ]
   }
