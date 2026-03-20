@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-20T21:23:11.999Z",
+  "timestamp": "2026-03-20T22:19:43.864Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Sebastian Sinclair",
+        "title": "Gemini Shares Rise After Hours as Investors Back Shift Beyond Crypto Trading",
+        "description": "Investors focused on a shift toward steadier revenue streams and a push into prediction markets, even as trading volumes declined.",
+        "url": "https://decrypt.co/361849/gemini-shares-rise-after-hours-investors-back-shift-beyond-crypto",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/gemini-decrypt-style-01-gID_7.png",
+        "publishedAt": "2026-03-19T21:57:38Z",
+        "content": "In brief\r\n<ul><li>Shares rose more than 7% after hours following results showing services revenue overtook trading for the first time amid aggressive cost cutting measures in the form of job layoffs.… [+3612 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +420,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2f8f0af7ccc034c06cbbfaf318c734fc0eb012fe-1069x719.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-03-18T14:53:08Z",
         "content": "Bitcoin's hash rate is tumbling as the Middle East conflict drives up energy prices, adding pressure to the mining sector and broader market.\r\nThe drop in hash rate is likely tied to geopolitical ten… [+1113 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Aaron Wood",
-        "title": "Crypto industry ties were a liability in Illinois primary",
-        "description": "Crypto PACs supported Representative Raja Krishnamoorthi in a Democratic senate primary in Illinois, running millions of dollars of ads against his opponent.",
-        "url": "https://cointelegraph.com/features/crypto-industry-ties-liability-illinois-primary",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d014a-7b08-7e98-ba82-25ff860c553a.jpg",
-        "publishedAt": "2026-03-18T14:20:36Z",
-        "content": "Not all voters are sold on crypto, and in Illinois, the crypto industry lobby failed to secure a victory, despite spending millions. \r\nOn Tuesday, Illinois Lieutenant Governor Juliana Stratton won a … [+5875 chars]"
       }
     ]
   }
