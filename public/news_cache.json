@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-20T22:19:43.864Z",
+  "timestamp": "2026-03-20T23:21:17.196Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Biraajmaan Tamuly",
+        "title": "Bitcoin price tussle at $70K may hint that market bottom is not in",
+        "description": "Bitcoin price may face an uphill battle to reclaim its range highs, but historical data suggests bulls have a good chance.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-tussle-at-dollar70k-may-hint-that-market-bottom-is-not-in",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c8bb6-4a21-76a1-b2ee-ee2f5b227231.jpg",
+        "publishedAt": "2026-03-19T22:31:55Z",
+        "content": "Bitcoin (BTC) dropped below $69,000 on Thursday, pulling the price back into its six-week range just days after tapping range highs above $76,000.\r\nThe pullback coincides with an increase in selling … [+3607 chars]"
+      },
       {
         "source": {
           "id": null,
