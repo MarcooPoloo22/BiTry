@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-21T03:58:05.125Z",
+  "timestamp": "2026-03-21T05:05:40.256Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "Ethereum Hits Rare MVRV Zone Linked To Past 130%+ Rallies",
+        "description": "Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup n…",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-rare-buy-zone-mvrv/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-19-2026-02_19_45-PM.png?fit=1111%2C740",
+        "publishedAt": "2026-03-20T04:00:17Z",
+        "content": "Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowne… [+2829 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,45 +407,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/068a9cfe6c20aa6677d64104024485326a2f2aa2-1920x1080.jpg?auto=format",
         "publishedAt": "2026-03-18T15:52:37Z",
         "content": "ETHEREUM COMMUNITY DEBATES FOUNDATIONS NEW MANDATE DOCUMENT: The Ethereum Foundations new mandate a sweeping document released to clarify the organizations role and principles sparked a torrent of re… [+10703 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Jesse Hamilton",
-        "title": "Former Binance CEO CZ waves off accusations on Iran, terror ties",
-        "description": "The founder of the world's largest exchange distanced himself from reports about Binance activity that reports had recently suggested aided terrorism.",
-        "url": "https://www.coindesk.com/policy/2026/03/18/former-binance-ceo-cz-waves-off-accusations-on-iran-terror-ties",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/669d5953ba94e54358c2e6bdcdf2a680c429a20a-1920x1080.jpg?auto=format",
-        "publishedAt": "2026-03-18T15:48:29Z",
-        "content": "Changpeng \"CZ Zhao embraced a chance to distance himself from recent accusations against Binance that it has been involved in handling transactions that potentially enabled terrorism financing in Ira… [+1776 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Stephen Graves",
-        "title": "'Crypto Castle': YouTube Comedy Takes You Back to When Bitcoin Was Just $250",
-        "description": "“The Crypto Castle” takes a look at the early days of Bitcoin—and the \"sad evolution\" it's undergone since then.",
-        "url": "https://decrypt.co/360897/new-youtube-comedy-set-bitcoin-just-250",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/crypto-castle-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-03-18T15:31:02Z",
-        "content": "In brief\r\n<ul><li>New YouTube series \"The Crypto Castle\" dials back the clock to 2015, when Bitcoin was just $250.</li><li>Viv Ford stars as Viv, who moves into a house full of early Bitcoin adopters… [+3087 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny",
-        "title": "Payward, parent of crypto exchange Kraken, has put its IPO plans on hold",
-        "description": "Kraken's parent company filed a draft S-1 registration statement with the SEC in November regarding the proposed initial public offering of its common stock.",
-        "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/350e51e2451b87ad30e2ee3a500adb4910c3274e-1920x1079.jpg?auto=format",
-        "publishedAt": "2026-03-18T15:14:18Z",
-        "content": "Crypto exchange Kraken, which announced four months ago that it planned to go public, has put its plan on hold, according to two people with knowledge of the matter. \r\nThe company is still considerin… [+2992 chars]"
       }
     ]
   }
