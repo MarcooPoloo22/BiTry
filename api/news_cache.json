@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-21T21:17:30.079Z",
+  "timestamp": "2026-03-21T22:15:54.126Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sebastian Villafuerte",
+        "title": "Ethereum Exchange Inflows Signal Shift: Whales Reduce Selling Pressure",
+        "description": "Ethereum is trading around the $2,150 level as volatility persists across the broader cryptocurrency market, reflecting a phase of uncertainty following recent price swings. While the asset has managed to stabilize near current levels, momentum remains fragil…",
+        "url": "http://www.newsbtc.com/ethereum-news/ethereum-exchange-inflows-signal-shift-whales-reduce-selling-pressure/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Untitled-design-2.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-03-20T22:00:35Z",
+        "content": "Ethereum is trading around the $2,150 level as volatility persists across the broader cryptocurrency market, reflecting a phase of uncertainty following recent price swings. While the asset has manag… [+4079 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,32 +485,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0457-4bcd-7310-b8a3-486dd33478b0.jpg",
         "publishedAt": "2026-03-19T06:22:43Z",
         "content": "Canada's financial intelligence unit has revoked the registrations of 50 money services businesses (MSBs) so far this year, with 47 related to crypto, and the minister of finance says it will continu… [+2013 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Sen. Lummis Predicts Crypto Market Structure Markup In April, Senate Passage By Year-End",
-        "description": "Momentum has picked up on Capitol Hill this week as lawmakers and industry leaders converged at the DC Blockchain Summit, where Senator Cynthia Lummis said she expects the long‑delayed Senate Banking Committee markup on the crypto market‑structure bill (CLARI…",
-        "url": "http://www.newsbtc.com/news/sen-lummis-predicts-crypto-market-structure-markup-in-april-senate-passage-by-year-end/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/11/Screenshot_591.jpg?fit=1302%2C742",
-        "publishedAt": "2026-03-19T04:00:24Z",
-        "content": "Ronaldo is an experienced crypto enthusiast dedicated to the nascent and ever-evolving industry. With over five years of extensive research and unwavering dedication, he has cultivated a profound int… [+3322 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Stephen Katte",
-        "title": "California court dismisses Coinbase user’s challenge to IRS summons",
-        "description": "A US district court judge has dismissed a Coinbase user's attempt to block an IRS summons for his financial information after he failed to notify the required government officials of his petition.",
-        "url": "https://cointelegraph.com/news/coinbase-user-irs-challenge-dismissed-california",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c2cf1-fb06-7f0b-b9c2-0b1c7dae6413.jpg",
-        "publishedAt": "2026-03-19T03:26:34Z",
-        "content": "A California court on Wednesday dismissed a Coinbase users attempt to block an IRS summons for his financial records, in at least the second such case in the past year to fail to reach trial. \r\nRoger… [+2968 chars]"
       }
     ]
   }
