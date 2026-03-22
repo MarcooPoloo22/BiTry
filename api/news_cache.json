@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-22T14:20:25.074Z",
+  "timestamp": "2026-03-22T15:18:31.163Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
       {
         "source": {
@@ -433,19 +433,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
         "publishedAt": "2026-03-19T11:45:25Z",
         "content": "In brief\r\n<ul><li>A Los Angeles rideshare driver has been charged with wire fraud after allegedly obtaining more than $2 million in COVID-19 business relief loans on behalf of non-existent companies.… [+2997 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "Crypto.com cuts 12% of staff as it integrates AI across the business for efficiency",
-        "description": "The cuts come as the exchange integrates AI across its business, with CEO Kris Marszalek warning slow adopters “will be left behind.”",
-        "url": "https://www.coindesk.com/business/2026/03/19/crypto-com-cuts-12-of-staff-as-it-integrates-ai-into-internal-processes",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2e0ee519ba3b48809d54ea2eb980a783f3ec03ce-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-19T11:44:37Z",
-        "content": "Singapore-based crypto exchange Crypto.com is cutting about 12% of its workforce, or roughly 180 employees, as it leans into AI-driven efficiency, joining a growing wave of firms shrinking teams whil… [+2338 chars]"
       }
     ]
   }
