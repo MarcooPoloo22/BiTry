@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-22T01:22:38.045Z",
+  "timestamp": "2026-03-22T04:11:55.725Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
       {
         "source": {
@@ -459,32 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-12-2026-09_05_55-AM.png?fit=1222%2C814",
         "publishedAt": "2026-03-19T07:30:54Z",
         "content": "The Bitcoin price broke above $75,000 earlier this week, marking the highest level for the pioneer cryptocurrency for over one month. But while this move has led to an improvement in the overall inve… [+2388 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Benson Toti",
-        "title": "Bitcoin retests $70K as veteran trader flags ‘ugly’ setup",
-        "description": "Bitcoin traded to intraday lows of $70,500 amid key macro and geopolitical-related events. Veteran trader Peter Brandt has highlighted a potential bearish retest of support. The Iran war and inflation concerns tick potential negative catalysts boxes. Bitcoin …",
-        "url": "https://coinjournal.net/news/bitcoin-retests-70k-as-veteran-trader-warns-of-ugly-flag-pattern/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png",
-        "publishedAt": "2026-03-19T06:38:05Z",
-        "content": "<ul><li>Bitcoin traded to intraday lows of $70,500 amid key macro and geopolitical-related events.</li><li>Veteran trader Peter Brandt has highlighted a potential bearish retest of support.</li><li>T… [+3102 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Stephen Katte",
-        "title": "Canada vows continued crypto crackdown after taking down 47 firms in 2026",
-        "description": "Canada's financial intelligence unit has revoked the registrations of nearly 50 crypto money services businesses this year, and the minister of finance says the crackdown is ongoing.",
-        "url": "https://cointelegraph.com/news/canada-crypto-msb-crackdown-50-registrations-revoked",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d0457-4bcd-7310-b8a3-486dd33478b0.jpg",
-        "publishedAt": "2026-03-19T06:22:43Z",
-        "content": "Canada's financial intelligence unit has revoked the registrations of 50 money services businesses (MSBs) so far this year, with 47 related to crypto, and the minister of finance says it will continu… [+2013 chars]"
       }
     ]
   }
