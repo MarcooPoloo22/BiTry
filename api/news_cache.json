@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-22T17:19:17.934Z",
+  "timestamp": "2026-03-22T18:25:21.069Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "The Bear Market Divergence That Shows What’s Really Going On With Bitcoin",
+        "description": "Crypto analyst Ardi has pointed to a bear market divergence to explain what has been going on with Bitcoin’s price for a while now. His analysis comes just as BTC continues to struggle to hold above $70,000 amid the U.S.-Iran war and rising oil prices.  Analy…",
+        "url": "http://www.newsbtc.com/news/bitcoin/whats-going-on-with-bitcoin/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Getty-Images-17.jpg?fit=612%2C428",
+        "publishedAt": "2026-03-21T17:30:56Z",
+        "content": "Crypto analyst Ardi has pointed to a bear market divergence to explain what has been going on with Bitcoins price for a while now. His analysis comes just as BTC continues to struggle to hold above $… [+2420 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,45 +407,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/670ba58fa926659cd4f56234ddfb24fc05ad118a-1920x1080.jpg?auto=format",
         "publishedAt": "2026-03-19T16:16:26Z",
         "content": "As AI agents become a bigger topic in crypto, Pranav Ramesh told CoinDesk that Nasdaq has already been using them across several sections of its business and has sharply expanded that use over roughl… [+4340 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Akash Girimath",
-        "title": "Bitcoin Dips Under $70K as Stocks Tumble on Hawkish Fed Hold—What’s Next?",
-        "description": "Analysts remain cautiously optimistic after the Fed’s hawkish stance, expecting a low volatility regime ahead of the quarterly options expiry.",
-        "url": "https://decrypt.co/361683/bitcoin-dips-under-70k-as-stocks-tumble-on-hawkish-fed-hold-whats-next",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
-        "publishedAt": "2026-03-19T12:12:29Z",
-        "content": "In brief\r\n<ul><li>Bitcoin fell over 4% on the day to below $70,000 after the Fed held rates steady at 3.50%-3.75%.</li><li>Two whales sold 5,650 BTC on Wednesday, adding to macro-driven sell pressure… [+2336 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Bitcoin whales move millions as Iran war sends oil surging",
-        "description": "Ancient Bitcoin whales and long-term holders are selling their sats as the US-Israeli war with Iran extends to key energy infrastructure, leading to sharp spikes in oil and gas prices.",
-        "url": "https://cointelegraph.com/news/bitcoin-whales-sell-iran-war-oil-spike",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-06/019759e2-2b71-79a7-9e1c-55c10296420e",
-        "publishedAt": "2026-03-19T12:04:52Z",
-        "content": "Ancient Bitcoin holders moved tens of millions of dollars to exchanges as Bitcoin fell and energy prices jumped after attacks on Gulf oil and gas infrastructure deepened the conflict involving Iran, … [+2814 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "South Korea opposition party pushes to scrap planned 22% crypto tax",
-        "description": "The ruling Democratic Party responded, saying it has not formed a consensus on abolishing the tax but will review the new proposal.",
-        "url": "https://cointelegraph.com/news/south-korea-opposition-proposes-scrapping-crypto-tax-2027",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bb0bc-fde2-70d9-a09e-99ff64286f67.jpg",
-        "publishedAt": "2026-03-19T12:00:08Z",
-        "content": "South Koreas main opposition party has proposed scrapping a planned crypto tax ahead of its 2027 rollout, citing fairness, double taxation and enforcement concerns.\r\nAccording to a Thursday report by… [+2260 chars]"
       }
     ]
   }
