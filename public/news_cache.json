@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-24T16:59:18.414Z",
+  "timestamp": "2026-03-24T17:57:37.921Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Traders say Bitcoin still due for ‘next leg lower’ targeting $46K BTC price",
+        "description": "BTC price action looked weaker after Sunday's weekly close below the 200-week MA, with Bitcoin market participants bracing for lower levels.",
+        "url": "https://cointelegraph.com/markets/traders-bitcoin-still-due-next-leg-lower-targeting-46k-btc-price",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d1a17-f0d3-7621-ad4b-f4523e7a4e21.jpg",
+        "publishedAt": "2026-03-23T17:20:09Z",
+        "content": "Bitcoins (BTC) failure to close the week above the 200-week exponential moving average (EMA) on Sunday put it at risk of another downward leg over the coming weeks or months.\r\nKey takeaways:\r\n<ul><li… [+3417 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +368,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bc1ad-31b2-707e-92d8-5b63a16f1777.jpg",
         "publishedAt": "2026-03-20T15:53:33Z",
         "content": "Bitcoin (BTC) has outperformed US equities and gold since the US and Israels attack on Iran on Feb. 28, underscoring its strength amid one of the years biggest geopolitical shocks.\r\nHowever, BTCs ral… [+3706 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Bitcoin Price Breaks Legendary 14-Year Support, What This Means For The Market",
-        "description": "The Bitcoin price has broken below a legendary support level that had stood strong for 14 years, marking a major moment for the cryptocurrency. Market expert Crypto Tice has released a new analysis detailing the significance of this breach, warning of potenti…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-price-14-year-support/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Bitcoin-from-Pixabay-81.jpg?fit=960%2C720",
-        "publishedAt": "2026-03-20T15:00:01Z",
-        "content": "The Bitcoin price has broken below a legendary support level that had stood strong for 14 years, marking a major moment for the cryptocurrency. Market expert Crypto Tice has released a new analysis d… [+3048 chars]"
       }
     ]
   }
