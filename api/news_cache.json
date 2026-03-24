@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-24T15:58:34.369Z",
+  "timestamp": "2026-03-24T16:59:18.414Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "4 Bitcoin Targets To Be On The Lookout For As Price Retests S/R Zone",
+        "description": "Bitcoin is once again testing a critical level that could shape its next major move. With price action returning to a previously contested support and resistance zone, attention is now shifting toward a defined set of upside targets that could come into play …",
+        "url": "http://www.newsbtc.com/news/bitcoin/4-bitcoin-targets-s-r-zone/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-Price-Jumps-8-Breakout-Hopes-Reignite-Across-Crypto-Markets.jpg?fit=1408%2C768",
+        "publishedAt": "2026-03-23T16:30:57Z",
+        "content": "Bitcoin is once again testing a critical level that could shape its next major move. With price action returning to a previously contested support and resistance zone, attention is now shifting towar… [+3021 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,32 +368,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Bitcoin-from-Pixabay-81.jpg?fit=960%2C720",
         "publishedAt": "2026-03-20T15:00:01Z",
         "content": "The Bitcoin price has broken below a legendary support level that had stood strong for 14 years, marking a major moment for the cryptocurrency. Market expert Crypto Tice has released a new analysis d… [+3048 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Corporate Bitcoin Trend Grows As Asian Firm Hits 2,383 BTC",
-        "description": "A global Asian food platform and digital asset firm’s holdings are worth more than twice what the entire company trades for on the stock market — a gap that has quietly widened as the firm keeps buying week after week. Related Reading: XRP Still In Danger Zon…",
-        "url": "http://www.newsbtc.com/news/bitcoin/corporate-bitcoin-trend-grows-as-asian-firm-hits-2383-btc/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/a_16a984.jpg?fit=3000%2C1996",
-        "publishedAt": "2026-03-20T14:00:24Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Helene Braun, AI Boost",
-        "title": "Crypto wallet maker Ledger taps former Circle exec as CFO to help lead IPO push",
-        "description": "The crypto security firm is expanding its U.S. footprint and strengthening its leadership team as it prepares for a potential public listing.",
-        "url": "https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4abeeb018174db4b622cc0f8da3fd79865e18f3f-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-20T13:57:14Z",
-        "content": "Ledger has appointed a new chief financial officer and opened a New York office as the crypto security firm expands its U.S. presence ahead of a planned public listing.\r\nThe company said John Andrews… [+2196 chars]"
       }
     ]
   }
