@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-03-25T01:21:39.463Z",
+  "timestamp": "2026-03-25T04:12:03.380Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Rally Meets Resistance, Bears Eye Renewed Downside Move",
+        "description": "Ethereum price started a recovery wave from the $2,025 zone. ETH is now consolidating above $2,120 and might struggle to clear the $2,200 resistance. Ethereum started a recovery wave above the $2,120 zone. The price is trading above $2,120 and the 100-hourly …",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-rally-meets-resistance-2200/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Ethereum-Price-Rally-Meets-Resistance-Bears-Eye-Renewed-Downside-Move.jpg?fit=1366%2C745",
+        "publishedAt": "2026-03-24T03:28:31Z",
+        "content": "Ethereum price started a recovery wave from the $2,025 zone. ETH is now consolidating above $2,120 and might struggle to clear the $2,200 resistance.\r\n<ul><li>Ethereum started a recovery wave above t… [+2207 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Bounce Weakens, Recovery at Risk of Fading Again",
+        "description": "Bitcoin price started a recovery wave from $68,000. BTC is now back above $70,000 and might struggle to continue higher in the near term. Bitcoin started a decent recovery wave above $69,500 and $70,000. The price is trading above $70,000 and the 100 hourly s…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-bounce-weakens-72k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-Price-Bounce-Weakens-Recovery-at-Risk-of-Fading-Again.jpg",
+        "publishedAt": "2026-03-24T02:49:00Z",
+        "content": "Bitcoin price started a recovery wave from $68,000. BTC is now back above $70,000 and might struggle to continue higher in the near term.\r\n<ul><li>Bitcoin started a decent recovery wave above $69,500… [+2154 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin At $76,000 Was A Fluke: Here’s What The Price Is Really Headed",
+        "description": "A crypto analyst who previously warned traders and investors that the recent Bitcoin (BTC) price surge could be a fluke has shared a new update. Confirming that his earlier prediction was accurate, the analyst now provides insight on where Bitcoin is really h…",
+        "url": "http://www.newsbtc.com/news/bitcoin-at-76000-was-a-fluke/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Pngtree-27.jpg?fit=718%2C404",
+        "publishedAt": "2026-03-24T02:00:06Z",
+        "content": "A crypto analyst who previously warned traders and investors that the recent Bitcoin (BTC) price surge could be a fluke has shared a new update. Confirming that his earlier prediction was accurate, t… [+2829 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/05/iStock-485863805.jpg?fit=2120%2C1415",
         "publishedAt": "2026-03-21T13:00:52Z",
         "content": "According to a recent on-chain data evaluation, the Bitcoin price might not be seeing a start to renewed price expansion in the near-term. Interestingly, this hypothesis seems to align with the multi… [+2923 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sebastian Villafuerte",
-        "title": "Ethereum Exchange Inflows Signal Shift: Whales Reduce Selling Pressure",
-        "description": "Ethereum is trading around the $2,150 level as volatility persists across the broader cryptocurrency market, reflecting a phase of uncertainty following recent price swings. While the asset has managed to stabilize near current levels, momentum remains fragil…",
-        "url": "http://www.newsbtc.com/ethereum-news/ethereum-exchange-inflows-signal-shift-whales-reduce-selling-pressure/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Untitled-design-2.jpg?fit=1792%2C1024",
-        "publishedAt": "2026-03-20T22:00:35Z",
-        "content": "Ethereum is trading around the $2,150 level as volatility persists across the broader cryptocurrency market, reflecting a phase of uncertainty following recent price swings. While the asset has manag… [+4079 chars]"
       }
     ]
   }
