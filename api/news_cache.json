@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-25T08:39:53.629Z",
+  "timestamp": "2026-03-25T09:44:19.467Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
       {
         "source": {
@@ -407,19 +407,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Getty-Images-17.jpg?fit=612%2C428",
         "publishedAt": "2026-03-21T17:30:56Z",
         "content": "Crypto analyst Ardi has pointed to a bear market divergence to explain what has been going on with Bitcoins price for a while now. His analysis comes just as BTC continues to struggle to hold above $… [+2420 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Marcel Pechman",
-        "title": "Bitcoin options signal fear even as BTC ETF outflows remain relatively low",
-        "description": "Bitcoin ETF outflows are too small to signal a bearish pivot from traders, but worsening US macroeconomic conditions and high oil prices keep BTC traders on the hedge.",
-        "url": "https://cointelegraph.com/markets/bitcoin-options-signal-fear-even-as-btc-etf-outflows-remain-relatively-low",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-11/019a451d-51af-7534-95c5-b039f0446b7a",
-        "publishedAt": "2026-03-21T17:18:44Z",
-        "content": "Key takeaways:\r\n<ul><li>Bitcoin traders are turning cautious as high oil prices and Middle East tensions fuel inflation and stall US interest rate cuts.\r\n</li><li>The $254 million in spot Bitcoin ETF… [+4357 chars]"
       }
     ]
   }
