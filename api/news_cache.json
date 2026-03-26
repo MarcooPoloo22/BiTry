@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-26T06:07:51.717Z",
+  "timestamp": "2026-03-26T07:57:06.808Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Is Officially In A Bear Market And Is Headed Below $30,000, Analyst Warns",
+        "description": "One thing that has stood out about Bitcoin is how different the recent bull cycle was from other bull cycles. For example, even after the Bitcoin price surged to new all-time highs, the altcoins never followed, and therefore, there was no explosive altcoin se…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-headed-below-30000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Pngtree-45.jpg?fit=640%2C359",
+        "publishedAt": "2026-03-25T07:30:03Z",
+        "content": "One thing that has stood out about Bitcoin is how different the recent bull cycle was from other bull cycles. For example, even after the Bitcoin price surged to new all-time highs, the altcoins neve… [+2270 chars]"
+      },
       {
         "source": {
           "id": null,
