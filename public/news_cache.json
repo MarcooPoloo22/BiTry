@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-26T12:54:35.693Z",
+  "timestamp": "2026-03-26T14:21:35.960Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Turner Wright",
+        "title": "Marshall Islands basic income effort gains crypto-connected backers",
+        "description": "Despite an IMF warning regarding the potential risks, the Marshall Islands is proceeding with a partnership which could expand its digital sovereign bond to institutional markets.",
+        "url": "https://cointelegraph.com/news/company-marshall-islands-digital-sovereign-bond-ubi",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d217a-c186-7706-84d9-69c108af19fc.jpg",
+        "publishedAt": "2026-03-25T14:13:25Z",
+        "content": "The company behind the Republic of the Marshall Islands universal basic income (UBI) program using a US dollar-pegged sovereign financial instrument has attracted some significant crypto-tied backers… [+2851 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yohan Yun",
+        "title": "Bitcoin rebounds during Iran war, but safe haven role unproven",
+        "description": "Bitcoin has outperformed gold since the Iran conflict began, but its price action still tracks liquidity and risk sentiment more than safe haven demand.",
+        "url": "https://cointelegraph.com/features/bitcoin-iran-war-behaves-like-risk-asset",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b3c8b-9956-718c-8f81-2ad91a3a78e8.jpg",
+        "publishedAt": "2026-03-25T13:24:32Z",
+        "content": "Before the Iran war broke out, Bitcoin spent months trading sideways while gold rallied to record levels.\r\nAt the time, gold was seen as the go-to safe haven; inflation concerns remained persistent a… [+6139 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,32 +446,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bb63f-beec-7de2-8139-1f7d5e2446fd.jpg",
         "publishedAt": "2026-03-23T21:48:03Z",
         "content": "Massachusetts Senator Elizabeth Warren has raised concerns about whether YouTuber Jimmy Donaldson, better known as MrBeast, intends to market cryptocurrency to teenagers and young adults following hi… [+2760 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Bitcoin Price Recovery Paints Familiar Pattern—And That’s the Problem: Analysis",
-        "description": "Bitcoin bulls are feeling it right now. But the BTC price chart is quietly drawing the same pattern it drew before two major crashes in a row.",
-        "url": "https://decrypt.co/362087/bitcoin-price-pattern-market-crash-analysis",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png",
-        "publishedAt": "2026-03-23T20:54:30Z",
-        "content": "In brief\r\n<ul><li>Bitcoin climbed above $71,000 today, offering bulls their first glimpse of relief since February's collapse.</li><li>At the same time, the price move has formed the same compressive… [+6447 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Biraajmaan Tamuly",
-        "title": "Bitcoin spot volumes fall to 2023 lows as BTC rallies remain news-led",
-        "description": "Bitcoin price topped $71,600 at the US market open, but the rally lacked sustained spot volumes. Can the bulls hold BTC above $70,000?",
-        "url": "https://cointelegraph.com/markets/bitcoin-spot-volumes-fall-to-2023-lows-as-btc-rallies-remain-news-led",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019af444-47db-71ab-8a3e-ec2f426a9b4c",
-        "publishedAt": "2026-03-23T18:21:50Z",
-        "content": "Bitcoin (BTC) spot volumes on Binance have dropped to their lowest level since September 2023, indicating that the current intraday price rise may not be backed by strong demand.\r\nThe rally above $71… [+3948 chars]"
       }
     ]
   }
