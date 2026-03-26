@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-26T14:21:35.960Z",
+  "timestamp": "2026-03-26T16:04:33.144Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Francisco Rodrigues",
+        "title": "Binance tightens market maker rules, tells token issuers they must disclose partners",
+        "description": "The guidelines ban profit-sharing and guaranteed return arrangements, aiming to prevent conflicts of interest and manipulative trading.",
+        "url": "https://www.coindesk.com/business/2026/03/25/binance-tightens-market-maker-rules-tells-token-issuers-they-must-disclose-partners",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/1f1362ca8faeb9582aa796a20ed94760c858c0b3-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-25T15:39:32Z",
+        "content": "Binance, the largest crypto exchange by volume traded, released guidelines placing tighter obligations on token issuers and liquidity providers.\r\nThe new rules require projects to disclose their mark… [+1400 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sebastian Villafuerte",
+        "title": "Ethereum Staking Ratio Hits Record 31.4% As Exchange Supply Crashes To 2016 Lows",
+        "description": "Ethereum is trading below $2,200. The market is volatile. And yet, quietly, the structural case for ETH has never looked more constrained on the supply side. A new CryptoQuant report reveals that 38.31 million ETH — roughly 31.4% of the total supply — is now …",
+        "url": "http://www.newsbtc.com/ethereum-news/ethereum-staking-ratio-hits-record-31-4-as-exchange-supply-crashes-to-2016-lows/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Untitled-design-11-1.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-03-25T15:00:31Z",
+        "content": "Ethereum is trading below $2,200. The market is volatile. And yet, quietly, the structural case for ETH has never looked more constrained on the supply side.\r\nA new CryptoQuant report reveals that 38… [+3407 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-23-2026-02_04_57-PM.png?fit=1222%2C814",
         "publishedAt": "2026-03-24T01:00:50Z",
         "content": "John Haar, managing director at Swan Private, says the policy response to COVID remains one of the clearest catalysts for Bitcoin adoption in recent years and argued that another large-scale round of… [+3952 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Turner Wright",
-        "title": "Senator Warren questions whether MrBeast will market crypto to kids",
-        "description": "Senator Elizabeth Warren urged MrBeast and Beast Industries’ CEO to take ”great care” and comply with the law if they planned to market crypto trading to minors and young adults.",
-        "url": "https://cointelegraph.com/news/senator-warren-mrbeast-crypto-children",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019bb63f-beec-7de2-8139-1f7d5e2446fd.jpg",
-        "publishedAt": "2026-03-23T21:48:03Z",
-        "content": "Massachusetts Senator Elizabeth Warren has raised concerns about whether YouTuber Jimmy Donaldson, better known as MrBeast, intends to market cryptocurrency to teenagers and young adults following hi… [+2760 chars]"
       }
     ]
   }
