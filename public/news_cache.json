@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-27T08:41:33.805Z",
+  "timestamp": "2026-03-27T09:45:51.971Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Charles Thuo",
+        "title": "Ethereum price drops below $2,200, but a bullish reversal is brewing",
+        "description": "Ethereum (ETH) price shows early signs of a potential bullish trend reversal. On-chain data suggests accumulation and weakening selling pressure. A break above $2,300 could trigger further upside momentum. Ethereum has slipped below the $2,200 mark, but the b…",
+        "url": "https://coinjournal.net/news/ethereum-price-drops-below-2200-but-a-bullish-reversal-is-brewing/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2025/07/ethereum-eth-price.png",
+        "publishedAt": "2026-03-26T08:56:06Z",
+        "content": "<ul><li>Ethereum (ETH) price shows early signs of a potential bullish trend reversal.</li><li>On-chain data suggests accumulation and weakening selling pressure.</li><li>A break above $2,300 could tr… [+3824 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,32 +472,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/09/Screenshot_1273.jpg",
         "publishedAt": "2026-03-24T17:39:03Z",
         "content": "Ronaldo is an experienced crypto enthusiast dedicated to the nascent and ever-evolving industry. With over five years of extensive research and unwavering dedication, he has cultivated a profound int… [+3322 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Ethereum Whales Are Making Money Again, But Will They Hold Or Sell?",
-        "description": "Ethereum whales are now back in profit as the ETH price continues to climb, defying the broader market downtrend. Data from the on-chain analytics platform CryptoQuant indicate that these whales are investors with wallets holding over 100,000 ETH. The sudden …",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-whales-making-money/",
-        "urlToImage": null,
-        "publishedAt": "2026-03-24T17:30:58Z",
-        "content": "Ethereum whales are now back in profit as the ETH price continues to climb, defying the broader market downtrend. Data from the on-chain analytics platform CryptoQuant indicate that these whales are … [+2997 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor, James Van Straten",
-        "title": "Bitcoin slips below $70,000, Circle's 16% slide leads crypto stock sell-off",
-        "description": "Market participants are now pricing in rate hikes, and it could be weighing on risk assets.",
-        "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-slips-below-usd70-000-circle-s-16-slide-leading-crypto-stock-sell-off",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/ffa48d5820d6d5c59d11fcf220d3e890cb9b80a4-2070x1186.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-24T15:30:32Z",
-        "content": "Bitcoin BTC\r\n$69,096.50 slipped back toward $69,000 on Tuesday morning as a broader pullback in equities spilled over into crypto markets.\r\nAfter trading near $71,000 earlier in the session, BTC fell… [+2475 chars]"
       }
     ]
   }
