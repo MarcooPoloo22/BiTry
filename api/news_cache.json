@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-03-26T23:23:53.474Z",
+  "timestamp": "2026-03-27T01:26:38.752Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
       {
         "source": {
@@ -446,19 +446,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d1a63-dd67-75bb-a817-43623d2cae56.jpg",
         "publishedAt": "2026-03-24T10:55:56Z",
         "content": "Bitcoin (BTC) has been among the best-performing assets amid the USIran war, but signs of upside exhaustion are emerging due to an out-of-control bond market.\r\nKey takeaways:\r\n<ul><li>US benchmark yi… [+4201 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin value 'off the chart' as BTC price metric hits record lows in 2026",
-        "description": "Bitcoin Yardstick data confirmed a new record for BTC price \"deep value\" in February as miners battled the lowest price levels in 15 months.",
-        "url": "https://cointelegraph.com/markets/bitcoin-value-off-the-chart-btc-price-metric-hits-record-lows-in-2026",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d1f55-c501-73bc-a068-80564899c825.jpg",
-        "publishedAt": "2026-03-24T10:32:09Z",
-        "content": "Bitcoin (BTC) is off the chart in terms of value-for-money as price diverges from hash rate, a market analyst says.\r\nKey points:\r\n<ul><li>Bitcoin price action is diverging from hash rate to an extent… [+3034 chars]"
       }
     ]
   }
