@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-28T06:48:20.308Z",
+  "timestamp": "2026-03-28T07:39:21.229Z",
   "data": {
     "status": "ok",
     "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Benson Toti",
+        "title": "Bitcoin near $68K as fear spikes: Santiment sees buy signal",
+        "description": "Bitcoin price hovers near $68,500 but saw intraday lows of $68,000. Analysts say a textbook buy signal is flashing. Bulls could target $75,000-$80,000 next. Bitcoin continues to face headwinds, with ongoing tensions in the Iran conflict and the macro outlook …",
+        "url": "https://coinjournal.net/news/bitcoin-near-68k-as-fear-spikes-santiment-sees-buy-signal/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png",
+        "publishedAt": "2026-03-27T07:09:16Z",
+        "content": "<ul><li>Bitcoin price hovers near $68,500 but saw intraday lows of $68,000.</li><li>Analysts say a textbook buy signal is flashing.</li><li>Bulls could target $75,000-$80,000 next.</li></ul>Bitcoin c… [+3114 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,19 +472,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/1f1362ca8faeb9582aa796a20ed94760c858c0b3-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-03-25T15:39:32Z",
         "content": "Binance, the largest crypto exchange by volume traded, released guidelines placing tighter obligations on token issuers and liquidity providers.\r\nThe new rules require projects to disclose their mark… [+1400 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sebastian Villafuerte",
-        "title": "Ethereum Staking Ratio Hits Record 31.4% As Exchange Supply Crashes To 2016 Lows",
-        "description": "Ethereum is trading below $2,200. The market is volatile. And yet, quietly, the structural case for ETH has never looked more constrained on the supply side. A new CryptoQuant report reveals that 38.31 million ETH — roughly 31.4% of the total supply — is now …",
-        "url": "http://www.newsbtc.com/ethereum-news/ethereum-staking-ratio-hits-record-31-4-as-exchange-supply-crashes-to-2016-lows/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Untitled-design-11-1.jpg?fit=1792%2C1024",
-        "publishedAt": "2026-03-25T15:00:31Z",
-        "content": "Ethereum is trading below $2,200. The market is volatile. And yet, quietly, the structural case for ETH has never looked more constrained on the supply side.\r\nA new CryptoQuant report reveals that 38… [+3407 chars]"
       }
     ]
   }
