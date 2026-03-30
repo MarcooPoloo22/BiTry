@@ -12,7 +12,7 @@ export default function Navbar() {
   const [profileLoading, setProfileLoading] = useState(false);
   const [balanceLoading, setBalanceLoading] = useState(false);
   const [isAdmin, setIsAdmin] = useState(false);
-  const [adminLoading, setAdminLoading] = useState(true);
+  const [adminLoading, setAdminLoading] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
   const { user, loading, signOut } = useAuth();
@@ -24,8 +24,8 @@ export default function Navbar() {
     const handleScroll = () => {
       setScrolled(window.scrollY > 20);
     };
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
   // Function to calculate age from birthday
@@ -201,7 +201,7 @@ export default function Navbar() {
               currency: payload.new.currency,
             });
           }
-        }
+        },
       )
       .subscribe();
 
@@ -251,10 +251,10 @@ export default function Navbar() {
         showCancelButton: true,
         confirmButtonText: "Yes, logout",
         cancelButtonText: "Cancel",
-        background: '#1a1e24',
-        color: '#ffffff',
-        confirmButtonColor: '#00d4ff',
-        cancelButtonColor: '#666'
+        background: "#1a1e24",
+        color: "#ffffff",
+        confirmButtonColor: "#00d4ff",
+        cancelButtonColor: "#666",
       });
 
       if (result.isConfirmed) {
@@ -268,9 +268,9 @@ export default function Navbar() {
           title: "Logged out!",
           text: "You have been logged out successfully.",
           icon: "success",
-          background: '#1a1e24',
-          color: '#ffffff',
-          confirmButtonColor: '#00d4ff'
+          background: "#1a1e24",
+          color: "#ffffff",
+          confirmButtonColor: "#00d4ff",
         });
       }
     } catch (error) {
@@ -279,9 +279,9 @@ export default function Navbar() {
         title: "Error!",
         text: "There was an error logging you out.",
         icon: "error",
-        background: '#1a1e24',
-        color: '#ffffff',
-        confirmButtonColor: '#00d4ff'
+        background: "#1a1e24",
+        color: "#ffffff",
+        confirmButtonColor: "#00d4ff",
       });
     }
   };
@@ -300,9 +300,9 @@ export default function Navbar() {
   };
 
   const fixProfileUrl = (url) => {
-    if (!url) return '';
-    if (url.includes('/object/public/')) return url;
-    return url.replace('/object/', '/object/public/');
+    if (!url) return "";
+    if (url.includes("/object/public/")) return url;
+    return url.replace("/object/", "/object/public/");
   };
 
   const getProfilePicture = () => {
@@ -314,7 +314,7 @@ export default function Navbar() {
     }
     const name = getDisplayName();
     return `https://ui-avatars.com/api/?name=${encodeURIComponent(
-      name
+      name,
     )}&background=00d4ff&color=0a0e13&size=200&rounded=true`;
   };
 
@@ -339,7 +339,7 @@ export default function Navbar() {
           left: 0;
           right: 0;
           z-index: 1000;
-          background: ${scrolled ? 'rgba(10, 14, 19, 0.95)' : 'rgba(10, 14, 19, 0.8)'};
+          background: ${scrolled ? "rgba(10, 14, 19, 0.95)" : "rgba(10, 14, 19, 0.8)"};
           backdrop-filter: blur(20px);
           border-bottom: 1px solid rgba(0, 212, 255, 0.1);
           transition: all 0.3s ease;
@@ -860,41 +860,63 @@ export default function Navbar() {
               <span className="modern-logo-text">BiTry</span>
             </NavLink>
 
-            <ul className={`modern-nav-links ${menuOpen ? 'mobile-open' : ''}`}>
+            <ul className={`modern-nav-links ${menuOpen ? "mobile-open" : ""}`}>
               <li>
-                <NavLink to="/home" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink
+                  to="/home"
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                >
                   Home
                 </NavLink>
               </li>
               {!adminLoading && isAdmin && (
                 <li>
-                  <NavLink to="/AdminDashboard" className={({ isActive }) => (isActive ? "active" : "")}>
+                  <NavLink
+                    to="/AdminDashboard"
+                    className={({ isActive }) => (isActive ? "active" : "")}
+                  >
                     Admin
                   </NavLink>
                 </li>
               )}
               <li>
-                <NavLink to="/dashboard" end className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink
+                  to="/dashboard"
+                  end
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                >
                   Dashboard
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/learn" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink
+                  to="/learn"
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                >
                   Learn
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/trade" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink
+                  to="/trade"
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                >
                   Trade
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/news" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink
+                  to="/news"
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                >
                   News
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/leaderboard" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink
+                  to="/leaderboard"
+                  className={({ isActive }) => (isActive ? "active" : "")}
+                >
                   Leaderboard
                 </NavLink>
               </li>
@@ -903,7 +925,7 @@ export default function Navbar() {
               {menuOpen && (
                 <div className="modern-mobile-auth">
                   {loading ? (
-                    <div style={{ display: 'flex', justifyContent: 'center' }}>
+                    <div style={{ display: "flex", justifyContent: "center" }}>
                       <div className="modern-loading-spinner"></div>
                     </div>
                   ) : user ? (
@@ -914,7 +936,7 @@ export default function Navbar() {
                           alt={getDisplayName()}
                           onError={(e) => {
                             e.target.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(
-                              getDisplayName()
+                              getDisplayName(),
                             )}&background=00d4ff&color=0a0e13&size=200&rounded=true`;
                           }}
                         />
@@ -928,15 +950,31 @@ export default function Navbar() {
 
                       {balanceLoading ? (
                         <div className="modern-mobile-balance">
-                          <div className="modern-loading-spinner" style={{ margin: '0 auto' }}></div>
+                          <div
+                            className="modern-loading-spinner"
+                            style={{ margin: "0 auto" }}
+                          ></div>
                         </div>
                       ) : balance ? (
                         <div className="modern-mobile-balance">
-                          <div style={{ fontSize: '13px', color: 'rgba(255, 255, 255, 0.6)', marginBottom: '4px' }}>
+                          <div
+                            style={{
+                              fontSize: "13px",
+                              color: "rgba(255, 255, 255, 0.6)",
+                              marginBottom: "4px",
+                            }}
+                          >
                             Cash Balance
                           </div>
-                          <div style={{ fontSize: '20px', fontWeight: '700', color: '#00d4ff' }}>
-                            ${formatBalance(balance.balance)} {balance.currency || "USD"}
+                          <div
+                            style={{
+                              fontSize: "20px",
+                              fontWeight: "700",
+                              color: "#00d4ff",
+                            }}
+                          >
+                            ${formatBalance(balance.balance)}{" "}
+                            {balance.currency || "USD"}
                           </div>
                         </div>
                       ) : null}
@@ -944,7 +982,9 @@ export default function Navbar() {
                       <div className="modern-mobile-actions">
                         <NavLink to="/dashboard">View Profile</NavLink>
                         {!adminLoading && isAdmin && (
-                          <NavLink to="/AdminDashboard">Admin Dashboard</NavLink>
+                          <NavLink to="/AdminDashboard">
+                            Admin Dashboard
+                          </NavLink>
                         )}
                         <button onClick={handleLogout}>
                           {loading ? "Logging out..." : "Logout"}
@@ -952,11 +992,19 @@ export default function Navbar() {
                       </div>
                     </div>
                   ) : (
-                    <div style={{ display: 'flex', gap: '12px' }}>
-                      <NavLink to="/login" className="modern-login-btn" style={{ flex: 1, textAlign: 'center' }}>
+                    <div style={{ display: "flex", gap: "12px" }}>
+                      <NavLink
+                        to="/login"
+                        className="modern-login-btn"
+                        style={{ flex: 1, textAlign: "center" }}
+                      >
                         Login
                       </NavLink>
-                      <NavLink to="/signup" className="modern-signup-btn" style={{ flex: 1, textAlign: 'center' }}>
+                      <NavLink
+                        to="/signup"
+                        className="modern-signup-btn"
+                        style={{ flex: 1, textAlign: "center" }}
+                      >
                         Sign Up
                       </NavLink>
                     </div>
@@ -990,7 +1038,7 @@ export default function Navbar() {
                       alt={getDisplayName()}
                       onError={(e) => {
                         e.target.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(
-                          getDisplayName()
+                          getDisplayName(),
                         )}&background=00d4ff&color=0a0e13&size=200&rounded=true`;
                       }}
                     />
@@ -1002,7 +1050,7 @@ export default function Navbar() {
                     )}
                   </span>
                   <svg
-                    className={`modern-dropdown-icon ${dropdownOpen ? 'open' : ''}`}
+                    className={`modern-dropdown-icon ${dropdownOpen ? "open" : ""}`}
                     width="16"
                     height="16"
                     viewBox="0 0 24 24"
@@ -1027,7 +1075,7 @@ export default function Navbar() {
                           alt={getDisplayName()}
                           onError={(e) => {
                             e.target.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(
-                              getDisplayName()
+                              getDisplayName(),
                             )}&background=00d4ff&color=0a0e13&size=200&rounded=true`;
                           }}
                         />
@@ -1038,20 +1086,26 @@ export default function Navbar() {
                             ? `${profile.first_name} ${profile.last_name}`
                             : getDisplayName()}
                         </span>
-                        <span className="modern-dropdown-email">{user.email}</span>
+                        <span className="modern-dropdown-email">
+                          {user.email}
+                        </span>
                       </div>
                     </div>
 
                     {balanceLoading ? (
                       <div className="modern-balance-section">
-                        <div className="modern-loading-spinner" style={{ margin: '0 auto' }}></div>
+                        <div
+                          className="modern-loading-spinner"
+                          style={{ margin: "0 auto" }}
+                        ></div>
                       </div>
                     ) : balance ? (
                       <div className="modern-balance-section">
                         <div className="modern-balance-row">
                           <span>Cash Balance:</span>
                           <span className="amount">
-                            ${formatBalance(balance.balance)} {balance.currency || "USD"}
+                            ${formatBalance(balance.balance)}{" "}
+                            {balance.currency || "USD"}
                           </span>
                         </div>
                       </div>
@@ -1059,7 +1113,12 @@ export default function Navbar() {
 
                     <div className="modern-dropdown-menu">
                       <NavLink to="/dashboard" className="modern-dropdown-item">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                        <svg
+                          width="16"
+                          height="16"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                        >
                           <path
                             d="M20 21V19C20 17.9391 19.5786 16.9217 18.8284 16.1716C18.0783 15.4214 17.0609 15 16 15H8C6.93913 15 5.92172 15.4214 5.17157 16.1716C4.42143 16.9217 4 17.9391 4 19V21M16 7C16 9.20914 14.2091 11 12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7Z"
                             stroke="currentColor"
@@ -1072,8 +1131,16 @@ export default function Navbar() {
                       </NavLink>
 
                       {!adminLoading && isAdmin && (
-                        <NavLink to="/AdminDashboard" className="modern-dropdown-item">
-                          <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                        <NavLink
+                          to="/AdminDashboard"
+                          className="modern-dropdown-item"
+                        >
+                          <svg
+                            width="16"
+                            height="16"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                          >
                             <path
                               d="M12 2L2 7L12 12L22 7L12 2Z"
                               stroke="currentColor"
@@ -1100,8 +1167,16 @@ export default function Navbar() {
                         </NavLink>
                       )}
 
-                      <button onClick={handleLogout} className="modern-dropdown-item logout">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                      <button
+                        onClick={handleLogout}
+                        className="modern-dropdown-item logout"
+                      >
+                        <svg
+                          width="16"
+                          height="16"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                        >
                           <path
                             d="M9 21H5C4.46957 21 3.96086 20.7893 3.58579 20.4142C3.21071 20.0391 3 19.5304 3 19V5C3 4.46957 3.21071 3.96086 3.58579 3.58579C3.96086 3.21071 4.46957 3 5 3H9M16 17L21 12M21 12L16 7M21 12H9"
                             stroke="currentColor"
@@ -1128,7 +1203,7 @@ export default function Navbar() {
             )}
 
             <button
-              className={`modern-hamburger ${menuOpen ? 'active' : ''}`}
+              className={`modern-hamburger ${menuOpen ? "active" : ""}`}
               onClick={() => setMenuOpen(!menuOpen)}
               aria-label="Toggle menu"
             >
