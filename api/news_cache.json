@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-03-31T18:49:34.953Z",
+  "timestamp": "2026-03-31T19:50:00.285Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Ronaldo Marquez",
+        "title": "XRP Price Alert: Expert Predicts $0.80 On Bitcoin’s Potential Retreat To $60,000",
+        "description": "The XRP price traded at around $1.30 on Monday as markets consolidated and Bitcoin (BTC) fought to hold above $67,000, but the calm belies meaningful downside risk if BTC revisits its key support at $60,000, according to market analyst Sam Daodu. Key Levels F…",
+        "url": "http://www.newsbtc.com/breaking-news-ticker/xrp-price-alert-expert-predicts-0-80-on-bitcoins-potential-retreat-to-60000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/image_yn22w4_y_1770308763306_raw.jpg",
+        "publishedAt": "2026-03-30T19:22:20Z",
+        "content": "Ronaldo is an experienced crypto enthusiast dedicated to the nascent and ever-evolving industry. With over five years of extensive research and unwavering dedication, he has cultivated a profound int… [+3322 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Stacy Elliott",
+        "title": "Coinbase, Robinhood and Figure Stocks Are 60% Off Their Peaks—Bernstein Says Buy the Dip",
+        "description": "Bernstein sees a buying opportunity in crypto stocks trading ~60% off their 2025 peaks, even as Q1 earnings look weak.",
+        "url": "https://decrypt.co/362727/coinbase-robinhood-figure-stocks-60-off-bernstein-says-buy-dip",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png",
+        "publishedAt": "2026-03-30T19:06:21Z",
+        "content": "In brief\r\n<ul><li>Bernstein lowered its price targets on Coinbase to $330, Robinhood to $130, and Figure to $67, while keeping Outperform ratings on all three.</li><li>Coinbase spot volumes are track… [+2848 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Solana-SOL-Hits-Key-Support.jpg?fit=1024%2C559",
         "publishedAt": "2026-03-27T05:08:56Z",
         "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price Drops Near $2,020, Downside Pressure Continues to Build",
-        "description": "Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave. Ethereum started a fresh decline from the $2,200 zone. The price is trading below $2,120 and the 100-hourly Simple …",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-drops-near-2020/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Ethereum-Price-Drops-Near-2020.jpg?fit=1024%2C559",
-        "publishedAt": "2026-03-27T03:18:14Z",
-        "content": "Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.\r\n<ul><li>Ethereum started a fresh decline from the $2,2… [+2149 chars]"
       }
     ]
   }
