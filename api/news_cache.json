@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-03-31T09:56:40.782Z",
+  "timestamp": "2026-03-31T10:48:59.172Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Ian Allison",
+        "title": "Coinbase survey finds over half of customers don’t understand crypto tax",
+        "description": "The 2026 Crypto Tax Readiness Report, done with Cointracker, found that only 49% correctly understand that crypto is taxable anytime it is sold.",
+        "url": "https://www.coindesk.com/policy/2026/03/30/coinbase-survey-finds-over-half-of-customers-don-t-understand-crypto-tax",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6b39e9bf4891a155515768dc7faca8ac257b84ad-1530x1020.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-30T10:30:23Z",
+        "content": "More than half of cryptocurrency investors dont understand the fundamental concept of taxability when it comes to their digital asset holdings, according to a survey by the U.S.-listed crypto exchang… [+3104 chars]"
+      },
       {
         "source": {
           "id": null,
