@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-01T12:58:46.356Z",
+  "timestamp": "2026-04-01T14:28:27.732Z",
   "data": {
     "status": "ok",
     "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Faces Fresh Pressure As Oil Crosses $104 For First Time In 4 Years",
+        "description": "Investors are currently sifting through a decade of market data to see if a massive spike in energy costs will sink Bitcoin and the crypto market. Related Reading: Bitcoin ETFs Pull In $56B As CEO Pitches Crypto Over Gold While many people focus on the immedi…",
+        "url": "http://www.newsbtc.com/news/bitcoin-faces-fresh-pressure-as-oil-crosses-104-for-first-time-in-4-years/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/oil.jpg?fit=1536%2C1024",
+        "publishedAt": "2026-03-31T13:30:31Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,19 +433,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/09/iStock-1360442132.jpg?fit=2109%2C1422",
         "publishedAt": "2026-03-28T18:00:50Z",
         "content": "After a show of resilience over the past few weeks, the Ethereum price finally gave way, falling below the $2,000 level for the first time since March 10th. The “King of Altcoins” succumbed to the do… [+2590 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Semilore Faleti",
-        "title": "Bitcoin Sees Confident Buying From Smart Money Amid Dip – Details",
-        "description": "In the last week, Bitcoin prices fell to around $65,000, resulting in a net loss of 6.74%. This recent decline underlines the asset’s struggles in March, which, despite periods of attempted price breakout, has witnessed an equal or greater pullback, producing…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-sees-confident-buying-from-smart-money-amid-dip-details/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/photo-1745620984438-88cc43b52af4.jpg?fit=3000%2C1690",
-        "publishedAt": "2026-03-28T16:30:10Z",
-        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
       }
     ]
   }
