@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-01T23:29:43.598Z",
+  "timestamp": "2026-04-02T01:25:17.583Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?",
+        "description": "Solana’s declining DEX volumes raise the likelihood of a SOL price correction to $75, but the network’s DApp revenue highlights its resilience.",
+        "url": "https://cointelegraph.com/markets/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c6e39-0ace-778f-a018-d4cf5c106e03.jpg",
+        "publishedAt": "2026-04-01T01:00:00Z",
+        "content": "Key takeaways:\r\n<ul><li>Solana outperforms Ethereum in high-revenue DApps, providing a fundamental cushion against recent price drops.\r\n</li><li>Rising Ethereum Layer-2 dominance challenges SOL as tr… [+3373 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Mining Nationalized? US Senators Float Bold New Reserve-Backed Bill",
+        "description": "About 97% of the machines used to mine Bitcoin currently come from companies based in China. This heavy reliance on foreign technology has created a bottleneck at American ports and raised alarms about the long-term security of the network. Related Reading: B…",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-mining-nationalized-us-senators-float-bold-new-reserve-backed-bill/",
+        "urlToImage": null,
+        "publishedAt": "2026-04-01T00:30:41Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
