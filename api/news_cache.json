@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-02T18:44:21.010Z",
+  "timestamp": "2026-04-02T19:43:40.130Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Helene Braun",
+        "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
+        "description": "The Citadel-backed exchange is seeking approval to offer custody and asset services as institutional demand grows.",
+        "url": "https://www.coindesk.com/markets/2026/04/01/citadel-backed-edx-markets-applies-for-u-s-trust-charter-to-expand-institutional-crypto-services",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d452cd81d39225d95bd70d9159f42a5ed0e10c3d-5712x4284.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-01T19:36:22Z",
+        "content": "EDX Markets, the crypto exchange backed by Citadel Securities, has applied for a national trust bank charter, marking a new step in its push to serve institutional clients.\r\nThe exchange submitted it… [+1832 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "The Bitcoin Bottom: Pundit Reveals The 5 Phases To Know When The Bleed Has Ended",
+        "description": "A market expert has outlined five distinct phases in the Bitcoin (BTC) bear market that could indicate when the leading cryptocurrency has hit a bottom. The analysis concludes that the cryptocurrency could still face additional downward pressure before ultima…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-bottom-the-5-phases/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/generated_image-1.png?fit=2848%2C1600",
+        "publishedAt": "2026-04-01T19:00:11Z",
+        "content": "A market expert has outlined five distinct phases in the Bitcoin (BTC) bear market that could indicate when the leading cryptocurrency has hit a bottom. The analysis concludes that the cryptocurrency… [+2864 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,32 +459,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019b4a21-20a8-7a3d-9cd4-25c5f8f75a80.jpg",
         "publishedAt": "2026-03-31T10:32:31Z",
         "content": "Bitcoin (BTC) teased a fresh break below $66,000 on Tuesday after a bounce sparked a classic bull trap.\r\nKey points:\r\n<ul><li>Bitcoin sets up a classic bull trap after spiking beyond $68,000.\r\n</li><… [+3059 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Crypto CEO Sounds Warning: If Bitcoin Price Falls Below This Level, The Bear Market Will Worsen",
-        "description": "The Bitcoin price is approaching a decisive moment, according to the head of a major crypto analytics firm. A clearly defined price threshold has been identified, and falling below it could accelerate the current downturn. The warning centers on how both mark…",
-        "url": "http://www.newsbtc.com/news/bitcoin/warning-bitcoin-price-falls/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Esperto-trader_in-arrivo-unimpennata-di-Bitcoin-a-220.000.png?fit=680%2C680",
-        "publishedAt": "2026-03-31T10:30:38Z",
-        "content": "The Bitcoin price is approaching a decisive moment, according to the head of a major crypto analytics firm. A clearly defined price threshold has been identified, and falling below it could accelerat… [+2936 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "James Van Straten, AI Boost",
-        "title": "David Bailey’s Nakamoto sells roughly 5% of its bitcoin holdings, offloading 284 BTC",
-        "description": "The sale underscores liquidity pressures as the company continues its pivot to a bitcoin treasury strategy.",
-        "url": "https://www.coindesk.com/markets/2026/03/31/david-bailey-s-nakamoto-sells-roughly-5-of-its-bitcoin-holdings-offloading-284-btc",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/3e653e6039ba6c6faf851d6e0638d3b242e6345b-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-31T09:41:03Z",
-        "content": "Nakamoto Holdings (NAKA), a bitcoin BTC\r\n$66,371.41 firm founded by David Bailey, said it sold about 284 BTC for $20 million in March, marking a rare reduction in its holdings as it pivots toward a b… [+1285 chars]"
       }
     ]
   }
