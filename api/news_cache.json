@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-04-03T06:07:30.304Z",
+  "timestamp": "2026-04-03T07:57:28.231Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
       {
         "source": {
@@ -459,19 +459,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/976ce7e305132fada910cfe9bc3b0d8254ad588b-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-03-31T19:06:05Z",
         "content": "WisdomTree does not see pending U.S. crypto legislation as a prerequisite for innovation, even as policymakers debate new rules for digital assets.\r\nI dont [think] it would inhibit anything that were… [+2537 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Antonio Oliveira",
-        "title": "Bitcoin traders forecast short-term downside even as BTC price chases $68K",
-        "description": "Bitcoin’s range-bound trading is expected to continue, but analysts’ projections versus technical charts highlight a discrepancy. Will bulls or bears prevail?",
-        "url": "https://cointelegraph.com/markets/bitcoin-traders-forecast-short-term-downside-even-as-btc-price-chases-68k",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-12/019adfcf-d2fa-72d8-abc1-5a1b9a935f44",
-        "publishedAt": "2026-03-31T17:40:22Z",
-        "content": "Bitcoins (BTC) consolidation extended into a fifth week since making a major low at $60,000 on Feb. 6, but the daily chart shows the range tightening as the price swings between its daily highs and l… [+2518 chars]"
       }
     ]
   }
