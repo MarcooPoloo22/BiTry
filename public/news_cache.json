@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-03T01:27:28.696Z",
+  "timestamp": "2026-04-03T04:23:47.755Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Pressured at $2,150, Bulls Fight to Clear Hurdle",
+        "description": "Ethereum price started a steady recovery wave above $2,050. ETH is now struggling to clear $2,150 and might trim some gains in the near term. Ethereum started a decent upward move above the $2,020 zone. The price is trading above $2,050 and the 100-hourly Sim…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-pressured-at-2150/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-Price-Pressured-at-2150-Bulls-Fight-to-Clear-Hurdle.jpg?fit=1024%2C559",
+        "publishedAt": "2026-04-02T03:18:42Z",
+        "content": "Ethereum price started a steady recovery wave above $2,050. ETH is now struggling to clear $2,150 and might trim some gains in the near term.\r\n<ul><li>Ethereum started a decent upward move above the … [+2177 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Recovery Slips, Sellers Tighten Grip on Market",
+        "description": "Bitcoin price started a recovery wave above $68,000. BTC is now struggling to surpass $68,800 and showing signs of a fresh decline. Bitcoin failed to settle above $68,800 and trimmed most gains. The price is trading below $67,200 and the 100 hourly simple mov…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-recovery-slips-70k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Recovery-Slips-Sellers-Tighten-Grip-on-Market.jpg",
+        "publishedAt": "2026-04-02T02:31:46Z",
+        "content": "Bitcoin price started a recovery wave above $68,000. BTC is now struggling to surpass $68,800 and showing signs of a fresh decline.\r\n<ul><li>Bitcoin failed to settle above $68,800 and trimmed most ga… [+2234 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,32 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Getty-Images-20.jpg?fit=612%2C374",
         "publishedAt": "2026-03-31T16:30:02Z",
         "content": "Crypto analyst Sweep has revealed that 20 Bitcoin indicators have flashed bullish at the same time, providing a bullish outlook for the leading crypto. Based on this development, the analyst has pred… [+2692 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Bitcoin Sell-Offs Are Ramping Up As Price Struggles, But Where Is All That BTC Going To?",
-        "description": "Bitcoin has shed about $3,500 in value over recent days, slipping from above $70,000 earlier in March to around $66,500, as short-term holders take their exits. On one particularly turbulent day, about 22,000 BTC were moved to exchanges in a single session. Y…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-sell-offs-ramping-up/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-02_18_32-PM.png?fit=1222%2C814",
-        "publishedAt": "2026-03-31T15:00:27Z",
-        "content": "Bitcoin has shed about $3,500 in value over recent days, slipping from above $70,000 earlier in March to around $66,500, as short-term holders take their exits. On one particularly turbulent day, abo… [+2810 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Francisco Rodrigues",
-        "title": "Mercado Libre shuts down Mercado Coin, ending its loyalty-driven crypto experiment",
-        "description": "Starting April 17, users will no longer be able to buy, sell or earn cashback in Mercado Coin, but can sell, spend, or have the token converted to local currency.",
-        "url": "https://www.coindesk.com/business/2026/03/31/mercado-libre-shuts-down-mercado-coin-ending-its-loyalty-driven-crypto-experiment",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d6843477d88ef478a29f7d7b1f95417c3f560b82-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-03-31T14:49:19Z",
-        "content": "E-commerce giant Mercado Libre (MELI) is pulling the plug on its homegrown cryptocurrency, Mercado Coin, nearly four years after introducing it to boost customer engagement across its platform.\r\nThe … [+1352 chars]"
       }
     ]
   }
