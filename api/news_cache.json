@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-02T23:27:29.014Z",
+  "timestamp": "2026-04-03T01:27:28.696Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Ethereum Price Crash Update: Analyst Forecasts Fall To $600 If This Happens",
+        "description": "Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collap…",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-price-crash-update/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-from-iStock-53.jpg?fit=612%2C412",
+        "publishedAt": "2026-04-02T00:00:00Z",
+        "content": "Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would… [+2700 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,19 +459,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d6843477d88ef478a29f7d7b1f95417c3f560b82-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-03-31T14:49:19Z",
         "content": "E-commerce giant Mercado Libre (MELI) is pulling the plug on its homegrown cryptocurrency, Mercado Coin, nearly four years after introducing it to boost customer engagement across its platform.\r\nThe … [+1352 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinspeaker"
-        },
-        "author": "Daniel Francis",
-        "title": "Bitmine Immersion Technologies Reports 4.732M ETH Treasury Holdings",
-        "description": "Bitmine Immersion Technologies (NYSE American: BMNR) disclosed on March 30, 2026 that its Ethereum treasury has reached 4.732 million ETH tokens, with...",
-        "url": "https://www.coinspeaker.com/bitmine-immersion-technologies-4732m-eth-treasury-holdings/",
-        "urlToImage": "https://s.yimg.com/os/en/coinspeaker_us_106/728990a424a4d6a89b80421ba785d2bb",
-        "publishedAt": "2026-03-31T14:38:32Z",
-        "content": "Bitmine Immersion Technologies (NYSE American: BMNR) disclosed on March 30, 2026 that its Ethereum treasury has reached 4.732 million ETH tokens, with combined crypto holdings, total cash of $961 mil… [+4648 chars]"
       }
     ]
   }
