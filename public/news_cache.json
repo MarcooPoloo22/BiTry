@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-04T15:23:24.357Z",
+  "timestamp": "2026-04-04T16:25:44.769Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Analyst Predicts That Ethereum Price Is Headed For $10,000 Minimum",
+        "description": "A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has …",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-headed-for-10000/",
+        "urlToImage": null,
+        "publishedAt": "2026-04-03T15:30:05Z",
+        "content": "A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confiden… [+2927 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d452cd81d39225d95bd70d9159f42a5ed0e10c3d-5712x4284.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-01T19:36:22Z",
         "content": "EDX Markets, the crypto exchange backed by Citadel Securities, has applied for a national trust bank charter, marking a new step in its push to serve institutional clients.\r\nThe exchange submitted it… [+1832 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "The Bitcoin Bottom: Pundit Reveals The 5 Phases To Know When The Bleed Has Ended",
-        "description": "A market expert has outlined five distinct phases in the Bitcoin (BTC) bear market that could indicate when the leading cryptocurrency has hit a bottom. The analysis concludes that the cryptocurrency could still face additional downward pressure before ultima…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-bottom-the-5-phases/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/generated_image-1.png?fit=2848%2C1600",
-        "publishedAt": "2026-04-01T19:00:11Z",
-        "content": "A market expert has outlined five distinct phases in the Bitcoin (BTC) bear market that could indicate when the leading cryptocurrency has hit a bottom. The analysis concludes that the cryptocurrency… [+2864 chars]"
       }
     ]
   }
