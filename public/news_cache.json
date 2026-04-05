@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-05T11:23:06.648Z",
+  "timestamp": "2026-04-05T12:37:52.113Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Semilore Faleti",
+        "title": "Bitcoin Retail Activity Hits 9-Year Low — Here’s Why",
+        "description": "Amid the ongoing bear market, crypto analyst Darkfost reports that trading activity among Bitcoin retail investors has reached a new low, suggesting a notable decline in participation. However, broader on-chain data provides deeper context to this trend, poin…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-retail-activity-hits-9-year-low-heres-why/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/gold-bitcoins-cart-shop-cart-with-purchases-white-background-buying-bitcoin-conceptual_67340-1270.jpg?fit=900%2C599",
+        "publishedAt": "2026-04-04T12:00:14Z",
+        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/btc.png?fit=1228%2C819",
         "publishedAt": "2026-04-01T23:00:13Z",
         "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Turner Wright",
-        "title": "Crypto exchange Bithumb to delay IPO until after 2028: Report",
-        "description": "According to the company CFO, Bithumb was “strengthen[ing] accounting policies and internal controls” ahead of its IPO plans, already delayed from 2025.",
-        "url": "https://cointelegraph.com/news/crypto-exchange-bithumb-delay-ipo",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d4ada-e87c-73f7-b297-554b1d206342.jpg",
-        "publishedAt": "2026-04-01T21:59:41Z",
-        "content": "South Korea-based cryptocurrency exchange Bithumb is reportedly expecting its initial public offering (IPO) sometime after 2028, in another delay after restructuring and regulatory hurdles.\r\nAccordin… [+1863 chars]"
       }
     ]
   }
