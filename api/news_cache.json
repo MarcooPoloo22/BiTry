@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-05T12:37:52.113Z",
+  "timestamp": "2026-04-05T13:48:30.054Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Analyst Who Called Bitcoin Top Says Price Is Going To $200,000, But Should You Buy Now?",
+        "description": "Crypto analyst Doctor Profit, who called the Bitcoin top, has predicted that BTC could still rally to $200,000, marking a new all-time high (ATH) for the leading crypto. However, the analyst suggested now isn’t a good time to buy as BTC is still likely to dro…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-is-going-to-200000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-58.jpg?fit=1280%2C854",
+        "publishedAt": "2026-04-04T13:00:07Z",
+        "content": "Crypto analyst Doctor Profit, who called the Bitcoin top, has predicted that BTC could still rally to $200,000, marking a new all-time high (ATH) for the leading crypto. However, the analyst suggeste… [+2447 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-from-iStock-53.jpg?fit=612%2C412",
         "publishedAt": "2026-04-02T00:00:00Z",
         "content": "Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would… [+2700 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Keshav Verma",
-        "title": "Bitcoin Exchange Inflows Flash Rare Signal As Large Deposits Return",
-        "description": "On-chain data shows the average Bitcoin exchange deposit has ballooned to a significant size, a potential sign that whales are making inflows. Average Bitcoin Exchange Inflow Hits 2.62 BTC As pointed out by CryptoQuant community analyst Maartunn in an X post,…",
-        "url": "http://www.newsbtc.com/bitcoin-news/hong-kong-stablecoin-hsbc-standard-chartered/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/btc.png?fit=1228%2C819",
-        "publishedAt": "2026-04-01T23:00:13Z",
-        "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
       }
     ]
   }
