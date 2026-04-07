@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-07T04:27:01.198Z",
+  "timestamp": "2026-04-07T06:14:36.164Z",
   "data": {
     "status": "ok",
     "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Solana (SOL) Recovery Faces Roadblocks, Can Bulls Push Through?",
+        "description": "Solana found support at $77 and corrected some losses. SOL price is now consolidating above $80 and might aim for a steady increase. SOL price started a decent recovery wave above $80 and $82 against the US Dollar. The price is now trading above $80 and the 1…",
+        "url": "http://www.newsbtc.com/analysis/solana-sol-recovery-faces-roadblocks-85/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Solana-SOL-Holds-Support-Post-Gains.jpg?fit=1024%2C572",
+        "publishedAt": "2026-04-06T05:18:02Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,19 +485,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/USDC-decrypt-style-07-gID_7.png",
         "publishedAt": "2026-04-02T21:04:47Z",
         "content": "In brief\r\n<ul><li>Circle is launching cirBTC, a wrapped Bitcoin alternative designed to unlock Bitcoin utility for institutions and investors.</li><li>The token will first launch on Ethereum mainnet … [+2961 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Price Headed To $120,000? Why This analyst Thinks It’s A Good Time To Buy",
-        "description": "Crypto analyst Minga has predicted that the Bitcoin price could rally past $120,000 to a new all-time high (ATH) of $190,000 in the next bull cycle. The analyst also indicated that now is a good time to buy as BTC approaches a bottom.  Analyst Gives Buy Signa…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-headed-to-120000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/XRP-from-Adobe-Stock-33.jpg?fit=388%2C240",
-        "publishedAt": "2026-04-02T19:30:10Z",
-        "content": "Crypto analyst Minga has predicted that the Bitcoin price could rally past $120,000 to a new all-time high (ATH) of $190,000 in the next bull cycle. The analyst also indicated that now is a good time… [+2415 chars]"
       }
     ]
   }
