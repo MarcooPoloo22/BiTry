@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-08T04:30:18.499Z",
+  "timestamp": "2026-04-08T06:16:42.816Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Dogecoin (DOGE) Under Threat, Downside Thrust Could Trigger Selloff",
+        "description": "Dogecoin started a fresh decline below the $0.0920 zone against the US Dollar. DOGE is now consolidating losses and might face hurdles near $0.0920 and $0.0925. DOGE price started a fresh decline below the $0.0912 level. The price is trading below the $0.0905…",
+        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-under-threat-0-090/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Dogecoin-DOGE-Under-Threat-Downside-Thrust-Could-Trigger-Selloff.jpg?fit=1024%2C559",
+        "publishedAt": "2026-04-07T05:08:27Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
       {
         "source": {
           "id": null,
