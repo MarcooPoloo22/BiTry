@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-04-08T10:00:51.855Z",
+  "timestamp": "2026-04-08T11:46:35.794Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Bitcoin Whale Moves $20M to Binance Amid Broader Selling Pressure",
+        "description": "A Bitcoin whale transferred 300 BTC worth over $20 million to Binance Tuesday, potentially facing a $15 million loss.",
+        "url": "https://decrypt.co/363488/bitcoin-whale-moves-20m-to-binance-amid-broader-selling-pressure",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png",
+        "publishedAt": "2026-04-07T11:41:43Z",
+        "content": "In brief\r\n<ul><li>A Bitcoin whale moved 300 BTC worth more than $20 million to Binance Tuesday.</li><li>The transfer could represent a $15 million loss if sold at current prices, though alternative s… [+2185 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Crypto investment inflows rebound as XRP tops weekly gains of $224M",
+        "description": "Crypto ETPs drew $224 million in inflows last week as XRP led gains, while US ETFs lagged and Ether posted outflows amid mixed macro data and policy expectations.",
+        "url": "https://cointelegraph.com/news/crypto-etp-week-224-million-inflow-xrp-leads-gains",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cae57-80f1-7bec-b432-53c56cb196ff.jpg",
+        "publishedAt": "2026-04-07T11:30:54Z",
+        "content": "Cryptocurrency investment products recorded minor inflows last week despite mixed geopolitical signals and increasingly hawkish investor expectations.\r\nGlobal crypto exchange-traded products (ETPs) c… [+2205 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Ethereum Ascending Channel Puts Price At $5,700, Analyst Reveals When To Sell",
+        "description": "Over time, the Ethereum price has been trending sideways with no definitive move in either direction. This trend has led to the formation of an ascending channel that could change the course of things for the second-largest cryptocurrency by market cap. If th…",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-ascending-channel-sell/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-11_06_40-AM.png?fit=1111%2C740",
+        "publishedAt": "2026-04-07T11:30:06Z",
+        "content": "Over time, the Ethereum price has been trending sideways with no definitive move in either direction. This trend has led to the formation of an ascending channel that could change the course of thing… [+2545 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Oliver Knight, Saksham Diwan",
+        "title": "Bitcoin price-drop speculation spurred by familiar price pattern",
+        "description": "BTC and ETH remain stuck in a two-month range as oil prices and Iran tensions weigh on sentiment, while AI and privacy tokens show surprising relative strength.",
+        "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-price-drop-speculation-spurred-by-familiar-price-pattern",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2e3e9177b330cececd835b6feb3843b5d3c5a22f-2086x1112.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-07T10:53:02Z",
+        "content": "The crypto market is trading sluggishly within the range it has held for two months, with bitcoin BTC\r\n$68,298.71 changing hands at $69,000 and ether (ETH) at $2,130.\r\nThe range-bound pricing dates b… [+2874 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,45 +498,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-86.jpg?fit=1280%2C731",
         "publishedAt": "2026-04-03T20:00:01Z",
         "content": "Crypto analyst Jordan has predicted that the Bitcoin price could rally to $80,000 in the short term. The analyst pointed to a February bullish trend that could spark this rally for the leading crypto… [+2402 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor",
-        "title": "Schwab plans spot bitcoin, ether trading launch in first half of 2026",
-        "description": "The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.",
-        "url": "https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a21442eff19a21c8ee60573a273922898a3de5a1-5238x3486.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-03T19:18:00Z",
-        "content": "Brokerage services giant Charles Schwab plans to roll out spot cryptocurrency trading in the first half of 2026, pushing it deeper into digital assets. \r\n\"We remain on track to launch our spot crypto… [+1303 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Analyst Predicts That Ethereum Price Is Headed For $10,000 Minimum",
-        "description": "A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has …",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-headed-for-10000/",
-        "urlToImage": null,
-        "publishedAt": "2026-04-03T15:30:05Z",
-        "content": "A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confiden… [+2927 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 4/3: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
-        "description": "Bitcoin is attempting to form a bottom, but select analysts believe that the decline is not over yet and the $60,000 level may break down.",
-        "url": "https://cointelegraph.com/markets/price-predictions-4-3-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d53c4-0852-7b77-a9f8-958bcae59d18.jpg",
-        "publishedAt": "2026-04-03T14:39:20Z",
-        "content": "Key points:\r\n<ul><li>Buyers are attempting to maintain BTC above the $66,500 level, but several analysts believe that the $60,000 level may crack.\r\n</li><li>Some major altcoins risk breaking below th… [+8813 chars]"
       }
     ]
   }
