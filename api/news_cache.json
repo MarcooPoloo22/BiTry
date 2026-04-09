@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-09T16:58:27.101Z",
+  "timestamp": "2026-04-09T17:57:56.490Z",
   "data": {
     "status": "ok",
     "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Bitcoin price chart targets $90K as traders ‘aggressively’ buy on Binance",
+        "description": "Bitcoin gained momentum as data showed buyers are starting to dominate volumes on Binance, with a $90,000 BTC price target on their radar.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-chart-targets-90k-aggressively-buy-on-binance",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d6d80-f317-7400-ab02-fdfffeb37279.jpg",
+        "publishedAt": "2026-04-08T17:43:14Z",
+        "content": "Market analysts say Bitcoins (BTC) is building up after its 7% rally above $72,000 on Tuesday, with bulls eyeing further gains to $90,000 amid improving macro sentiment. \r\nKey takeaways:\r\n<ul><li>BTC… [+4056 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,19 +472,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-Price-Cools-Off-But-Structure-Stays-Firmly-Supported.jpg?fit=1024%2C559",
         "publishedAt": "2026-04-07T03:08:55Z",
         "content": "Ethereum price extended gains above $2,150 before it faced sellers. ETH is now correcting gains and might find bids near the $2,080 zone.\r\n<ul><li>Ethereum started a decent upward move above the $2,1… [+2149 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Analyst Reveals How To Trade The Bitcoin Cycle, Predicts When Price Will Hit $215,000",
-        "description": "A crypto analyst has presented a new roadmap for Bitcoin (BTC), outlining his interpretation of past events and forecasting the market’s next possible moves in the coming months. The analyst also shared insights into the market’s psychology during key periods…",
-        "url": "http://www.newsbtc.com/bitcoin-news/how-to-trade-bitcoin-cycle/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Getty-Images-49.jpg?fit=612%2C408",
-        "publishedAt": "2026-04-07T03:00:41Z",
-        "content": "A crypto analyst has presented a new roadmap for Bitcoin (BTC), outlining his interpretation of past events and forecasting the market’s next possible moves in the coming months. The analyst also sha… [+3381 chars]"
       }
     ]
   }
