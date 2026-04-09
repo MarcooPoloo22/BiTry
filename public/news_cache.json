@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-09T08:14:21.366Z",
+  "timestamp": "2026-04-09T10:05:20.927Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Benson Toti",
+        "title": "Solana price forecast: is $150 next amid US-Iran ceasefire?",
+        "description": "Solana price has gained in the past 24 hours as Bitcoin retests $72,000. The SOL token could rally to $150 amid the US-Iran ceasefire. However, continued weakness could allow bears to target $70 or lower. ​Solana’s latest rebound has revived bullish speculati…",
+        "url": "https://coinjournal.net/news/solana-price-forecast-is-150-next-amid-us-iran-ceasefire/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/trader-checks-crypto-price-chart-on-mobile.png",
+        "publishedAt": "2026-04-08T10:03:51Z",
+        "content": "<ul><li>Solana price has gained in the past 24 hours as Bitcoin retests $72,000.</li><li>The SOL token could rally to $150 amid the US-Iran ceasefire.</li><li>However, continued weakness could allow … [+2677 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,19 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Solana-SOL-Holds-Support-Post-Gains.jpg?fit=1024%2C572",
         "publishedAt": "2026-04-06T05:18:02Z",
         "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price Charges Higher, $2,150 Resistance Under Threat",
-        "description": "Ethereum price managed to stay above $2,020 and recovered losses. ETH is now rising and might attempt a move above the $2,150 resistance. Ethereum started a decent upward move above the $2,065 zone. The price is trading above $2,080 and the 100-hourly Simple …",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-charges-higher-2150/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-Price-Charges-Higher.jpg?fit=1024%2C559",
-        "publishedAt": "2026-04-06T04:08:01Z",
-        "content": "Ethereum price managed to stay above $2,020 and recovered losses. ETH is now rising and might attempt a move above the $2,150 resistance.\r\n<ul><li>Ethereum started a decent upward move above the $2,0… [+2059 chars]"
       }
     ]
   }
