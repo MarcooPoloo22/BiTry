@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-04-10T14:12:49.916Z",
+  "timestamp": "2026-04-10T15:42:19.708Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
       {
         "source": {
@@ -407,19 +407,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Altcoin-from-Adobe-Stock.jpg?fit=639%2C360",
         "publishedAt": "2026-04-07T22:00:13Z",
         "content": "Bitcoin has been holding above $65,000 for over a month now, and this price level is starting to carry more weight than it seems on the surface. The current structure is no longer just about short-te… [+2656 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Logan Hitchcock",
-        "title": "Solana Exchange Stabble Warns Users to Pull Liquidity After North Korean Hacker Scare",
-        "description": "A decentralized exchange on Solana urged its users to exit after a former executive was alleged to be a North Korean hacker.",
-        "url": "https://decrypt.co/363579/solana-exchange-stabble-warns-users-north-korean-hacker-scare",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
-        "publishedAt": "2026-04-07T21:20:34Z",
-        "content": "In brief\r\n<ul><li>Solana exchange Stabble urged users to pull liquidity after its former CTO was alleged to be a North Korean hacker.</li><li>The firm's total value locked dropped 62% in the wake of … [+2669 chars]"
       }
     ]
   }
