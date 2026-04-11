@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-11T11:23:27.295Z",
+  "timestamp": "2026-04-11T12:37:50.426Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help",
+        "description": "Institutions are betting on the bitcoin price hitting $80,000 through call options, but they are also buying downside protection.",
+        "url": "https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/177293196d1f1a2e6bdf7bb9984e72e3943ef8a6-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-10T11:29:59Z",
+        "content": "Bitcoin's BTC\r\n$72,138.28 price may have rallied almost 7% since Sunday, but conviction remains weak, with the recovery stalling near $72,000 ahead of key binary risks, including Fridays U.S. inflati… [+3468 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-8-2026-02_56_36-PM.png",
         "publishedAt": "2026-04-08T14:01:33Z",
         "content": "Key takeaways\r\n<ul><li>BTC is up 4% and is now trading above $71k.</li><li>The rally could push Bitcoin’s price above $76k for the first time since March 16.</li></ul>Bitcoin and crypto market surge … [+2151 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "André Beganski",
-        "title": "Bitcoin Surged Overnight After Iran Ceasefire—This New 'AfterDark' ETF Would've Caught the Move",
-        "description": "Investors gained access to an ETF that’s designed to avoid the U.S. trading session, offering exposure to Bitcoin while Wall Street sleeps.",
-        "url": "https://decrypt.co/363636/bitcoin-surged-overnight-iran-ceasefire-afterdark-etf-wouldve-caught-move",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-moon-price-decrypt-style-01-gID_7.png",
-        "publishedAt": "2026-04-08T13:57:38Z",
-        "content": "In brief\r\n<ul><li>A fund debuted on the New York Stock Exchange that maintains exposure to Bitcoin only when the exchange is closed.</li><li>The funds debut follows consternation last year that Bitco… [+3334 chars]"
       }
     ]
   }
