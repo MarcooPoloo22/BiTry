@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-11T10:25:48.501Z",
+  "timestamp": "2026-04-11T11:23:27.295Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Charles Thuo",
+        "title": "Japan approves bill to classify crypto as financial assets",
+        "description": "Cryptocurrencies now fall under Japan’s securities-style financial laws. Insider trading rules and stricter disclosures will apply. Lower taxes may boost investor and institutional participation. Japan has taken a major step in reshaping how it treats cryptoc…",
+        "url": "https://coinjournal.net/news/japan-approves-bill-to-recognise-cryptocurrencies-as-financial-assets/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/Tokyo-skyline-at-sunset-with-Bitcoin.png",
+        "publishedAt": "2026-04-10T10:46:49Z",
+        "content": "<ul><li>Cryptocurrencies now fall under Japan’s securities-style financial laws.</li><li>Insider trading rules and stricter disclosures will apply.</li><li>Lower taxes may boost investor and institut… [+4604 chars]"
+      },
       {
         "source": {
           "id": null,
