@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-04-11T01:25:04.796Z",
+  "timestamp": "2026-04-11T04:13:11.260Z",
   "data": {
     "status": "ok",
     "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Holds Bullish Bias, Upside Continuation in Focus",
+        "description": "Ethereum price extended gains above $2,250 before it started a downside correction. ETH is now consolidating above $2,120 and might aim for a fresh increase. Ethereum started a decent upward move above the $2,220 zone. The price is trading above $2,180 and th…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-holds-bullish-2125/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-Price-Holds-Bullish-Bias-Upside-Continuation-in-Focus.jpg?fit=1024%2C559",
+        "publishedAt": "2026-04-10T03:18:52Z",
+        "content": "Ethereum price extended gains above $2,250 before it started a downside correction. ETH is now consolidating above $2,120 and might aim for a fresh increase.\r\n<ul><li>Ethereum started a decent upward… [+2186 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Sam Reynolds, AI Boost",
+        "title": "OKX and HashKey invest in new Vietnam exchange ahead of crypto licensing push",
+        "description": "The partnership will help the exchange meet Vietnam's $380 million capital requirement to enter a government pilot program aimed at licensing local platforms and curbing offshore trading.",
+        "url": "https://www.coindesk.com/markets/2026/04/10/okx-hashkey-back-usd380-million-vietnam-crypto-push-as-new-rules-near-rollout",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e6efdc3c14cfbc04d11ff5c1f248f2b87afdc852-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-10T02:35:25Z",
+        "content": "OKX Ventures and HashKey Capital are backing a new Vietnam-based crypto exchange as Hanoi accelerates efforts to bring one of the world's most active retail crypto markets under formal regulation.\r\nV… [+2155 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Turns Higher, Can It Print New Monthly Highs?",
+        "description": "Bitcoin price started a strong increase above the $71,500 zone. BTC is consolidating gains and might aim for more gains above the $73,250 zone. Bitcoin gained pace for a move above the $71,500 and $72,000 levels. The price is trading above $71,500 and the 100…",
+        "url": "http://www.newsbtc.com/analysis/eth/bitcoin-price-turns-higher-72k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Turns-Higher.jpg",
+        "publishedAt": "2026-04-10T02:30:30Z",
+        "content": "Bitcoin price started a strong increase above the $71,500 zone. BTC is consolidating gains and might aim for more gains above the $73,250 zone.\r\n<ul><li>Bitcoin gained pace for a move above the $71,5… [+2239 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,45 +433,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d6c91-ad8a-777a-8b7d-addee3cd272c.jpg",
         "publishedAt": "2026-04-08T11:26:28Z",
         "content": "Thailands securities regulator is seeking to curb money laundering and technology-related crimes by tightening funding rules for cryptocurrency companies.\r\nThe Securities and Exchange Commission of T… [+2443 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Just Deviated From The Bearish Trend That Began In January And $86,000 Could Be Next",
-        "description": "Bitcoin has been in a bearish trend that spilled over from 2025 into the year 2026. This has persisted from January, and throughout the first quarter of the year, the Bitcoin price has continued to decline as a result. This trend, however, seems to be nearing…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-just-deviated-bearish/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-31-2026-01_24_53-PM.png?fit=1222%2C814",
-        "publishedAt": "2026-04-08T10:30:03Z",
-        "content": "Bitcoin has been in a bearish trend that spilled over from 2025 into the year 2026. This has persisted from January, and throughout the first quarter of the year, the Bitcoin price has continued to d… [+2392 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Benson Toti",
-        "title": "Solana price forecast: is $150 next amid US-Iran ceasefire?",
-        "description": "Solana price has gained in the past 24 hours as Bitcoin retests $72,000. The SOL token could rally to $150 amid the US-Iran ceasefire. However, continued weakness could allow bears to target $70 or lower. ​Solana’s latest rebound has revived bullish speculati…",
-        "url": "https://coinjournal.net/news/solana-price-forecast-is-150-next-amid-us-iran-ceasefire/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/trader-checks-crypto-price-chart-on-mobile.png",
-        "publishedAt": "2026-04-08T10:03:51Z",
-        "content": "<ul><li>Solana price has gained in the past 24 hours as Bitcoin retests $72,000.</li><li>The SOL token could rally to $150 amid the US-Iran ceasefire.</li><li>However, continued weakness could allow … [+2677 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Ethereum (ETH) Outlook: $2,500 Break Could Trigger Major Rally — Expert’s Price Scenarios",
-        "description": "Ethereum (ETH) slid on Tuesday, trading just above $2,080 as the wider crypto market weakened — a level well shy of a critical threshold identified by expert Ali Martinez as the trigger for a sustained macro bull run.  In a breakdown shared on social media pl…",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-eth-outlook-2500-break-could-trigger-major-rally-experts-price-scenarios/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/08/Screenshot_1194.jpg?fit=1250%2C707",
-        "publishedAt": "2026-04-08T07:00:09Z",
-        "content": "Ethereum (ETH) slid on Tuesday, trading just above $2,080 as the wider crypto market weakened a level well shy of a critical threshold identified by expert Ali Martinez as the trigger for a sustained… [+2866 chars]"
       }
     ]
   }
