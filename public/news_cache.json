@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-11T04:13:11.260Z",
+  "timestamp": "2026-04-11T05:55:03.127Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Solana (SOL) Maintains Strength, Gradual Gains Signal Bullish Bias",
+        "description": "Solana failed to stay above $85 and corrected some gains. SOL price is now consolidating and might aim for another increase above $85. SOL price started a downside correction below $84 against the US Dollar. The price is now trading above $82 and the 100-hour…",
+        "url": "http://www.newsbtc.com/analysis/solana-sol-maintains-strength-82-5/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Solana-SOL-Maintains-Strength.jpg?fit=1024%2C559",
+        "publishedAt": "2026-04-10T05:08:02Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
       {
         "source": {
           "id": null,
