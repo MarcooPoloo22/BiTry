@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-12T17:28:09.825Z",
+  "timestamp": "2026-04-12T18:35:42.085Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
+        "description": "Bitcoin open interest hit five-week highs while funding rates mimicked the BTC price collapse below $60,000, leading analysis to predict a new short squeeze.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d7d5f-c38a-7815-b967-1eceddc9af3a.jpg",
+        "publishedAt": "2026-04-11T18:28:22Z",
+        "content": "Bitcoin (BTC) is due a classic short squeeze as open interest hits five-week highs, says new analysis.\r\nKey points:\r\n<ul><li>Bitcoin is seeing a combination of rising open interest and negative fundi… [+3357 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Flashes ‘Dangerous’ Macro Fractal – What To Expect For Price",
+        "description": "Bitcoin’s weekly chart is showing an uncomfortable comparison to one of the most brutal sell-offs in its history, and at least one analyst believes the worst may still be ahead.  This technical outlook is looking at the current price action as a mirror of the…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-flashes-dangerous-macro-fractal-what-to-expect-for-price/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/a_8fdd44.jpg?fit=5375%2C3583",
+        "publishedAt": "2026-04-11T17:30:01Z",
+        "content": "Bitcoin’s weekly chart is showing an uncomfortable comparison to one of the most brutal sell-offs in its history, and at least one analyst believes the worst may still be ahead. \r\nThis technical outl… [+2630 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,19 +485,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d7287-bdfc-7a81-a877-38ded99c9ea7.jpg",
         "publishedAt": "2026-04-09T13:57:14Z",
         "content": "Bitcoin (BTC) circled $71,000 at Thursdays Wall Street open after US inflation data conformed to expectations.\r\nKey points:\r\n<ul><li>Bitcoin waits for new catalysts as US PCE inflation data conforms … [+3292 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Higher Before Lower: How Bitcoin Price Will Get To $240,000",
-        "description": "The current downtrend has put the Bitcoin price in an increasingly difficult position as bears push back on every recovery. Even now, the price continues to struggle to maintain an uptrend, but it has not deterred bulls from predicting higher prices. The gene…",
-        "url": "http://www.newsbtc.com/news/bitcoin/higher-before-lower-bitcoin/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-from-Getty-Images-20.jpg?fit=612%2C374",
-        "publishedAt": "2026-04-09T08:30:10Z",
-        "content": "The current downtrend has put the Bitcoin price in an increasingly difficult position as bears push back on every recovery. Even now, the price continues to struggle to maintain an uptrend, but it ha… [+2194 chars]"
       }
     ]
   }
