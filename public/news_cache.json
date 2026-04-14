@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-14T17:59:45.829Z",
+  "timestamp": "2026-04-14T19:20:50.405Z",
   "data": {
     "status": "ok",
     "totalResults": 39,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Logan Hitchcock",
+        "title": "'We Will Not Pay These Criminals': Crypto Exchange Kraken Is Being Extorted Over Stolen Data",
+        "description": "Crypto exchange Kraken says it's being extorted over stolen customer data, but won't yield to the criminals or negotiate.",
+        "url": "https://decrypt.co/364158/will-not-pay-criminals-crypto-exchange-kraken-extorted",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg",
+        "publishedAt": "2026-04-13T18:05:22Z",
+        "content": "In brief\r\n<ul><li>Kraken is being extorted for an undisclosed sum by criminals that have access to customer data. </li><li>The firm's security executive said it will not negotiate or pay the criminal… [+3451 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Godspower Owie",
+        "title": "Ethereum About To Turn? Death Cross Says Bottom Is Closer Than You Think",
+        "description": "Ethereum may be closer to a major turning point than it appears, as key technical signals begin to align. Despite recent weakness, the emergence of a death cross, often seen near the end of downtrends, suggests the market could be approaching its final phase …",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-about-to-turn/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-from-iStock-32.jpg?fit=612%2C429",
+        "publishedAt": "2026-04-13T18:00:36Z",
+        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -485,32 +511,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d7837-53a6-7988-8a3f-ebe67a32d769.jpg",
         "publishedAt": "2026-04-10T17:50:52Z",
         "content": "Key points:\r\n<ul><li>Buyers are attempting to push Bitcoin toward the $76,000 level but are facing significant selling from the bears.\r\n</li><li>Several major altcoins are likely to pick up momentum … [+8918 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "A Bitcoin Cautionary Tale: How This Popular Trader Went From $100 Million To Less Than $1,000",
-        "description": "Attention has again been drawn to the popular trader James Wynn, who went from a high of almost $100 million in profits to less than $1000 in his Hyperliquid account at the moment. The trader continues to trade Bitcoin and was recently liquidated as the marke…",
-        "url": "http://www.newsbtc.com/news/a-bitcoin-cautionary-tale/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Getty-Images-52.jpg?fit=612%2C408",
-        "publishedAt": "2026-04-10T16:00:43Z",
-        "content": "Attention has again been drawn to the popular trader James Wynn, who went from a high of almost $100 million in profits to less than $1000 in his Hyperliquid account at the moment. The trader continu… [+2563 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Tyler Warner",
-        "title": "Morning Minute: Bitcoin Breaks $73K as Strategy's STRC Bid Grows",
-        "description": "Strategy's STRC is buoying the Bitcoin bid, Galaxy stock is ripping, and Scott Bessent told the Senate to pass the Clarity Act—with Brian Armstrong chiming in.",
-        "url": "https://decrypt.co/363923/morning-minute-bitcoin-breaks-73k-strategy-strc-bid-grows",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-        "publishedAt": "2026-04-10T14:04:43Z",
-        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show co… [+9318 chars]"
       }
     ]
   }
