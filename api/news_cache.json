@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-14T15:07:27.812Z",
+  "timestamp": "2026-04-14T16:56:41.411Z",
   "data": {
     "status": "ok",
     "totalResults": 40,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "What The Bitcoin Relief Rally Above $71,000 Says About Where The Price Is Headed",
+        "description": "Crypto analyst Crypflow has explained what the Bitcoin relief rally above $71,000 means for the leading crypto and hinted that BTC could still drop lower. This came as the analyst alluded to the previous bear markets and how recent rallies are mirroring price…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-relief-rally-above-71000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-71.jpg?fit=960%2C711",
+        "publishedAt": "2026-04-13T16:30:24Z",
+        "content": "Crypto analyst Crypflow has explained what the Bitcoin relief rally above $71,000 means for the leading crypto and hinted that BTC could still drop lower. This came as the analyst alluded to the prev… [+2464 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Will Canny, AI Boost",
+        "title": "Crypto exchange Kraken targeted in extortion attempt but says there was no breach and no client funds at risk",
+        "description": "The firm said a criminal group is attempting to extort it over limited insider-related data access incidents affecting about 2,000 accounts. Kraken says it will not pay and is working with law enforcement.",
+        "url": "https://www.coindesk.com/business/2026/04/13/crypto-exchange-kraken-targeted-in-extortion-attempt-but-says-there-was-no-breach-and-no-client-funds-at-risk",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8c2d1d6c9e47c3db1e4becaf1739fb8dce590d3b-3600x2400.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-13T15:58:20Z",
+        "content": "Disclosure &amp; Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of… [+435 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -498,32 +524,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d76c2-1a1e-7c18-bf5f-84fe8586e21e.jpg",
         "publishedAt": "2026-04-10T13:54:32Z",
         "content": "Bitcoin (BTC) should find a floor near $55,000 in the second half of 2026, a new prediction says.\r\nKey points:\r\n<ul><li>Bitcoins MVRV Z-score metric still needs to match old bear-market bottoms to si… [+3085 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Why A Bitcoin Price Breakdown To $50,000 Could Be Important For Long-Term Bullishness",
-        "description": "A crypto analyst has shared two interesting scenarios she believes that the Bitcoin price could follow, depending on the direction of its next moves. According to the analyst, a price breakdown to new lows near $50,000 could be bullish for BTC, suggesting the…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-price-breakdown-50000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/08/Bitcoin-crash-4.jpeg?fit=1792%2C1024",
-        "publishedAt": "2026-04-10T13:00:02Z",
-        "content": "A crypto analyst has shared two interesting scenarios she believes that the Bitcoin price could follow, depending on the direction of its next moves. According to the analyst,a price breakdown to new… [+2721 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "Binance offers UAE staff temporary relocation as Middle East conflict disrupts region",
-        "description": "A spokesperson for the world's largest crypto exchange said Binance continues to operate seamlessly and serve its users without interruption.",
-        "url": "https://www.coindesk.com/business/2026/04/10/binance-offers-uae-staff-temporary-relocation-as-middle-east-conflict-disrupts-region",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/1ee17e1310c5c6829bf97b25a87741f3300a9b59-3200x2133.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-10T12:48:41Z",
-        "content": "Binance offered its staff in the United Arab Emirates the option to temporarily relocate to Hong Kong, Tokyo, Kuala Lumpur and Bangkok amid regional tensions, the company told CoinDesk Friday.\r\nGiven… [+2023 chars]"
       }
     ]
   }
