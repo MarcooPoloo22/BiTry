@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-14T13:05:43.350Z",
+  "timestamp": "2026-04-14T15:07:27.812Z",
   "data": {
     "status": "ok",
-    "totalResults": 39,
+    "totalResults": 40,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "It’s Too Early For A Bitcoin Price Bottom, Here’s What You Should Be Looking At",
+        "description": "Bitcoin price may be showing signs of holding steady, but that alone does not confirm a bottom is in place. A recent post by crypto analyst @CryptoTice_ argues that the current market phase does not yet meet the conditions historically associated with a true …",
+        "url": "http://www.newsbtc.com/news/bitcoin/too-early-bitcoin-price-bottom/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/07/istockphoto-BTC-17.jpg?fit=612%2C381",
+        "publishedAt": "2026-04-13T15:00:36Z",
+        "content": "Bitcoin price may be showing signs of holding steady, but that alone does not confirm a bottom is in place. A recent post by crypto analyst @CryptoTice_ argues that the current market phase does not … [+2896 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Tyler Warner",
+        "title": "Morning Minute: Relentless Sellers, War Volatility Keep Bitcoin Down",
+        "description": "Bitcoin fell over the weekend as Iran negotiations failed and sell pressure persists, while Morgan Stanley signaled growing crypto ambitions.",
+        "url": "https://decrypt.co/364107/morning-minute-relentless-sellers-war-volatility-keep-bitcoin-down",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg",
+        "publishedAt": "2026-04-13T14:05:31Z",
+        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show co… [+9876 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -498,19 +524,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/1ee17e1310c5c6829bf97b25a87741f3300a9b59-3200x2133.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-10T12:48:41Z",
         "content": "Binance offered its staff in the United Arab Emirates the option to temporarily relocate to Hong Kong, Tokyo, Kuala Lumpur and Bangkok amid regional tensions, the company told CoinDesk Friday.\r\nGiven… [+2023 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help",
-        "description": "Institutions are betting on the bitcoin price hitting $80,000 through call options, but they are also buying downside protection.",
-        "url": "https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/177293196d1f1a2e6bdf7bb9984e72e3943ef8a6-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-10T11:29:59Z",
-        "content": "Bitcoin's BTC\r\n$72,138.28 price may have rallied almost 7% since Sunday, but conviction remains weak, with the recovery stalling near $72,000 ahead of key binary risks, including Fridays U.S. inflati… [+3468 chars]"
       }
     ]
   }
