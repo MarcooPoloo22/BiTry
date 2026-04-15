@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-04-15T16:09:02.874Z",
+  "timestamp": "2026-04-15T17:59:59.988Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 27,
     "articles": [
       {
         "source": {
@@ -355,19 +355,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-bulls-charge-through-flames.png?fit=1536%2C1024",
         "publishedAt": "2026-04-13T07:00:50Z",
         "content": "Over the last week, the Bitcoin bulls looked to have taken control of the price, eventually pushing it back above $73,000 again. There has been a slowdown since then, with bears trying to retest the … [+2313 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
-        "description": "Alameda unstakes $16 million worth of Solana's SOL token, according to Arkham.",
-        "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2ed84b2e67185c91def23615bb78ff0e770a2dd7-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-13T06:58:56Z",
-        "content": "Bankrupt crypto exchange FTX's sister company Alameda Research \"unstaked\" roughly $16 million worth of Solana's SOL token and moved the same to an address linked to creditor repayments, according to … [+1559 chars]"
       }
     ]
   }
