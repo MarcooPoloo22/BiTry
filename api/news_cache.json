@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-16T04:46:13.433Z",
+  "timestamp": "2026-04-16T06:29:59.668Z",
   "data": {
     "status": "ok",
     "totalResults": 24,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Dogecoin (DOGE) Stuck Under $0.10, Bulls Can’t Force Break Higher",
+        "description": "Dogecoin corrected some gains from the $0.0980 zone against the US Dollar. DOGE is now holding the $0.0920 support and remains at risk of more losses. DOGE price started a fresh downside correction below $0.0950. The price is trading above the $0.0920 level a…",
+        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-stuck-under-0-10/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Dogecoin-DOGE-Stuck-Under-0.10-Bulls-Cant-Force-Break-Higher.jpg?fit=1024%2C559",
+        "publishedAt": "2026-04-15T05:08:49Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -303,19 +316,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-from-iStock-32.jpg?fit=612%2C429",
         "publishedAt": "2026-04-13T18:00:36Z",
         "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January",
-        "description": "Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.",
-        "url": "https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-        "publishedAt": "2026-04-13T17:00:15Z",
-        "content": "In brief\r\n<ul><li>Crypto funds attracted $1.1 billion in weekly inflows last week, the highest in three months.</li><li>Bitcoin dominated flows with $871 million while Ethereum reversed recent outflo… [+2900 chars]"
       }
     ]
   }
