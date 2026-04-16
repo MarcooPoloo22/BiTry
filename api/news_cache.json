@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-16T13:10:33.256Z",
+  "timestamp": "2026-04-16T15:19:42.330Z",
   "data": {
     "status": "ok",
     "totalResults": 23,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "UK FCA seeks feedback on guidance for crypto rules ahead of 2027 rollout",
+        "description": "The UK financial regulator has launched a consultation on crypto rules covering stablecoins, trading and staking ahead of a broader UK crypto regime expected to take effect in 2027.",
+        "url": "https://cointelegraph.com/news/uk-fca-crypto-guidance-consultation-2027-rollout",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9150-6c4d-70ce-8c36-ac4dcdfb3f4c.jpg",
+        "publishedAt": "2026-04-15T14:37:33Z",
+        "content": "The United Kingdoms Financial Conduct Authority (FCA) said Wednesday it is consulting on guidance for the countrys future crypto regime, in the latest step toward a broader framework that is expected… [+2058 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -290,19 +303,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-Price-Rockets-8.jpg?fit=1024%2C559",
         "publishedAt": "2026-04-14T03:18:43Z",
         "content": "Ethereum price started a fresh surge and traded above $2,350. ETH is now consolidating and might aim for more gains above $2,400.\r\n<ul><li>Ethereum started a steady increase from the $2,180 zone.</li… [+2133 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Smashes $74K Barrier, Rally Gains Strong Traction",
-        "description": "Bitcoin price started a fresh surge and cleared the $73,800 zone. BTC is consolidating and might aim for more gains above the $75,000 level. Bitcoin managed to stay above $72,000 and started a fresh increase. The price is trading above $74,000 and the 100 hou…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-smashes-74k-barrier/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Smashes-74K-Barrier-Rally-Gains-Strong-Traction.jpg",
-        "publishedAt": "2026-04-14T02:32:22Z",
-        "content": "Bitcoin price started a fresh surge and cleared the $73,800 zone. BTC is consolidating and might aim for more gains above the $75,000 level.\r\n<ul><li>Bitcoin managed to stay above $72,000 and started… [+2197 chars]"
       }
     ]
   }
