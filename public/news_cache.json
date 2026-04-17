@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-17T11:43:38.429Z",
+  "timestamp": "2026-04-17T12:59:25.839Z",
   "data": {
     "status": "ok",
     "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "Here’s The Next Key Bitcoin Price Resistance To Worry About",
+        "description": "The Bitcoin price is approaching a critical resistance zone as a crypto analyst warns of a potential volatility spike ahead. Apparently, an important liquidity cluster is stuck to this key level, with market participants watching closely for a breakout or rej…",
+        "url": "http://www.newsbtc.com/news/bitcoin/next-key-bitcoin-price-resistance/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin-resistance.jpeg?fit=1536%2C1024",
+        "publishedAt": "2026-04-16T12:30:04Z",
+        "content": "The Bitcoin price is approaching a critical resistance zone as a crypto analyst warns of a potential volatility spike ahead. Apparently, an importantliquidity cluster is stuck to this key level, with… [+3158 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,19 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Cools-Off-Bulls-Prepare-for-Next-Leg-Higher.jpg",
         "publishedAt": "2026-04-15T02:23:49Z",
         "content": "Bitcoin price started a fresh surge and cleared the $74,200 zone. BTC is consolidating and might aim for more gains above the $75,500 level.\r\n<ul><li>Bitcoin managed to stay above $73,200 and started… [+2197 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Bitcoin Price Breaks Higher: What The Market Data Says Could Happen Next",
-        "description": "The Bitcoin price is bouncing back strongly amid growing hopes for a potential shift in the standoff between the US and Iran. So far, BTC has gained roughly 10% in the weekly time frame. This pushed the asset back toward the $76,000 area and briefly marked a …",
-        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-price-breaks-higher-what-the-market-data-says-could-happen-next/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/image_HW6wNnl5_1776179982981_raw.jpg?fit=1024%2C1024",
-        "publishedAt": "2026-04-15T01:00:41Z",
-        "content": "The Bitcoin price is bouncing back strongly amid growing hopes for a potential shift in the standoff between the US and Iran. So far, BTC has gained roughly 10% in the weekly time frame. This pushed … [+2985 chars]"
       }
     ]
   }
