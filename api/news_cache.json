@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-18T17:30:07.220Z",
+  "timestamp": "2026-04-18T18:35:45.438Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Rakesh Upadhyay",
+        "title": "Price predictions 4/17: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
+        "description": "Bitcoin pole vaulted to $78,000 and altcoins soared after Iran said that the Strait of Hormuz was fully open. Will bulls be able to sustain the upward momentum?",
+        "url": "https://cointelegraph.com/markets/price-predictions-4-17-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9c55-2a24-71b7-92c4-ec66541a84f1.jpg",
+        "publishedAt": "2026-04-17T17:37:07Z",
+        "content": "Key points:\r\n<ul><li>Bitcoin soared above $76,000, opening the doors for a further rally toward $84,000.\r\n</li><li>Several major altcoins are showing strength, signaling broad-based buying by the bul… [+8666 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,45 +433,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/910cc56e7171f85753f9a3f9629a2e27c588c472-3992x2992.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-16T09:21:09Z",
         "content": "Joe McCann, founder of crypto investment firm Asymmetric, is being probed by authorities in Tanzania, following the the alleged death by suicide of his fiancé, U.S. influencer Ashly Robinson, during … [+2815 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Brayden Lindrea",
-        "title": "Morgan Stanley’s Bitcoin fund overtakes WisdomTree after 6 trading days",
-        "description": "The Morgan Stanley Bitcoin Trust’s inflow of $19.3 million on Thursday pushed it past the WisdomTree Bitcoin Fund by total net flows despite launching just six trading days ago.",
-        "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-sees-sixth-straight-inflow",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cbcdc-4932-7b3e-a639-4110bfd18163.jpg",
-        "publishedAt": "2026-04-16T06:02:21Z",
-        "content": "Morgan Stanleys new spot Bitcoin exchange-traded fund has just surpassed the WisdomTree Bitcoin Fund (WBTC) in total net inflows, despite launching just over a week ago. \r\nThe Morgan Stanley Bitcoin … [+2126 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Bitcoin Policy Institute Maps Out Strategy For US Stablecoin Supremacy Across 5 Policy Areas",
-        "description": "The Bitcoin Policy Institute (BPI) has released a new policy proposal for the United States aimed at establishing what it calls “stablecoin supremacy.” The proposal, published on Wednesday, is structured around five policy areas and comes on the heels of the …",
-        "url": "http://www.newsbtc.com/crypto/bitcoin-policy-institute-maps-out-strategy-for-us-stablecoin-supremacy-across-5-policy-areas/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/image_KlVeVyxd_1776277710252_raw.jpg?fit=1024%2C1024",
-        "publishedAt": "2026-04-16T06:00:37Z",
-        "content": "The Bitcoin Policy Institute (BPI) has released a new policy proposal for the United States aimed at establishing what it calls stablecoin supremacy. The proposal, published on Wednesday, is structur… [+4042 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Solana (SOL) Upside Builds, $90 Now Key Battleground",
-        "description": "Solana found support at $82.50 and corrected some losses. SOL price is now consolidating above $85 and might aim for a steady increase. SOL price started a decent recovery wave above $84 and $85 against the US Dollar. The price is now trading above $85 and th…",
-        "url": "http://www.newsbtc.com/analysis/solana-sol-upside-builds-90/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Solana-SOL-at-Crossroads.jpg?fit=1792%2C1024",
-        "publishedAt": "2026-04-16T05:08:16Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
