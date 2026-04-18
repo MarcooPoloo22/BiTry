@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-18T19:35:12.163Z",
+  "timestamp": "2026-04-18T20:27:35.772Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "The Hidden FVG Zone That Says Ethereum Price Could Rally To $10,000",
+        "description": "Ethereum has started to show signs of life again after weeks of muted price action, but one analyst believes the current move is only the beginning of something much larger. This inclination is based on a technical setup built around a hidden inefficiency zon…",
+        "url": "http://www.newsbtc.com/news/ethereum/hidden-fvg-zone-ethereum-10000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-17-2026-12_16_11-PM.jpeg?fit=1536%2C1024",
+        "publishedAt": "2026-04-17T20:00:20Z",
+        "content": "Ethereum has started to show signs of life again after weeks of muted price action, but one analyst believes the current move is only the beginning of something much larger. This inclination is based… [+2617 chars]"
+      },
       {
         "source": {
           "id": null,
