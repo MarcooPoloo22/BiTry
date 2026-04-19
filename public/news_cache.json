@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-19T15:30:51.622Z",
+  "timestamp": "2026-04-19T16:30:17.244Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Opeyemi Sule",
+        "title": "ADA Deja Vu? Cardano Price Surged 200% Last Time It Was At This Support Level",
+        "description": "The Cardano price has been a poor indicator of the positive momentum injected into the cryptocurrency market over the past week. Despite most large-cap altcoins surging on the back of easing macroeconomic pressure, the ADA token has barely been able to stage …",
+        "url": "http://www.newsbtc.com/news/cardano/cardano-price-surged-200-last-time/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/04/iStock-1336958377.jpeg?fit=2121%2C1414",
+        "publishedAt": "2026-04-18T16:00:29Z",
+        "content": "The Cardano price has been a poor indicator of the positive momentum injected into the cryptocurrency market over the past week. Despite most large-cap altcoins surging on the back of easing macroeco… [+2753 chars]"
+      },
       {
         "source": {
           "id": null,
