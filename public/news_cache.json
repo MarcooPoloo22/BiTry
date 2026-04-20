@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-20T17:52:23.988Z",
+  "timestamp": "2026-04-20T18:54:02.963Z",
   "data": {
     "status": "ok",
     "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Ethereum Flips Key Resistance, ETF Demand Returns, Analysts Eye Next Leg Higher",
+        "description": "Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls. The la…",
+        "url": "http://www.newsbtc.com/altcoin/ethereum-flips-key-resistance-etf-demand-returns-analysts-eye-next-leg-higher/",
+        "urlToImage": null,
+        "publishedAt": "2026-04-19T18:00:17Z",
+        "content": "Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereums price … [+2789 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,19 +485,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Bitcoin-Price-Attempts-Comeback.jpg",
         "publishedAt": "2026-04-17T02:29:37Z",
         "content": "Bitcoin price started a fresh increase and cleared the $74,650 zone. BTC is consolidating and might aim for more gains above the $75,500 level.\r\n<ul><li>Bitcoin managed to stay above $73,500 and star… [+2136 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Crypto Analyst Says It’s Time To Swap Bitcoin For XRP, Here’s Why",
-        "description": "A crypto analyst has sparked fresh debate after warning investors to consider swapping their Bitcoin (BTC) for XRP. He argues that the shifting global reserve standards could reshape which digital assets gain institutional favor, potentially positioning XRP a…",
-        "url": "http://www.newsbtc.com/news/time-to-swap-bitcoin-for-xrp/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/XRP-And-Bitcoin-from-iStock-1.jpg?fit=612%2C408",
-        "publishedAt": "2026-04-17T00:00:43Z",
-        "content": "A crypto analyst has sparked fresh debate after warning investors to consider swapping their Bitcoin (BTC) for XRP. He argues that the shiftingglobal reserve standards could reshape which digital ass… [+2910 chars]"
       }
     ]
   }
