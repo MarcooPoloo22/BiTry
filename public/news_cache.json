@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-21T08:28:16.214Z",
+  "timestamp": "2026-04-21T10:12:18.393Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Here's how bitcoin's $7.9 billion April options expiry impact prices",
+        "description": "With the bitcoin price above max pain and heavy positioning at $75K, traders face a potential squeeze or pullback into \"max pain\" expiry.",
+        "url": "https://www.coindesk.com/markets/2026/04/20/here-s-how-bitcoin-s-usd7-9-billion-options-expiry-impact-prices",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a46fdc0eb758eaaa46dbb2c54a2f8a929843b634-6048x4024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-20T09:53:12Z",
+        "content": "Bitcoin BTC\r\n$75,186.68 options worth roughly $7.9 billion are set to expire on Deribit this Friday, with positioning data pointing to $62,000 and $75,000 as key levels to watch out for. \r\nThe $75,00… [+2477 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Pulls Back Below $75K As Iran Tensions Rise Again",
+        "description": "The Crypto Fear & Greed Index crept up two points to 29 out of 100 on Monday — its highest reading since late January — but that number still signals fear among Bitcoin investors. Related Reading: Strategy Raises $1.76B War Chest As Saylor Signals Bigger Bitc…",
+        "url": "http://www.newsbtc.com/news/bitcoin-pulls-back-below-key-levels-as-iran-tensions-rise-again/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/conceptual-digital-art-of-bitcoin-and-war-showing-.jpeg",
+        "publishedAt": "2026-04-20T09:30:21Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,19 +498,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/a_ed7f9b.jpg?fit=1600%2C900",
         "publishedAt": "2026-04-17T07:30:46Z",
         "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "This Indicator Used To Predict Bitcoin Bottoms Is Flashing Below $50,000",
-        "description": "There are many different indicators that analysts have used to predict the Bitcoin bottom in the past, and the Cumulative Value Days Destroyed (CVDD) is one of them. Mostly, these indicators are known for predicting the bottom because when they have appeared …",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-bottoms-below-50000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/06/Bitcoin-crash.jpeg?fit=1792%2C1024",
-        "publishedAt": "2026-04-17T06:30:13Z",
-        "content": "There are many different indicators that analysts have used to predict the Bitcoin bottom in the past, and the Cumulative Value Days Destroyed (CVDD) is one of them. Mostly, these indicators are know… [+2359 chars]"
       }
     ]
   }
