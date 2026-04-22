@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-22T11:53:57.752Z",
+  "timestamp": "2026-04-22T13:05:50.046Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yashu Gola",
+        "title": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?",
+        "description": "A falling VIX signals improving risk appetite, boosting Bitcoin’s chances of attracting fresh demand and breaking above the $80,000 level.",
+        "url": "https://cointelegraph.com/markets/vix-drops-45-precent-three-weeks-btc-price-retake-80k",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019dafe7-39c1-76be-af2e-f1e8930ae4f4.jpg",
+        "publishedAt": "2026-04-21T12:25:47Z",
+        "content": "The CBOE Volatility Index (VIX), a preferred Wall Street metric to measure investor sentiment and market risk, dropped by over 45% in under a month. For Bitcoin (BTC), this could be a significant bul… [+2866 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,32 +485,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/fbd1652657bfb9351a33da786859d3bebdd22a69-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-18T16:46:46Z",
         "content": "Binance and Bitget, two major cryptocurrency exchanges, have opened investigations into trading activity surrounding RaveDAOs RAVE token, after onchain sleuth ZachXBT alleged insiders engineered a la… [+3313 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "ADA Deja Vu? Cardano Price Surged 200% Last Time It Was At This Support Level",
-        "description": "The Cardano price has been a poor indicator of the positive momentum injected into the cryptocurrency market over the past week. Despite most large-cap altcoins surging on the back of easing macroeconomic pressure, the ADA token has barely been able to stage …",
-        "url": "http://www.newsbtc.com/news/cardano/cardano-price-surged-200-last-time/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/04/iStock-1336958377.jpeg?fit=2121%2C1414",
-        "publishedAt": "2026-04-18T16:00:29Z",
-        "content": "The Cardano price has been a poor indicator of the positive momentum injected into the cryptocurrency market over the past week. Despite most large-cap altcoins surging on the back of easing macroeco… [+2753 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Analyst Says Bitcoin Is Going To $170,000: Here’s When To Buy And When To Sell",
-        "description": "Crypto analyst Hanzo has predicted that Bitcoin will rally to a new all-time high (ATH) of $170,000 in the next bull run. He also revealed what level investors should look to buy BTC in this bear market as they target this potential rally to $170,000.  Bitcoi…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-is-going-to-170000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-60.jpg?fit=1280%2C853",
-        "publishedAt": "2026-04-18T14:30:28Z",
-        "content": "Crypto analyst Hanzo has predicted that Bitcoin will rally to a new all-time high (ATH) of $170,000 in the next bull run. He also revealed what level investors should look to buy BTC in this bear mar… [+2369 chars]"
       }
     ]
   }
