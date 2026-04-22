@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-22T20:43:38.926Z",
+  "timestamp": "2026-04-22T21:42:52.761Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Anthony Scaramucci Puts Bitcoin Market Cap At $21 Trillion, So How Much Will 1 BTC Be?",
+        "description": "Anthony Scaramucci, the financier and SkyBridge Capital founder who briefly served as White House communications director, has made a bold case for Bitcoin’s long-term value.  According to him, Bitcoin’s market cap is well on track to reach $21 trillion, and …",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-21-trillion-market-cap/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-88.jpg?fit=1280%2C848",
+        "publishedAt": "2026-04-21T21:30:20Z",
+        "content": "Anthony Scaramucci, the financier and SkyBridge Capital founder who briefly served as White House communications director, has made a bold case for Bitcoin’s long-term value. \r\nAccording to him, Bitc… [+2733 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +420,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a46fdc0eb758eaaa46dbb2c54a2f8a929843b634-6048x4024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-20T09:53:12Z",
         "content": "Bitcoin BTC\r\n$75,186.68 options worth roughly $7.9 billion are set to expire on Deribit this Friday, with positioning data pointing to $62,000 and $75,000 as key levels to watch out for. \r\nThe $75,00… [+2477 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Bitcoin Pulls Back Below $75K As Iran Tensions Rise Again",
-        "description": "The Crypto Fear & Greed Index crept up two points to 29 out of 100 on Monday — its highest reading since late January — but that number still signals fear among Bitcoin investors. Related Reading: Strategy Raises $1.76B War Chest As Saylor Signals Bigger Bitc…",
-        "url": "http://www.newsbtc.com/news/bitcoin-pulls-back-below-key-levels-as-iran-tensions-rise-again/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/conceptual-digital-art-of-bitcoin-and-war-showing-.jpeg",
-        "publishedAt": "2026-04-20T09:30:21Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
       }
     ]
   }
