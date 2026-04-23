@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-04-23T21:38:21.241Z",
+  "timestamp": "2026-04-23T22:36:12.882Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
       {
         "source": {
@@ -433,19 +433,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8cd59e58d769c9d0c3ce77496cdaab720bffd0c8-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-21T14:25:45Z",
         "content": "Economic development officials with links to the U.K. government invited Bybit leadership to London this week in what appears to be a bid to emulate the momentum of Dubai, where the cryptocurrency ex… [+2301 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Helene Braun, AI Boost",
-        "title": "European banks are at risk of losing customers to rivals with better crypto tools",
-        "description": "A new study found that while European investors find crypto complex, they are increasingly willing to switch banks to find a trusted partner that offers secure and regulated digital asset services.",
-        "url": "https://www.coindesk.com/business/2026/04/21/european-banks-are-at-risk-of-losing-customers-to-rivals-with-better-crypto-tools",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e0e7d56858850b6e7a6abc32a3772680fdc761b7-5504x3220.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-21T14:21:59Z",
-        "content": "A growing share of European investors may change banks to access better crypto services, according to a new study from Boerse Stuttgart Digital, signaling a shift in how digital assets are shaping re… [+2553 chars]"
       }
     ]
   }
