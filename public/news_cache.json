@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-04-23T11:55:18.325Z",
+  "timestamp": "2026-04-23T13:05:02.473Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "Bitcoin Bull Score Index Turns Neutral For First Time This Bear Market",
+        "description": "Bitcoin’s Bull Score Index has climbed back to 50, moving out of outright bearish territory and into what CryptoQuant’s Julio Moreno described as a neutral zone. In a post on X, the CryptoQuant head of research wrote: “First time in this bear market that the …",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-bull-score-neutral-first-time-bear-market/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/ChatGPT-Image-22.-Apr.-2026-08_53_11.png?fit=1672%2C941",
+        "publishedAt": "2026-04-22T13:00:17Z",
+        "content": "Bitcoins Bull Score Index has climbed back to 50, moving out of outright bearish territory and into what CryptoQuants Julio Moreno described as a neutral zone.\r\nIn a post on X, the CryptoQuant head o… [+2674 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Francisco Rodrigues",
+        "title": "Kraken filed 56 million crypto tax forms for 2025. One-third were below $1",
+        "description": "The lack of a de minimis exemption for crypto payments and staking rewards taxed at receipt creates a huge reporting burden, the data shows.",
+        "url": "https://www.coindesk.com/policy/2026/04/22/kraken-filed-56-million-crypto-tax-forms-for-2025-one-third-were-below-usd1",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2da9a6b82dc390b2d695ea5aa81f501be1758c14-1920x1350.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-22T12:45:04Z",
+        "content": "Crypto exchange Kraken says it filed 56 million crypto-transaction forms with the U.S. Internal Revenue Service (IRS) for the 2025 tax year. Roughly 18.5 million of them covered transactions worth le… [+3108 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Power Laws Predicts When Price Will Hit $1,000,000",
+        "description": "A crypto analyst, Zynx, on the X (formerly Twitter) platform, has shown where the Bitcoin price might be headed over the next few years using the Bitcoin Power Law. This law shows a steady upward trajectory, putting into perspective the performance of Bitcoin…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-power-laws-1000000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin.jpeg?fit=1536%2C1024",
+        "publishedAt": "2026-04-22T12:00:05Z",
+        "content": "A crypto analyst, Zynx, on the X (formerly Twitter) platform, has shown where the Bitcoin price might be headed over the next few years using the Bitcoin Power Law. This law shows a steady upward tra… [+2859 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,45 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-72.jpg?fit=1280%2C848",
         "publishedAt": "2026-04-20T23:30:18Z",
         "content": "The latest Bitcoin (BTC) price rebound above $78,000 has sparked renewed optimism across the market, asinvestor sentiment has flipped bullish. However, not all market watchers are convinced that the … [+3156 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nate Kostar",
-        "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
-        "description": "Bybit led an $8 million Series A round in Malaysia-based crypto exchange Hata, a dual-licensed platform, as the country expands its digital asset regulatory framework.",
-        "url": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019dac8d-2c59-79d9-8388-a354a6506754.jpg",
-        "publishedAt": "2026-04-20T21:05:36Z",
-        "content": "Bybit has led an $8 million Series A funding round in Hata, a dual-licensed digital asset exchange operating in Malaysia. The round also included participation from global family offices and follows … [+2818 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Godspower Owie",
-        "title": "Bitcoin Rebounds Strongly — Can Bulls Drive Price Toward $79,000",
-        "description": "Bitcoin is showing renewed strength after a sharp rebound, signaling that buyers are stepping back in at key levels. With momentum building and price pushing higher, attention is now shifting toward the $79,000 resistance zone, where a breakout could confirm …",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-rebounds-strongly/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-76.jpg?fit=1280%2C853",
-        "publishedAt": "2026-04-20T20:30:55Z",
-        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Turner Wright",
-        "title": "One year under Paul Atkins, SEC's crypto stance shows break with past",
-        "description": "While the regulator under Atkins has dropped several cases against crypto companies, the SEC still awaits passage of a market structure bill to clarify its authority over crypto.",
-        "url": "https://cointelegraph.com/news/paul-atkins-one-year-sec-chair",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019dab77-2d38-7e4a-bd7c-816ad0a085b0.jpg",
-        "publishedAt": "2026-04-20T19:02:33Z",
-        "content": "Since Paul Atkins was sworn in as chair of the US Securities and Exchange Commission (SEC) on April 21, 2025, the agency has significantly changed its position on regulation and enforcement related t… [+2716 chars]"
       }
     ]
   }
