@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-23T23:37:48.759Z",
+  "timestamp": "2026-04-24T01:52:19.432Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ciaran Lyons",
+        "title": "LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks",
+        "description": "Blockstream’s Adam Back discusses why people think he’s Satoshi Nakamoto, while the CEO of OKX Europe said MiCA is “extremely beneficial” for the industry at the latest LONGITUDE event in Paris.",
+        "url": "https://cointelegraph.com/news/longitude-recap-adam-back-on-satoshi-crypto-regulation-needs-tweaks",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db7ab-8c4d-74ab-8675-0bbe0dd1ca10.jpg",
+        "publishedAt": "2026-04-23T00:30:34Z",
+        "content": "Blockstream CEO Adam Back, the British cryptographer and inventor of Hashcash, said its flattering that people think hes Satoshi Nakamoto and was probably the result of his being a little too talkati… [+5974 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
+        "description": "Bitcoin and Ether surged as US liquidity measures and record spot ETF inflows offset investors’ recession fears and their concerns over the war in Iran.",
+        "url": "https://cointelegraph.com/markets/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db708-36c5-726b-aa78-a393483ee85f.jpg",
+        "publishedAt": "2026-04-23T00:30:00Z",
+        "content": "Key takeaways:\r\n<ul><li>US government bailout plans and currency swap lines with the UAE are easing global liquidity fears and lowering credit crisis risks.\r\n</li><li>Record Bitcoin ETF inflows and r… [+4263 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +433,6 @@
         "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db033-732f-799a-b38b-eae2a68a1db4.jpg",
         "publishedAt": "2026-04-21T16:40:31Z",
         "content": "Bitcoin (BTC) rebounded above $76,000 on Tuesday, after the spot market demand on Coinbase exchange saw a second week of bullish volume trends.\r\nNet spot buy volume has climbed sharply over the past … [+3593 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor",
-        "title": "Bitget exchange brings pre-IPO tokens to masses starting with SpaceX on Solana",
-        "description": "The crypto exchange opens IPO Prime access with Republic to offer Solana-based tokens tied to private firms ahead of public listings.",
-        "url": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-21T15:25:32Z",
-        "content": "Crypto exchange Bitget rolled out a new platform offering tokenized exposure to private companies, starting with an asset linked to SpaceX, as firms push to bring early-stage investing onto blockchai… [+1485 chars]"
       }
     ]
   }
