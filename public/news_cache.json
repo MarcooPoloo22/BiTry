@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-04-25T01:44:12.903Z",
+  "timestamp": "2026-04-25T04:30:09.555Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Upside Stalls, Another Decline Could Be Brewing",
+        "description": "Ethereum price started a fresh decline and traded below $2,350. ETH is now consolidating above $2,285 and might struggle to recover. Ethereum started a downside correction from the $2,425 zone. The price is trading below $2,365 and the 100-hourly Simple Movin…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-upside-stalls-2425/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Ethereum-Price-Latest-Push-Raises-Question.jpg?fit=1024%2C572",
+        "publishedAt": "2026-04-24T03:18:37Z",
+        "content": "Ethereum price started a fresh decline and traded below $2,350. ETH is now consolidating above $2,285 and might struggle to recover.\r\n<ul><li>Ethereum started a downside correction from the $2,425 zo… [+2109 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "Analyst Predicts A 30% Bitcoin Price Crash To $50,000, Here’s When",
+        "description": "The question of whether the Bitcoin price has hit a final bottom remains a major topic of discussion, as analysts remain unconvinced that the flagship cryptocurrency has reached a definitive floor. A recent analysis by market expert Maxi Trades suggests Bitco…",
+        "url": "http://www.newsbtc.com/news/bitcoin/30-bitcoin-price-crash-50000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin-price-50000.jpeg?fit=1536%2C1024",
+        "publishedAt": "2026-04-24T03:00:28Z",
+        "content": "The question of whether the Bitcoin price has hit a final bottom remains a major topic of discussion, as analysts remain unconvinced that the flagship cryptocurrency has reached a definitive floor. A… [+2599 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Strengthens, Fresh Upside Targets Come Into View",
+        "description": "Bitcoin price started a fresh increase and cleared the $78,000 zone. BTC is consolidating and might aim for more gains above the $78,550 level. Bitcoin managed to stay above $77,000 and started a fresh increase. The price is trading above $77,800 and the 100 …",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-strengthens-78k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Bitcoin-Price-Recovery-Attempts.jpg",
+        "publishedAt": "2026-04-24T02:30:54Z",
+        "content": "Bitcoin price started a fresh increase and cleared the $78,000 zone. BTC is consolidating and might aim for more gains above the $78,550 level.\r\n<ul><li>Bitcoin managed to stay above $77,000 and star… [+2237 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,58 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin.jpeg?fit=1536%2C1024",
         "publishedAt": "2026-04-22T12:00:05Z",
         "content": "A crypto analyst, Zynx, on the X (formerly Twitter) platform, has shown where the Bitcoin price might be headed over the next few years using the Bitcoin Power Law. This law shows a steady upward tra… [+2859 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nancy Lubale",
-        "title": "‘Powerful move’ looms for Bitcoin price, says Bollinger Bands indicator",
-        "description": "Bitcoin’s technical indicators predicted a significant move ahead for BTC, but the price must first break resistance at $80,000.",
-        "url": "https://cointelegraph.com/markets/powerful-move-looms-bitcoin-price-bollinger-bands-indicator",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db4ed-e884-778c-a3f2-8b0aea9d47a8.jpg",
-        "publishedAt": "2026-04-22T11:36:55Z",
-        "content": "Bitcoin (BTC) could see further upside volatility as several technical indicators suggested the BTC price was due for a powerful upward move.\r\nKey takeaways:\r\n<ul><li>Bitcoins Bollinger Bands indicat… [+3347 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Bitcoin surges above $78k amid ceasefire extension and liquidity boost",
-        "description": "Key takeaways Bitcoin price rallies higher, trading above $78,000 on Wednesday after surging nearly 6% so far this week. US-listed spot ETF recorded a mild inflow of $11.84 million on Tuesday amid uncertainty over US-Iran peace talks. Bitcoin (BTC) extended i…",
-        "url": "https://coinjournal.net/news/bitcoin-surges-above-78k-amid-ceasefire-extension-and-liquidity-boost/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-22-2026-12_28_57-PM.png",
-        "publishedAt": "2026-04-22T11:34:57Z",
-        "content": "Key takeaways\r\n<ul><li>Bitcoin price rallies higher, trading above $78,000 on Wednesday after surging nearly 6% so far this week.</li><li>US-listed spot ETF recorded a mild inflow of $11.84 million o… [+2602 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin 'Bull Score' hits six-month high as 2022 bear-market fears linger",
-        "description": "Bitcoin price metrics saw a broad recovery in April, but analysis warns that the 2022 bear-market breakdown could still repeat.",
-        "url": "https://cointelegraph.com/markets/bitcoin-bull-score-hits-six-month-high-2022-bear-market-fears-linger",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db45d-bed4-7489-8095-685ff62db64a.jpg",
-        "publishedAt": "2026-04-22T10:10:02Z",
-        "content": "Bitcoin (BTC) price metrics are showing relief this month, but the risk of repeating the 2022 bear market remains.\r\nKey points:\r\n<ul><li>Bitcoins Bull Score Index combined price metric reaches its hi… [+3349 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Amin Haqshanas",
-        "title": "Stratiphy reopens tax-free route to crypto ETNs for UK investors",
-        "description": "Stratiphy has relaunched crypto ETN access for UK investors through an ISA structure, reversing earlier restrictions that left no compliant route to tax-free crypto exposure.",
-        "url": "https://cointelegraph.com/news/stratiphy-crypto-etns-uk-isa-offering",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db421-1d6c-7013-9a38-c7ece32abb08.jpg",
-        "publishedAt": "2026-04-22T09:01:44Z",
-        "content": "UK fintech platform Stratiphy has launched a new offering that gives investors a practical tax-free route back into crypto exchange-traded notes (ETNs) for UK investors after a series of regulatory s… [+2654 chars]"
       }
     ]
   }
