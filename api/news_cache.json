@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-25T04:30:09.555Z",
+  "timestamp": "2026-04-25T06:16:34.759Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Dogecoin (DOGE) Turns Attractive—Bulls Aim Key Upside Break And Gains",
+        "description": "Dogecoin corrected some gains from the $0.0985 zone against the US Dollar. DOGE is now holding the $0.0950 support and might aim for a fresh upside. DOGE price started a fresh downside correction below $0.0965. The price is trading above the $0.0950 level and…",
+        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-turns-attractive-0-095/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Dogecoin-DOGE-Rebound-Hits-Resistance.jpg?fit=1024%2C572",
+        "publishedAt": "2026-04-24T05:08:13Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,19 +459,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2da9a6b82dc390b2d695ea5aa81f501be1758c14-1920x1350.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-22T12:45:04Z",
         "content": "Crypto exchange Kraken says it filed 56 million crypto-transaction forms with the U.S. Internal Revenue Service (IRS) for the 2025 tax year. Roughly 18.5 million of them covered transactions worth le… [+3108 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Power Laws Predicts When Price Will Hit $1,000,000",
-        "description": "A crypto analyst, Zynx, on the X (formerly Twitter) platform, has shown where the Bitcoin price might be headed over the next few years using the Bitcoin Power Law. This law shows a steady upward trajectory, putting into perspective the performance of Bitcoin…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-power-laws-1000000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/bitcoin.jpeg?fit=1536%2C1024",
-        "publishedAt": "2026-04-22T12:00:05Z",
-        "content": "A crypto analyst, Zynx, on the X (formerly Twitter) platform, has shown where the Bitcoin price might be headed over the next few years using the Bitcoin Power Law. This law shows a steady upward tra… [+2859 chars]"
       }
     ]
   }
