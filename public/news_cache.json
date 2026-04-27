@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-27T05:23:47.354Z",
+  "timestamp": "2026-04-27T08:07:28.268Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Semilore Faleti",
+        "title": "Bitcoin Stalls At $77K As Major On-Chain Resistance Kicks In – Details",
+        "description": "Bitcoin prices are consolidating around the $77,000 mark, following a net 2.12% in the last week. The maiden cryptocurrency has registered significant positive traction in April, rising from around $67,000 to its current price level in the last three weeks. H…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-stalls-at-77k-as-major-on-chain-resistance-kicks-in-details/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/cryptocurrency-bitcoin-golden-coin-background_1017-31505.jpg",
+        "publishedAt": "2026-04-26T06:00:02Z",
+        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
+      },
       {
         "source": {
           "id": null,
