@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-04-27T10:54:38.250Z",
+  "timestamp": "2026-04-27T12:16:56.215Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 30,
     "articles": [
       {
         "source": {
@@ -394,19 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Rally-Nears-80K.jpg",
         "publishedAt": "2026-04-23T02:33:29Z",
         "content": "Bitcoin price started a fresh increase and cleared the $77,500 zone. BTC is consolidating and might aim for more gains above the $79,500 level.\r\n<ul><li>Bitcoin managed to stay above $76,500 and star… [+2192 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ciaran Lyons",
-        "title": "LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks",
-        "description": "Blockstream’s Adam Back discusses why people think he’s Satoshi Nakamoto, while the CEO of OKX Europe said MiCA is “extremely beneficial” for the industry at the latest LONGITUDE event in Paris.",
-        "url": "https://cointelegraph.com/news/longitude-recap-adam-back-on-satoshi-crypto-regulation-needs-tweaks",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019db7ab-8c4d-74ab-8675-0bbe0dd1ca10.jpg",
-        "publishedAt": "2026-04-23T00:30:34Z",
-        "content": "Blockstream CEO Adam Back, the British cryptographer and inventor of Hashcash, said its flattering that people think hes Satoshi Nakamoto and was probably the result of his being a little too talkati… [+5974 chars]"
       }
     ]
   }
