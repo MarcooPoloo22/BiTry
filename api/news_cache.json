@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-28T08:09:28.489Z",
+  "timestamp": "2026-04-28T10:56:05.481Z",
   "data": {
     "status": "ok",
     "totalResults": 27,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
+        "description": "The European Union acknowledges Russia is increasingly reliant on cryptocurrency to circumvent the sanctions the Western nations have imposed against due to its war on Ukraine",
+        "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d81a5317fb779c1958e887b3b5fac0df3ce3bccd-5184x3456.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-27T10:42:48Z",
+        "content": "The European Union (EU) released its biggest package of sanctions in two years against Russia, describing the measures as far-reaching and restrictive. They specifically target crypto with a total ba… [+2239 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,19 +355,6 @@
         "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/03/investor-viewing-xrp-cryptocurrency-logo-on-smartphone-screen.png",
         "publishedAt": "2026-04-23T17:12:44Z",
         "content": "<ul><li>XRP price held support near $1.40 and could eye a retest of $1.50.</li><li>Bitcoin and Ethereum continued to dictate sentiment.</li><li>Cryptocurrencies are showing upside potential despite g… [+2791 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Blockchain Capital Seeks $700M for Two New Crypto Funds",
-        "description": "The venture capital firm aims to close the fundraising within five to six months, and is already deploying some of the new capital.",
-        "url": "https://decrypt.co/365237/blockchain-capital-seeks-700m-for-two-new-crypto-funds",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-        "publishedAt": "2026-04-23T11:01:21Z",
-        "content": "In brief\r\n<ul><li>Blockchain Capital is raising $700 million across two new funds, according to Bloomberg sources.</li><li>The venture capital firm is pursuing its seventh early-stage fund and second… [+2262 chars]"
       }
     ]
   }
