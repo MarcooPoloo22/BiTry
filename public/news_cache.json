@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-04-28T10:56:05.481Z",
+  "timestamp": "2026-04-28T12:21:37.635Z",
   "data": {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
+        "description": "Bitcoin price action sealed its first weekly candle close above a 21-week moving average trend line since it traded near $115,000 in October 2025.",
+        "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI-Top-news-of-the-week-5.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-27T12:11:46Z",
+        "content": "Bitcoin (BTC) counts down the final days of April with a fresh attack on $80,000 as price teases key breakouts.\r\n<ul><li>Bitcoin sees its first weekly close above a key trend line since October 2025.… [+8426 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "Bitcoin’s rally stalls below $80k: Check forecast",
+        "description": "TL;DR BTC briefly touched the $79k level during the late hours of Sunday. US-listed spot BTC ETFs recorded inflows of over $820 million last week, marking the fourth straight week of positive flows. Bitcoin (BTC) edges slightly lower on Monday, trading around…",
+        "url": "https://coinjournal.net/news/bitcoins-rally-stalls-below-80k-check-forecast/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-12_04_15-PM.png",
+        "publishedAt": "2026-04-27T11:07:08Z",
+        "content": "TL;DR\r\n<ul><li>BTC briefly touched the $79k level during the late hours of Sunday.</li><li>US-listed spot BTC ETFs recorded inflows of over $820 million last week, marking the fourth straight week of… [+2718 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Bitcoin leads $1.2B weekly inflows into crypto investment products",
+        "description": "Crypto ETPs see $1.2 billion inflows in fourth straight week as Bitcoin leads gains and blockchain equity ETFs hit record demand, CoinShares reported.",
+        "url": "https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-four-week-streak",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI-10-top-inteprizes-that-became-involved-with-blockchain-ETF.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-27T10:58:36Z",
+        "content": "Cryptocurrency investment products continued their run of inflows last week as Bitcoin traded at its highest levels since early February.\r\nCrypto exchange-traded products (ETPs) recorded $1.2 billion… [+2342 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,19 +381,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-from-Getty-Images-16.jpg?fit=612%2C408",
         "publishedAt": "2026-04-23T20:00:14Z",
         "content": "Ethereum has surged roughly 36% from its recent accumulation zone, pushing the price into a critical area where momentum often gets tested. With key resistance now in play and signs of hesitation eme… [+2584 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Benson Toti",
-        "title": "XRP eyes retest of $1.50 as BTC, ETH show upside potential",
-        "description": "XRP price held support near $1.40 and could eye a retest of $1.50. Bitcoin and Ethereum continued to dictate sentiment. Cryptocurrencies are showing upside potential despite geopolitical headwinds. XRP is positioning for a crucial retest of the $1.50 resistan…",
-        "url": "https://coinjournal.net/news/xrp-eyes-retest-of-1-50-as-btc-eth-show-upside-potential/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/03/investor-viewing-xrp-cryptocurrency-logo-on-smartphone-screen.png",
-        "publishedAt": "2026-04-23T17:12:44Z",
-        "content": "<ul><li>XRP price held support near $1.40 and could eye a retest of $1.50.</li><li>Bitcoin and Ethereum continued to dictate sentiment.</li><li>Cryptocurrencies are showing upside potential despite g… [+2791 chars]"
       }
     ]
   }
