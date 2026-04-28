@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-28T19:21:45.541Z",
+  "timestamp": "2026-04-28T21:00:35.950Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
+        "description": "Cooling U.S. demand, elevated Bitfinex whale positioning and a key on chain rejection point to short term downside during the Las Vegas Bitcoin conference.",
+        "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8a8d9c574defe9ae9c3d4b51c716eeca823101c7-2130x1736.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-27T21:00:00Z",
+        "content": "Bitcoins Sunday night rally stalled out near $79,400 and is beginning to show signs of fatigue, with several indicators pointing to potential short-term weakness as the price trades back around $77,0… [+1775 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Rakesh Upadhyay",
+        "title": "Price predictions 4/27: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+        "description": "Bitcoin is stuck between $76,000 and $79,500, and several major altcoins are also showing signs of consolidation in the near term.",
+        "url": "https://cointelegraph.com/markets/price-predictions-427-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/analysis%20tesla.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-27T19:59:19Z",
+        "content": "Key points:\r\n<ul><li>Bitcoin continues to face resistance near $79,500, but the trajectory remains up as long as the price holds above $76,000.</li><li>Most major altcoins are not showing any directi… [+7760 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,19 +394,6 @@
         "urlToImage": null,
         "publishedAt": "2026-04-24T07:15:03Z",
         "content": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\r\n All news, reviews, and analyses are produced with full journa… [+116 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Dogecoin (DOGE) Turns Attractive—Bulls Aim Key Upside Break And Gains",
-        "description": "Dogecoin corrected some gains from the $0.0985 zone against the US Dollar. DOGE is now holding the $0.0950 support and might aim for a fresh upside. DOGE price started a fresh downside correction below $0.0965. The price is trading above the $0.0950 level and…",
-        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-turns-attractive-0-095/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Dogecoin-DOGE-Rebound-Hits-Resistance.jpg?fit=1024%2C572",
-        "publishedAt": "2026-04-24T05:08:13Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
