@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-04-28T12:21:37.635Z",
+  "timestamp": "2026-04-28T15:19:14.636Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
       {
         "source": {
@@ -368,19 +368,6 @@
         "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Cryptocurrency%20Laws%20and%20Regulations%20in%20Turkey.jpg?prefix=media%2Farticle-covers",
         "publishedAt": "2026-04-23T21:21:36Z",
         "content": "Global crypto adoption declined in the first quarter as retail activity weakened under mounting macroeconomic and geopolitical pressures, underscoring the sectors continued sensitivity to broader mar… [+2068 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Godspower Owie",
-        "title": "Ethereum Near Key Zone After 36% Gain – What’s Next?",
-        "description": "Ethereum has surged roughly 36% from its recent accumulation zone, pushing the price into a critical area where momentum often gets tested. With key resistance now in play and signs of hesitation emerging, the market is approaching a decisive moment that coul…",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-near-key-zone/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-from-Getty-Images-16.jpg?fit=612%2C408",
-        "publishedAt": "2026-04-23T20:00:14Z",
-        "content": "Ethereum has surged roughly 36% from its recent accumulation zone, pushing the price into a critical area where momentum often gets tested. With key resistance now in play and signs of hesitation eme… [+2584 chars]"
       }
     ]
   }
