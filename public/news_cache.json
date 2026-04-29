@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-04-29T19:11:04.538Z",
+  "timestamp": "2026-04-29T20:54:15.747Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Helene Braun",
+        "title": "Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting",
+        "description": "While the trading platform’s crypto revenue tanked 47% to $134 million, a record-breaking surge in prediction market bets helped push overall revenue up 15% to $1.07 billion.",
+        "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/444f7a787b146a0e468e858e32f1f9d80f6c9c32-3600x2400.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-04-28T20:28:00Z",
+        "content": "Robinhood (HOOD) reported a sharp decline in crypto trading revenue for the first quarter of 2026, even as growth in other parts of its business pushed overall revenue higher. \r\nCrypto-related revenu… [+1613 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "André Beganski",
+        "title": "Robinhood Shares Slide on 34% Decrease in Crypto Revenue",
+        "description": "Retail brokerage Robinhood's business has gotten a boost from prediction markets, though its crypto trading revenue fell in Q1.",
+        "url": "https://decrypt.co/365876/robinhood-shares-slide-34-decrease-crypto-revenue",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
+        "publishedAt": "2026-04-28T20:26:00Z",
+        "content": "Robinhood reported its smallest quarterly profit in a year on Tuesday, highlighting the retail brokerages lingering exposure to retail traders whose engagement has shown signs of cooling alongside a … [+2742 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Biraajmaan Tamuly",
+        "title": "Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M",
+        "description": "Bitcoin price followed weakening US spot market demand as the Coinbase Premium Index turned negative for the first time in three weeks.",
+        "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20JAPAN%20Basic%20knowledge%20for%20beginners%20in%20stock%20investment2.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-28T19:56:21Z",
+        "content": "Bitcoins (BTC) Coinbase Premium Index has turned negative at -0.008 for the first time in three weeks, signaling a sharp reduction in US spot market demand and aligning with BTC's current price drop.… [+2274 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +472,6 @@
         "urlToImage": null,
         "publishedAt": "2026-04-26T14:00:54Z",
         "content": "Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mi… [+2611 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Amin Haqshanas",
-        "title": "Market conditions force 1 in 3 crypto traders to cut everyday spending: Survey",
-        "description": "A CEX.IO survey finds 36% of US crypto traders cut everyday spending as Bitcoin remains 40% below its 2025 peak, highlighting growing household financial strain.",
-        "url": "https://cointelegraph.com/news/market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey",
-        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20How%20To%20File%20Taxes%20As%20A%20Forex%20Trader.jpg?prefix=media%2Farticle-covers",
-        "publishedAt": "2026-04-26T13:48:35Z",
-        "content": "The recent crypto market downturn has forced more than one in three crypto traders to cut everyday spending, according to a new survey by CEX.IO.\r\nThe survey, conducted among 1,100 US-based active CE… [+2570 chars]"
       }
     ]
   }
