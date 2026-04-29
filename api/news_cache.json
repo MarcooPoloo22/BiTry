@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-29T05:46:44.314Z",
+  "timestamp": "2026-04-29T08:02:31.557Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Brayden Lindrea",
+        "title": "Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move",
+        "description": "Jack Dorsey’s Block has launched a proof-of-reserves feature for investors to verify the firm’s 8,883 Bitcoin treasury, while Cash App and Square users can also use it to verify funds.",
+        "url": "https://cointelegraph.com/news/jack-dorseys-block-unveils-btc-proof-of-reserves-in-transparency-move",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Jack%20Dorsey%20is%20wrong%20Bitcoin.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-28T06:05:15Z",
+        "content": "Online payments firm Block has launched proof-of-reserves for its corporate Bitcoin treasury and two of its flagship products, Cash App and Square, joining a growing list of crypto companies proving … [+2312 chars]"
+      },
       {
         "source": {
           "id": null,
