@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-04-29T12:11:52.232Z",
+  "timestamp": "2026-04-29T15:04:55.856Z",
   "data": {
     "status": "ok",
     "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yashu Gola",
+        "title": "Can Bitcoin hit $250K this year? Traders say it may be time to ‘sell in May’",
+        "description": "Veteran trader Peter Brandt and other analysts question the $250,000 Bitcoin target, warning the current bear phase may not be over.",
+        "url": "https://cointelegraph.com/markets/can-bitcoin-hit-250k-this-year-top-btc-chart-watchers-weigh",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Markets%20pro%20trading%20strategy%20Bitcoin.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-28T14:43:59Z",
+        "content": "Bitcoin (BTC) is trading roughly 40% below its October 2025 record high near $126,000 despite its ongoing recovery.\r\nBTC/USD daily chart. Source: TradingView\r\nStill, some of the cryptocurrency's loud… [+3289 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Here’s Why The Bitcoin And Ethereum Prices Have Been Rising And Falling Sharply",
+        "description": "Bitcoin and Ethereum have spent the past few weeks moving like assets caught between two powerful forces. On one side, institutional demand has returned through Spot ETFs, treasury purchases, and dip-buying from larger investors. On the other side, profit-tak…",
+        "url": "http://www.newsbtc.com/news/bitcoin-and-ethereum-prices-2/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Getty-Images-43.jpg?fit=612%2C408",
+        "publishedAt": "2026-04-28T14:00:51Z",
+        "content": "Bitcoin and Ethereum have spent the past few weeks moving like assets caught between two powerful forces. On one side, institutional demand has returned through Spot ETFs, treasury purchases, and dip… [+2904 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,32 +433,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/cryptocurrency-bitcoin-golden-coin-background_1017-31505.jpg",
         "publishedAt": "2026-04-26T06:00:02Z",
         "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "The Ethereum Golden Triangle That Has Predicted Every Move Shows Where Price Is Headed",
-        "description": "A crypto analyst has identified a Golden Triangle, a rare structure that has been forming on the Ethereum (ETH) chart for almost nine years. According to the analyst, the Ethereum price has remained within this triangle during both bullish and bearish periods…",
-        "url": "http://www.newsbtc.com/altcoin/the-ethereum-golden-triangle-that-has-predicted-every-move-shows-where-price-is-headed/",
-        "urlToImage": null,
-        "publishedAt": "2026-04-26T04:00:25Z",
-        "content": "A crypto analyst has identified a Golden Triangle, a rare structure that has been forming on the Ethereum (ETH) chart for almost nine years. According to the analyst, the Ethereum price has remained … [+2870 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Price Wave Down To $40,000 Shows When The Bottom Will Begin",
-        "description": "According to a crypto analyst, the Bitcoin price remains firmly in a bear trend and could be preparing for another major crash to new lows. Using a wave structure, the expert mapped out BTC’s price action during this bearish phase, outlining how he sees the c…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-price-wave-down-to-40000-shows-when-the-bottom-will-begin/",
-        "urlToImage": null,
-        "publishedAt": "2026-04-26T02:00:54Z",
-        "content": "According to a crypto analyst, the Bitcoin price remains firmly in a bear trend and could be preparing for another major crash to new lows. Using a wave structure, the expert mapped out BTCs price ac… [+2974 chars]"
       }
     ]
   }
