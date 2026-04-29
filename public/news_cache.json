@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-29T08:02:31.557Z",
+  "timestamp": "2026-04-29T10:48:00.165Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Bitcoin ETFs snap nine-day inflow run as BTC slips below $77K",
+        "description": "US spot Bitcoin ETFs saw $263 million in outflows, snapping a nine-day inflow streak as BTC fell below $77,000 and sentiment weakened across crypto markets.",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-end-nine-day-inflow-streak-btc-77k",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI-BTC-performance-in-10-years-compared-with-other-assets.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-28T10:09:48Z",
+        "content": "US-listed spot Bitcoin exchange-traded funds posted their first net outflows in nine sessions as BTC slipped below $77,000 on Monday.\r\nBitcoin ETFs saw $263 million in net outflows on Monday, marking… [+2265 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,32 +433,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/istockphoto-879153690-612x612-1.jpg?fit=1000%2C666",
         "publishedAt": "2026-04-25T11:30:54Z",
         "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Semilore Faleti",
-        "title": "Bitcoin Traders Double Down On Bearish Bets Amid Consolidation – What This Means For Price",
-        "description": "Following its bullish footprint in April, Bitcoin price action slowed over the past week, recording no significant change. Amid this mini consolidation, analysis page XWIN Research Japan reports that traders remain confidently bearish on the digital asset’s p…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-traders-double-down-on-bearish-bets-amid-consolidation-what-this-means-for-price/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/cryptocurrency-bitcoin-stock-growth-chart-shows-strong-increase-price-bitcoin_372999-2130.jpg",
-        "publishedAt": "2026-04-25T08:30:30Z",
-        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Tether Moves To Freeze $344 Million In Crypto Amid US Probe",
-        "description": "A wave of crypto hacks hitting decentralized finance platforms in April has renewed an old argument: should stablecoin companies step in when stolen money passes through their systems? That question is now front and center again after Tether, the world’s larg…",
-        "url": "http://www.newsbtc.com/news/tether-moves-to-freeze-344-million-in-crypto-amid-us-probe/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/large-frozen-steel-vault-covered-in-ice-and-frost-.jpeg?fit=1440%2C810",
-        "publishedAt": "2026-04-25T04:00:34Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
       }
     ]
   }
