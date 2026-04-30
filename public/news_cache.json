@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-30T05:50:51.958Z",
+  "timestamp": "2026-04-30T08:06:10.396Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Rubmar Garcia",
+        "title": "Bitcoin Faces ‘Most Critical Week In Months’ Amid $76,000 Retest – Should Investors Worry?",
+        "description": "As Bitcoin (BTC) retests a critical support level, analysts have warned that the leading cryptocurrency is facing its most important week in months, which could make or break its recovery rally. Related Reading: Bitcoin Set For $88,000? Analysts Forecast May …",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-most-critical-week-76000-retest-worry/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/04/kanchanara-Lta5b8mPytw-unsplash.jpeg?fit=1920%2C1277",
+        "publishedAt": "2026-04-29T06:00:58Z",
+        "content": "As Bitcoin (BTC) retests a critical support level, analysts have warned that the leading cryptocurrency is facing its most important week in months, which could make or break its recovery rally.\r\nOn … [+3093 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,32 +485,6 @@
         "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI-10-top-inteprizes-that-became-involved-with-blockchain-ETF.jpg?prefix=media%2Farticle-covers",
         "publishedAt": "2026-04-27T10:58:36Z",
         "content": "Cryptocurrency investment products continued their run of inflows last week as Bitcoin traded at its highest levels since early February.\r\nCrypto exchange-traded products (ETPs) recorded $1.2 billion… [+2342 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
-        "description": "The European Union acknowledges Russia is increasingly reliant on cryptocurrency to circumvent the sanctions the Western nations have imposed against due to its war on Ukraine",
-        "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d81a5317fb779c1958e887b3b5fac0df3ce3bccd-5184x3456.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-27T10:42:48Z",
-        "content": "The European Union (EU) released its biggest package of sanctions in two years against Russia, describing the measures as far-reaching and restrictive. They specifically target crypto with a total ba… [+2239 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Solana (SOL) Edges Up, Traders Watch For Sustained Upside Move",
-        "description": "Solana started a fresh increase above the $86 zone. SOL price is now consolidating above $87 and might aim for more gains above the $90 zone. SOL price started a fresh upward move above the $85 and $86 levels against the US Dollar. The price is now trading ab…",
-        "url": "http://www.newsbtc.com/analysis/solana-sol-edges-up-90/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Solana-SOL-Edges-Up-Traders-Watch-For-Sustained-Upside-Move.jpg?fit=1024%2C559",
-        "publishedAt": "2026-04-27T05:18:58Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
