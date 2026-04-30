@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-30T15:00:49.066Z",
+  "timestamp": "2026-04-30T17:10:01.965Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Vince Dioquino",
+        "title": "Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​",
+        "description": "With four of five CFTC commissioner seats vacant, the decision on whether to lift Polymarket's U.S. ban rests with Chair Michael Selig alone.",
+        "url": "https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-04-29T15:01:02Z",
+        "content": "In brief\r\n<ul><li>Polymarket has reportedly approached the CFTC to lift the four-year ban on its main on-chain exchange.</li><li>The agencys only sitting commissioner, Chair Michael Selig, is positio… [+4534 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,45 +446,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2226f6b8d0697501e34614bf61a1ea94fccda406-1920x1344.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-04-27T17:17:25Z",
         "content": "The bitcoin BTC\r\n$77,642.53 rally toward $80,000 didnt last long on Monday, with prices slipping back to $76,600 during the U.S. session as geopolitical tensions crept back into focus.\r\nAfter trading… [+2218 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Is Headed For $40,000: Analyst Reveals The Best Time To Buy BTC",
-        "description": "A crypto analyst has warned against giving in to the FOMO and buying Bitcoin (BTC) at new highs. He noted that although the cryptocurrency could continue its upward move and even push past $80,000, this does not necessarily signal the end of the broader bear …",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-is-headed-for-40000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Getty-Images-56-1.jpg?fit=612%2C459",
-        "publishedAt": "2026-04-27T17:00:17Z",
-        "content": "A crypto analyst has warned against giving in to the FOMO and buying Bitcoin (BTC) at new highs. He noted that although the cryptocurrency could continue its upward move and even push past $80,000, t… [+3385 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents",
-        "description": "Gemini has integrated AI models like Claude and ChatGPT to execute automated trading strategies via an open protocol.",
-        "url": "https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/gemini-decrypt-style-01-gID_7.png",
-        "publishedAt": "2026-04-27T16:56:47Z",
-        "content": "In brief\r\n<ul><li>Gemini launched Agentic Trading, the first AI agent trading tool available directly through a regulated U.S.-based exchange.</li><li>Users can connect Claude, ChatGPT, and other AI … [+2531 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny, AI Boost",
-        "title": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
-        "description": "Despite muted prices to start the second quarter, the report said improving onchain metrics and network activity point to a market finding its footing.",
-        "url": "https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/71df673d351b791c3005560c1b5760411dece6dd-1500x922.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-27T15:44:00Z",
-        "content": "The digital assets market entered the second quarter in consolidation mode, but Fidelity Digital Assets said underlying data points to early signs of stabilization beneath the surface.\r\nIn its Q2 202… [+2158 chars]"
       }
     ]
   }
