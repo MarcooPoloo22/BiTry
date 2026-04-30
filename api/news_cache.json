@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-30T17:10:01.965Z",
+  "timestamp": "2026-04-30T19:07:01.538Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Biraajmaan Tamuly",
+        "title": "Bitcoin falls as traders cut risk ahead of FOMC: Will TradFi, spot ETF volumes bolster $70K support?",
+        "description": "Bitcoin price volatility tends to spike before and after the FOMC, a pattern that is playing out this week. Will institutional investor BTC buying protect the $70,000 support?",
+        "url": "https://cointelegraph.com/markets/bitcoin-stalls-under-76k-as-traders-risk-off-ahead-of-fomc",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Bitget%20research%20article%20350%2C000%20Crypto%20Currency%20Traders%20in%20Japan%20BitGet%20Research.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-29T18:38:30Z",
+        "content": "Bitcoin (BTC) fell from its local high at $79,500 as traders repositioned ahead of the Federal Open Market Committee (FOMC) meeting on Wednesday.\r\nHistorical data shows that since the start of 2025, … [+3185 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/bull22.jpg?prefix=media%2Farticle-covers",
         "publishedAt": "2026-04-27T18:35:04Z",
         "content": "Bitcoin (BTC) fell more than 2% on Monday as US-Iran war nerves again guided macro markets.\r\nKey points:\r\n<ul><li>Bitcoin gave back early-week gains as its downside extended toward 3% on Monday.</li>… [+2760 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor",
-        "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
-        "description": "Short-term holder profit-taking is offsetting fresh demand from ETFs and Strategy, pointing to consolidation below $80,000, Bitfinex analysts said.",
-        "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2226f6b8d0697501e34614bf61a1ea94fccda406-1920x1344.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-27T17:17:25Z",
-        "content": "The bitcoin BTC\r\n$77,642.53 rally toward $80,000 didnt last long on Monday, with prices slipping back to $76,600 during the U.S. session as geopolitical tensions crept back into focus.\r\nAfter trading… [+2218 chars]"
       }
     ]
   }
