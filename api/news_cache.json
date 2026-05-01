@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-05-01T14:16:41.882Z",
+  "timestamp": "2026-05-01T15:48:07.976Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 30,
     "articles": [
       {
         "source": {
@@ -394,32 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Getty-Images-43.jpg?fit=612%2C408",
         "publishedAt": "2026-04-28T14:00:51Z",
         "content": "Bitcoin and Ethereum have spent the past few weeks moving like assets caught between two powerful forces. On one side, institutional demand has returned through Spot ETFs, treasury purchases, and dip… [+2904 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nancy Lubale",
-        "title": "Is Ethereum safe above $2K? Traders are watching these ETH price levels",
-        "description": "Ethereum traders eye key ETH price support and resistance levels as onchain data reveals flipping $2,400 is key for Ether’s sustained recovery.",
-        "url": "https://cointelegraph.com/markets/is-ethereum-safe-above-2k-traders-are-watching-these-eth-price-levels",
-        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/ETH%20cover%20April%2028.jpg?prefix=media%2Farticle-covers",
-        "publishedAt": "2026-04-28T11:52:34Z",
-        "content": "Ether (ETH) analysts have mapped out key ETH price levels to watch over the next few weeks, with a focus on the $2,000 psychological level.\r\nKey takeaways:\r\n<ul><li>Dropping below the 200-day simple … [+2848 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Bitcoin Enters Pensions: Millions Of Colombian Workers To Get Access",
-        "description": "Young workers between 18 and 45 are the target audience for a new Bitcoin investment product quietly launched last month by Porvenir, the largest pension fund administrator in Colombia. Related Reading: XRP Signals Imminent Breakout — Is A 10% Rally Coming? T…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-enters-pensions-millions-of-colombian-workers-to-get-access/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/a_38a9b2.jpg?fit=5667%2C3542",
-        "publishedAt": "2026-04-28T11:30:04Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
       }
     ]
   }
