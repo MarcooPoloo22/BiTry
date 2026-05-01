@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-01T15:48:07.976Z",
+  "timestamp": "2026-05-01T16:45:48.952Z",
   "data": {
     "status": "ok",
     "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin Coinbase Premium threatens bear flag repeat with BTC price at $76K",
+        "description": "Bitcoin price action risked repeating January's breakdown despite April being poised to offer the best monthly BTC price gains in a year.",
+        "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-threatens-bear-flag-repeat-with-btc-price-at-76k",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/bear%20crypto%20market1.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-04-30T16:01:22Z",
+        "content": "Bitcoin (BTC) rebounded above $76,000 at Thursdays Wall Street open while traders stayed bearish on the short-term BTC price outlook.\r\nKey points:\r\n<ul><li>Bitcoin's Coinbase Premium Index flips nega… [+2290 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,19 +394,6 @@
         "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Markets%20pro%20trading%20strategy%20Bitcoin.jpg?prefix=media%2Farticle-covers",
         "publishedAt": "2026-04-28T14:43:59Z",
         "content": "Bitcoin (BTC) is trading roughly 40% below its October 2025 record high near $126,000 despite its ongoing recovery.\r\nBTC/USD daily chart. Source: TradingView\r\nStill, some of the cryptocurrency's loud… [+3289 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Here’s Why The Bitcoin And Ethereum Prices Have Been Rising And Falling Sharply",
-        "description": "Bitcoin and Ethereum have spent the past few weeks moving like assets caught between two powerful forces. On one side, institutional demand has returned through Spot ETFs, treasury purchases, and dip-buying from larger investors. On the other side, profit-tak…",
-        "url": "http://www.newsbtc.com/news/bitcoin-and-ethereum-prices-2/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Getty-Images-43.jpg?fit=612%2C408",
-        "publishedAt": "2026-04-28T14:00:51Z",
-        "content": "Bitcoin and Ethereum have spent the past few weeks moving like assets caught between two powerful forces. On one side, institutional demand has returned through Spot ETFs, treasury purchases, and dip… [+2904 chars]"
       }
     ]
   }
