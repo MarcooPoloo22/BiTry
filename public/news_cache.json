@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-01T06:08:05.223Z",
+  "timestamp": "2026-05-01T08:54:41.665Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "Fidelity Flags Bitcoin Price Zone That Historically Marked Accumulation",
+        "description": "Fidelity Digital Assets says Bitcoin’s latest drawdown has pushed the market into a zone that has historically aligned with accumulation phases, even as its momentum signal remains negative and broader crypto risk appetite stays narrow. In its Signals Report …",
+        "url": "http://www.newsbtc.com/bitcoin-news/fidelity-bitcoin-price-zone-accumulation/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/ChatGPT-Image-30.-Apr.-2026-09_40_48.png?fit=1672%2C941",
+        "publishedAt": "2026-04-30T08:00:33Z",
+        "content": "Fidelity Digital Assets says Bitcoins latest drawdown has pushed the market into a zone that has historically aligned with accumulation phases, even as its momentum signal remains negative and broade… [+4118 chars]"
+      },
       {
         "source": {
           "id": null,
