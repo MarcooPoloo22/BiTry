@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-04-30T23:43:31.256Z",
+  "timestamp": "2026-05-01T02:10:51.601Z",
   "data": {
     "status": "ok",
     "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Why The Bitcoin Price Could Hit $68,000 Again",
+        "description": "The Bitcoin price is currently sitting on a key support trendline that could determine its next major move. According to a crypto analyst, a breakout from this level could lead to two possible scenarios. On the bullish side, the cryptocurrency could extend it…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-could-hit-68000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay.jpg?fit=1280%2C853",
+        "publishedAt": "2026-04-30T00:00:31Z",
+        "content": "The Bitcoin price is currently sitting on a key support trendline that could determine its next major move. According to a crypto analyst, a breakout from this level could lead to two possible scenar… [+2658 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,19 +433,6 @@
         "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/whale%20market%20sea.jpg?prefix=media%2Farticle-covers",
         "publishedAt": "2026-04-27T21:44:05Z",
         "content": "Bitcoin (BTC) whales holding between 1,000-10,000 BTC have increased their BTC exposure over the past five months, with the total balance reaching 3.09 million, a level last seen on November 11, 2025… [+3387 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "James Van Straten",
-        "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
-        "description": "Cooling U.S. demand, elevated Bitfinex whale positioning and a key on chain rejection point to short term downside during the Las Vegas Bitcoin conference.",
-        "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8a8d9c574defe9ae9c3d4b51c716eeca823101c7-2130x1736.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-04-27T21:00:00Z",
-        "content": "Bitcoins Sunday night rally stalled out near $79,400 and is beginning to show signs of fatigue, with several indicators pointing to potential short-term weakness as the price trades back around $77,0… [+1775 chars]"
       }
     ]
   }
