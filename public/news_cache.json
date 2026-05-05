@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-04T23:44:14.375Z",
+  "timestamp": "2026-05-05T02:02:03.579Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
+        "description": "Morgan Stanley launched the first bank-issued Bitcoin ETP, but Amy Oldenburg said advisors, regulators and balance sheets still have a long way to go.",
+        "url": "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b0bf991adc381647215947e7018aee302387112d-3057x2038.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-04T00:30:00Z",
+        "content": "Morgan Stanley expects bitcoin to reach U.S. bank balance sheets, though key hurdles remain, according to Amy Oldenburg, the banks head of digital asset strategy.\r\nSpeaking at the Bitcoin Conference … [+2897 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-Price-Downtrend-Gains-Pace.jpg?fit=1024%2C559",
         "publishedAt": "2026-04-30T03:08:50Z",
         "content": "Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover.\r\n<ul><li>Ethereum started a downside correction below the $2,280 z… [+2130 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Weakness Grows, Traders Brace For Further Downside",
-        "description": "Bitcoin price started a fresh decline below the $76,500 zone. BTC is consolidating and might struggle to stay above the $75,000 support. Bitcoin failed to stay above $76,500 and extended losses. The price is trading below $76,200 and the 100 hourly simple mov…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-weakness-grows-76k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Weakness-Grows-Traders-Brace-For-Further-Downside.jpg",
-        "publishedAt": "2026-04-30T02:31:25Z",
-        "content": "Bitcoin price started a fresh decline below the $76,500 zone. BTC is consolidating and might struggle to stay above the $75,000 support.\r\n<ul><li>Bitcoin failed to stay above $76,500 and extended los… [+2196 chars]"
       }
     ]
   }
