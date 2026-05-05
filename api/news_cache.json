@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-05T11:12:18.470Z",
+  "timestamp": "2026-05-05T13:17:29.520Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "South Korea crypto sector warns AML proposal goes too far: Report",
+        "description": "Crypto industry body DAXA said the proposed rules could push suspicious transaction reports from South Korea’s five largest exchanges to more than 5.4 million a year, Yonhap reported.",
+        "url": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI-Crypto-on-corporate-balance-sheets-What%E2%80%99s-the-risk-and-reward-1.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-05-04T12:31:47Z",
+        "content": "South Koreas crypto industry has reportedly warned that proposed Anti-Money Laundering (AML) rule changes could create operational confusion by forcing virtual asset service providers (VASPs) to repo… [+2965 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "This Signal Has Predicted Every Bitcoin Bottom, Here’s What It’s Saying Now",
+        "description": "Crypto analyst Tice has pointed to a signal that has predicted every Bitcoin bottom in each bear cycle. Based on this, the analyst suggested that the flagship crypto may again be forming a bottom just as the price looks to break above the psychological $80,00…",
+        "url": "http://www.newsbtc.com/news/bitcoin/every-bitcoin-bottom/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-133.jpg?fit=1280%2C853",
+        "publishedAt": "2026-05-04T12:00:31Z",
+        "content": "Crypto analyst Tice has pointed to a signal that has predicted every Bitcoin bottom in each bear cycle. Based on this, the analyst suggested that the flagship crypto may again be forming a bottom jus… [+2440 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,32 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-from-Pixabay-9-1.jpg?fit=1280%2C853",
         "publishedAt": "2026-04-30T11:30:47Z",
         "content": "Crypto analyst Kaz has called the local Bitcoin top, stating that the leading crypto has little room to the upside. The analyst also explained why BTC is now likely to drop below the psychological $6… [+2385 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin eyes $75K after 'most hawkish' FOMC as oil hits highest since 2022",
-        "description": "Bitcoin price action remained weak as the US-Iran war delivered a Fed meeting that was the \"most hawkish in years\" and oil neared four-year highs.",
-        "url": "https://cointelegraph.com/markets/bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022",
-        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/Oil%20Bitcoin%20Coin%20Ant%20Blockchain%20Sky%20Platform%20Production.jpg?prefix=media%2Farticle-covers",
-        "publishedAt": "2026-04-30T09:19:28Z",
-        "content": "Bitcoin (BTC) failed to recover new support on Thursday as oil hit its highest levels in nearly four years.\r\nKey points:\r\n<ul><li>Bitcoin struggles to recoup recent lost ground as geopolitical factor… [+3004 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Jake Simmons",
-        "title": "Fidelity Flags Bitcoin Price Zone That Historically Marked Accumulation",
-        "description": "Fidelity Digital Assets says Bitcoin’s latest drawdown has pushed the market into a zone that has historically aligned with accumulation phases, even as its momentum signal remains negative and broader crypto risk appetite stays narrow. In its Signals Report …",
-        "url": "http://www.newsbtc.com/bitcoin-news/fidelity-bitcoin-price-zone-accumulation/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/ChatGPT-Image-30.-Apr.-2026-09_40_48.png?fit=1672%2C941",
-        "publishedAt": "2026-04-30T08:00:33Z",
-        "content": "Fidelity Digital Assets says Bitcoins latest drawdown has pushed the market into a zone that has historically aligned with accumulation phases, even as its momentum signal remains negative and broade… [+4118 chars]"
       }
     ]
   }
