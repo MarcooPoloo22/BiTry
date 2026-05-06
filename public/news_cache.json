@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-05-06T10:58:11.748Z",
+  "timestamp": "2026-05-06T12:26:38.999Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Vismaya V",
+        "title": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO",
+        "description": "The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.",
+        "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png",
+        "publishedAt": "2026-05-05T12:18:41Z",
+        "content": "In brief\r\n<ul><li>Coinbase is cutting roughly 14% of its workforce, CEO Brian Armstrong announced Tuesday, citing crypto \"down market\" and AI-driven productivity shifts.</li><li>Armstrong said the ex… [+4066 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Closes 2 Green Monthly Candles: Here’s What Historical Data Says Is Coming Next",
+        "description": "Crypto analyst Max has cited historical data to provide insights into what could be next for Bitcoin, noting that it has closed two consecutive monthly candles in the green. Based on this historical data, BTC may be heading for a red month, except if this bea…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-2-green-candles/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-135.jpg?fit=1280%2C815",
+        "publishedAt": "2026-05-05T12:00:25Z",
+        "content": "Crypto analyst Max has cited historical data to provide insights into what could be next for Bitcoin, noting that it has closed two consecutive monthly candles in the green. Based on this historical … [+2498 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "Standard Chartered expands further into crypto with stake in GSR at $1 billion valuation",
+        "description": "SC Ventures, Standard Chartered’s venture capital division takes a $150 million stake in crypto trading firm GSR at a valuation of more than $1 billion, according to Bloomberg.",
+        "url": "https://www.coindesk.com/business/2026/05/05/standard-chartered-expands-further-into-crypto-with-stake-in-gsr-at-usd1-billion-valuation",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-05T12:00:17Z",
+        "content": "Standard Chartered PLCs (STAN) venture capital division SC Ventures invested in GSR, as the London-based multinational bank seeks to further expand its digital asset services, the crypto capital mark… [+1718 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "James Halver",
+        "title": "700 Jobs Gone: Coinbase’s Brutal Cuts Signal Something Is Wrong With The Crypto Market",
+        "description": "Coinbase CEO Brian Armstrong announced on Tuesday, May 5, that the company will reduce its workforce by approximately 14% — a move Armstrong described as “sudden and harsh” but necessary to position the exchange for what he called a new phase of AI-driven ope…",
+        "url": "http://www.newsbtc.com/breaking-news-ticker/700-jobs-gone-coinbases-brutal-cuts-signal-something-is-wrong-with-the-crypto-market/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Coinbase-COIN-COINUSD.jpg",
+        "publishedAt": "2026-05-05T11:58:03Z",
+        "content": "Coinbase CEO Brian Armstrong announced on Tuesday, May 5, that the company will reduce its workforce by approximately 14% a move Armstrong described as “sudden and harsh” but necessary to position th… [+2265 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Bitcoin taps $81K as long-term holders add 330K BTC: How high can price go?",
+        "description": "Accumulation by long-term Bitcoin holders, buying by institutional investors and a strengthening technical structure could fuel BTC’s price rise to $95,000 or higher.",
+        "url": "https://cointelegraph.com/markets/bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Bitcoin%20is%20now%20bigger.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-05-05T11:16:09Z",
+        "content": "Bitcoin (BTC) rose as much as 2% over the past 24 hours to an intraday high of $81,300 on Tuesday. This brings the weekly and 30-day gains to 5% and 21%, respectively.\r\nThis rally was accompanied by … [+3088 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,58 +472,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/05/iStock-1305092068.jpg?fit=1322%2C793",
         "publishedAt": "2026-05-02T15:00:43Z",
         "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Keshav Verma",
-        "title": "Bitcoin DATs Capitulate—Could This Rare Signal Mark A Bottom?",
-        "description": "Data shows the Bitcoin treasury companies have shown an inflection recently, something that has turned out to be bullish in the past. Last Two Bitcoin Treasury Capitulation Inflections Led To Bullish Action In a new post on X, Capriole Investments founder Cha…",
-        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-dats-capitulate-rare-signal-a-bottom/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/btc.png?fit=1382%2C921",
-        "publishedAt": "2026-05-02T03:00:33Z",
-        "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
-        "description": "Technical charts suggest that Bitcoin’s rally continuation is fully dependent on bulls securing a weekly close above $75,000.",
-        "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr",
-        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/analysys%20analitics%20graph%20graffiti.jpg?prefix=media%2Farticle-covers",
-        "publishedAt": "2026-05-01T19:07:51Z",
-        "content": "Key points:\r\n<ul><li>Bitcoin will have to flip the $80,000 level into support to continue its up move to $84,000.</li><li>Several major altcoins are finding buyers at lower levels, but they will have… [+7936 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Bitcoin Renko Mari-Ashi Reveals Where The Bottom Lies And When The Rise Will Begin Again",
-        "description": "A crypto analyst has shared more insights into the Bitcoin (BTC) price action using a rare Japanese chart pattern called the Renko Mari-Ashi. The chart shows that the Bitcoin price has formed a Double Bottom and could be on the verge of a major breakout. Addi…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-renko-mari-ashi-bottom/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-bottom.jpeg?fit=1536%2C1024",
-        "publishedAt": "2026-05-01T19:00:26Z",
-        "content": "A crypto analyst has shared more insights into the Bitcoin (BTC) price action using a rare Japanese chart pattern called the Renko Mari-Ashi. The chart shows that the Bitcoin price has formed a Doubl… [+2793 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Akash Girimath",
-        "title": "Ethereum ETFs Shed $184M Over 4-Day Negative Streak",
-        "description": "Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.",
-        "url": "https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg",
-        "publishedAt": "2026-05-01T15:47:39Z",
-        "content": "In brief\r\n<ul><li>Ethereum ETFs posted $184 million in outflows over four straight days through April 30.</li><li>Bitcoin ETFs also shed $476 million over the same period, but saw a $14.76 million in… [+2431 chars]"
       }
     ]
   }
