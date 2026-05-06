@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-06T19:24:03.717Z",
+  "timestamp": "2026-05-06T21:03:34.289Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Strategy posts $12.54 billion Q1 loss on declining bitcoin price",
+        "description": "The price of bitcoin fell from about $87,000 to $68,000 during the first three months of 2026.",
+        "url": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-05T20:06:30Z",
+        "content": "Strategy (MSTR) reported a net loss of $12.54 billion in the first quarter of 2026, as bitcoin BTC\r\n$81,660.38 fell from around $87,000 on Jan. 1 to roughly $68,000 by March 31.\r\nSince the start of t… [+837 chars]"
+      },
       {
         "source": {
           "id": null,
