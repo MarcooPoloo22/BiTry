@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-05-07T08:17:57.170Z",
+  "timestamp": "2026-05-07T11:02:20.090Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
       {
         "source": {
@@ -420,19 +420,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6b8b930143b2c3841a702edb24488a36b869083c-3934x2213.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-05-04T20:16:04Z",
         "content": "GameStop (GME) is aiming for a major expansion with a proposed $55.5 billion acquisition of online marketplace eBay (EBAY), raising fresh questions about whether its bitcoin BTC\r\n$80,322.05 holdings … [+1964 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Does The Ethereum 300% Boost In Capacity Mean Price Can Rise 3x To $6,000?",
-        "description": "The upcoming Ethereum scaling upgrade is drawing attention across the market, raising a critical question about whether a major leap in network capacity can translate into equally strong price growth. The idea sounds straightforward, but the relationship betw…",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-300-boost-3x-6000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-price.jpeg?fit=1536%2C1024",
-        "publishedAt": "2026-05-04T19:30:18Z",
-        "content": "The upcoming Ethereum scaling upgrade is drawing attention across the market, raising a critical question about whether a major leap in network capacity can translate into equally strong price growth… [+3021 chars]"
       }
     ]
   }
