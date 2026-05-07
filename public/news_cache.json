@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-05-07T17:51:13.875Z",
+  "timestamp": "2026-05-07T19:27:27.864Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
       {
         "source": {
@@ -368,19 +368,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-05-05T12:00:17Z",
         "content": "Standard Chartered PLCs (STAN) venture capital division SC Ventures invested in GSR, as the London-based multinational bank seeks to further expand its digital asset services, the crypto capital mark… [+1718 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "James Halver",
-        "title": "700 Jobs Gone: Coinbase’s Brutal Cuts Signal Something Is Wrong With The Crypto Market",
-        "description": "Coinbase CEO Brian Armstrong announced on Tuesday, May 5, that the company will reduce its workforce by approximately 14% — a move Armstrong described as “sudden and harsh” but necessary to position the exchange for what he called a new phase of AI-driven ope…",
-        "url": "http://www.newsbtc.com/breaking-news-ticker/700-jobs-gone-coinbases-brutal-cuts-signal-something-is-wrong-with-the-crypto-market/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Coinbase-COIN-COINUSD.jpg",
-        "publishedAt": "2026-05-05T11:58:03Z",
-        "content": "Coinbase CEO Brian Armstrong announced on Tuesday, May 5, that the company will reduce its workforce by approximately 14% a move Armstrong described as “sudden and harsh” but necessary to position th… [+2265 chars]"
       }
     ]
   }
