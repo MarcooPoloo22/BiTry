@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-08T07:17:21.214Z",
+  "timestamp": "2026-05-08T09:06:39.151Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Christina Comben",
+        "title": "Bithumb enters Vietnam crypto license race with SSI Digital deal",
+        "description": "Bithumb’s tie-up with SSI Digital positions it for Vietnam’s strict crypto exchange pilot as competition for scarce licenses heats up and scrutiny mounts at home.",
+        "url": "https://cointelegraph.com/news/bithumb-moves-vietnams-crypto-exchange-race-ssi-digital-tie-up",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/2312341-3.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-05-07T08:58:53Z",
+        "content": "South Korean crypto exchange Bithumb is expanding its overseas push through a new partnership in Vietnam as the country moves toward licensing its first domestic digital asset trading platforms.\r\nBit… [+3234 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +368,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-05-05T20:06:30Z",
         "content": "Strategy (MSTR) reported a net loss of $12.54 billion in the first quarter of 2026, as bitcoin BTC\r\n$81,660.38 fell from around $87,000 on Jan. 1 to roughly $68,000 by March 31.\r\nSince the start of t… [+837 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor",
-        "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
-        "description": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said.",
-        "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9f1df2afc8ef8ac855c56afef93e582035d9d9fb-2120x1164.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-05T18:52:16Z",
-        "content": "Bitcoin BTC\r\n$81,660.38 pushed higher Tuesday, climbing to $81,500 to its strongest level since January as the latest leg of the rally spread beyond major tokens into tokenization-focused plays.\r\nThe… [+2551 chars]"
       }
     ]
   }
