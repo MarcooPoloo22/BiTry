@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-05-09T05:41:04.431Z",
+  "timestamp": "2026-05-09T07:44:42.755Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 39,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Stephen Katte",
+        "title": "Zcash gains 70% in a week amid growing interest in crypto privacy",
+        "description": "Zcash has surged over the past week as traders rotated into privacy-focused cryptocurrencies over growing concerns about artificial intelligence, surveillance, and tighter regulations.",
+        "url": "https://cointelegraph.com/news/zcash-price-surges-privacy-coins-ai-surveillance-concerns",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20Zcash%20Digital%20blockchain%20and%20other%20blockchain%20funds.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-05-08T07:35:07Z",
+        "content": "Privacy-focused cryptocurrency Zcash (ZEC) has spiked by more than 70% over the past week as crypto traders have been paying closer attention to privacy-focused projects.\r\nZcash traded at about $346 … [+2728 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Dogecoin (DOGE) Back Under Pressure, Rebound Chances Face Big Test",
+        "description": "Dogecoin started a fresh decline below the $0.1120 zone against the US Dollar. DOGE is now consolidating losses and might face hurdles near $0.1085 and $0.1115. DOGE price started a fresh decline below the $0.110 level. The price is trading below the $0.110 l…",
+        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-back-under-pressure-0-10/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/04/Dogecoin-DOGE-at-Risk-of-More-Losses.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-05-08T06:28:05Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
+        "description": "AWS says an overheating issue at its Northern Virginia data center has disrupted trading on Coinbase and impacted other major platforms, including FanDuel.",
+        "url": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others",
+        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20The%20rise%20of%20major%20institutions%20is%20inevitable%20data%20centers.jpg?prefix=media%2Farticle-covers",
+        "publishedAt": "2026-05-08T06:25:52Z",
+        "content": "Amazons cloud unit said on Friday it is working to restore normal temperature levels at its Northern Virginia data center, which has impacted trading on Coinbase and other websites.\r\nWe are observing… [+1437 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Benson Toti",
+        "title": "Is Bitcoin’s drop to $79K a bear trap as Hormuz tensions escalate?",
+        "description": "Bitcoin retreated amid clashes in the Strait of Hormuz and rising oil prices. Analysts argue that a limited appetite for full‑scale escalation caps downside risk. Bulls aim for a rebound toward $82,000, but bears could target a breakdown below $78,000. Bitcoi…",
+        "url": "https://coinjournal.net/news/is-bitcoins-drop-to-79k-a-bear-trap-as-hormuz-tensions-escalate/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png",
+        "publishedAt": "2026-05-08T06:14:23Z",
+        "content": "<ul><li>Bitcoin retreated amid clashes in the Strait of Hormuz and rising oil prices.</li><li>Analysts argue that a limited appetite for full‑scale escalation caps downside risk.</li><li>Bulls aim fo… [+2965 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,45 +511,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Getty-Images-44.jpg?fit=612%2C434",
         "publishedAt": "2026-05-06T17:00:30Z",
         "content": "Bitcoins recovery attempt has carried it back above $80,000 for the first time since late January 2026, giving bulls a reason to argue that the worst of the recent correction has passed. However, one… [+2740 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Bitcoin Has Entered Its ‘Most Dangerous Quarter,’ And This Expert Is Warning Investors",
-        "description": "The Bitcoin recovery above $80,000 has brought some sort of confidence back into the crypto market, but a crypto expert is warning that the timing of the rebound may be more dangerous than it looks. As noted by the expert, who goes by the name Crypto Patel on…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-most-dangerous-quarter/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-dangerous.jpeg?fit=1536%2C1024",
-        "publishedAt": "2026-05-06T15:30:44Z",
-        "content": "The Bitcoin recovery above $80,000 has brought some sort of confidence back into the crypto market, but a crypto expert is warning that the timing of the rebound may be more dangerous than it looks. … [+2740 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Morgan Stanley takes on crypto trading rivals with E*Trade pilot",
-        "description": "Morgan Stanley’s cryptocurrency trading pilot is emerging as a competitive rival to some of the largest crypto exchanges in terms of trading fees.",
-        "url": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot",
-        "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/Moon-Bitcoin1-1.jpg?prefix=media%2Farticle-covers",
-        "publishedAt": "2026-05-06T15:08:47Z",
-        "content": "Morgan Stanley has rolled out a cryptocurrency trading pilot on its E*Trade platform, charging lower basic retail fees than some of the largest US crypto and brokerage platforms.\r\nThe Wall Street ban… [+2022 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Benson Toti",
-        "title": "Cardano price forecast: what does surge to $0.27 mean for ADA?",
-        "description": "Cardano price was up 5% as bulls broke above $0.27 amid Bitcoin’s surge. Bullish RSI at 66 and rising open interest signal breakout potential. Support could be at $0.25 and $0.23, while $0.30 and 200 EMA near $0.40 are next resistance levels. Cardano (ADA) tr…",
-        "url": "https://coinjournal.net/news/cardano-price-forecast-what-does-surge-to-0-27-mean-for-ada/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/03/Cardano-tokens-lying-on-a-table.png",
-        "publishedAt": "2026-05-06T12:59:55Z",
-        "content": "<ul><li>Cardano price was up 5% as bulls broke above $0.27 amid Bitcoin’s surge.</li><li>Bullish RSI at 66 and rising open interest signal breakout potential.</li><li>Support could be at $0.25 and $0… [+2707 chars]"
       }
     ]
   }
