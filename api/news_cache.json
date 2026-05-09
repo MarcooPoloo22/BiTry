@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-09T14:15:39.939Z",
+  "timestamp": "2026-05-09T15:42:23.207Z",
   "data": {
     "status": "ok",
     "totalResults": 43,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jason Nelson",
+        "title": "Coinbase Outage Disrupts Crypto Trading and Transfers Amid Amazon Service Failure",
+        "description": "Coinbase says Amazon Web Services failures across multiple availability zones caused an extended outage on its platform.",
+        "url": "https://decrypt.co/367268/coinbase-outage-disrupts-crypto-trading-transfers-amazon-failure",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png",
+        "publishedAt": "2026-05-08T15:33:46Z",
+        "content": "In brief\r\n<ul><li>Coinbase users reported widespread issues with trading, fund transfers, and the mobile app on Thursday night.</li><li>The exchange said AWS failures in the US-EAST-1 region affected… [+2717 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Andrew Hayward",
+        "title": "Bitcoin Price Crashes Near Zero on Revolut, Blamed on Third-Party Service Disruption",
+        "description": "Bitcoin briefly plummeted to about 2 cents on Revolut due to what the financial platform described as a third-party service disruption.",
+        "url": "https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+        "publishedAt": "2026-05-08T14:29:52Z",
+        "content": "In brief\r\n<ul><li>Bitcoin briefly displayed a price of $0.019 on Revolut overnighta 99.99% drop from its actual trading level near $79,000.</li><li>The glitch didnt last long, but push notifications … [+2352 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -537,32 +563,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/1df79087776a232721826d2559a0e7004de05895-2724x1532.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-05-07T05:30:00Z",
         "content": "BNY, the world's largest custodian overseeing $59 trillion of assets, is expanding its digital asset custody business to the United Arab Emirates through local partners.\r\nAccording to a Thursday pres… [+2279 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price Struggles To Hold Strength, Downside Risks Build",
-        "description": "Ethereum price started a fresh increase and remained stable above $2,380. ETH is now correcting gains and might decline if it trades below $2,300. Ethereum started a downside correction from the $2,420 zone. The price is trading below $2,350 and the 100-hourl…",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-struggles-2400/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Ethereum-Price-Rejected-Again-Market-Watches-Key-Support-Closely.jpg?fit=1408%2C768",
-        "publishedAt": "2026-05-07T04:48:33Z",
-        "content": "Ethereum price started a fresh increase and remained stable above $2,380. ETH is now correcting gains and might decline if it trades below $2,300.\r\n<ul><li>Ethereum started a downside correction from… [+2211 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Shaurya Malwa",
-        "title": "Dogecoin slides 4%, bitcoin rally pauses as Iran ceasefire optimism lifts equities",
-        "description": "Crypto majors took a breather Thursday after a strong run, with bitcoin holding around $81,000 and ether slipping below $2,330 as global equities pushed to fresh records on hopes of a US-Iran deal.",
-        "url": "https://www.coindesk.com/markets/2026/05/07/dogecoin-slides-4-bitcoin-rally-pauses-as-iran-ceasefire-optimism-lifts-equities",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-07T04:33:44Z",
-        "content": "The crypto rally took a pit stop on Thursday while equities kept zooming higher.\r\nBitcoin BTC\r\n$82,164.36traded at $80,945 in Asian hours, down 0.7% over 24 hours but still up 6.9% on the week. Ether… [+2701 chars]"
       }
     ]
   }
