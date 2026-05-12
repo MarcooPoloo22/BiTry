@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-12T05:59:06.217Z",
+  "timestamp": "2026-05-12T08:41:47.345Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "Bitcoin Flashes Signal With 186% Average One-Year Return",
+        "description": "Bitcoin has triggered another daily Kumo breakout, putting a historically bullish technical signal back in focus. Analyst Josh Olszewicz, who posts as CarpeNoctom, shared a chart on X tracking BTC’s forward performance after every daily Kumo breakout since 20…",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-signal-186-average-one-year-return/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/ChatGPT-Image-11.-Mai-2026-08_32_02.png?fit=1333%2C750",
+        "publishedAt": "2026-05-11T08:00:58Z",
+        "content": "Bitcoin has triggered another daily Kumo breakout, putting a historically bullish technical signal back in focus. Analyst Josh Olszewicz, who posts as CarpeNoctom, shared a chart on X tracking BTCs f… [+2860 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,32 +446,6 @@
         "urlToImage": "https://payload.cointelegraph.com/api/article-covers/file/HI%20The%20rise%20of%20major%20institutions%20is%20inevitable%20data%20centers.jpg?prefix=media%2Farticle-covers",
         "publishedAt": "2026-05-08T06:25:52Z",
         "content": "Amazons cloud unit said on Friday it is working to restore normal temperature levels at its Northern Virginia data center, which has impacted trading on Coinbase and other websites.\r\nWe are observing… [+1437 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Benson Toti",
-        "title": "Is Bitcoin’s drop to $79K a bear trap as Hormuz tensions escalate?",
-        "description": "Bitcoin retreated amid clashes in the Strait of Hormuz and rising oil prices. Analysts argue that a limited appetite for full‑scale escalation caps downside risk. Bulls aim for a rebound toward $82,000, but bears could target a breakdown below $78,000. Bitcoi…",
-        "url": "https://coinjournal.net/news/is-bitcoins-drop-to-79k-a-bear-trap-as-hormuz-tensions-escalate/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png",
-        "publishedAt": "2026-05-08T06:14:23Z",
-        "content": "<ul><li>Bitcoin retreated amid clashes in the Strait of Hormuz and rising oil prices.</li><li>Analysts argue that a limited appetite for full‑scale escalation caps downside risk.</li><li>Bulls aim fo… [+2965 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price Extends Decline As $2,220 Support Comes Into Play",
-        "description": "Ethereum price started a downside correction below $2,350. ETH is now showing a few bearish signs and might decline further if it trades below $2,265. Ethereum started a downside correction below the $2,365 zone. The price is trading below $2,320 and the 100-…",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-extends-decline-2265/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Ethereum-Price-Sinks.jpg",
-        "publishedAt": "2026-05-08T04:58:13Z",
-        "content": "Ethereum price started a downside correction below $2,350. ETH is now showing a few bearish signs and might decline further if it trades below $2,265.\r\n<ul><li>Ethereum started a downside correction … [+2093 chars]"
       }
     ]
   }
