@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-12T11:13:30.442Z",
+  "timestamp": "2026-05-12T13:58:12.196Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Crypto funds log $858M in sixth straight week of inflows: CoinShares",
+        "description": "Crypto ETPs drew $858 million in inflows last week, led by Bitcoin with $706 million, as sentiment improved and short-BTC funds saw $14 million of outflows.",
+        "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-biggest-investment-funds-in-crypto.jpg",
+        "publishedAt": "2026-05-11T11:31:47Z",
+        "content": "Cryptocurrency investment products recorded a sixth straight week of inflows in their longest streak since April to July 2025, totaling $4.9 billion, as improving sentiment around US crypto legislati… [+2803 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Vismaya V",
+        "title": "Crypto Funds Add $858M as Clarity Act Drives Market Optimism",
+        "description": "Digital asset inflows peak at a six-week high as a Senate stablecoin deal stokes institutional appetite across Bitcoin and altcoins.",
+        "url": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-05-11T11:31:38Z",
+        "content": "In brief\r\n<ul><li>Digital asset investment products attracted $857.9 million last week, the largest single-week total since April 24, according to CoinShares.</li><li>Bitcoin led with $706.1 million,… [+3934 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,58 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-volatility-price-analysis-analytics-up-down-trampoline-btc.jpg",
         "publishedAt": "2026-05-08T12:30:16Z",
         "content": "Revolut users reported that the app briefly displayed Bitcoin prices plunging to around $39,900 on Friday, while some traders also received notifications suggesting extreme price moves, including tha… [+3199 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Jake Simmons",
-        "title": "Ethereum To $10,000? Analyst Says ETH Must Clear This Level First",
-        "description": "Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remain…",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-to-10000-analystmust-clear-this-level/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/ChatGPT-Image-8.-Mai-2026-11_49_16.png?fit=1222%2C687",
-        "publishedAt": "2026-05-08T12:30:09Z",
-        "content": "Ethereums latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a M… [+3529 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Tyler Warner",
-        "title": "Morning Minute: Coinbase Misses Earnings on Surprise Loss",
-        "description": "Coinbase missed earnings, but one of its newest businesses is scaling incredibly fast—and Tom Lee may finally be slowing his Ethereum buying.",
-        "url": "https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png",
-        "publishedAt": "2026-05-08T11:52:46Z",
-        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show co… [+7485 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "Coinbase blames AWS for hours-long crypto trading outage",
-        "description": "Coinbase says the outage has been fully resolved but that it will investigate the incident fully.",
-        "url": "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/078429b34ba84d8c8190c735090cbbb25e64ecec-4032x2268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-08T11:29:04Z",
-        "content": "Coinbase (COIN) reported a multi-hour disruption to crypto trading on Thursday, which the Nasdaq-listed exchange attributed to an outage at Amazon Web Services. The incident drew criticism as Coinbas… [+2890 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "AUSTRAC Launches Supervision Campaigns as Australia's Crypto Regulatory Reforms Kick In",
-        "description": "The campaigns target over-the-counter operators and local exchanges as new laws expand oversight to custody and brokerage services.",
-        "url": "https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Sydney-gID_7.jpg",
-        "publishedAt": "2026-05-08T10:13:11Z",
-        "content": "In brief\r\n<ul><li>AUSTRAC has launched two targeted supervisory campaigns into Australia's virtual assets sector as new regulatory reforms take effect.</li><li>The campaigns assess money laundering r… [+3487 chars]"
       }
     ]
   }
