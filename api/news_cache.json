@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-13T14:13:04.146Z",
+  "timestamp": "2026-05-13T17:09:45.037Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Ian Allison",
+        "title": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+        "description": "Eowyn Chen, former CEO of Trust Wallet, will serve as her interim replacement.",
+        "url": "https://www.coindesk.com/business/2026/05/12/binance-s-chief-marketing-officer-rachel-conlan-is-leaving-the-exchange",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6f665e4a0e21533ba1ae35082f90ab33da2cadc9-2724x1550.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-12T15:25:46Z",
+        "content": "Rachel Conlan, the chief marketing officer (CMO) at Binance, the worlds largest cryptocurrency exchange, said she is leaving the company next month after three years helping to build the brand.\r\nEowy… [+1900 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,32 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-vs-ethereum-key-differences-between-btc-and-eth-1.jpg",
         "publishedAt": "2026-05-10T16:13:27Z",
         "content": "Ethereums native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.\r\nKey takeaways:\r\n<ul><li>ETH may plunge another… [+2464 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "USDT On Ethereum Sees Largest Exchange Outflow Since February — Details",
-        "description": "According to the latest on-chain data, the Ethereum-native iteration of USDT, the world’s largest stablecoin, has just witnessed its largest exchange outflow in recent months. 1.29 Billion USDT Flow Out Of Crypto Exchanges In a May 9th post on the X platform,…",
-        "url": "http://www.newsbtc.com/news/usdt-ethereum-see-largest-exchange-outflow/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/iStock-1402102628.jpg?fit=1254%2C836",
-        "publishedAt": "2026-05-10T12:00:51Z",
-        "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Why Analysts Believe Ethereum Can Reach $15,000 This Cycle",
-        "description": "Ethereum is trading just above $2,330, a price that, on the monthly chart, is sitting just above within a long accumulation zone. However, recent market dynamics show that Ethereum is destined for far higher prices than $2,300 this cycle, and this is not only…",
-        "url": "http://www.newsbtc.com/altcoin/why-analysts-believe-ethereum-can-reach-15000-this-cycle/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_3d9760.jpg",
-        "publishedAt": "2026-05-10T08:30:28Z",
-        "content": "Ethereum is trading just above $2,330, a price that, on the monthly chart, is sitting just above within a long accumulation zone.\r\nHowever, recent market dynamics show that Ethereum is destined for f… [+2891 chars]"
       }
     ]
   }
