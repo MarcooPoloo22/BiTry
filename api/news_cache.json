@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-13T17:09:45.037Z",
+  "timestamp": "2026-05-13T19:42:21.820Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nate Kostar",
+        "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+        "description": "The world’s largest post-trade infrastructure provider will integrate Chainlink technology into its tokenized collateral platform ahead of a Q4 2026 launch.",
+        "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-what-is-chainlink-a-beginners-guide-to-the-cross-chain-interoperability-protocol3.jpg",
+        "publishedAt": "2026-05-12T18:45:10Z",
+        "content": "The Depository Trust &amp; Clearing Corporation (DTCC) will integrate Chainlink infrastructure into its collateral management platform ahead of a planned fourth-quarter 2026 launch as it aims to supp… [+2929 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +368,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Bitcoin-Price-Jumps-8-Breakout-Hopes-Reignite-Across-Crypto-Markets.jpg",
         "publishedAt": "2026-05-11T02:51:50Z",
         "content": "Bitcoin price started a fresh increase and cleared the $81,500 zone. BTC is consolidating and might aim for more gains above the $82,450 level.\r\n<ul><li>Bitcoin managed to stay above $79,200 and star… [+2203 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yashu Gola",
-        "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
-        "description": "Ethereum’s ongoing downtrend against Bitcoin mirrors the bearish structure seen in 2024–2025, raising the risk of another 40% decline.",
-        "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-vs-ethereum-key-differences-between-btc-and-eth-1.jpg",
-        "publishedAt": "2026-05-10T16:13:27Z",
-        "content": "Ethereums native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.\r\nKey takeaways:\r\n<ul><li>ETH may plunge another… [+2464 chars]"
       }
     ]
   }
