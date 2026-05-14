@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-05-14T13:48:23.206Z",
+  "timestamp": "2026-05-14T16:05:52.324Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price targets $79K as US PPI inflation hits highest since 2022",
+        "description": "Bitcoin heads toward weekly lows as US PPI inflation data sees its highest levels since 2022, raising concerns of financial tightening by the Fed next.",
+        "url": "https://cointelegraph.com/markets/bitcoin-risks-80k-loss-us-ppi-inflation-hits-highest-since-2022",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin.jpg",
+        "publishedAt": "2026-05-13T15:46:25Z",
+        "content": "Bitcoin (BTC) fell below $80,000 into Wednesdays Wall Street open as US inflation data continued to alarm.\r\nKey points:\r\n<ul><li>Bitcoin price action sees fresh downside pressure thanks to US PPI inf… [+3253 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Dovile Silenskyte, Joshua de Vos, Francisco Rodrigues",
+        "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
+        "description": "In this week’s Crypto Long & Short Newsletter, Dovile Silenskyte provides an alternative to the “bitcoin as a risk asset” narrative. Then, Joshua de Vos shares insights and analysis on global exchanges.",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8daa6365814ead8fb4770fb5480e82e664612718-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-13T15:44:26Z",
+        "content": "Welcome to our institutional newsletter, Crypto Long &amp; Short. This week:\r\n<ul><li>Dovile Silenskyte provides an alternative to the bitcoin as a risk asset narrative.</li><li>Joshua de Vos shares … [+11000 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Keshav Verma",
+        "title": "Ethereum Open Interest Rises While Price Pulls Back: Short Squeeze Setup?",
+        "description": "Data shows the Ethereum Open Interest has surged alongside the latest retrace in the asset’s price. Here’s what this could mean for the cryptocurrency. Ethereum Open Interest Has Seen A Rise Recently As highlighted by analyst Maartunn in an X post, the Ethere…",
+        "url": "http://www.newsbtc.com/ethereum-news/ethereum-open-interest-rises-price-short-squeeze/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/eth.png?fit=1170%2C658",
+        "publishedAt": "2026-05-13T14:00:47Z",
+        "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,45 +459,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analytics-welding.jpg",
         "publishedAt": "2026-05-11T20:12:42Z",
         "content": "Key points:\r\n<ul><li>Bitcoin is struggling to rise above $84,000, but the bulls remain in control as long as the price remains above the 20-day EMA.</li><li>Several major altcoins have pulled back, i… [+8229 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Binance Says AI Defenses Blocked $10.5 Billion in Crypto Fraud Over 15 Months",
-        "description": "Binance, the world's largest crypto exchange, says it has deployed more than 100 AI models to counter a surge in AI-powered scams.",
-        "url": "https://decrypt.co/367469/binance-ai-defenses-blocked-10-5-billion-crypto-fraud",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg",
-        "publishedAt": "2026-05-11T18:25:54Z",
-        "content": "In brief\r\n<ul><li>Crypto scams hit $17 billion in 2025, as AI makes attacks cheaper and more convincing than ever.</li><li>Binance says 100+ AI models helped block $10.5 billion in fraud and intercep… [+2866 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "Why the TradFi takeover of crypto might not be the death blow analysts expect",
-        "description": "Gate’s CBO argues that Bloomberg’s warning of a TradFi takeover is \"oversimplified,\" noting that global exchanges evolved past fee-only models years ago.",
-        "url": "https://www.coindesk.com/business/2026/05/11/why-the-tradfi-takeover-of-crypto-might-not-be-the-death-blow-analysts-expect",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-11T16:29:48Z",
-        "content": "Immediately after Morgan Stanley announced it was rolling out E*Trade, charging a mere 50 basis points undercutting established rivals Coinbase, Robinhood and Schwab, Bloomberg analyst Eric Balchunas… [+3601 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Bitcoin Forms The Same Pattern That Previously Led To A 400% Rally",
-        "description": "A chart shared on May 7, 2026, by analyst @CryptoTice highlights a technical formation that mirrors the setup seen ahead of Bitcoin’s surge from roughly $17,000 to $69,000. According to the analysis, the same structural signals have appeared again on the long…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-forms-pattern-400-rally/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-400.jpeg?fit=1536%2C1024",
-        "publishedAt": "2026-05-11T16:00:54Z",
-        "content": "A chart shared on May 7, 2026, by analyst @CryptoTice highlights a technical formation that mirrors the setup seen ahead of Bitcoins surge from roughly $17,000 to $69,000. According to the analysis, … [+2918 chars]"
       }
     ]
   }
