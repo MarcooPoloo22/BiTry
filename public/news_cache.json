@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-05-14T09:28:00.895Z",
+  "timestamp": "2026-05-14T11:45:22.732Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price repeating move with 77% all-time high odds within year: Analyst",
+        "description": "Bitcoin reduces its drop from all-time highs to 35% in a move that sparked new BTC price all-time highs \"within a year\" on seven occasions in the past.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-repeats-move-with-77-all-time-high-odds-within-a-year",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/market-consolidation-bitcoin.jpg",
+        "publishedAt": "2026-05-13T10:58:38Z",
+        "content": "Bitcoin may have a roughly 77% chance of reaching new all-time highs within a year if historical BTC price patterns repeat.\r\nKey points:\r\n<ul><li>Bitcoin reduces its drawdown from all-time highs from… [+2515 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
+        "description": "Vietnam’s deputy minister of finance reportedly said the country is planning to launch its regulated cryptocurrency market in the third quarter of 2026 to answer the growing demand for digital assets.",
+        "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-dexs-closing-down-or-re-launching-1.jpg",
+        "publishedAt": "2026-05-13T10:49:01Z",
+        "content": "Vietnam could see the first official activity in its regulated crypto asset market as early as the third quarter of 2026, Deputy Minister of Finance Nguyen Duc Chi said at the Digital Trust in Financ… [+2423 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Jane Street slashes Bitcoin ETF holdings, adds Ether funds in Q1 2026",
+        "description": "Jane Street reduced Bitcoin ETF positions in Q1 2026 while increasing Ether ETF exposure and shifting holdings across crypto equities including Strategy.",
+        "url": "https://cointelegraph.com/news/jane-street-slashes-bitcoin-etfs-adds-ether-funds-q1-2026",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-comparison-bitcoin-vs-ethereum-etf.jpg",
+        "publishedAt": "2026-05-13T10:32:13Z",
+        "content": "Wall Street market maker Jane Street reduced its exposure to Bitcoin exchange-traded funds (ETFs) in the first quarter of 2026 while increasing positions in Ether funds.\r\nJane Street cut major Bitcoi… [+2994 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Jamie Crawley",
+        "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
+        "description": "An initial group of clients can now trade bitcoin and ether on the Schwab Crypto platform.",
+        "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d322c8261bb4dcd2eade53454b78734f6ff32bcd-5000x3750.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-13T10:24:25Z",
+        "content": "Charles Schwab, the brokerage giant that manages around $12 trillion in client assets, began the rollout of its spot cryptocurrency trading service for retail customers in the U.S.\r\nAn initial group … [+833 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Crypto Firm Exodus Drains 63% Of Its Bitcoin Reserves As Q1 Loss Doubled Year Over Year",
+        "description": "Exodus Movement sold more than 1,000 Bitcoin in the first three months of 2026 to fund a push into financial technology, raising $73 million in the process. Related Reading: Bitcoin Bulls Awaken As Rare Golden Cross Signal Flashes On Charts The crypto wallet …",
+        "url": "http://www.newsbtc.com/bitcoin-news/crypto-firm-exodus-drains-63-of-its-bitcoin-reserves-as-q1-loss-doubled-year-over-year/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_381fd9.jpg?fit=1500%2C1000",
+        "publishedAt": "2026-05-13T10:00:33Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,45 +433,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-400.jpeg?fit=1536%2C1024",
         "publishedAt": "2026-05-11T16:00:54Z",
         "content": "A chart shared on May 7, 2026, by analyst @CryptoTice highlights a technical formation that mirrors the setup seen ahead of Bitcoins surge from roughly $17,000 to $69,000. According to the analysis, … [+2918 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Crypto funds log $858M in sixth straight week of inflows: CoinShares",
-        "description": "Crypto ETPs drew $858 million in inflows last week, led by Bitcoin with $706 million, as sentiment improved and short-BTC funds saw $14 million of outflows.",
-        "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-biggest-investment-funds-in-crypto.jpg",
-        "publishedAt": "2026-05-11T11:31:47Z",
-        "content": "Cryptocurrency investment products recorded a sixth straight week of inflows in their longest streak since April to July 2025, totaling $4.9 billion, as improving sentiment around US crypto legislati… [+2803 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Vismaya V",
-        "title": "Crypto Funds Add $858M as Clarity Act Drives Market Optimism",
-        "description": "Digital asset inflows peak at a six-week high as a Senate stablecoin deal stokes institutional appetite across Bitcoin and altcoins.",
-        "url": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-05-11T11:31:38Z",
-        "content": "In brief\r\n<ul><li>Digital asset investment products attracted $857.9 million last week, the largest single-week total since April 24, according to CoinShares.</li><li>Bitcoin led with $706.1 million,… [+3934 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "James Van Straten",
-        "title": "Michael Saylor’s latest tax strategy echoes Strategy’s 2022 bitcoin sale",
-        "description": "Michael Saylor confirmed the company was prepared to sell bitcoin, reviving a tax loss harvesting strategy first used in 2022.",
-        "url": "https://www.coindesk.com/markets/2026/05/11/michael-saylor-s-latest-tax-strategy-echoes-strategy-s-2022-bitcoin-sale",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-11T10:57:18Z",
-        "content": "Disclosure: The author of this story owns shares in Strategy (MSTR).\r\nWhen executive chairman Michael Saylor confirmed on Strategys (MSTR) Q1 2026 earnings call on May 6 that the company was prepared… [+2145 chars]"
       }
     ]
   }
