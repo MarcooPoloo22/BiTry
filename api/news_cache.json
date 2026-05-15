@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-15T09:39:52.357Z",
+  "timestamp": "2026-05-15T11:48:44.821Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "JPMorgan lifts Bitcoin ETF exposure in Q1, led by BlackRock’s IBIT",
+        "description": "JPMorgan boosted its IBIT stake to 8.3 million shares in Q1 2026 while expanding Bitcoin ETF exposure, adding Solana funds and clearing XRP positions.",
+        "url": "https://cointelegraph.com/news/jpmorgan-bitcoin-etf-buy-blackrock-ibit-q1-2026",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-is-now-superior-over-dollar-1.jpg",
+        "publishedAt": "2026-05-14T11:22:22Z",
+        "content": "JPMorgan Chase increased its reported holdings in several Bitcoin exchange-traded funds (ETFs) in the first quarter, led by a 174% jump in its position in BlackRocks iShares Bitcoin Trust (IBIT), acc… [+3055 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "Bitcoin struggles below $80,000 amid institutional withdrawal",
+        "description": "Key takeaways Bitcoin has dipped below $80,000 after being rejected by the key 200-day EMA supply zone. US-listed spot ETFs recorded an outflow of $635 million on Wednesday. Bitcoin (BTC) fell below $80,000 on Thursday after failing to overcome a key overhead…",
+        "url": "https://coinjournal.net/news/bitcoin-struggles-below-80000-amid-institutional-withdrawal/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/05/ChatGPT-Image-May-14-2026-12_06_34-PM.png",
+        "publishedAt": "2026-05-14T11:19:39Z",
+        "content": "Key takeaways\r\n<ul><li>Bitcoin has dipped below $80,000 after being rejected by the key 200-day EMA supply zone.</li><li>US-listed spot ETFs recorded an outflow of $635 million on Wednesday.</li></ul… [+2730 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +459,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a791ca2de15f678b124689e311ac232b0a8197e8-3507x1972.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-05-12T13:30:00Z",
         "content": "Blockchain analytics firm Elliptic said it raised $120 million in fresh funding from investors including Nasdaq Ventures and Deutsche Bank as financial institutions ramp up spending on crypto complia… [+2453 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Advertorial",
-        "title": "Istanbul Blockchain Week returns in June 2026 amid surging crypto adoption in Türkiye",
-        "description": "Istanbul Blockchain Week, organized by Web3 marketing agency EAK Digital is set to return for its fifth edition on June 2nd-3rd, 2026, at the Hilton Bomonti Hotel.",
-        "url": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/pr-7.jpg",
-        "publishedAt": "2026-05-12T12:56:36Z",
-        "content": "Istanbul, Türkiye, April 12, 2026 Istanbul Blockchain Week, organized by Web3 marketing agency EAK Digital is set to return for its fifth edition on June 2nd-3rd, 2026, at the Hilton Bomonti Hotel. F… [+3379 chars]"
       }
     ]
   }
