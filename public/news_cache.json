@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-15T17:25:10.054Z",
+  "timestamp": "2026-05-15T19:19:19.574Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Vince Quill",
+        "title": "Crypto losses from North Korea hackers in 2025 rose 51% YoY: Report",
+        "description": "The cybersecurity threats from North Korea are perpetrated by a myriad of small hacker groups deploying malware and executing social engineering scams.",
+        "url": "https://cointelegraph.com/news/losses-dprk-hacks-2025-rose-51-year-over-year",
+        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-how-31-north-korean-developers-fooled-top-crypto-companies-and-stole-680k.jpg",
+        "publishedAt": "2026-05-14T19:01:17Z",
+        "content": "North Korea (DPRK) state-affiliated hackers and threat actors were responsible for more than $2 billion in crypto losses in 2025, a 51% year-over-year increase, despite fewer attacks carried out by t… [+2474 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Analyst Says Avoid Bitcoin At All Costs; Here’s What To Do Instead As 50% Crash Looms",
+        "description": "Crypto analyst Xanrox has advised market participants against buying Bitcoin, warning that a crash is looming for the leading crypto. Instead, the analyst advised buying altcoins, which are likely to offer greater gains.  Analyst Advises Against Buying Bitcoi…",
+        "url": "http://www.newsbtc.com/news/avoid-bitcoin-at-all-costs/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-79.jpg?fit=960%2C540",
+        "publishedAt": "2026-05-14T17:30:00Z",
+        "content": "Crypto analyst Xanrox has advised market participants against buying Bitcoin, warning that a crash is looming for the leading crypto. Instead, the analyst advised buying altcoins, which are likely to… [+2579 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,45 +433,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-Price-Slides-Back-To-2250.jpg?fit=1024%2C559",
         "publishedAt": "2026-05-13T03:18:56Z",
         "content": "Ethereum price started a fresh decline and traded below $2,300. ETH is now consolidating above $2,250 and might struggle to recover.\r\n<ul><li>Ethereum started a downside correction below the $2,280 z… [+2159 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Recovery Gains Pace, Can Rally Momentum Return?",
-        "description": "Bitcoin price started a recovery wave above the $80,500 zone. BTC is consolidating and might aim for more gains if it clears the $81,500 resistance zone. Bitcoin managed to form a base above $80,000 and started a recovery wave. The price is trading above $80,…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-recovery-gains-pace-82k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-Price-Recovery-Gains-Pace.jpg",
-        "publishedAt": "2026-05-13T02:41:06Z",
-        "content": "Bitcoin price started a recovery wave above the $80,500 zone. BTC is consolidating and might aim for more gains if it clears the $81,500 resistance zone.\r\n<ul><li>Bitcoin managed to form a base above… [+2197 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Strategy Boosts Bitcoin Position With Fresh $206M STRC Injection",
-        "description": "Peter Schiff thinks Strategy executive chairman and co-founder Michael Saylor is misleading retirees. The outspoken economist fired off a warning on X, asking how the SEC could allow Saylor to publicly describe STRC as suitable for retired investors whose mai…",
-        "url": "http://www.newsbtc.com/news/bitcoin/strategy-boosts-bitcoin-position-with-fresh-206m-strc-injection/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_24cebf.png?fit=762%2C457",
-        "publishedAt": "2026-05-13T02:30:13Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Here’s Why The Bitcoin Price Has Risen 37% Since April And What Could Threaten The Rally",
-        "description": "The massive surge in the Bitcoin price since April 2026 is still viewed as part of a broader bear market phase, according to on-chain analytics platform CryptoQuant. While some market experts believe the rebound could signal a new bull run, CryptoQuant’s unre…",
-        "url": "http://www.newsbtc.com/news/bitcoin/why-bitcoin-has-risen-37/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-14.jpg?fit=1280%2C847",
-        "publishedAt": "2026-05-13T01:00:54Z",
-        "content": "The massive surge in the Bitcoin price since April 2026 is still viewed as part of a broader bear market phase, according to on-chain analytics platform CryptoQuant. While some market experts believe… [+3088 chars]"
       }
     ]
   }
