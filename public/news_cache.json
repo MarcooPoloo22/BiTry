@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-16T16:48:13.739Z",
+  "timestamp": "2026-05-16T17:49:08.086Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "What’s Going On With Ethereum And Why Is Price Moving This Way?",
+        "description": "Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has rep…",
+        "url": "http://www.newsbtc.com/news/ethereum/whats-going-on-with-ethereum/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-20-2026-08_43_02-AM.png?fit=1222%2C814",
+        "publishedAt": "2026-05-15T17:30:52Z",
+        "content": "Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answ… [+3001 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Turner Wright",
+        "title": "Myanmar’s military government proposes life in prison for crypto scammers",
+        "description": "The text of Myanmar’s Anti-Online Fraud Bill said that anyone who was convicted of committing “digital currency fraud” could face from ten years to life in prison, and possibly the death penalty.",
+        "url": "https://cointelegraph.com/news/myanmar-government-life-death-crypto-scammers",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-prisoner-with-handcuffs.jpg",
+        "publishedAt": "2026-05-15T17:08:51Z",
+        "content": "The military government of Myanmar released the text of a bill aimed at combating online fraudsters, with several penalties related to cryptocurrencies and scam centers.\r\nAccording to the text of the… [+2568 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +381,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-Price-Flashes-Weakness-Signals.jpg?fit=1024%2C559",
         "publishedAt": "2026-05-14T03:08:13Z",
         "content": "Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover.\r\n<ul><li>Ethereum started a downside correction below the $2,265 z… [+2156 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Dips Further Below $80K—Bears Tighten Grip On Market",
-        "description": "Bitcoin price started a fresh decline below the $80,500 zone. BTC is consolidating and might struggle to stay above the $78,800 support. Bitcoin failed to stay above $80,500 and extended losses. The price is trading below $80,000 and the 100 hourly simple mov…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-dips-further-below-80k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-Price-Dips-Further-Below-80K.jpg",
-        "publishedAt": "2026-05-14T02:37:55Z",
-        "content": "Bitcoin price started a fresh decline below the $80,500 zone. BTC is consolidating and might struggle to stay above the $78,800 support.\r\n<ul><li>Bitcoin failed to stay above $80,500 and extended los… [+2195 chars]"
       }
     ]
   }
