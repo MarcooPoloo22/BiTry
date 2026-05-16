@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-16T17:49:08.086Z",
+  "timestamp": "2026-05-16T18:52:14.070Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Rakesh Upadhyay",
+        "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+        "description": "Bitcoin remains positive as long as the price stays above $76,000, but several major altcoins are threatening to turn negative in the short term.",
+        "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analytics-analysis-future-city-5-element.jpg",
+        "publishedAt": "2026-05-15T18:09:38Z",
+        "content": "Key points:\r\n<ul><li>Bitcoin is struggling to reach the $84,000 level, but a minor positive is that the bulls have not allowed the price to skid to the $76,000 support.</li><li>Select major altcoins … [+8276 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,32 +368,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Dogecoin-DOGE-Breaks-Away-From-Pack-As-Momentum-Turns-Aggressive.jpg?fit=1024%2C559",
         "publishedAt": "2026-05-14T04:48:00Z",
         "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Bitcoin Miner MARA Stock Under Pressure Following $1.5 Billion Bitcoin Sell-Off",
-        "description": "MARA Holdings still has in its coffers 35,303 Bitcoin valued at roughly $2.84 billion, making it the fourth largest corporate Bitcoin holder in the world. But that position comes after the company sold a significant chunk of its reserves — and investors took …",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-miner-mara-stock-under-pressure-following-1-5-billion-bitcoin-sell-off/",
-        "urlToImage": null,
-        "publishedAt": "2026-05-14T03:30:05Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price Flashes Weakness Signals, Pullback Fears Start Rising",
-        "description": "Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover. Ethereum started a downside correction below the $2,265 zone. The price is trading below $2,280 and the 100-hourly Simple Movi…",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-flashes-weakness-2320/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-Price-Flashes-Weakness-Signals.jpg?fit=1024%2C559",
-        "publishedAt": "2026-05-14T03:08:13Z",
-        "content": "Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover.\r\n<ul><li>Ethereum started a downside correction below the $2,265 z… [+2156 chars]"
       }
     ]
   }
