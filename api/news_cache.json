@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-17T16:47:30.716Z",
+  "timestamp": "2026-05-17T17:51:16.795Z",
   "data": {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
+        "description": "Bitcoin fell below $78,000 for the first time since the start of May, but traders refused to give up hope of a BTC price rebound coming next.",
+        "url": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bear-crypto-market1-2.jpg",
+        "publishedAt": "2026-05-16T17:07:39Z",
+        "content": "Bitcoin (BTC) circled $78,000 on Saturday after geopolitical headwinds erased most of its May gains.\r\nKey points:\r\n<ul><li>Bitcoin falls below $78,000 for the first time since the start of May.</li><… [+2989 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Opeyemi Sule",
+        "title": "Solana Eyes $117 Breakout — If Bulls Can Crush This Key Resistance",
+        "description": "The Solana price has struggled to shake off its early-year woes despite a slightly improved general market climate in recent weeks. After falling from a nearly $150 valuation in the first quarter of 2026, the altcoin has been stuck within a consolidation rang…",
+        "url": "http://www.newsbtc.com/news/solana/solana-price-could-be-on-its-way-to-117/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/03/2025-03-23-01.36.33.jpg?fit=960%2C640",
+        "publishedAt": "2026-05-16T17:00:38Z",
+        "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,19 +368,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Untitled-design-4.jpg?fit=1792%2C1024",
         "publishedAt": "2026-05-14T13:00:55Z",
         "content": "Ethereum is consolidating between $2,250 and $2,450 as the market searches for the catalyst or the structural shift that forces a decisive move in either direction. The price is holding but not break… [+4783 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nancy Lubale",
-        "title": "Analysts are watching these Bitcoin price levels ahead of CLARITY Act vote",
-        "description": "Will Bitcoin price finally break $82,000 after the Senate Banking Committee’s markup vote on the CLARITY Act or will it slide toward the $74,000-$76,000 range?",
-        "url": "https://cointelegraph.com/markets/analysts-these-bitcoin-price-levels-ahead-clarity-act-vote",
-        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price.jpg",
-        "publishedAt": "2026-05-14T12:14:53Z",
-        "content": "Bitcoin (BTC) bulls made another attempt to reclaim the $80,000 level on Thursday, as traders expect price swings before and after the CLARITY Act vote.\r\nKey takeaways:\r\n<ul><li>Odds of the CLARITY A… [+4147 chars]"
       }
     ]
   }
