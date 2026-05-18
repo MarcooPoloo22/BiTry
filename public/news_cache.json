@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-05-18T06:47:05.013Z",
+  "timestamp": "2026-05-18T10:59:27.764Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Amin Haqshanas",
+        "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
+        "description": "SBI Securities and Rakuten Securities are already developing crypto investment trusts in-house, while Nomura, Daiwa, and SMBC are preparing to follow as Japan moves to allow crypto-holding funds by 2028.",
+        "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-launch-a-crypto-token-on-a-decentralized-exchange.jpg",
+        "publishedAt": "2026-05-17T10:51:22Z",
+        "content": "Japans major brokerages are preparing to bring crypto investment trusts to retail investors, with SBI Securities and Rakuten Securities already developing products in-house, while others like Nomura … [+2429 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Amin Haqshanas",
+        "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
+        "description": "Intesa Sanpaolo grew its crypto holdings from $100 million to $235 million in Q1 2026, making first-time moves into Ethereum and XRP while nearly exiting Solana entirely.",
+        "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/digital-bank.jpg",
+        "publishedAt": "2026-05-17T08:31:02Z",
+        "content": "Intesa Sanpaolo, Italys largest bank, more than doubled its crypto exposure in the first quarter of 2026, with holdings climbing from approximately $100 million at the end of 2025 to around $235 mill… [+2648 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Opeyemi Sule",
+        "title": "Bitcoin At A Crossroads: These Are The Major Factors At Play",
+        "description": "Over the past few weeks, Bitcoin has struggled to break above the $82,000 price resistance and now trades near $78,000. While the integrity of either of these zones carries significant yet different implications for the flagship cryptocurrency’s growth, a cry…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-at-a-crossroads-these-are-the-major-factors-at-play/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/05/2025-05-03-03.53.01.jpg",
+        "publishedAt": "2026-05-17T08:00:40Z",
+        "content": "Over the past few weeks, Bitcoin has struggled to break above the $82,000 price resistance and now trades near $78,000. While the integrity of either of these zones carries significant yet different … [+3074 chars]"
+      },
       {
         "source": {
           "id": null,
