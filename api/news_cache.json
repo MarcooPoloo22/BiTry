@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-19T10:33:35.614Z",
+  "timestamp": "2026-05-19T13:51:48.504Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "James Halver",
+        "title": "XRP Ledger’s 121% RWA Surge Is Leaving Solana And BNB Chain Behind — Here’s The Data",
+        "description": "The XRP Ledger has recorded a 120.97% surge in distributed real-world asset value over the past 30 days, with total represented RWA value on the network climbing to $2.43 billion — a 71.24% increase in the same period — according to live data from RWA.xyz, th…",
+        "url": "http://www.newsbtc.com/news/ripple/xrp-ledgers-121-rwa-surge-is-leaving-solana-and-bnb-chain-behind-heres-the-data/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/xrp-xrpusd-ripple.jpg",
+        "publishedAt": "2026-05-18T11:07:47Z",
+        "content": "The XRP Ledger has recorded a 120.97% surge in distributed real-world asset value over the past 30 days, with total represented RWA value on the network climbing to $2.43 billion a 71.24% increase in… [+3407 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,19 +407,6 @@
         "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-crypto-regulation-in-australia-issues-and-solutions.jpg",
         "publishedAt": "2026-05-15T07:15:07Z",
         "content": "Australias proposed changes to capital gains tax could lead to smaller profits for cryptocurrency traders, especially low-income earners, and could discourage patient investing, according to several … [+4357 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Martin Young",
-        "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
-        "description": "LayerZero has come under scrutiny since it was exploited in April, as crypto protocols reevaluate their cross-chain providers and seek safer alternatives.",
-        "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip",
-        "urlToImage": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/blockchain-cubes-crypto2.jpg",
-        "publishedAt": "2026-05-15T07:10:56Z",
-        "content": "Crypto exchange Kraken announced Thursday that it changed its cross-chain provider from LayerZero to Chainlinks Cross-Chain Interoperability Protocol, joining a number of protocols that have made the… [+2910 chars]"
       }
     ]
   }
