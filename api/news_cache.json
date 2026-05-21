@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-21T13:56:26.443Z",
+  "timestamp": "2026-05-21T16:35:38.389Z",
   "data": {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Logan Hitchcock",
+        "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
+        "description": "The crypto-friendly legislation was signed into law on Tuesday, granting protections to crypto users, developers, and Bitcoin miners.",
+        "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
+        "publishedAt": "2026-05-20T15:08:53Z",
+        "content": "In brief\r\n<ul><li>Senate Bill 163 was signed into law by South Carolina Governor Henry McMaster on Tuesday. </li><li>The bill effectively bans the use of CBDCs in the state and protects authorities f… [+2400 chars]"
+      },
       {
         "source": {
           "id": null,
