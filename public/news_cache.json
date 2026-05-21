@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-21T02:32:12.438Z",
+  "timestamp": "2026-05-21T06:44:14.387Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Solana (SOL) Drops Into Bearish Zone, Key Supports Come Under Threat",
+        "description": "Solana failed to settle above $92 and corrected most gains. SOL price is now consolidating losses above $84 and might attempt another increase. SOL price started a fresh decline below $90 and $88 against the US Dollar. The price is now trading below $87 and t…",
+        "url": "http://www.newsbtc.com/analysis/solana-sol-drops-into-bearish-zone-key-supports-come-under-threat/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Solana-SOL-Loses-80-Floor.jpg?fit=1024%2C559",
+        "publishedAt": "2026-05-20T04:48:49Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Bounce Looks Fragile, Another Selloff May Be Brewing",
+        "description": "Ethereum price started a recovery wave above the $2,100 zone. ETH is now consolidating and might struggle to continue higher above the $2,150 resistance. Ethereum started a recovery wave from the $2,075 zone. The price is trading below $2,120 and the 100-hour…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-bounce-looks-fragile-2150/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Ethereum-Price-2200-Collapse.jpg?fit=1024%2C572",
+        "publishedAt": "2026-05-20T03:08:35Z",
+        "content": "Ethereum price started a recovery wave above the $2,100 zone. ETH is now consolidating and might struggle to continue higher above the $2,150 resistance.\r\n<ul><li>Ethereum started a recovery wave fro… [+2122 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,71 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/eosethereummarketfallbigwave-new.jpg",
         "publishedAt": "2026-05-18T05:06:21Z",
         "content": "Crypto analysts are divided over whether markets will see a major Bitcoin sell-off in May, a pattern that has emerged in the last two bear markets during US mid-term election years. \r\nIn May 2018, Bi… [+2912 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "BitMine Buys Another $197 Million In Ethereum As Tom Lee’s 5% ETH Strategy Presses On",
-        "description": "On-chain data is pointing to another interesting accumulation move by Tom Lee’s BitMine Immersion Technologies, with a whale tracker flagging a $197.64 million Ethereum purchase routed through four newly created wallets. Related Reading: XRP Records Biggest S…",
-        "url": "http://www.newsbtc.com/altcoin/bitmine-buys-another-197-million-in-ethereum-as-tom-lees-5-eth-strategy-presses-on/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_eb15ac.jpg?fit=3233%2C2155",
-        "publishedAt": "2026-05-17T20:00:48Z",
-        "content": "On-chain data is pointing to another interesting accumulation move by Tom Lee’s BitMine Immersion Technologies, with a whale tracker flagging a $197.64 million Ethereum purchase routed through four n… [+3076 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Semilore Faleti",
-        "title": "Binance Records $1.5 Billion Stablecoin Net Inflow Amid Highly Reactive Market",
-        "description": "Recent on-chain data indicate the Binance exchange has registered a high volatility in stablecoin inflows in recent days. This observation can be linked to the general market’s choppiness during this period, driven by Bitcoin’s price movements. Pseudonymous r…",
-        "url": "http://www.newsbtc.com/stablecoin/binance-records-1-5-billion-stablecoin-net-inflow-amid-highly-reactive-market/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/shutterstock_2139614619.jpg?fit=1000%2C562",
-        "publishedAt": "2026-05-17T18:00:10Z",
-        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin LTH Supply Climbs Back To August 2025 Levels As 316K BTC Move Into Strong Hands",
-        "description": "Bitcoin’s latest on-chain picture is beginning to look less like panic and more like patience. Data from CryptoQuant, highlighted by crypto analyst Darkfost, shows that long-term holder supply has climbed back to 15.26 million BTC, returning to a level last s…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-lth-supply-climbs-back-to-august-2025-levels-as-316k-btc-move-into-strong-hands/",
-        "urlToImage": null,
-        "publishedAt": "2026-05-17T14:00:32Z",
-        "content": "Bitcoins latest on-chain picture is beginning to look less like panic and more like patience. Data from CryptoQuant, highlighted by crypto analyst Darkfost, shows that long-term holder supply has cli… [+3190 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Bitcoin’s Fall To $78K Could Be A Bear Trap — Here’s Why",
-        "description": "After springing back to life on the back of positive CLARITY Act development, the price of Bitcoin has been relatively quiet over the past few days. The premier cryptocurrency, which had been dancing around $82,000, is now barely above $78,000. According to a…",
-        "url": "http://www.newsbtc.com/news/bitcoin-fall-to-78k-could-be-a-bear-trap/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/2026-05-17-10.17.57.jpg",
-        "publishedAt": "2026-05-17T12:00:18Z",
-        "content": "After springing back to life on the back of positive CLARITY Act development, the price of Bitcoin has been relatively quiet over the past few days. The premier cryptocurrency, which had been dancing… [+2519 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Amin Haqshanas",
-        "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
-        "description": "SBI Securities and Rakuten Securities are already developing crypto investment trusts in-house, while Nomura, Daiwa, and SMBC are preparing to follow as Japan moves to allow crypto-holding funds by 2028.",
-        "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-launch-a-crypto-token-on-a-decentralized-exchange.jpg",
-        "publishedAt": "2026-05-17T10:51:22Z",
-        "content": "Japans major brokerages are preparing to bring crypto investment trusts to retail investors, with SBI Securities and Rakuten Securities already developing products in-house, while others like Nomura … [+2429 chars]"
       }
     ]
   }
