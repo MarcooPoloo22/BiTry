@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-21T18:54:01.243Z",
+  "timestamp": "2026-05-21T20:46:53.215Z",
   "data": {
     "status": "ok",
     "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Rakesh Upadhyay",
+        "title": "Price predictions 5/20: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+        "description": "Bitcoin looks on track for a rally toward $80,000 while HYPE, ZEC and a handful of altcoins are pushing toward their range highs.",
+        "url": "https://cointelegraph.com/markets/price-predictions-520-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analysis-analitycs-doctor-experiement-scienticts-anatomy-lab.jpg",
+        "publishedAt": "2026-05-20T19:36:38Z",
+        "content": "Key points:\r\n<ul><li>Bitcoin is at a critical juncture, as a close below $76,000 may deepen the pullback toward $70,000.</li><li>HYPE and ZEC are in an up move, but most other major altcoins are stru… [+8020 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,19 +381,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analysis-analytics-screen-red-fall32.jpg",
         "publishedAt": "2026-05-18T17:58:29Z",
         "content": "Key points:\r\n<ul><li>Bitcoin has pulled back to the $76,000 level, a crucial near-term support level to watch.</li><li>Several major altcoins have broken below their near-term support levels, indicat… [+7998 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Andrew Hayward",
-        "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
-        "description": "Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.",
-        "url": "https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-        "publishedAt": "2026-05-18T16:00:29Z",
-        "content": "In brief\r\n<ul><li>Iran tensions ended a six-week inflow streak with $1.07 billion in outflows, led by Bitcoin and Ethereum.</li><li>The sell-off was almost entirely American; European markets held fi… [+2166 chars]"
       }
     ]
   }
