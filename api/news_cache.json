@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-20T23:06:09.528Z",
+  "timestamp": "2026-05-21T02:32:12.439Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Stabilizes Above $76K, Traders Await Next Major Move",
+        "description": "Bitcoin price started a fresh decline below the $76,800 zone. BTC is consolidating and might struggle to stay above the $76,000 support. Bitcoin failed to stay above $77,000 and extended losses. The price is trading below $77,200 and the 100 hourly simple mov…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-stabilizes-above-76k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Recovery-Slips-Sellers-Tighten-Grip-on-Market.jpg",
+        "publishedAt": "2026-05-20T02:15:54Z",
+        "content": "Bitcoin price started a fresh decline below the $76,800 zone. BTC is consolidating and might struggle to stay above the $76,000 support.\r\n<ul><li>Bitcoin failed to stay above $77,000 and extended los… [+2190 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Keshav Verma",
+        "title": "USDC Exchange Inflows Hit $350M—Traders Buying The Bitcoin Dip?",
+        "description": "On-chain data shows USDC exchange inflows have witnessed a spike after the latest Bitcoin pullback, a potential sign that traders are looking to buy the dip. USDC Exchange Inflows Have Spiked To $350 Million As pointed out by on-chain analyst Maartunn in an X…",
+        "url": "http://www.newsbtc.com/bitcoin-news/usdc-exchange-inflows-350m-buying-bitcoin-dip/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/usdc.png?fit=1105%2C737",
+        "publishedAt": "2026-05-20T01:30:40Z",
+        "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,32 +407,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-launch-a-crypto-token-on-a-decentralized-exchange.jpg",
         "publishedAt": "2026-05-17T10:51:22Z",
         "content": "Japans major brokerages are preparing to bring crypto investment trusts to retail investors, with SBI Securities and Rakuten Securities already developing products in-house, while others like Nomura … [+2429 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Amin Haqshanas",
-        "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
-        "description": "Intesa Sanpaolo grew its crypto holdings from $100 million to $235 million in Q1 2026, making first-time moves into Ethereum and XRP while nearly exiting Solana entirely.",
-        "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/digital-bank.jpg",
-        "publishedAt": "2026-05-17T08:31:02Z",
-        "content": "Intesa Sanpaolo, Italys largest bank, more than doubled its crypto exposure in the first quarter of 2026, with holdings climbing from approximately $100 million at the end of 2025 to around $235 mill… [+2648 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Bitcoin At A Crossroads: These Are The Major Factors At Play",
-        "description": "Over the past few weeks, Bitcoin has struggled to break above the $82,000 price resistance and now trades near $78,000. While the integrity of either of these zones carries significant yet different implications for the flagship cryptocurrency’s growth, a cry…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-at-a-crossroads-these-are-the-major-factors-at-play/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/05/2025-05-03-03.53.01.jpg",
-        "publishedAt": "2026-05-17T08:00:40Z",
-        "content": "Over the past few weeks, Bitcoin has struggled to break above the $82,000 price resistance and now trades near $78,000. While the integrity of either of these zones carries significant yet different … [+3074 chars]"
       }
     ]
   }
