@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-05-21T10:32:41.841Z",
+  "timestamp": "2026-05-21T13:56:26.443Z",
   "data": {
     "status": "ok",
     "totalResults": 27,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yashu Gola",
+        "title": "This Bitcoin price model targets ‘conservative’ $255K by year-end",
+        "description": "Bitcoin Decay Channel puts BTC’s conservative year-end range at $90,000–$255,000, with its 2027 range extending to $308,000.",
+        "url": "https://cointelegraph.com/markets/this-bitcoin-price-model-targets-conservative-255k-by-year-end",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/cyber-trader-screen-bitcoin.jpg",
+        "publishedAt": "2026-05-20T13:08:01Z",
+        "content": "Bitcoin (BTC) is down roughly 40% from its October 2025 record high, but a long-term valuation model suggests the cryptocurrency could erase the entire decline and rally to as high as $255,000 by yea… [+2778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Bitcoin’s ‘momentum is fading’: Traders have these support levels in mind",
+        "description": "Bitcoin momentum is fading following drop to $76,000 as analysts warn a loss of key support at $74,000-$76,000 could trigger a deeper BTC price correction.",
+        "url": "https://cointelegraph.com/markets/bitcoins-momentum-is-fading-traders-have-these-support-levels-in-mind",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-bitcoin.jpg",
+        "publishedAt": "2026-05-20T11:40:51Z",
+        "content": "Market analysts say Bitcoin (BTC) is showing momentum exhaustion after its 8% drop from multi-month highs above $82,000, with bulls expected to defend key crucial support levels. \r\nKey takeaways:\r\n<u… [+3334 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Amin Haqshanas",
+        "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+        "description": "South Carolina has passed S. Bill 163, banning state agencies from accepting CBDCs, protecting crypto self-custody rights, and exempting Bitcoin miners from money transmitter licensing requirements.",
+        "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-nodes-vs-miners-key-differences.jpg",
+        "publishedAt": "2026-05-20T11:21:32Z",
+        "content": "South Carolina Governor Henry McMaster signed Senate Bill 163 into law on Tuesday, advancing one of the most crypto-friendly state-level frameworks in the country.\r\nThe bill, which previously passed … [+2260 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -316,45 +355,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/xrp-xrpusd-ripple.jpg",
         "publishedAt": "2026-05-18T11:07:47Z",
         "content": "The XRP Ledger has recorded a 120.97% surge in distributed real-world asset value over the past 30 days, with total represented RWA value on the network climbing to $2.43 billion a 71.24% increase in… [+3407 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "BTC price ‘bull trap’ at $76.5K? Five things to know in Bitcoin this week",
-        "description": "Bitcoin started the week with a dip toward new May lows as ongoing BTC price pressures included \"collapsing\" US bond markets.",
-        "url": "https://cointelegraph.com/markets/btc-price-bull-trap-76-5k-five-things-bitcoin-this-week",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bull-trap-and-how-to-identify-it-crypto-bitcoin.jpg",
-        "publishedAt": "2026-05-18T10:23:31Z",
-        "content": "Bitcoin (BTC) starts a new week under pressure as support levels fade and macro gloom intensifies.\r\nKey points:\r\n<ul><li>Bitcoin falls below a key 21-week trend line after the weekly close, but hopes… [+8720 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Meme coins remain under pressure as Dogecoin extends losses",
-        "description": "Key takeaways Dogecoin extends its correction on Monday as memecoins record huge losses. DOGE could drop below $0.10 if the bearish trend persists.  Memecoins record huge losses The cryptocurrency market opened the new weekly candle bearish, with Bitcoin (BTC…",
-        "url": "https://coinjournal.net/news/meme-coins-remain-under-pressure-as-dogecoin-extends-losses/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/05/ChatGPT-Image-May-18-2026-10_20_11-AM.png",
-        "publishedAt": "2026-05-18T09:21:56Z",
-        "content": "Key takeaways\r\n<ul><li>Dogecoin extends its correction on Monday as memecoins record huge losses.</li><li>DOGE could drop below $0.10 if the bearish trend persists. </li></ul>Memecoins record huge lo… [+2240 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Bitcoin slides below $76,800 as ETF outflows and inflation fears pressure crypto markets",
-        "description": "Key takeaways BTC dips lower for a fourth straight day on Monday after losing nearly 6% the previous week. US-listed BTC spot ETFs record a weekly outflow of $1 billion, the highest in three months. Bitcoin (BTC) remained under pressure on Monday, trading bel…",
-        "url": "https://coinjournal.net/news/bitcoin-slides-below-76800-as-etf-outflows-and-inflation-fears-pressure-crypto-markets/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/05/ChatGPT-Image-May-18-2026-10_06_04-AM.png",
-        "publishedAt": "2026-05-18T09:11:36Z",
-        "content": "Key takeaways\r\n<ul><li>BTC dips lower for a fourth straight day on Monday after losing nearly 6% the previous week.</li><li>US-listed BTC spot ETFs record a weekly outflow of $1 billion, the highest … [+3452 chars]"
       }
     ]
   }
