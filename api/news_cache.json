@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-22T16:16:36.370Z",
+  "timestamp": "2026-05-22T18:29:18.043Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Crypto Exchange Kraken Secures VARA License to Launch in Dubai",
+        "description": "Dubai's Virtual Asset Regulatory Authority granted Kraken’s parent company preliminary broker-dealer and investment management authorization.",
+        "url": "https://decrypt.co/368643/crypto-exchange-kraken-secures-vara-license-launch-dubai",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg",
+        "publishedAt": "2026-05-21T16:32:58Z",
+        "content": "In brief\r\n<ul><li>Payward, Kraken's parent company, secured preliminary regulatory approval from Dubai's Virtual Asset Regulatory Authority (VARA).</li><li>Services will include spot and margin tradi… [+3186 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,19 +407,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/gary-gensler-decrypt-style-02-gID_7.jpg",
         "publishedAt": "2026-05-19T22:01:04Z",
         "content": "In brief\r\n<ul><li>Nearly a decade after its founding and raising $100 million, Prometheum has officially executed its first crypto trades.</li><li>Co-CEO Aaron Kaplan argues the platform dovetails wi… [+3741 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Jake Simmons",
-        "title": "Bitcoin Hits ‘Wall Of Resistance,’ CryptoQuant Research Head Warns",
-        "description": "Bitcoin’s latest rally has run into a major technical and on-chain resistance zone, with CryptoQuant research head Julio Moreno warning that several indicators now point to elevated correction risk after a sharp rebound from April lows. Moreno said CryptoQuan…",
-        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-wall-of-resistance-cryptoquant-research-head/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/ChatGPT-Image-19.-Mai-2026-13_39_09.png?fit=1333%2C750",
-        "publishedAt": "2026-05-19T21:00:03Z",
-        "content": "Bitcoins latest rally has run into a major technical and on-chain resistance zone, with CryptoQuant research head Julio Moreno warning that several indicators now point to elevated correction risk af… [+3845 chars]"
       }
     ]
   }
