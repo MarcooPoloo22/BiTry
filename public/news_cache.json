@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-22T18:29:18.043Z",
+  "timestamp": "2026-05-22T20:28:33.985Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Vince Quill",
+        "title": "Petition to scrap South Korea's crypto tax reaches 50K threshold",
+        "description": "A petition opposing a 22% tax on crypto investment gains in South Korea has gained the necessary amount of signatures for a review by South Korean officials.",
+        "url": "https://cointelegraph.com/news/petition-scrap-south-korea-crypto-tax-50k-threshold",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hand-documents-magnifier-increase.jpg",
+        "publishedAt": "2026-05-21T18:44:45Z",
+        "content": "A petition to scrap a 22% tax on crypto investment gains in South Korea reached the 50,000-signature threshold required for the countrys Finance and Economic Planning Committee to review objections t… [+2331 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,32 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Recovery-Slips-Sellers-Tighten-Grip-on-Market.jpg",
         "publishedAt": "2026-05-20T02:15:54Z",
         "content": "Bitcoin price started a fresh decline below the $76,800 zone. BTC is consolidating and might struggle to stay above the $76,000 support.\r\n<ul><li>Bitcoin failed to stay above $77,000 and extended los… [+2190 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Keshav Verma",
-        "title": "USDC Exchange Inflows Hit $350M—Traders Buying The Bitcoin Dip?",
-        "description": "On-chain data shows USDC exchange inflows have witnessed a spike after the latest Bitcoin pullback, a potential sign that traders are looking to buy the dip. USDC Exchange Inflows Have Spiked To $350 Million As pointed out by on-chain analyst Maartunn in an X…",
-        "url": "http://www.newsbtc.com/bitcoin-news/usdc-exchange-inflows-350m-buying-bitcoin-dip/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/usdc.png?fit=1105%2C737",
-        "publishedAt": "2026-05-20T01:30:40Z",
-        "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "André Beganski",
-        "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
-        "description": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
-        "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/gary-gensler-decrypt-style-02-gID_7.jpg",
-        "publishedAt": "2026-05-19T22:01:04Z",
-        "content": "In brief\r\n<ul><li>Nearly a decade after its founding and raising $100 million, Prometheum has officially executed its first crypto trades.</li><li>Co-CEO Aaron Kaplan argues the platform dovetails wi… [+3741 chars]"
       }
     ]
   }
