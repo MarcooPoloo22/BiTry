@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-23T08:23:30.951Z",
+  "timestamp": "2026-05-23T10:22:27.385Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Saylor Says Bitcoin Could Triple S&P 500 Returns: ‘We Expect 30%’",
+        "description": "Michael Saylor is calling $60,000 Bitcoin’s floor. The Strategy co-founder made the claim during a Thursday appearance on CNBC’s Squawk Box, saying the asset is now entering what he described as a “spring phase” — backed by solid support levels and a favorabl…",
+        "url": "http://www.newsbtc.com/news/bitcoin-vs-sp-500-michael-saylor-bets-big-on-crypto-winning-long-term/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-22T09:00:17Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
