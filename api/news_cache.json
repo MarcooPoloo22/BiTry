@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-05-23T02:10:51.056Z",
+  "timestamp": "2026-05-23T05:59:51.653Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Solana (SOL) Rebound Faces Major Test Near Key Resistance Zone",
+        "description": "Solana found support at $83.50 and corrected some losses. SOL price is now consolidating below $88.50 and might struggle to continue higher. SOL price started a decent recovery wave above $85 and $86 against the US Dollar. The price is now trading above $86 a…",
+        "url": "http://www.newsbtc.com/analysis/solana-sol-rebound-faces-major-test-88-50/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Solana-SOL-Rebound-Faces-Major-Test.jpg?fit=1024%2C559",
+        "publishedAt": "2026-05-22T05:08:52Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Jesse Coghlan",
+        "title": "5 crypto firms wind down this week amid ongoing market slump",
+        "description": "Fantasy.top, Everclear and ZERO Network announced they were winding down on Thursday, adding to a growing list of crypto companies that have closed this year.",
+        "url": "https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-coinflares-exit-and-the-future-of-cloud-mining.jpg",
+        "publishedAt": "2026-05-22T03:59:57Z",
+        "content": "At least five crypto companies have shuttered this week as a prolonged downturn in the crypto market has put downward pressure on user activity and investor funding. \r\nCrypto trading card platform Fa… [+3898 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Eyes Breakout Move, Traders Watch Key Resistance Closely",
+        "description": "Ethereum price started a recovery wave above the $2,120 zone. ETH is now consolidating and might rally if there is a clear move above the $2,150 resistance. Ethereum started a recovery wave above the $2,125 zone. The price is trading below $2,150 and the 100-…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-eyes-breakout-2150/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-Price-Eyes-Breakout-Move.jpg?fit=1024%2C559",
+        "publishedAt": "2026-05-22T03:08:55Z",
+        "content": "Ethereum price started a recovery wave above the $2,120 zone. ETH is now consolidating and might rally if there is a clear move above the $2,150 resistance.\r\n<ul><li>Ethereum started a recovery wave … [+2089 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Consolidates Near Lows As Market Searches For Direction",
+        "description": "Bitcoin price started a recovery wave above the $77,000 zone. BTC is consolidating and might aim for more gains if it clears the $78,000 resistance zone. Bitcoin managed to form a base above $76,200 and started a recovery wave. The price is trading above $77,…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-consolidates-78k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-Price-Consolidates.jpg",
+        "publishedAt": "2026-05-22T02:54:07Z",
+        "content": "Bitcoin price started a recovery wave above the $77,000 zone. BTC is consolidating and might aim for more gains if it clears the $78,000 resistance zone.\r\n<ul><li>Bitcoin managed to form a base above… [+2178 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,45 +446,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-nodes-vs-miners-key-differences.jpg",
         "publishedAt": "2026-05-20T11:21:32Z",
         "content": "South Carolina Governor Henry McMaster signed Senate Bill 163 into law on Tuesday, advancing one of the most crypto-friendly state-level frameworks in the country.\r\nThe bill, which previously passed … [+2260 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Zcash Soars 88% In 30 Days: Is ZEC The Stealth Winner Of This Crypto Cycle?",
-        "description": "BitMEX co-founder Arthur Hayes has suggested that Zcash (ZEC) could eventually reach 10% of Bitcoin’s market capitalization, a long-term bullish thesis on privacy coins rather than a near-term price forecast. Based on ZEC’s circulating supply of around 16 mil…",
-        "url": "http://www.newsbtc.com/news/zcash-breakout-brewing-analysts-see-88-upside-for-zec/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/A_e4eba3.png?fit=2000%2C1000",
-        "publishedAt": "2026-05-20T10:00:01Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Jesse Coghlan",
-        "title": "Bitwise calls HYPE ‘most mispriced’ crypto despite 77% rise this year",
-        "description": "Crypto investors have underestimated Hyperliquid’s token, HYPE, valuing the platform as a crypto exchange instead of an all-encompassing finance app, says Bitwise’s Matt Hougan.",
-        "url": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/man-with-holo-graphics-bitwise.jpg",
-        "publishedAt": "2026-05-20T07:37:19Z",
-        "content": "Crypto asset manager Bitwise has called Hyperliquid one of the most mispriced assets in crypto today, despite its outperformance so far this year.\r\nHyperliquid is one of the most important crypto pro… [+2191 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Solana (SOL) Drops Into Bearish Zone, Key Supports Come Under Threat",
-        "description": "Solana failed to settle above $92 and corrected most gains. SOL price is now consolidating losses above $84 and might attempt another increase. SOL price started a fresh decline below $90 and $88 against the US Dollar. The price is now trading below $87 and t…",
-        "url": "http://www.newsbtc.com/analysis/solana-sol-drops-into-bearish-zone-key-supports-come-under-threat/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Solana-SOL-Loses-80-Floor.jpg?fit=1024%2C559",
-        "publishedAt": "2026-05-20T04:48:49Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
