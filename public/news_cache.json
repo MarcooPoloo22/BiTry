@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-23T21:45:07.572Z",
+  "timestamp": "2026-05-23T22:43:48.954Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Ethereum Macro Prediction Shows What To Expect Next",
+        "description": "A crypto expert has shared her macro prediction for Ethereum (ETH), warning of an imminent price crash that could see the second-largest cryptocurrency plummet to as low as $800, or even $400 per coin. While this would represent a massive bearish move given E…",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-macro-prediction/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pngtree-45-1.jpg?fit=640%2C359",
+        "publishedAt": "2026-05-22T22:30:04Z",
+        "content": "A crypto expert has shared her macro prediction for Ethereum (ETH), warning of an imminent price crash that could see the second-largest cryptocurrency plummet to as low as $800, or even $400 per coi… [+2978 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-from-Pexels-2.jpg?fit=5184%2C2916",
         "publishedAt": "2026-05-20T22:30:49Z",
         "content": "A crypto analyst has shared a new report from Etherealize, a leading crypto research firm, which projects how high the Ethereum price could reach if its market capitalization were to match that of go… [+3089 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Turner Wright",
-        "title": "Missouri AG sues crypto ATM operator CoinFlip ‘for enabling scams’",
-        "description": "The Missouri Attorney General sued crypto ATM and kiosk operator CoinFlip on Wednesday, attempting to enjoin the company from operating in the state and asking for up to $1.8 million in civil penalties.",
-        "url": "https://cointelegraph.com/news/missouri-attorney-general-lawsuit-coinflip-scams",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/judge-law-court-1.jpg",
-        "publishedAt": "2026-05-20T22:03:44Z",
-        "content": "Missouri is suing the company behind cryptocurrency ATM operator CoinFlip for knowingly facilitating fraudulent transactions and profiting from them, in the latest move by a US state authority target… [+1975 chars]"
       }
     ]
   }
