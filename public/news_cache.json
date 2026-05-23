@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-23T15:56:09.056Z",
+  "timestamp": "2026-05-23T16:53:09.076Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Sam Bourgi",
+        "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
+        "description": "Institutional crypto adoption continues to expand as Tether increases its Bitcoin exposure, Bitcoin miners pivot toward AI infrastructure and Polymarket partners with Nasdaq — despite $1 billion in crypto fund outflows driven by geopolitical tensions.",
+        "url": "https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-gate-io-3.jpg",
+        "publishedAt": "2026-05-22T16:02:30Z",
+        "content": "Institutional adoption continued to reshape the digital asset market this week, even as geopolitical tensions reminded investors that crypto remains sensitive to broader macro conditions.\r\nDigital as… [+4683 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +420,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analysis-analitycs-doctor-experiement-scienticts-anatomy-lab.jpg",
         "publishedAt": "2026-05-20T19:36:38Z",
         "content": "Key points:\r\n<ul><li>Bitcoin is at a critical juncture, as a close below $76,000 may deepen the pullback toward $70,000.</li><li>HYPE and ZEC are in an up move, but most other major altcoins are stru… [+8020 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Ian Allison",
-        "title": "Crypto custody firm Copper is looking to sell the company for $500 million",
-        "description": "Cantor Fitzgerald has been appointed to help with the sale, according to sources.",
-        "url": "https://www.coindesk.com/business/2026/05/20/crypto-custody-firm-copper-is-looking-to-sale-the-company-for-usd500-million",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/bde2c5f424b0f4b56edfc76ae278cc3190749d62-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-20T17:08:37Z",
-        "content": "Cryptocurrency custody firm Copper has been out shopping itself, seeking a buyer willing to pay about $500 million for the platform, according to two people familiar with the matter.\r\nWall Street inv… [+1921 chars]"
       }
     ]
   }
