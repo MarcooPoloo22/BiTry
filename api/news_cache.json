@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-05-23T10:22:27.385Z",
+  "timestamp": "2026-05-23T11:54:54.011Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
       {
         "source": {
@@ -446,19 +446,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/cyber-trader-screen-bitcoin.jpg",
         "publishedAt": "2026-05-20T13:08:01Z",
         "content": "Bitcoin (BTC) is down roughly 40% from its October 2025 record high, but a long-term valuation model suggests the cryptocurrency could erase the entire decline and rally to as high as $255,000 by yea… [+2778 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nancy Lubale",
-        "title": "Bitcoin’s ‘momentum is fading’: Traders have these support levels in mind",
-        "description": "Bitcoin momentum is fading following drop to $76,000 as analysts warn a loss of key support at $74,000-$76,000 could trigger a deeper BTC price correction.",
-        "url": "https://cointelegraph.com/markets/bitcoins-momentum-is-fading-traders-have-these-support-levels-in-mind",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-bitcoin.jpg",
-        "publishedAt": "2026-05-20T11:40:51Z",
-        "content": "Market analysts say Bitcoin (BTC) is showing momentum exhaustion after its 8% drop from multi-month highs above $82,000, with bulls expected to defend key crucial support levels. \r\nKey takeaways:\r\n<u… [+3334 chars]"
       }
     ]
   }
