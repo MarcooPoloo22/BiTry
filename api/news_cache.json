@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-23T16:53:09.076Z",
+  "timestamp": "2026-05-23T17:55:27.688Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "André Beganski",
+        "title": "Crypto Is Growing Up—Why Some Everyday Traders Are Moving On",
+        "description": "Muted volatility, political shifts, and Wall Street dominance are driving increasingly jaded retail traders out of crypto.",
+        "url": "https://decrypt.co/368746/crypto-growing-up-why-everyday-traders-moving-on",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-05-22T16:54:02Z",
+        "content": "In brief\r\n<ul><li>Institutional giants now dominate market flows, potentially dampening the wild, rapid price swings that retail speculators crave.</li><li>In the first quarter, Coinbases consumer vo… [+5242 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-from-iStock-48.jpg?fit=612%2C408",
         "publishedAt": "2026-05-20T21:00:50Z",
         "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 5/20: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-        "description": "Bitcoin looks on track for a rally toward $80,000 while HYPE, ZEC and a handful of altcoins are pushing toward their range highs.",
-        "url": "https://cointelegraph.com/markets/price-predictions-520-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analysis-analitycs-doctor-experiement-scienticts-anatomy-lab.jpg",
-        "publishedAt": "2026-05-20T19:36:38Z",
-        "content": "Key points:\r\n<ul><li>Bitcoin is at a critical juncture, as a close below $76,000 may deepen the pullback toward $70,000.</li><li>HYPE and ZEC are in an up move, but most other major altcoins are stru… [+8020 chars]"
       }
     ]
   }
