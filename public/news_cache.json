@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-24T13:03:05.879Z",
+  "timestamp": "2026-05-24T14:56:14.808Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Semilore Faleti",
+        "title": "Bitcoin Struggles To Reclaim Key Cost Basis As Realized Losses Climb — Details",
+        "description": "Since the past week, the Bitcoin price has traded below the cost basis of one of its most reactive investor groups. Based on recent on-chain information, the world’s largest cryptocurrency might face further trouble if its price fails to reclaim this crucial …",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-struggles-to-reclaim-key-cost-basis-as-realized-losses-climb-details/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/0x0.jpg?fit=1920%2C1280",
+        "publishedAt": "2026-05-23T14:00:23Z",
+        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
+      },
       {
         "source": {
           "id": null,
