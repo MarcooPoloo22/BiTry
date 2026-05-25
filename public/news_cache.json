@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-25T07:04:49.158Z",
+  "timestamp": "2026-05-25T11:44:39.643Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Semilore Faleti",
+        "title": "Ethereum Pullbacks Spark Accumulation Activity – Here’s Why",
+        "description": "Over the past two weeks, the Ethereum price has trended downward, sparking fears of another prolonged correction. However, data from a recent on-chain analysis indicate that the long-term bullish case for Ethereum remains quite strong. Related Reading: Solana…",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-pullbacks-spark-accumulation-activity-heres-why/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-davidmcbee-730552.jpg?fit=4032%2C3024",
+        "publishedAt": "2026-05-24T11:00:59Z",
+        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
+      },
       {
         "source": {
           "id": null,
