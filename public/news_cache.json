@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-26T21:42:17.667Z",
+  "timestamp": "2026-05-26T23:02:26.387Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "The Bitcoin Billion-Dollar Dump: Here’s Why The BTC Price Keeps Crashing",
+        "description": "Crypto pundit Ardizor has alleged that several crypto firms appear to be dumping Bitcoin, which is why the BTC price keeps crashing. The leading crypto had crashed over the weekend but is now recovering on hopes of a U.S.-Iran deal. Why The BTC Price Keeps Cr…",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-billion-dollar-dump/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Getty-Images-42.jpg?fit=612%2C408",
+        "publishedAt": "2026-05-25T22:30:06Z",
+        "content": "Crypto pundit Ardizor has alleged that several crypto firms appear to be dumping Bitcoin, which is why the BTC price keeps crashing. The leading crypto had crashed over the weekend but is now recover… [+2805 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,19 +459,6 @@
         "urlToImage": null,
         "publishedAt": "2026-05-22T09:00:17Z",
         "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis",
-        "description": "Bitcoin rallied for 90 days after its dip below $60,000, breaking the record for the longest uptrend within a bear market in BTC price history.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/greenish-green-bitcoin-grow-up-2.jpg",
-        "publishedAt": "2026-05-22T08:12:28Z",
-        "content": "Bitcoin (BTC) has trended up for 90 days and is seeing a bull market rally, analysis says.\r\nKey points:\r\n<ul><li>Bitcoin has trended up for 90 days within its bear market something that has never hap… [+2388 chars]"
       }
     ]
   }
