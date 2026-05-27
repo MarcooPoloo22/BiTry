@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-27T06:56:20.905Z",
+  "timestamp": "2026-05-27T10:51:50.381Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Ethereum price chart targets $1.8K as total value locked hits 13-month lows",
+        "description": "Ether price eyes a 14% drop to $1,800 as it trades in a classic bearish pattern amid declining total value locked on the Ethereum network.",
+        "url": "https://cointelegraph.com/markets/ethereum-price-chart-targets-18k-as-total-value-locked-hits-13-month-lows",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/ethereum-newspaper-3.jpg",
+        "publishedAt": "2026-05-26T10:33:45Z",
+        "content": "Ethers (ETH) price printed a bear pennant on the daily chart, a technical chart formation associated with strong downward momentum. Could a weakening technical setup and a decline in total value lock… [+3124 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Ronaldo Marquez",
+        "title": "Ethereum Price Roadmap For The Rest Of 2026: Bull, Base, And Bear Scenarios Unpacked",
+        "description": "Ethereum (ETH) has struggled through the first quarter of the year and the opening stretch of the second, but it has managed to hold a crucial line near the $2,000 mark.  A new report from market expert Sam Daodu breaks down three potential paths for ETH for …",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-price-roadmap-for-the-rest-of-2026-bull-base-and-bear-scenarios-unpacked/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/image_RqChPnWj_1777303873637_raw.jpg?fit=1024%2C1024",
+        "publishedAt": "2026-05-26T07:00:16Z",
+        "content": "Ethereum (ETH) has struggled through the first quarter of the year and the opening stretch of the second, but it has managed to hold a crucial line near the $2,000 mark. \r\nA new report from market ex… [+2796 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,58 +472,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pngtree-45-1.jpg?fit=640%2C359",
         "publishedAt": "2026-05-22T22:30:04Z",
         "content": "A crypto expert has shared her macro prediction for Ethereum (ETH), warning of an imminent price crash that could see the second-largest cryptocurrency plummet to as low as $800, or even $400 per coi… [+2978 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny",
-        "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
-        "description": "Robinhood Crypto COO Tanya Denisova is leaving the firm after more than five years, as the trading platform navigates a sharp decline in crypto revenue and works to lessen its dependence on digital asset market cycles.",
-        "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/cb0bf014fcfb96a3b856413652b97154bb22a97e-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-22T19:40:15Z",
-        "content": "Tanya Denisova, chief operating officer of Robinhood Crypto, is leaving the firm, according to two people with knowledge of the matter.\r\nDenisova had been employed by the popular trading platform for… [+1541 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-        "description": "Bitcoin sold off to $76,000, giving bears an opportunity to reclaim control of the crypto market. Meanwhile, altcoins like HYPE charted new highs.",
-        "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/analysis-analytics-geologist-museum-1.jpg",
-        "publishedAt": "2026-05-22T19:33:51Z",
-        "content": "Key points:\r\n<ul><li>Bitcoin has dipped below $77,000, signaling that the bears are poised to seize control.</li><li>Altcoins are a mixed bag, with some attempting to push through the overhead resist… [+7928 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Jesse Hamilton",
-        "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-        "description": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs.",
-        "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/facaa2fb18c3e0eac299cf2f40a828bb6705036d-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-22T18:20:32Z",
-        "content": "The long-awaited U.S. Securities and Exchange Commission rule to begin allowing tokenization of securities a change that could have profound effects on the financial markets has been facing the conte… [+3588 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "André Beganski",
-        "title": "Crypto Is Growing Up—Why Some Everyday Traders Are Moving On",
-        "description": "Muted volatility, political shifts, and Wall Street dominance are driving increasingly jaded retail traders out of crypto.",
-        "url": "https://decrypt.co/368746/crypto-growing-up-why-everyday-traders-moving-on",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-05-22T16:54:02Z",
-        "content": "In brief\r\n<ul><li>Institutional giants now dominate market flows, potentially dampening the wild, rapid price swings that retail speculators crave.</li><li>In the first quarter, Coinbases consumer vo… [+5242 chars]"
       }
     ]
   }
