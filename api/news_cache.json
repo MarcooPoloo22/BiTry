@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-05-27T02:37:29.889Z",
+  "timestamp": "2026-05-27T06:56:20.905Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Solana (SOL) Trims Recent Gains, Market Sentiment Turns Fragile Again",
+        "description": "Solana failed to stay above $86 and corrected some gains. SOL price is now consolidating and might aim for another increase if it stays above $82.50. SOL price started a downside correction below $85 against the US Dollar. The price is now trading below $85 a…",
+        "url": "http://www.newsbtc.com/analysis/solana-sol-trims-recent-gains-85/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Solana-SOL-Trims-Recent-Gains-Market-Sentiment-Turns-Fragile-Again.jpg?fit=1024%2C559",
+        "publishedAt": "2026-05-26T05:58:38Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Buying Pressure Softens, Traders Turn Increasingly Cautious",
+        "description": "Ethereum price started a downside correction from $2,120. ETH must clear the $2,110 and $2,120 resistance levels to continue higher. Ethereum started a downside correction below the $2,110 zone. The price is trading below $2,095 and the 100-hourly Simple Movi…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-buying-pressure-softens-2150/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-Price-Buying-Pressure-Softens.jpg?fit=1024%2C559",
+        "publishedAt": "2026-05-26T04:48:39Z",
+        "content": "Ethereum price started a downside correction from $2,120. ETH must clear the $2,110 and $2,120 resistance levels to continue higher.\r\n<ul><li>Ethereum started a downside correction below the $2,110 z… [+2097 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Recovery Looks Fragile, Another Drop May Follow Soon",
+        "description": "Bitcoin price started a downside correction from the $78,000 zone. BTC is consolidating and might aim for a fresh increase if it clears $78,000. Bitcoin failed to stay above $77,500 and extended losses. The price is trading below $77,000 and the 100 hourly si…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-recovery-looks-fragile-78k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-Price-Recovery-Looks-Fragile-Another-Drop-May-Follow-Soon.jpg",
+        "publishedAt": "2026-05-26T04:27:12Z",
+        "content": "Bitcoin price started a downside correction from the $78,000 zone. BTC is consolidating and might aim for a fresh increase if it clears $78,000.\r\n<ul><li>Bitcoin failed to stay above $77,500 and exte… [+2110 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?",
+        "description": "Bitcoin’s low volatility could be reflective of institutions holding BTC and issuing stocks to buy more, or a sign that most traders expect prolonged price consolidation.",
+        "url": "https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/crypto-market-volatility-bitcoin.jpg",
+        "publishedAt": "2026-05-26T02:59:45Z",
+        "content": "Key takeaways:\r\n<ul><li>Bitcoin's implied volatility plunged to a multi-month low, signaling that traders expect further price consolidation.</li><li>Excessive confidence among Bitcoin bears could ca… [+3076 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,45 +498,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
         "publishedAt": "2026-05-22T16:54:02Z",
         "content": "In brief\r\n<ul><li>Institutional giants now dominate market flows, potentially dampening the wild, rapid price swings that retail speculators crave.</li><li>In the first quarter, Coinbases consumer vo… [+5242 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Sam Bourgi",
-        "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
-        "description": "Institutional crypto adoption continues to expand as Tether increases its Bitcoin exposure, Bitcoin miners pivot toward AI infrastructure and Polymarket partners with Nasdaq — despite $1 billion in crypto fund outflows driven by geopolitical tensions.",
-        "url": "https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-gate-io-3.jpg",
-        "publishedAt": "2026-05-22T16:02:30Z",
-        "content": "Institutional adoption continued to reshape the digital asset market this week, even as geopolitical tensions reminded investors that crypto remains sensitive to broader macro conditions.\r\nDigital as… [+4683 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price falls under $77K as Dow Jones hits new all-time highs",
-        "description": "Bitcoin suffers from continuing weak US demand as BTC price action heads lower despite US stock markets breaking into price discovery.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/red-down-falling-car-bitcoin.jpg",
-        "publishedAt": "2026-05-22T15:40:15Z",
-        "content": "Bitcoin (BTC) faced familiar selling pressure on Friday as US stock markets began setting fresh record highs.\r\nKey points:\r\n<ul><li>Bitcoin and crypto markets diverge from US stocks, with the Dow Jon… [+2557 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Price Breaks 14-Year Support For The First Time In History, Analyst Predicts $50,000 Target",
-        "description": "Crypto analyst Phila has predicted that the Bitcoin price could see a massive decline to $55,000 after breaking a 14-year support level. This comes amid BTC’s fall below the psychological $80,000 level, with the leading crypto now at risk of dropping to new l…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-breaks-14-year-support/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-62.jpg?fit=1280%2C853",
-        "publishedAt": "2026-05-22T13:30:03Z",
-        "content": "Crypto analyst Phila has predicted that the Bitcoin price could see a massive decline to $55,000 after breaking a 14-year support level. This comes amid BTCs fall below the psychological $80,000 leve… [+2398 chars]"
       }
     ]
   }
