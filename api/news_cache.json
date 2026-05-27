@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-27T17:52:50.867Z",
+  "timestamp": "2026-05-27T20:02:25.382Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Turner Wright",
+        "title": "UK authorities sanction HTX crypto exchange over support for Russia",
+        "description": "The UK announced sanctions against HTX, formerly Huobi Global, as part of a crypto-focused package in response to Russia’s government using “dark networks and shadow financial systems to bypass legal restrictions.”",
+        "url": "https://cointelegraph.com/news/uk-sanctions-htx-huobi-russia-support",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/courtvssam.jpg",
+        "publishedAt": "2026-05-26T18:41:07Z",
+        "content": "The UK government has added cryptocurrency exchange HTX to its list of sanctioned entities over its support of Russia.\r\nOn Tuesday, UK authorities said that there were reasonable grounds to suspect H… [+1971 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Sander Lutz",
+        "title": "UK Issues Sanctions Against Justin Sun's HTX, Other Crypto Firms Over Alleged Russia Ties",
+        "description": "British financial institutions are now barred from doing business with the exchanges—and may face penalties for interacting with crypto transactions that pass through them.",
+        "url": "https://decrypt.co/369047/uk-issues-sanctions-against-justin-sun-htx-crypto-firms-russia-ties",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg",
+        "publishedAt": "2026-05-26T18:15:34Z",
+        "content": "In brief\r\n<ul><li>The U.K. sanctioned HTX and other crypto firms over alleged ties to Russian sanctions evasion networks.</li><li>British institutions are now barred from doing business with HTX, and… [+2744 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,19 +433,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_58f702.jpg?fit=1027%2C591",
         "publishedAt": "2026-05-23T21:00:45Z",
         "content": "Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has steppe… [+3165 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Semilore Faleti",
-        "title": "Bitcoin Struggles To Reclaim Key Cost Basis As Realized Losses Climb — Details",
-        "description": "Since the past week, the Bitcoin price has traded below the cost basis of one of its most reactive investor groups. Based on recent on-chain information, the world’s largest cryptocurrency might face further trouble if its price fails to reclaim this crucial …",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-struggles-to-reclaim-key-cost-basis-as-realized-losses-climb-details/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/0x0.jpg?fit=1920%2C1280",
-        "publishedAt": "2026-05-23T14:00:23Z",
-        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
       }
     ]
   }
