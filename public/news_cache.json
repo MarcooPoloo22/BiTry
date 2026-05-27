@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-05-27T20:02:25.382Z",
+  "timestamp": "2026-05-27T22:25:53.422Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
       {
         "source": {
@@ -420,19 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-davidmcbee-730552.jpg?fit=4032%2C3024",
         "publishedAt": "2026-05-24T11:00:59Z",
         "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy",
-        "description": "Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which rev…",
-        "url": "http://www.newsbtc.com/altcoin/analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_58f702.jpg?fit=1027%2C591",
-        "publishedAt": "2026-05-23T21:00:45Z",
-        "content": "Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has steppe… [+3165 chars]"
       }
     ]
   }
