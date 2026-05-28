@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-05-28T06:44:52.773Z",
+  "timestamp": "2026-05-28T10:46:10.199Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Sam Reynolds",
+        "title": "Crypto exchange HTX rejects U.K. sanction allegations, says it refused ruble stablecoin listing",
+        "description": "U.K. authorities sanctioned HTX, saying there were \"reasonable grounds to suspect\" the crypto exchange was helping Russia by cooperating with ruble stablecoin A7A5.",
+        "url": "https://www.coindesk.com/markets/2026/05/27/crypto-exchange-htx-rejects-u-k-sanction-allegations-says-it-refused-ruble-stablecoin-listing",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/592f4ee1d9e2f8430b3620a6e1bcb91aec6f4d11-1000x667.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-27T09:58:06Z",
+        "content": "Crypto exchange HTX rejected U.K. claims it helped Russia's illicit financial infrastructure\" used for moving funds and sustaining the country's war in Ukraine, saying it refused a listing applicatio… [+1780 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Whale alert: Someone dumped $1.29 billion of BlackRock's bitcoin ETF in a dark pool trade",
+        "description": "The big sale happened amid a broader continued exodus from U.S.-listed spot bitcoin ETFs.",
+        "url": "https://www.coindesk.com/markets/2026/05/27/whale-alert-someone-dumped-usd1-29-billion-of-blackrock-s-bitcoin-etf-in-a-dark-pool-trade",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b84cc03a0757fa4a135a5267f8d8f07b962c3105-1280x720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-27T08:40:44Z",
+        "content": "As investors pulled millions of dollars out of U.S.-listed spot crypto exchange-traded funds (ETFs) on Tuesday, one move stood out. \r\nA single investor dumped over a billion dollars-worth of shares i… [+1982 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,58 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-brian-armstrong-profile-and-biography-1.jpg",
         "publishedAt": "2026-05-25T14:28:12Z",
         "content": "Brian Armstrong posted an eight-point blueprint for upgrading global finance Monday, which closely tracks Coinbases expansion into stocks, prediction markets and stablecoin infrastructure, as the exc… [+4161 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week",
-        "description": "Bitcoin traders predicted a short squeeze to $80,000, but a lack of overall demand and the return of leverage sparked warnings of more liquidation events to come.",
-        "url": "https://cointelegraph.com/markets/btc-price-tipped-to-attack-80k-shorts-on-iran-peace-deal-five-things-to-know-in-bitcoin-this-week",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-iran-bitcoin.jpg",
-        "publishedAt": "2026-05-25T12:00:02Z",
-        "content": "Bitcoin (BTC) starts the final week of May with traders optimistic about an $80,000 rebound will it end up as a liquidity grab?\r\n<ul><li>Bitcoin recovers from its trip to monthly lows as shorts above… [+8356 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny, AI Boost",
-        "title": "Prometheum bets Wall Street distribution is the missing link for tokenized securities",
-        "description": "Crypto has solved tokenization, but not distribution and Prometheum says broker-dealers and RIAs are the key to bringing digital assets into mainstream finance.",
-        "url": "https://www.coindesk.com/business/2026/05/25/prometheum-bets-wall-street-distribution-is-the-missing-link-for-tokenized-securities",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-25T12:00:00Z",
-        "content": "Prometheum is betting that the next phase of tokenized finance will be won not by crypto exchanges, but by traditional broker-dealers and registered investment advisers (RIAs).\r\n\"The story of tokeniz… [+5800 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "American Mega Bank Is Dumping Its Ethereum Holdings, Here’s What It’s Buying",
-        "description": "Ethereum is losing ground inside one of America’s largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant reveal a noticeable reshuffling of its crypto exposure during th…",
-        "url": "http://www.newsbtc.com/news/ethereum/mega-bank-dumping-ethereum/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-dump.jpeg?fit=1280%2C853",
-        "publishedAt": "2026-05-25T10:30:48Z",
-        "content": "Ethereum is losing ground inside one of Americas largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant revea… [+3240 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Charles Thuo",
-        "title": "Bitcoin price prediction: BTC faces critical resistance at $78,000 as ETF outflows mount",
-        "description": "Bitcoin ETFs posted $1.25 billion in weekly net outflows. BTC must clear $78,152 to sustain bullish momentum. Strategy paused Bitcoin purchases despite holding 843,738 BTC. Bitcoin (BTC) continued to trade near the $77,000 level on Monday amid growing institu…",
-        "url": "https://coinjournal.net/news/bitcoin-price-prediction-btc-faces-critical-resistance-at-78000-as-etf-outflows-mount/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png",
-        "publishedAt": "2026-05-25T09:16:57Z",
-        "content": "<ul><li>Bitcoin ETFs posted $1.25 billion in weekly net outflows.</li><li>BTC must clear $78,152 to sustain bullish momentum.</li><li>Strategy paused Bitcoin purchases despite holding 843,738 BTC.</l… [+4368 chars]"
       }
     ]
   }
