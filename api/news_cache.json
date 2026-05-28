@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-05-28T17:57:32.740Z",
+  "timestamp": "2026-05-28T20:14:55.799Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Hyperliquid Enters Top 10 Crypto With New ATH, But How High Will It Be If It Overtakes Ethereum?",
+        "description": "Hyperliquid (HYPE) recently broke into the top 10 cryptocurrencies by market capitalization, sitting alongside top players like Bitcoin (BTC) and Ethereum (ETH), after its price surged past $50 and set a new all-time high. Now, on-chain analytics platforms ar…",
+        "url": "http://www.newsbtc.com/news/hyperliquid-in-top-10-crypto/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Hyperliquid-from-Medium-1.png?fit=1200%2C600",
+        "publishedAt": "2026-05-27T19:30:16Z",
+        "content": "Hyperliquid (HYPE) recently broke into the top 10 cryptocurrencies by market capitalization, sitting alongside top players like Bitcoin (BTC) and Ethereum (ETH), after its price surged past $50 and s… [+3073 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Rakesh Upadhyay",
+        "title": "Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR",
+        "description": "Bitcoin briefly lost the $75,000 level after net flows into spot BTC ETFs turned negative. Do technical charts point to a BTC and altcoin recovery?",
+        "url": "https://cointelegraph.com/markets/price-predictions-527-btc-eth-bnb-xrp-sol-doge-hype-zec-ada-xmr",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-trade-cryptocurrencies-2.jpg",
+        "publishedAt": "2026-05-27T18:28:39Z",
+        "content": "Key points:\r\n<ul><li>Bitcoin is under pressure as net outflows from the BTC ETFs highlight a shift in institutional investor sentiment.</li><li>Most major altcoins look weak, suggesting the bears are… [+8214 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Sam Bourgi",
+        "title": "Mastercard secures New York BitLicense for crypto operations",
+        "description": "Mastercard has obtained a New York BitLicense to expand its regulated digital asset operations, including stablecoin and tokenized payment infrastructure.",
+        "url": "https://cointelegraph.com/news/mastercard-secures-new-york-bitlicense-for-crypto-operations",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitlicense-approval-shines-fresh-light-on-new-york-crypto-relationship.jpg",
+        "publishedAt": "2026-05-27T18:05:55Z",
+        "content": "Mastercards US transaction services unit has received a BitLicense from the New York State Department of Financial Services (NYDFS), allowing the payments giant to conduct regulated digital asset bus… [+2386 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,32 +433,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/ethereum-newspaper-3.jpg",
         "publishedAt": "2026-05-26T10:33:45Z",
         "content": "Ethers (ETH) price printed a bear pennant on the daily chart, a technical chart formation associated with strong downward momentum. Could a weakening technical setup and a decline in total value lock… [+3124 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Ethereum Price Roadmap For The Rest Of 2026: Bull, Base, And Bear Scenarios Unpacked",
-        "description": "Ethereum (ETH) has struggled through the first quarter of the year and the opening stretch of the second, but it has managed to hold a crucial line near the $2,000 mark.  A new report from market expert Sam Daodu breaks down three potential paths for ETH for …",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-price-roadmap-for-the-rest-of-2026-bull-base-and-bear-scenarios-unpacked/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/image_RqChPnWj_1777303873637_raw.jpg?fit=1024%2C1024",
-        "publishedAt": "2026-05-26T07:00:16Z",
-        "content": "Ethereum (ETH) has struggled through the first quarter of the year and the opening stretch of the second, but it has managed to hold a crucial line near the $2,000 mark. \r\nA new report from market ex… [+2796 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Solana (SOL) Trims Recent Gains, Market Sentiment Turns Fragile Again",
-        "description": "Solana failed to stay above $86 and corrected some gains. SOL price is now consolidating and might aim for another increase if it stays above $82.50. SOL price started a downside correction below $85 against the US Dollar. The price is now trading below $85 a…",
-        "url": "http://www.newsbtc.com/analysis/solana-sol-trims-recent-gains-85/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Solana-SOL-Trims-Recent-Gains-Market-Sentiment-Turns-Fragile-Again.jpg?fit=1024%2C559",
-        "publishedAt": "2026-05-26T05:58:38Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
