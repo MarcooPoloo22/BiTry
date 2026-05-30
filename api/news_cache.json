@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-05-30T02:13:14.362Z",
+  "timestamp": "2026-05-30T06:16:44.358Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Dogecoin (DOGE) Can’t Catch A Break—Bears Keep Swinging",
+        "description": "Dogecoin started a recovery wave above the $0.0980 zone against the US Dollar. DOGE is now facing hurdles near $0.1010 and might struggle to continue higher. DOGE price started a recovery wave from $0.0965 and climbed above $0.0990. The price is trading below…",
+        "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-cant-catch-a-break-0-10/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Dogecoin-DOGE-Meets-Resistance-and-Hesitates.jpg?fit=1024%2C572",
+        "publishedAt": "2026-05-29T05:28:14Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?",
+        "description": "Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoin under pressure amid heavy ETF outflows and corporate selling",
+        "url": "https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-notes-from-the-brink-rhyme-and-reason-in-a-bear-market-3.jpg",
+        "publishedAt": "2026-05-29T03:44:40Z",
+        "content": "Key takeaways:\r\n<ul><li>Bears gained a major edge ahead of Friday's $9 billion options expiry, especially if Bitcoin price stays below $74,000.</li><li>Spot Bitcoin ETF outflows and corporate BTC bal… [+2937 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Warning Signals Strengthen, Downside Risks Stay Elevated",
+        "description": "Ethereum price started a fresh decline and traded below $2,020. ETH is now consolidating near $2,000 and might struggle to recover. Ethereum remained in a bearish zone after a fresh decline below $2,020. The price is trading below $2,020 and the 100-hourly Si…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-warning-signals-2k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ethereum-Price-Warning-Signals-Strengthen.jpg?fit=1024%2C559",
+        "publishedAt": "2026-05-29T03:18:31Z",
+        "content": "Ethereum price started a fresh decline and traded below $2,020. ETH is now consolidating near $2,000 and might struggle to recover.\r\n<ul><li>Ethereum remained in a bearish zone after a fresh decline … [+2152 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Dip Attracts Big Money: Cardone Capital Buys $9.5M More BTC",
+        "description": "Around 80% of investors in one of Cardone Capital’s funds had no Bitcoin exposure before the company began shifting its strategy — a detail founder and CEO Grant Cardone himself revealed at the 2026 Consensus conference in Miami earlier this month. Related Re…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-dip-attracts-big-money-cardone-capital-buys-10m-more-btc/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_367ff5.jpg?fit=3999%2C2666",
+        "publishedAt": "2026-05-29T03:00:16Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price Extends Decline Rapidly As Key Supports Paves Way",
+        "description": "Bitcoin price started a fresh decline below the $74,000 zone. BTC is consolidating and might struggle to stay above the $72,000 support. Bitcoin failed to stay above $75,000 and extended losses. The price is trading below $74,000 and the 100 hourly simple mov…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-extends-decline-73k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-Price-Extends-Decline.jpg",
+        "publishedAt": "2026-05-29T02:40:49Z",
+        "content": "Bitcoin price started a fresh decline below the $74,000 zone. BTC is consolidating and might struggle to stay above the $72,000 support.\r\n<ul><li>Bitcoin failed to stay above $75,000 and extended los… [+2191 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,84 +433,6 @@
         "urlToImage": null,
         "publishedAt": "2026-05-28T01:00:32Z",
         "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "This Bitcoin Pattern Could Repeat Itself, But The Bottom Could Lie Below $50,000",
-        "description": "Bitcoin is showing a monthly momentum signal that has appeared near several major cycle lows, which raises the possibility that the current correction is entering its final stage.  The setup is based on the monthly logarithmic MACD histogram, where previous B…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-bottom-below-50000-2/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-17.jpg?fit=1280%2C853",
-        "publishedAt": "2026-05-28T00:00:15Z",
-        "content": "Bitcoin is showing a monthly momentum signal that has appeared near several major cycle lows, which raises the possibility that the current correction is entering its final stage. \r\nThe setup is base… [+2820 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Vince Quill",
-        "title": "Crypto card monthly transaction volume surges 230% from 2025",
-        "description": "Crypto-linked debit and credit cards continue to surge in popularity as fintech companies and traditional payment service providers collaborate on new products that blur the line between onchain and traditional transactions.",
-        "url": "https://cointelegraph.com/news/crypto-card-monthly-volume-surge-230-one-year",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit.jpg",
-        "publishedAt": "2026-05-27T22:30:59Z",
-        "content": "Monthly payment volume on crypto-linked debit and credit cards is up about 230% over last year, amid a proliferation of crypto-related payment products.\r\nCumulative volume on crypto-linked payment ca… [+2319 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Hyperliquid Enters Top 10 Crypto With New ATH, But How High Will It Be If It Overtakes Ethereum?",
-        "description": "Hyperliquid (HYPE) recently broke into the top 10 cryptocurrencies by market capitalization, sitting alongside top players like Bitcoin (BTC) and Ethereum (ETH), after its price surged past $50 and set a new all-time high. Now, on-chain analytics platforms ar…",
-        "url": "http://www.newsbtc.com/news/hyperliquid-in-top-10-crypto/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Hyperliquid-from-Medium-1.png?fit=1200%2C600",
-        "publishedAt": "2026-05-27T19:30:16Z",
-        "content": "Hyperliquid (HYPE) recently broke into the top 10 cryptocurrencies by market capitalization, sitting alongside top players like Bitcoin (BTC) and Ethereum (ETH), after its price surged past $50 and s… [+3073 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Rakesh Upadhyay",
-        "title": "Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR",
-        "description": "Bitcoin briefly lost the $75,000 level after net flows into spot BTC ETFs turned negative. Do technical charts point to a BTC and altcoin recovery?",
-        "url": "https://cointelegraph.com/markets/price-predictions-527-btc-eth-bnb-xrp-sol-doge-hype-zec-ada-xmr",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-trade-cryptocurrencies-2.jpg",
-        "publishedAt": "2026-05-27T18:28:39Z",
-        "content": "Key points:\r\n<ul><li>Bitcoin is under pressure as net outflows from the BTC ETFs highlight a shift in institutional investor sentiment.</li><li>Most major altcoins look weak, suggesting the bears are… [+8214 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Sam Bourgi",
-        "title": "Mastercard secures New York BitLicense for crypto operations",
-        "description": "Mastercard has obtained a New York BitLicense to expand its regulated digital asset operations, including stablecoin and tokenized payment infrastructure.",
-        "url": "https://cointelegraph.com/news/mastercard-secures-new-york-bitlicense-for-crypto-operations",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitlicense-approval-shines-fresh-light-on-new-york-crypto-relationship.jpg",
-        "publishedAt": "2026-05-27T18:05:55Z",
-        "content": "Mastercards US transaction services unit has received a BitLicense from the New York State Department of Financial Services (NYDFS), allowing the payments giant to conduct regulated digital asset bus… [+2386 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Benson Toti",
-        "title": "Bitcoin retests support below $75,000 as downside pressure holds",
-        "description": "Bitcoin price fell to below $75,000 on Wednesday, touching $74,600. ETF outflows and broader market headwinds mean downside pressure remains. Analysts say the current price outlook includes a “dangerous divergence”. Bitcoin briefly dipped below the $75,000 ma…",
-        "url": "https://coinjournal.net/news/bitcoin-retests-support-below-75000-as-downside-pressure-holds/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/bitcoin-price-decline-chart-red-market.png",
-        "publishedAt": "2026-05-27T17:54:49Z",
-        "content": "<ul><li>Bitcoin price fell to below $75,000 on Wednesday, touching $74,600.</li><li>ETF outflows and broader market headwinds mean downside pressure remains.</li><li>Analysts say the current price ou… [+3489 chars]"
       }
     ]
   }
