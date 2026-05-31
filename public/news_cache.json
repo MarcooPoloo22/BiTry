@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-05-31T22:51:46.915Z",
+  "timestamp": "2026-05-31T23:58:51.907Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 27,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Opeyemi Sule",
+        "title": "Bitcoin Short-Term Holders Move 107,760 BTC In A Single Day — Details",
+        "description": "According to historical data, the price of Bitcoin has never posted three consecutive months of positive performance in a bear-market year. This trend is about to continue in 2026, with May looking likely to end in the red for BTC after optimistic performance…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-short-term-holders-move-107760-btc-in-a-single-day-details/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/10/iStock-1224361225.jpg?fit=1243%2C843",
+        "publishedAt": "2026-05-30T23:00:28Z",
+        "content": "According to historical data, the price of Bitcoin has never posted three consecutive months of positive performance in a bear-market year. This trend is about to continue in 2026, with May looking l… [+2876 chars]"
+      },
       {
         "source": {
           "id": null,
