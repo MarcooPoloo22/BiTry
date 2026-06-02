@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-01T22:57:00.098Z",
+  "timestamp": "2026-06-02T00:09:33.071Z",
   "data": {
     "status": "ok",
-    "totalResults": 25,
+    "totalResults": 26,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
+        "description": "Coinbase announces INR rails to make the platform fully accessible to Indian retail traders.",
+        "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/51d936a75a196d53e2b331064e17b53e0b075f4c-728x423.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-31T23:30:00Z",
+        "content": "Nasdaq-listed Coinbase exchange announced Monday a major market move: the launch of direct rails for Indian rupees (INR).\r\nStarting June 1, 2026, the exchange's Indian customers can deposit and withd… [+3302 chars]"
+      },
       {
         "source": {
           "id": null,
