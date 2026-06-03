@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-03T02:53:58.461Z",
+  "timestamp": "2026-06-03T08:08:35.201Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 26,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Mt. Gox moves 10,422 bitcoin worth $739 million to a new wallet as deadline nears",
+        "description": "The 04:47 UTC Bitcoin block 952,072 transaction moved coins from Mt. Gox cold storage into a freshly generated address, with a smaller 116-bitcoin slice routed to the defunct exchange's hot wallet.",
+        "url": "https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2e2f4d0033938e24189ea3f19906bc804998644b-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-02T06:15:02Z",
+        "content": "Defunct bitcoin exchange Mt. Gox moved 10,422.65 bitcoin BTC\r\n$70,166.74 worth roughly $739 million to a new wallet at 04:47 UTC on Tuesday, marking the largest single transfer in months and its bigg… [+1482 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Solana (SOL) Risks Slipping Deeper Into The Red As Momentum Fades",
+        "description": "Solana failed to settle above $84 and trimmed most gains. SOL price is now consolidating losses above $78 and might continue to move down. SOL price started a fresh decline below $82 and $81.20 against the US Dollar. The price is now trading below $81.20 and …",
+        "url": "http://www.newsbtc.com/analysis/solana-sol-risks-slipping-80/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Solana-SOL-At-Risk-of-Fresh-Bearish-Wave.jpg?fit=1024%2C572",
+        "publishedAt": "2026-06-02T04:28:27Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -316,58 +342,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-jakubzerdzicki-31600249.jpg?fit=3000%2C2000",
         "publishedAt": "2026-05-30T17:00:45Z",
         "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Enters Buy Zone That Previously Led To A 660% And 1,700% Rally",
-        "description": "Crypto pundit Vivek has revealed that Bitcoin has entered a buy zone that led to parabolic rallies in the previous bull cycles. This comes as analysts predict that BTC risks dropping to the psychological $70,000 level, with the leading crypto showing weakness…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-enters-buy-zone/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-from-Pixabay-20-1.jpg?fit=1280%2C853",
-        "publishedAt": "2026-05-30T14:00:12Z",
-        "content": "Crypto pundit Vivek has revealed that Bitcoin has entered a buy zone that led to parabolic rallies in the previous bull cycles. This comes as analysts predict that BTC risks dropping to the psycholog… [+2409 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Semilore Faleti",
-        "title": "Bitcoin ETFs Register $4 Billion Outflows In 3 Weeks – Why This Is A Bullish Signal",
-        "description": "Following its bullish performance at the start of Q2 2026, the Bitcoin spot ETFs market has slumped into negative momentum in recent weeks, in line with the broader price correction. Data from ETF tracker shows that total net outflows for May stand at $2.30 b…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-etfs-register-4-billion-outflows-in-3-weeks-why-this-is-a-bullish-signal/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-alesiakozik-6771008.jpg?fit=1000%2C666",
-        "publishedAt": "2026-05-30T13:00:38Z",
-        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "When the market is bad, we build: Inside Binance’s bold 2030 master plan",
-        "description": "Established crypto firms will merge with traditional finance, but neither Wall Street bankers nor corporate giants will take over the crypto industry, said Binance’s Head of VIP and Institutional, Catherine Chen.",
-        "url": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/035764bcc2d39ba3ef197f0f607304beed427692-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-05-30T13:00:00Z",
-        "content": "The crypto market is struggling, competitors are either passing through hard times or pivoting to other areas, while Binance is building with eyes on increasing its active user base ten-fold to 3 bil… [+4279 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Nearly $1 Billion In Iranian Crypto Falls Into US Hands",
-        "description": "Some Iranian crypto wallet owners may not even know yet that their money is gone. Treasury Secretary Scott Bessent disclosed Friday that the US has quietly seized roughly $1 billion in digital assets tied to Iran, a figure that has nearly tripled from earlier…",
-        "url": "http://www.newsbtc.com/news/nearly-1-billion-in-iranian-crypto-falls-into-us-hands/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_6774e5.jpg?fit=3000%2C2003",
-        "publishedAt": "2026-05-30T11:30:55Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
       }
     ]
   }
