@@ -1,10 +1,114 @@
 {
   "version": 3,
-  "timestamp": "2026-06-03T08:08:35.201Z",
+  "timestamp": "2026-06-03T13:08:25.396Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "AI Boost",
+        "title": "Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst",
+        "description": "Recent Bitcoin ETF outflows look dramatic in headlines, but Bloomberg Intelligence's Eric Balchunas says the broader adoption story remains intact.",
+        "url": "https://www.coindesk.com/coindesk-news/2026/06/02/bitcoin-etf-outflows-are-noise-as-wall-street-doubles-down-on-crypto-says-analyst",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/7505566210a78fde8c2a22b0d7a35f0f90e8981c-2332x1304.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-02T12:14:58Z",
+        "content": "Latest developments: Balchunas argued investors are overreacting to recent Bitcoin ETF redemptions.\r\n<ul><li>Speaking with CoinDesk's Jennifer Sanasie and Dave Lavalle on Public Keys, Balchunas said … [+2677 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Tyler Warner",
+        "title": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022",
+        "description": "Bitcoin fell below $70K on the back of the sales, and a major Polymarket dispute is brewing over whether Strategy indeed sold in May or not.",
+        "url": "https://decrypt.co/369709/morning-minute-saylor-sells-bitcoin-for-first-time-since-2022",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-06-02T12:14:51Z",
+        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show co… [+6382 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Bitcoin back in ‘distribution phase’ as extreme fear grips crypto market",
+        "description": "Bitcoin slips below $70,000 as rising losses, exchange inflows and extreme fear signal a renewed distribution phase.",
+        "url": "https://cointelegraph.com/markets/bitcoin-back-in-distribution-phase-as-fear-grips-crypto-market",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/btc-cover-june-2.jpg",
+        "publishedAt": "2026-06-02T11:09:56Z",
+        "content": "Bitcoin (BTC) sellers took control during the European trading session on Tuesday as the BTC/USD pair slipped below the $70,000 mark for the first time since April.\r\nAnalysts said that Bitcoin has en… [+4075 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Benson Toti",
+        "title": "Bitcoin crashes below $70K as ETF exodus and Mt. Gox fears intensify",
+        "description": "Bitcoin price has dipped to under $70,000 for the first time since early April. Negative triggers include ETF outflows, corporate sales, and large on‑chain transfers. With macro and geopolitical volatility persisting, bulls may struggle to reclaim recent high…",
+        "url": "https://coinjournal.net/news/bitcoin-crashes-below-70k-as-etf-exodus-and-mt-gox-fears-intensify/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png",
+        "publishedAt": "2026-06-02T10:47:34Z",
+        "content": "<ul><li>Bitcoin price has dipped to under $70,000 for the first time since early April.</li><li>Negative triggers include ETF outflows, corporate sales, and large on‑chain transfers.</li><li>With mac… [+3147 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "James Halver",
+        "title": "Robinhood Just Acquired Canada’s Biggest Crypto Platform — And Brought 300,000 New Customers With It",
+        "description": "Robinhood Markets has closed its acquisition of WonderFi, a Canadian leader in digital asset products and services, marking the US trading platform’s formal entry into Canada and pushing its total international funded customer base past 1 million for the firs…",
+        "url": "http://www.newsbtc.com/news/robinhood-just-acquired-canadas-biggest-crypto-platform-and-brought-300000-new-customers-with-it/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/robinhood_crypto_bitcoin_btc_btcusd_50.png",
+        "publishedAt": "2026-06-02T10:06:54Z",
+        "content": "Robinhood Markets has closed its acquisition of WonderFi, a Canadian leader in digital asset products and services, marking the US trading platform’s formal entry into Canada and pushing its total in… [+2913 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Amin Haqshanas",
+        "title": "Mt. Gox moves $739M in Bitcoin from cold wallets: Arkham",
+        "description": "Mt. Gox’s first onchain movement in over two months raises fresh questions about creditor distributions  that could add selling pressure to a market already shaken by Strategy's first Bitcoin sale since 2022.",
+        "url": "https://cointelegraph.com/news/mt-gox-moves-739m-in-bitcoin-for-first-time-since-march",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/mtgox1.jpg",
+        "publishedAt": "2026-06-02T09:35:48Z",
+        "content": "Defunct Japanese crypto exchange Mt. Gox moved roughly $739 million worth of Bitcoin from its cold wallets early Tuesday, its first onchain movement in over two months, according to Arkham Intelligen… [+2395 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "The Bitcoin Retracement Rally And The Resistance Level That Could End It All",
+        "description": "Bitcoin saw its price retrace after initially moving upwards and clearing the resistance at $80,000. Eventually, though, the price ended up hitting major resistance at $82,000 and falling back downward. Now, the Bitcoin price seems to be stuck in a sideways m…",
+        "url": "http://www.newsbtc.com/news/bitcoin/the-bitcoin-retracement-rally/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin_cadeed.jpeg?fit=1536%2C1024",
+        "publishedAt": "2026-06-02T09:30:12Z",
+        "content": "Bitcoin saw its price retrace after initially moving upwards and clearing the resistance at $80,000. Eventually, though, the price ended up hitting major resistance at $82,000 and falling back downwa… [+1940 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price falls under $70K as crypto markets liquidate $800M",
+        "description": "Bitcoin continues June with a dip below $70,000, its first since mid-April, as crypto markets spark $800 million in liquidations over 24 hours.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-70k",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/b-man-growth-falling-1.jpg",
+        "publishedAt": "2026-06-02T08:55:20Z",
+        "content": "Bitcoin (BTC) traded below $70,000 for the first time in two months on Tuesday as sellers stayed in control.\r\nKey points:\r\n<ul><li>Bitcoin drops under $70,000 to new two-month lows.</li><li>Analysis … [+2746 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -303,45 +407,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/swing-price-market-btc-bitcoin-2.jpg",
         "publishedAt": "2026-05-31T12:39:47Z",
         "content": "Bitcoin (BTC) is rebounding from a key on-chain support zone, putting the $78,000 level back in focus for bulls.\r\nKey takeaways:\r\n<ul><li>BTC is eyeing a rebound to $78,200, the realized price of BTC… [+2972 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Why The Bitcoin Price Won’t Hit $100,000 Again This Year",
-        "description": "Bitcoin’s return to $100,000 is still a popular target across the market for 2026, but one bearish outlook argues that the move is becoming less realistic with the price action weakening below the $80,000 price level. This bearish outlook came from a crypto a…",
-        "url": "http://www.newsbtc.com/news/bitcoin/why-the-bitcoin-price-wont-hit-100000-again-this-year/",
-        "urlToImage": null,
-        "publishedAt": "2026-05-31T02:00:53Z",
-        "content": "Bitcoins return to $100,000 is still a popular target across the market for 2026, but one bearish outlook argues that the move is becoming less realistic with the price action weakening below the $80… [+2523 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Bitcoin Short-Term Holders Move 107,760 BTC In A Single Day — Details",
-        "description": "According to historical data, the price of Bitcoin has never posted three consecutive months of positive performance in a bear-market year. This trend is about to continue in 2026, with May looking likely to end in the red for BTC after optimistic performance…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-short-term-holders-move-107760-btc-in-a-single-day-details/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/10/iStock-1224361225.jpg?fit=1243%2C843",
-        "publishedAt": "2026-05-30T23:00:28Z",
-        "content": "According to historical data, the price of Bitcoin has never posted three consecutive months of positive performance in a bear-market year. This trend is about to continue in 2026, with May looking l… [+2876 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Semilore Faleti",
-        "title": "Bitcoin Records $40B+ In Capital Outflows As ‘Humpback’ Whales Intensify Selling – Details",
-        "description": "Over the last week, the Bitcoin price has continued to see sustained selling pressure, with the flagship cryptocurrency trading around $73,400. According to recent on-chain data, changes in key market structures suggest Bitcoin might remain in this bearish st…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-records-40b-in-capital-outflows-as-humpback-whales-intensify-selling-details/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-jakubzerdzicki-31600249.jpg?fit=3000%2C2000",
-        "publishedAt": "2026-05-30T17:00:45Z",
-        "content": "Semilore Faleti is a cryptocurrency writer specialized in the field of journalism and content creation. While he started out writing on several subjects, Semilore soon found a knack for cracking down… [+3189 chars]"
       }
     ]
   }
