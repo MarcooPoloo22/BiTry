@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-06-04T02:49:06.465Z",
+  "timestamp": "2026-06-04T07:16:52.466Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Brayden Lindrea",
+        "title": "US Treasury issues sanctions on Iran, targets 4 crypto exchanges",
+        "description": "The sanctions come four days after Treasury Secretary Scott Bessent said the US had seized nearly $1 billion in crypto from Iranian crypto exchanges and wallets since late February.",
+        "url": "https://cointelegraph.com/news/us-sanctions-irans-top-crypto-exchange-as-war-rages-on",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.jpg",
+        "publishedAt": "2026-06-03T06:12:44Z",
+        "content": "The US Treasury has sanctioned four Iranian crypto exchanges, including the countrys largest, Nobitex, marking the latest effort in its campaign called Economic Fury that aims to cut Iran off from th… [+2527 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Keshav Verma",
+        "title": "Bitcoin Bulls Crushed: Sub-$70,000 Crash Flushes $428M In Longs",
+        "description": "Data shows bullish bets related to Bitcoin have suffered a massive amount of liquidations as the asset’s price has plunged below the $70,000 mark. Bitcoin Falls Below $70,000 For The First Time Since April Following up on the bearish tone set during the secon…",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-plunge-70000-442m-long-liquidations/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/btc.png?fit=1152%2C768",
+        "publishedAt": "2026-06-03T05:00:37Z",
+        "content": "Keshav is currently a senior writer at NewsBTC and has been attached to the website since June 14, 2021. Keshav has been writing for many years, first as a hobbyist and later as a freelancer. He has … [+2820 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "$12.6 Trillion Schwab Targets Mid-2027 Crypto Trading Rollout For Advisors",
+        "description": "Charles Schwab is preparing to push deeper into crypto by targeting a 2027 rollout of spot trading, transfer, and custody capabilities for financial advisors on its custody platform. The move would bring direct digital asset access closer to one of the larges…",
+        "url": "http://www.newsbtc.com/news/schwab-mid-2027-crypto-rollout-advisors/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-2.-Juni-2026-14_14_28.png?fit=1333%2C750",
+        "publishedAt": "2026-06-03T03:00:03Z",
+        "content": "Charles Schwab is preparing to push deeper into crypto by targeting a 2027 rollout of spot trading, transfer, and custody capabilities for financial advisors on its custody platform. The move would b… [+3283 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,45 +459,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/Solana-SOL-At-Risk-of-Fresh-Bearish-Wave.jpg?fit=1024%2C572",
         "publishedAt": "2026-06-02T04:28:27Z",
         "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Ethereum Price $2,000 Floor Gives Way As Selling Pressure Persists",
-        "description": "Ethereum price started a fresh decline and traded below $1,980. ETH is now consolidating below $2,000 and might continue to move down. Ethereum remained in a bearish zone after a fresh decline below $2,000. The price is trading below $2,000 and the 100-hourly…",
-        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-2000-floor-gives-way/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Ethereum-Price-Falls-Back.jpg?fit=1024%2C559",
-        "publishedAt": "2026-06-02T02:28:37Z",
-        "content": "Ethereum price started a fresh decline and traded below $1,980. ETH is now consolidating below $2,000 and might continue to move down.\r\n<ul><li>Ethereum remained in a bearish zone after a fresh decli… [+2192 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Bitcoin Price Cracks Lower, Opening The Door To More Pain",
-        "description": "Bitcoin price started a fresh decline below the $72,500 zone. BTC is consolidating and might continue to move down if it dips below $70,500. Bitcoin failed to stay above $73,500 and extended losses. The price is trading below $72,500 and the 100 hourly simple…",
-        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-cracks-lower-70k/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Bitcoin-Price-Bleeds-Lower.jpg",
-        "publishedAt": "2026-06-02T01:22:04Z",
-        "content": "Bitcoin price started a fresh decline below the $72,500 zone. BTC is consolidating and might continue to move down if it dips below $70,500.\r\n<ul><li>Bitcoin failed to stay above $73,500 and extended… [+2196 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny",
-        "title": "Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills",
-        "description": "The Brussels-based digital asset services firm plans to purchase BlockFills months after the Chicago-based company filed for Chapter 11 bankruptcy, if a court approves.",
-        "url": "https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/36131f663bac2a575475bac36ff388961161adc2-3000x1688.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-01T20:48:19Z",
-        "content": "Keyrock, a Brussels-based digital asset services firm, is in the process of acquiring bankrupt crypto trading and lending firm Blockfills, according to two people with knowledge of the matter.\r\nA Key… [+3532 chars]"
       }
     ]
   }
