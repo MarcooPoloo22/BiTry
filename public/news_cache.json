@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-04T07:16:52.466Z",
+  "timestamp": "2026-06-04T10:55:42.506Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nancy Lubale",
+        "title": "Bitcoin's crash to $65K triggers $1.8B in crypto liquidations",
+        "description": "Bitcoin plunged to nine-week lows around $65,000, wiping out $1.8 billion in crypto positions and raising fears of a deeper move toward $60,000.",
+        "url": "https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/twin-peaks-price-falling-down-red-new211.jpg",
+        "publishedAt": "2026-06-03T10:48:51Z",
+        "content": "Bitcoin (BTC) has dropped 8% to a nine-week low of $65,360 from Tuesdays high of $71,300 amid increasing geopolitical risks surrounding the US-Iran war.\r\nKey takeaways:\r\n<ul><li>Bitcoin slipped to $6… [+3458 chars]"
+      },
       {
         "source": {
           "id": null,
