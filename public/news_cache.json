@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-05T06:59:53.834Z",
+  "timestamp": "2026-06-05T10:50:04.535Z",
   "data": {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Charles Thuo",
+        "title": "Why Bitcoin price could fall below $62,000 despite oversold conditions",
+        "description": "Bitcoin ETF outflows remain negative for 11 straight days, pressuring BTC. $749 million in liquidations have accelerated the Bitcoin price drop. RSI below 18 shows oversold conditions, but trend stays bearish. Bitcoin (BTC) has been under sustained pressure, …",
+        "url": "https://coinjournal.net/news/why-bitcoin-price-could-fall-below-62000-despite-oversold-conditions/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/bitcoin-price-decline-chart-red-market.png",
+        "publishedAt": "2026-06-04T09:50:43Z",
+        "content": "<ul><li>Bitcoin ETF outflows remain negative for 11 straight days, pressuring BTC.</li><li>$749 million in liquidations have accelerated the Bitcoin price drop.</li><li>RSI below 18 shows oversold co… [+4496 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,32 +472,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg",
         "publishedAt": "2026-06-02T17:11:46Z",
         "content": "In brief\r\n<ul><li>Hive Digital Technologies nearly tripled revenue to $297.8 million in fiscal 2026, driven by surging Bitcoin prices and a fourfold increase in mining capacity.</li><li>The company m… [+2564 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Sandra White",
-        "title": "Analyst Reveals Why Bitcoin Price Must Crash To $42,000 First",
-        "description": "Bitcoin’s latest price action has given bearish analysts more reason to argue that the cryptocurrency is still moving through a deeper correction. Bitcoin has fallen back to $70,000, and selling pressure is building after another failed attempt to hold higher…",
-        "url": "http://www.newsbtc.com/news/bitcoin/why-bitcoin-price-crash-42000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-fall.jpeg?fit=1280%2C853",
-        "publishedAt": "2026-06-02T16:30:59Z",
-        "content": "Bitcoins latest price action has given bearish analysts more reason to argue that the cryptocurrency is still moving through a deeper correction. Bitcoin has fallen back to $70,000, and selling press… [+2685 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "XRP drops below $1.25 amid crypto market selloff",
-        "description": "Key takeaways XRP has dropped below $1.25 after three straight days of losses, its lowest level since February 6. The bearish performance comes as the broader crypto markets remain under pressure from geopolitical tensions.  Ripple’s XRP has dropped below the…",
-        "url": "https://coinjournal.net/news/xrp-drops-below-1-25-amid-crypto-market-selloff/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/bittensor-tao-price-volatility-mobile-trading.png",
-        "publishedAt": "2026-06-02T16:25:31Z",
-        "content": "Key takeaways\r\n<ul><li>XRP has dropped below $1.25 after three straight days of losses, its lowest level since February 6.</li><li>The bearish performance comes as the broader crypto markets remain u… [+2473 chars]"
       }
     ]
   }
