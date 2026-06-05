@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-06-05T02:36:14.021Z",
+  "timestamp": "2026-06-05T06:59:53.834Z",
   "data": {
     "status": "ok",
     "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Stephen Katte",
+        "title": "Coinbase freezes $3M tied to Southeast Asia crypto fraud networks",
+        "description": "Tech firms and global law enforcement have disrupted scam networks in Southeast Asia, frozen millions in crypto and targeted over 1.4 million fraudulent accounts.",
+        "url": "https://cointelegraph.com/news/tech-fbi-crypto-scam-crackdown-southeast-asia",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-banks-and-blockchain.jpeg",
+        "publishedAt": "2026-06-04T05:14:31Z",
+        "content": "Crypto exchange Coinbase said it froze more than $3 million in cryptocurrency tied to a global operation targeting cyber-enabled crypto scam networks in Southeast Asia. \r\nThe operation was part of Di… [+2745 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Jake Simmons",
+        "title": "Crypto Is A ‘Failed’ Asset Class, Says Renowned Economist",
+        "description": "Economist and macro trader Alex Krüger has argued that “crypto” has largely failed as an asset class, even as blockchain-based adoption accelerates across stablecoins, tokenization, prediction markets, perps, AI and privacy-focused assets. In a post on X, Krü…",
+        "url": "http://www.newsbtc.com/news/crypto-failed-asset-class-renowned-economist/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-3.-Juni-2026-14_42_31.png?fit=1333%2C750",
+        "publishedAt": "2026-06-04T05:00:42Z",
+        "content": "Economist and macro trader Alex Krüger has argued that crypto has largely failed as an asset class, even as blockchain-based adoption accelerates across stablecoins, tokenization, prediction markets,… [+4579 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "XRP Price Takes Another Hit As Bitcoin-Led Weakness Spreads Across Crypto",
+        "description": "XRP price extended losses and traded below $1.20. The price is now consolidating losses and faces hurdles near $1.1920 and $1.1950. XRP price started another decline and traded below the $1.20 zone. The price is now trading below $1.20 and the 100-hourly Simp…",
+        "url": "http://www.newsbtc.com/analysis/xrp/xrp-price-takes-another-hit-1-15/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/12/XRP-Price-Trims-Upside.jpg?fit=1024%2C572",
+        "publishedAt": "2026-06-04T03:58:14Z",
+        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Ethereum Price Plunges Under $1,800, Leaving Bulls On The Ropes",
+        "description": "Ethereum price started a fresh decline and traded below $1,800. ETH is now consolidating below $1,800 and might continue to move down. Ethereum remained in a bearish zone after a fresh decline below $1,840. The price is trading below $1,800 and the 100-hourly…",
+        "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-plunges-1800/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/11/Ethereum-Sheds.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-06-04T02:38:39Z",
+        "content": "Ethereum price started a fresh decline and traded below $1,800. ETH is now consolidating below $1,800 and might continue to move down.\r\n<ul><li>Ethereum remained in a bearish zone after a fresh decli… [+2117 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,58 +485,6 @@
         "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/02/bittensor-tao-price-volatility-mobile-trading.png",
         "publishedAt": "2026-06-02T16:25:31Z",
         "content": "Key takeaways\r\n<ul><li>XRP has dropped below $1.25 after three straight days of losses, its lowest level since February 6.</li><li>The bearish performance comes as the broader crypto markets remain u… [+2473 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Bitcoin Price Falls To $67,000 And Breaks The Map For Bulls—Here’s What Happens Next",
-        "description": "The Bitcoin price fell hard on Tuesday, hitting $67,289—its lowest level since April—reshaping sentiment toward a more bearish outlook as bulls lose key support zones. CoinGecko data shows the selloff isn’t isolated to one timeframe. Bitcoin has retraced acro…",
-        "url": "http://www.newsbtc.com/breaking-news-ticker/bitcoin-price-falls-to-67000-and-breaks-the-map-for-bulls-heres-what-happens-next/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_MTBrWsI2_1780416356787_raw.jpg",
-        "publishedAt": "2026-06-02T16:11:51Z",
-        "content": "Ronaldo is an experienced crypto enthusiast dedicated to the nascent and ever-evolving industry. With over five years of extensive research and unwavering dedication, he has cultivated a profound int… [+3322 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Christian Encila",
-        "title": "Ethereum Signals Strength As Citigroup Eyes $5.5 Trillion Tokenized Asset Boom",
-        "description": "Ethereum’s funding rate climbed to its highest level since August 23, 2025 on May 31, even as the token slipped below the $2,000 mark. The move pointed to heavy long positioning, and that crowding showed up again on June 1 when about $84 million in long ETH b…",
-        "url": "http://www.newsbtc.com/altcoin/ethereum-signals-strength-as-citigroup-eyes-5-5t-tokenized-asset-boom/",
-        "urlToImage": null,
-        "publishedAt": "2026-06-02T15:00:36Z",
-        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "HIVE Bitcoin holdings drop by 331 BTC in Q1, reports record $298M revenue",
-        "description": "HIVE Digital Technologies reported 150 Bitcoin in treasury after a quarterly decline of 331 BTC, while annual revenue climbed to $297.8 million.",
-        "url": "https://cointelegraph.com/news/hive-sells-331-btc-q1-record-298-million-revenue",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-wealthfront-and-how-it-works.jpg",
-        "publishedAt": "2026-06-02T14:14:02Z",
-        "content": "Canadian Bitcoin miner HIVE Digital Technologies Bitcoin holdings fell by 331 BTC in the latest quarter, even as the miner reported a sharp rise in annual revenue from Bitcoin mining and high-perform… [+2305 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Steve Bailey",
-        "title": "How to better understand bitcoin’s perpetual identity crisis",
-        "description": "Here, Bailey unpacks the uncertainty surrounding the original cryptocurrency’s nature, which creates inconsistent market behavior.",
-        "url": "https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e92b7aae00410ca8e015474b9b2c6d42dad8ff33-4000x3000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-02T14:08:52Z",
-        "content": "Bitcoin occupies a fascinating classification gray zone: part commodity, part currency, part technology asset, part macro hedge. Far from being a mere philosophical curiosity, that ambiguity is the d… [+6077 chars]"
       }
     ]
   }
