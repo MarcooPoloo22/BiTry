@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-04T23:01:54.897Z",
+  "timestamp": "2026-06-05T02:36:14.021Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Aayush Jindal",
+        "title": "Bitcoin Price 10% Selloff Sparks Fears Of A Deeper Breakdown",
+        "description": "Bitcoin price started a fresh decline below the $68,000 zone. BTC is down over 10% and might continue to move down if it dips below $62,000. Bitcoin failed to stay above $68,500 and extended losses. The price is trading below $65,000 and the 100 hourly simple…",
+        "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-10-selloff-62k/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/02/Bitcoin-Price-Bounce-Looks-Hollow.jpg",
+        "publishedAt": "2026-06-04T01:56:20Z",
+        "content": "Bitcoin price started a fresh decline below the $68,000 zone. BTC is down over 10% and might continue to move down if it dips below $62,000.\r\n<ul><li>Bitcoin failed to stay above $68,500 and extended… [+2194 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Ethereum Weakness May Be Final Phase Before Next Market Expansion",
+        "description": "Ethereum is being watched for what one analyst sees as a possible last stretch of weakness before a larger move higher. The call centers on the coin’s three-day chart, where traders are following support closely as the market works through a fresh round of co…",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-weakness-may-be-final-phase-before-next-market-expansion/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/a_605bec.jpg?fit=1278%2C720",
+        "publishedAt": "2026-06-04T01:00:35Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -459,19 +485,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e92b7aae00410ca8e015474b9b2c6d42dad8ff33-4000x3000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-06-02T14:08:52Z",
         "content": "Bitcoin occupies a fascinating classification gray zone: part commodity, part currency, part technology asset, part macro hedge. Far from being a mere philosophical curiosity, that ambiguity is the d… [+6077 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Bitcoin Moves Into Accumulation Zone That Will Send It On Next All-Time High Run To $250,000",
-        "description": "Crypto analyst Aralez has revealed that Bitcoin is entering an accumulation zone that could propel it to a new all-time high (ATH). The analyst signaled that BTC could rally to as high as $250,000 in the next bull market.  Analyst Reveals Bitcoin Entering Maj…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-accumulation-zone/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Pixabay-60.jpg?fit=1280%2C853",
-        "publishedAt": "2026-06-02T13:30:32Z",
-        "content": "Crypto analyst Aralez has revealed that Bitcoin is entering an accumulation zone that could propel it to a new all-time high (ATH). The analyst signaled that BTC could rally to as high as $250,000 in… [+2437 chars]"
       }
     ]
   }
