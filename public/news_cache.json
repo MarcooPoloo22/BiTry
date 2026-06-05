@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-05T10:50:04.535Z",
+  "timestamp": "2026-06-05T13:49:00.958Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price just tagged 200-week trend line that defined 2022 bear market",
+        "description": "Bitcoin brought back the trend line that functioned as resistance in the 2022 bear market, with BTC price RSI approaching its lowest in six years.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-just-tagged-200-week-trend-line-that-defined-2022-bear-market",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bear-crypto-running-1.jpg",
+        "publishedAt": "2026-06-04T11:46:15Z",
+        "content": "Bitcoin (BTC) has tagged a key bear-market trend line with its drop to four-month lows, with a decent chance of a rebound next.\r\nKey points:\r\n<ul><li>Bitcoin revisits its 200-week simple moving avera… [+2719 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Bitcoin ETFs bleed $4.4B as outflow run extends to 13 trading days",
+        "description": "US-listed spot Bitcoin ETFs saw $397 million in outflows on Wednesday, extending a 13-day red streak to $4.4 billion as Bitcoin has fallen about 21% since May 15.",
+        "url": "https://cointelegraph.com/news/bitcoin-etfs-4-4-billion-outflows-13-day-streak",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/brightened-5.png",
+        "publishedAt": "2026-06-04T11:11:56Z",
+        "content": "US-listed spot Bitcoin exchange-traded funds (ETFs) extended their sell-off Wednesday to a record 13 consecutive trading days as Bitcoin demand continued to weaken.\r\nSpot Bitcoin ETFs posted $396.6 m… [+3467 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,84 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_qboVy8uB_1780428922708_raw.jpg",
         "publishedAt": "2026-06-02T20:19:52Z",
         "content": "Ronaldo is an experienced crypto enthusiast dedicated to the nascent and ever-evolving industry. With over five years of extensive research and unwavering dedication, he has cultivated a profound int… [+3322 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Krisztian Sandor",
-        "title": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users",
-        "description": "Coinbase Ventures, the exchange's venture arm, bought Ethena tokens on the open market as the protocol is set to roll out a Coinbase integration next week.",
-        "url": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-02T20:09:53Z",
-        "content": "Coinbase Ventures, the investment arm of crypto exchange Coinbase (COIN), said it had backed Ethena (ENA), buying the protocol's token on the open market as the two firms prepare to launch a new onch… [+3247 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Sam Bourgi",
-        "title": "Coinbase invests in ProShares ETF tailored for stablecoin reserve assets",
-        "description": "The exchange has invested an undisclosed amount in ProShares’ Treasury-focused ETF built for the post-GENIUS era as lawmakers debate whether stablecoin issuers can offer yield-bearing products.",
-        "url": "https://cointelegraph.com/news/coinbase-invests-proshares-etf-tailored-stablecoin-reserve-assets",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-china-is-pumping-money-out-of-the-us-with-bitcoin-2.jpg",
-        "publishedAt": "2026-06-02T20:09:26Z",
-        "content": "Crypto exchange Coinbase has invested in ProShares' stablecoin-focused money market fund, betting that demand for stablecoin reserve-management products will grow as the recently enacted GENIUS Act f… [+3030 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Where Does Bitcoin Go From Here? This Is What the Charts Say",
-        "description": "Bitcoin just had its worst day since April. The death cross is in effect, and prediction markets are bearish.",
-        "url": "https://decrypt.co/369750/bitcoin-price-next-charts-technical-analysis",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-        "publishedAt": "2026-06-02T19:15:29Z",
-        "content": "In brief\r\n<ul><li>Bitcoin dropped nearly 6% today to $67,287its lowest level since Aprilas macro fear and institutional selling hit in the same session.</li><li>U.S. spot Bitcoin ETFs bled $2.43 bill… [+6286 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "The Last Time Ethereum Did This Against Bitcoin, It Exploded Above $4,000",
-        "description": "Ethereum is back at a point on its Bitcoin pair where the price action has always started to ask a dangerous question: is ETH still weak, or is it being priced for another rotation? A new ETH/BTC chart shared by crypto analyst BLADE shows Ethereum falling thr…",
-        "url": "http://www.newsbtc.com/news/ethereum/ethereum-against-bitcoin/",
-        "urlToImage": null,
-        "publishedAt": "2026-06-02T18:00:35Z",
-        "content": "Ethereum is back at a point on its Bitcoin pair where the price action has always started to ask a dangerous question: is ETH still weak, or is it being priced for another rotation?\r\nA new ETH/BTC ch… [+2669 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
-        "description": "Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquidated $1.25 billion of crypto positions.",
-        "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/doctor-medicine-tomography-bitcoin-1.jpg",
-        "publishedAt": "2026-06-02T17:54:18Z",
-        "content": "Bitcoin (BTC) losses passed 6% after Wednesdays Wall Street open as a cascade of liquidations gathered pace.\r\nKey points:\r\n<ul><li>Bitcoin falls below $67,000 for the first time since the first week … [+2567 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Bitcoin Miner Hive Reports Revenue Surge as It Bets on Powering AI Boom",
-        "description": "Hive mined nearly 2,900 Bitcoin last year and is now racing to build what it calls Canada's largest private AI data center.",
-        "url": "https://decrypt.co/369735/bitcoin-miner-hive-reports-revenue-surge-powering-ai-boom",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg",
-        "publishedAt": "2026-06-02T17:11:46Z",
-        "content": "In brief\r\n<ul><li>Hive Digital Technologies nearly tripled revenue to $297.8 million in fiscal 2026, driven by surging Bitcoin prices and a fourfold increase in mining capacity.</li><li>The company m… [+2564 chars]"
       }
     ]
   }
