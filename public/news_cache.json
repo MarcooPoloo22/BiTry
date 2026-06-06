@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-06-06T15:06:44.376Z",
+  "timestamp": "2026-06-06T17:00:53.668Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
       {
         "source": {
@@ -446,19 +446,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-08-scaled-gID_7.jpeg",
         "publishedAt": "2026-06-03T18:31:54Z",
         "content": "In brief\r\n<ul><li>Ethereum dropped 8% today alone, crashing through the $2,000 psychological support zone and hitting an intraday low near $1,814.</li><li>On Myriad, traders are now betting ETH reach… [+6253 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "André Beganski",
-        "title": "As Oil Moves Higher, Bitcoin Sinks to Lowest Price Since March",
-        "description": "Bitcoin fell to a more than two-month low alongside U.S. stocks after Middle East skirmishes pushed bond yields and oil prices higher.",
-        "url": "https://decrypt.co/369925/oil-moves-higher-bitcoin-sinks-lowest-price-since-march",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/bitcoin-oil-decrypt-style-1-gID_7.jpg",
-        "publishedAt": "2026-06-03T18:25:14Z",
-        "content": "In brief\r\n<ul><li>Crypto fell alongside U.S. stocks as renewed military conflict in the Middle East pushed Brent crude to a 12-day high of $96 per barrel.</li><li>Rising energy costs pushed the U.S. … [+2969 chars]"
       }
     ]
   }
