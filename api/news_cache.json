@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-06T13:11:15.465Z",
+  "timestamp": "2026-06-06T15:06:44.376Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Strategy’s Leveraged Bitcoin Model Is Under Strain, Researchers Warn",
+        "description": "Grayscale’s head of research says Strategy’s leveraged business model has come under pressure, and that pressure could make it harder for the company to keep adding Bitcoin to its holdings. Related Reading: Bitmine Seeks $300M Raise To Accelerate Ethereum Acc…",
+        "url": "http://www.newsbtc.com/news/strategys-leveraged-bitcoin-model-is-under-strain-researchers-warn/",
+        "urlToImage": null,
+        "publishedAt": "2026-06-05T15:00:03Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "Here’s How High The Bitcoin Price Will Climb If It Breaks The Current Bear Trend",
+        "description": "Bitcoin has spent the better part of the past several weeks delivering a painful lesson to bulls. The largest cryptocurrency by market capitalization has shed more than 22% over the past month, slicing through support levels that many traders had considered e…",
+        "url": "http://www.newsbtc.com/news/bitcoin/how-high-bitcoin-price-will-climb/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/bitcoin-bulls-bears.jpeg?fit=1280%2C853",
+        "publishedAt": "2026-06-05T13:30:28Z",
+        "content": "Bitcoin has spent the better part of the past several weeks delivering a painful lesson to bulls. The largest cryptocurrency by market capitalization has shed more than 22% over the past month, slici… [+2813 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,45 +459,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/bitcoin-oil-decrypt-style-1-gID_7.jpg",
         "publishedAt": "2026-06-03T18:25:14Z",
         "content": "In brief\r\n<ul><li>Crypto fell alongside U.S. stocks as renewed military conflict in the Middle East pushed Brent crude to a 12-day high of $96 per barrel.</li><li>Rising energy costs pushed the U.S. … [+2969 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Akash Girimath",
-        "title": "Strategy Wanted to 'Inoculate' the Bitcoin Market—Has Its BTC Sale Backfired?",
-        "description": "With STRC trading under $100, experts are at odds over whether the sale has exposed a “structural crack” in Strategy’s Bitcoin flywheel.",
-        "url": "https://decrypt.co/369904/strategy-wanted-to-inoculate-the-bitcoin-market-has-its-btc-sale-backfired",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png",
-        "publishedAt": "2026-06-03T16:35:13Z",
-        "content": "In brief\r\n<ul><li>Strategys decision to retire $1.5 billion in debt and purchase 24,869 BTC drained its corporate cash reserves right before a monthly dividend payout.</li><li>The Bitcoin treasury fi… [+5885 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Alex Tapscott, Aisha Hunt",
-        "title": "Crypto Long & Short: What about the American consumer?",
-        "description": "In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY Act and how it's impacting the average American consumer. Then, Aisha Hunt writes that crypto will grow by upgrading Wall Street’s trusted products rather than replacing them.",
-        "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-long-and-short-what-about-the-american-consumer",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/7af860474a30480e57de30f681ca9abb796d2a0d-5520x3680.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-03T16:13:51Z",
-        "content": "Welcome to our institutional newsletter, Crypto Long &amp; Short. This week:\r\n<ul><li>Alex Tapscott on the stalling of the CLARITY Act and how its impacting the average American consumer.</li><li>Ais… [+10606 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Binance discloses revenue-sharing deal with Alpaca",
-        "description": "A Binance legal document disclosed a revenue-sharing agreement with Alpaca, which includes sharing 50% of the stock custodian’s order flow revenue with the cryptocurrency exchange.",
-        "url": "https://cointelegraph.com/news/binance-partnership-tokenized-stock-custodian-alpaca",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-experienced-traders-prefer-to-trade-on-desktop-computers-a-new-study-reveals3.jpg",
-        "publishedAt": "2026-06-03T15:05:30Z",
-        "content": "Binance disclosed a revenue-sharing arrangement with custodian and brokerage infrastructure API provider Alpaca, which has become a major infrastructure provider in the custody of tokenized US stocks… [+2764 chars]"
       }
     ]
   }
