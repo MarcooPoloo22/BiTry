@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-06T09:19:54.562Z",
+  "timestamp": "2026-06-06T11:18:19.838Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Christian Encila",
+        "title": "Bitcoin Faces Pressure As Investors Rotate Capital Into AI Buildout: Saylor",
+        "description": "Bitcoin spot ETFs have now recorded net outflows in 17 of the last 19 days, with investors pulling a combined $5.6 billion from the products during that stretch. Taking Stock Of The Damage The numbers have pushed year-to-date flows for US-traded Bitcoin ETFs …",
+        "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-faces-pressure-as-investors-rotate-capital-into-ai-buildout-saylor/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/a_1734ef.jpg?fit=1200%2C627",
+        "publishedAt": "2026-06-05T10:30:29Z",
+        "content": "They say journalists never truly clock out. But for Christian, that's not just a metaphor, it's a lifestyle. By day, he navigates the ever-shifting tides of the cryptocurrency market, wielding words … [+2792 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Dogecoin Has Entered A Historically Red Month And The Result Could Be Catastrophic",
+        "description": "In the 13 years that Dogecoin has been in existence, it has seen some interesting trends across various months. However, each month has had its fair share of greens and reds, but the month of June has mostly defied this. With Dogecoin mostly ending June in th…",
+        "url": "http://www.newsbtc.com/news/dogecoin/dogecoin-historically-red-month/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Dogecoin-from-Peakpx-6.jpg?fit=800%2C533",
+        "publishedAt": "2026-06-05T09:30:20Z",
+        "content": "In the 13 years that Dogecoin has been in existence, it has seen some interesting trends across various months. However, each month has had its fair share of greens and reds, but the month of June ha… [+2015 chars]"
+      },
       {
         "source": {
           "id": null,
