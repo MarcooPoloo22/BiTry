@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-07T06:59:42.410Z",
+  "timestamp": "2026-06-07T10:06:22.836Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Analyst Who Predicted the Bitcoin Crash Says Price Could Reach $40,000, Here’s When",
+        "description": "The Bitcoin price recovery back in May 2026 triggered a renewed wave of bullish optimism. But despite the rising prices, there are some who did not give in to the bullish wave, picking a more conservative stance on the cryptocurrency. With the new month, thos…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-crash-could-reach-40000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/Bitcoin-crash.jpeg?fit=1280%2C853",
+        "publishedAt": "2026-06-06T09:30:53Z",
+        "content": "The Bitcoin price recovery back in May 2026 triggered a renewed wave of bullish optimism. But despite the rising prices, there are some who did not give in to the bullish wave, picking a more conserv… [+2301 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,45 +381,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/brightened-5.png",
         "publishedAt": "2026-06-04T11:11:56Z",
         "content": "US-listed spot Bitcoin exchange-traded funds (ETFs) extended their sell-off Wednesday to a record 13 consecutive trading days as Bitcoin demand continued to weaken.\r\nSpot Bitcoin ETFs posted $396.6 m… [+3467 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Charles Thuo",
-        "title": "Why Bitcoin price could fall below $62,000 despite oversold conditions",
-        "description": "Bitcoin ETF outflows remain negative for 11 straight days, pressuring BTC. $749 million in liquidations have accelerated the Bitcoin price drop. RSI below 18 shows oversold conditions, but trend stays bearish. Bitcoin (BTC) has been under sustained pressure, …",
-        "url": "https://coinjournal.net/news/why-bitcoin-price-could-fall-below-62000-despite-oversold-conditions/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/04/bitcoin-price-decline-chart-red-market.png",
-        "publishedAt": "2026-06-04T09:50:43Z",
-        "content": "<ul><li>Bitcoin ETF outflows remain negative for 11 straight days, pressuring BTC.</li><li>$749 million in liquidations have accelerated the Bitcoin price drop.</li><li>RSI below 18 shows oversold co… [+4496 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Stephen Katte",
-        "title": "Coinbase freezes $3M tied to Southeast Asia crypto fraud networks",
-        "description": "Tech firms and global law enforcement have disrupted scam networks in Southeast Asia, frozen millions in crypto and targeted over 1.4 million fraudulent accounts.",
-        "url": "https://cointelegraph.com/news/tech-fbi-crypto-scam-crackdown-southeast-asia",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-banks-and-blockchain.jpeg",
-        "publishedAt": "2026-06-04T05:14:31Z",
-        "content": "Crypto exchange Coinbase said it froze more than $3 million in cryptocurrency tied to a global operation targeting cyber-enabled crypto scam networks in Southeast Asia. \r\nThe operation was part of Di… [+2745 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Jake Simmons",
-        "title": "Crypto Is A ‘Failed’ Asset Class, Says Renowned Economist",
-        "description": "Economist and macro trader Alex Krüger has argued that “crypto” has largely failed as an asset class, even as blockchain-based adoption accelerates across stablecoins, tokenization, prediction markets, perps, AI and privacy-focused assets. In a post on X, Krü…",
-        "url": "http://www.newsbtc.com/news/crypto-failed-asset-class-renowned-economist/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-3.-Juni-2026-14_42_31.png?fit=1333%2C750",
-        "publishedAt": "2026-06-04T05:00:42Z",
-        "content": "Economist and macro trader Alex Krüger has argued that crypto has largely failed as an asset class, even as blockchain-based adoption accelerates across stablecoins, tokenization, prediction markets,… [+4579 chars]"
       }
     ]
   }
