@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-07T10:06:22.836Z",
+  "timestamp": "2026-06-07T12:16:16.154Z",
   "data": {
     "status": "ok",
     "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Opeyemi Sule",
+        "title": "Cardano Price Could Be Heading To $0.10 — Crypto Founder Offers Insight",
+        "description": "The cryptocurrency market has been riddled with significant selling pressure over the past week, with the Cardano price taking one of the largest hits among large-cap assets. According to CoinGecko data, the altcoin has lost more than 30% of its value in the …",
+        "url": "http://www.newsbtc.com/news/cardano/cardano-price-could-be-heading-to-0-1/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/04/iStock-1336958377.jpeg?fit=2121%2C1414",
+        "publishedAt": "2026-06-06T11:00:40Z",
+        "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,19 +381,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bear-crypto-running-1.jpg",
         "publishedAt": "2026-06-04T11:46:15Z",
         "content": "Bitcoin (BTC) has tagged a key bear-market trend line with its drop to four-month lows, with a decent chance of a rebound next.\r\nKey points:\r\n<ul><li>Bitcoin revisits its 200-week simple moving avera… [+2719 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Bitcoin ETFs bleed $4.4B as outflow run extends to 13 trading days",
-        "description": "US-listed spot Bitcoin ETFs saw $397 million in outflows on Wednesday, extending a 13-day red streak to $4.4 billion as Bitcoin has fallen about 21% since May 15.",
-        "url": "https://cointelegraph.com/news/bitcoin-etfs-4-4-billion-outflows-13-day-streak",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/brightened-5.png",
-        "publishedAt": "2026-06-04T11:11:56Z",
-        "content": "US-listed spot Bitcoin exchange-traded funds (ETFs) extended their sell-off Wednesday to a record 13 consecutive trading days as Bitcoin demand continued to weaken.\r\nSpot Bitcoin ETFs posted $396.6 m… [+3467 chars]"
       }
     ]
   }
