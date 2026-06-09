@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-09T10:29:28.642Z",
+  "timestamp": "2026-06-09T13:38:34.442Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Has The Bitcoin Price Crash Ended Or Is This Just The Beginning? Analyst Answers",
+        "description": "Following Bitcoin’s rebound from last week’s dip below $59,000, the market is now weighing whether the recent price crash has finally run its course or if a deeper correction is still ahead. While the recovery has provided some relief across the crypto market…",
+        "url": "http://www.newsbtc.com/news/bitcoin/has-bitcoin-price-crash-ended/",
+        "urlToImage": null,
+        "publishedAt": "2026-06-08T13:30:41Z",
+        "content": "Following Bitcoin’s rebound from last week’s dip below $59,000, the market is now weighing whether the recent price crash has finally run its course or if a deeper correction is still ahead. While th… [+3136 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "James Van Straten",
+        "title": "Strategy buys 1,550 bitcoin, first time since selling $2.5 million worth of BTC",
+        "description": "Strategy adds bitcoin and cash after raising $181 million through stock sales.",
+        "url": "https://www.coindesk.com/markets/2026/06/08/strategy-buys-1-550-bitcoin-boosts-cash-reserves-to-usd1-billion",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4d8ef340932caf33afa9389ca53934171415b336-4785x3190.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-08T12:12:45Z",
+        "content": "Strategy (MSTR) acquired 1,550 bitcoin for approximately $101 million, increasing its total holdings to 845,256 BTC, according to a Monday announcement from Executive Chairman Michael Saylor.\r\nThe pu… [+909 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,32 +407,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/03/Dogecoin-from-Peakpx-6.jpg?fit=800%2C533",
         "publishedAt": "2026-06-05T09:30:20Z",
         "content": "In the 13 years that Dogecoin has been in existence, it has seen some interesting trends across various months. However, each month has had its fair share of greens and reds, but the month of June ha… [+2015 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Rubmar Garcia",
-        "title": "Bitcoin Price In ’Vulnerable Position’ As 2022 Playbook Repeats – Is $54,000 Next?",
-        "description": "While Bitcoin (BTC) trades at its lowest levels in months, some market watchers have warned that the leading crypto may be preparing for another major drop as it retests a critical technical area that has historically marked a turning point. Related Reading: …",
-        "url": "http://www.newsbtc.com/news/bitcoin-vulnerable-position-2022-playbook-repeats/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/10/michael-fortsch-AA5sf7WTv10-unsplash-1.jpg?fit=1920%2C1280",
-        "publishedAt": "2026-06-05T08:00:31Z",
-        "content": "While Bitcoin (BTC) trades at its lowest levels in months, some market watchers have warned that the leading crypto may be preparing for another major drop as it retests a critical technical area tha… [+3161 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Jesse Coghlan",
-        "title": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
-        "description": "Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo donated $9.4 million to Nigel Farage’s Reform UK in the first quarter.",
-        "url": "https://cointelegraph.com/news/crypto-billionaires-bankroll-reform-uk-more-than-other-parties",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-uk.jpg",
-        "publishedAt": "2026-06-05T07:02:59Z",
-        "content": "Nigel Farages Reform UK received 7 million British pounds ($9.4 million) from two crypto billionaires this year, with total funds raised outstripping all other political parties.\r\nThe party received … [+1954 chars]"
       }
     ]
   }
