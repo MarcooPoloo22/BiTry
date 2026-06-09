@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-06-09T06:48:37.727Z",
+  "timestamp": "2026-06-09T10:29:28.642Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
       {
         "source": {
@@ -407,19 +407,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-uk.jpg",
         "publishedAt": "2026-06-05T07:02:59Z",
         "content": "Nigel Farages Reform UK received 7 million British pounds ($9.4 million) from two crypto billionaires this year, with total funds raised outstripping all other political parties.\r\nThe party received … [+1954 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Ronaldo Marquez",
-        "title": "Coinbase Reveals First Mortgage With Bitcoin Collateral Under Fannie Mae Coverage",
-        "description": "Nearly four months after crypto exchange Coinbase and the Federal National Mortgage Association—better known as Fannie Mae—announced their partnership, the companies have now disclosed what they describe as the first-ever mortgage backed by crypto collateral.…",
-        "url": "http://www.newsbtc.com/news/coinbase-reveals-first-mortgage-with-bitcoin-collateral-under-fannie-mae-coverage/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_xy4INP0h_1780626753962_raw.jpg",
-        "publishedAt": "2026-06-05T05:30:47Z",
-        "content": "Ronaldo is an experienced crypto enthusiast dedicated to the nascent and ever-evolving industry. With over five years of extensive research and unwavering dedication, he has cultivated a profound int… [+3322 chars]"
       }
     ]
   }
