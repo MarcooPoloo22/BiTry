@@ -1,10 +1,88 @@
 {
   "version": 3,
-  "timestamp": "2026-06-10T14:21:57.331Z",
+  "timestamp": "2026-06-10T17:52:41.290Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Biraajmaan Tamuly",
+        "title": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
+        "description": "Bitwise says Bitcoin may be signaling wider weakness across risk assets as rising Treasury yields and $72 billion in stablecoin reserves present a mixed liquidity picture.",
+        "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/article-covers-232405-how-u-s-bitcoin-mines-are-choking-the-grid-bitmain-at-the-center-of-the-storm.jpg",
+        "publishedAt": "2026-06-09T17:48:44Z",
+        "content": "Bitcoins (BTC) recent performance may be less about crypto market weakness and more about its position at the front of the risk curve. Asset management firm Bitwise said that BTC often acts as a cana… [+3440 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Godspower Owie",
+        "title": "Bitcoin’s Rise May Have Little To Do With The Latest Purchase News",
+        "description": "Bitcoin’s latest upward move has sparked debate among market participants, and some believe the rally may have little to do with the purchase announcement that received the most attention. While the acquisition is generally viewed as constructive for the broa…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-and-latest-purchase-news/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Pixabay-31.jpg?fit=1280%2C848",
+        "publishedAt": "2026-06-09T17:30:44Z",
+        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "What The Bitcoin Price Is Doing Now After Bouncing From $59,000",
+        "description": "Crypto analyst Ardi has drawn attention to an interesting dynamic amid the Bitcoin price bounce from a recent low of around $59,000. Based on his analysis, the BTC bottom has likely not formed, with the leading crypto set to fall to new lows.  Analyst Explain…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-after-bouncing-from-59000/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Pixabay-5.jpg?fit=1280%2C853",
+        "publishedAt": "2026-06-09T16:00:14Z",
+        "content": "Crypto analyst Ardi has drawn attention to an interesting dynamic amid the Bitcoin price bounce from a recent low of around $59,000. Based on his analysis, the BTC bottom has likely not formed, with … [+2603 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
+        "description": "Bitcoin bear market analysis showed copycat BTC price moves ongoing despite new hopes of a US-Iran peace deal.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin.jpg",
+        "publishedAt": "2026-06-09T15:05:28Z",
+        "content": "Bitcoin (BTC) hit week-to-date lows at Tuesday's Wall Street open as analysis put $65,000 as bulls level to beat.\r\nKey points:\r\n<ul><li>Bitcoin needs to revisit $65,000 for bulls to take charge, says… [+2729 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yashu Gola",
+        "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
+        "description": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in.",
+        "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-1.jpg",
+        "publishedAt": "2026-06-09T14:33:53Z",
+        "content": "Bitcoin (BTC) bulls successfully defended the $60,000 psychological support during last weeks 13% correction. \r\nBTC/USD daily chart. Source: TradingView\r\nHowever, the rebound has not fully erased dow… [+4672 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
+        "description": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds.",
+        "url": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-for-the-crypto-industry-supporting-sanctions-is-an-opportunity-to-rebrand.jpg",
+        "publishedAt": "2026-06-09T14:22:11Z",
+        "content": "Blockchain researchers have raised concerns about the United Kingdom's sanctions against crypto exchange HTX, arguing that the move may have created broad collateral damage across the industry's comp… [+2132 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -329,58 +407,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Bitcoin-Price-Trims-Gains-But-Uptrend-Still-Holds-Strong.jpg",
         "publishedAt": "2026-06-08T00:59:12Z",
         "content": "Bitcoin price started a recovery wave above the $62,000 zone. BTC is consolidating and might aim for more gains if it clears the $64,500 resistance zone.\r\n<ul><li>Bitcoin managed to form a base above… [+2192 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Bitcoin Supply In Loss Crosses Critical Threshold — Bullish Reversal Next?",
-        "description": "After days of steep downward movement, the price of Bitcoin appears to have found a somewhat reliable anchor around the $60,000 region. However, recent on-chain data suggests that the premier cryptocurrency might not be down for long, with a bullish reversal …",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-supply-in-loss-crosses-critical-threshold/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/10/iStock-1316231784.jpg?fit=2016%2C1486",
-        "publishedAt": "2026-06-08T00:00:19Z",
-        "content": "Opeyemi is a proficient writer and enthusiast in the exciting and unique cryptocurrency realm. While the digital asset industry was not his first choice, he has remained absolutely drawn since making… [+2777 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "Ethereum’s RSI Just Hit Its Lowest Level In History, And That May Be Exactly The Point",
-        "description": "Ethereum’s latest price crash has pushed the cryptocurrency below $1,800, placing its monthly chart under pressure at a time when the entire crypto market sentiment has turned heavily bearish. There is also another weakness coming from the monthly RSI, which …",
-        "url": "http://www.newsbtc.com/altcoin/ethereums-rsi-just-hit-its-lowest-level-in-history-and-that-may-be-exactly-the-point/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/a_2c981e.jpg?fit=1920%2C1080",
-        "publishedAt": "2026-06-07T22:00:14Z",
-        "content": "Ethereums latest price crash has pushed the cryptocurrency below $1,800, placing its monthly chart under pressure at a time when the entire crypto market sentiment has turned heavily bearish. There i… [+2577 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Opeyemi Sule",
-        "title": "Bitcoin’s “Electrical Cost” Suggests Possible Bear Market Floor Near $50,000 — Analyst",
-        "description": "Bitcoin’s bearish structure over the past few weeks has raised clear concerns about the flagship cryptocurrency’s future. Amid these concerns are speculations concerning its trajectory, some of which point to bottoms as low as $25,000. However, an on-chain an…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoins-electrical-cost-suggests-possible-bear-market-floor/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2025/11/iStock-1314199360-1.jpg?fit=1254%2C836",
-        "publishedAt": "2026-06-07T18:00:55Z",
-        "content": "Bitcoin’s bearish structure over the past few weeks has raised clear concerns about the flagship cryptocurrencys future. Amid these concerns are speculations concerning its trajectory, some of which … [+2783 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny",
-        "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-        "description": "As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield products and onchain lending will drive the next phase of crypto wealth management.",
-        "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6570e52df49f9de52d4cc142d7558eb9b52af7df-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-07T15:00:00Z",
-        "content": "Bill Barhydt built Abra around a simple idea: Crypto should function like a bank.\r\nIn 2018, Abra became one of the first companies to offer what Barhydt describes as a full crypto banking service, al… [+3389 chars]"
       }
     ]
   }
