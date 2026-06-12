@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-12T17:32:24.120Z",
+  "timestamp": "2026-06-12T19:55:23.003Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jason Nelson",
+        "title": "Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users",
+        "description": "Coinbase's new product allows AI agents to execute crypto trades, payments, and portfolio management tasks within user-defined limits.",
+        "url": "https://decrypt.co/370835/coinbase-tool-ai-agents-trade-crypto-make-payments",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png",
+        "publishedAt": "2026-06-11T19:29:44Z",
+        "content": "In brief\r\n<ul><li>Coinbase unveiled Coinbase for Agents, which connects AI agents directly to user accounts.</li><li>The product allows agents to trade crypto, make payments, and manage portfolios wi… [+3432 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Analyst Predicts Bitcoin Price Has Entered The Final Bear Market Phase",
+        "description": "A crypto analyst has stated that the Bitcoin price remains firmly in a bear market, projecting more volatility and pain ahead for the world’s largest cryptocurrency. The expert also noted that BTC has entered the final phase of this bearish stage, a period wh…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-final-bear-market-phase/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Getty-Images-11.jpg?fit=612%2C408",
+        "publishedAt": "2026-06-11T18:30:17Z",
+        "content": "A crypto analyst has stated that the Bitcoin price remains firmly in a bear market, projecting more volatility and pain ahead for the worlds largest cryptocurrency. The expert also noted that BTC has… [+3026 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,45 +446,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/article-covers-232405-how-u-s-bitcoin-mines-are-choking-the-grid-bitmain-at-the-center-of-the-storm.jpg",
         "publishedAt": "2026-06-09T17:48:44Z",
         "content": "Bitcoins (BTC) recent performance may be less about crypto market weakness and more about its position at the front of the risk curve. Asset management firm Bitwise said that BTC often acts as a cana… [+3440 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Godspower Owie",
-        "title": "Bitcoin’s Rise May Have Little To Do With The Latest Purchase News",
-        "description": "Bitcoin’s latest upward move has sparked debate among market participants, and some believe the rally may have little to do with the purchase announcement that received the most attention. While the acquisition is generally viewed as constructive for the broa…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-and-latest-purchase-news/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Pixabay-31.jpg?fit=1280%2C848",
-        "publishedAt": "2026-06-09T17:30:44Z",
-        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Scott Matherson",
-        "title": "What The Bitcoin Price Is Doing Now After Bouncing From $59,000",
-        "description": "Crypto analyst Ardi has drawn attention to an interesting dynamic amid the Bitcoin price bounce from a recent low of around $59,000. Based on his analysis, the BTC bottom has likely not formed, with the leading crypto set to fall to new lows.  Analyst Explain…",
-        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-after-bouncing-from-59000/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Pixabay-5.jpg?fit=1280%2C853",
-        "publishedAt": "2026-06-09T16:00:14Z",
-        "content": "Crypto analyst Ardi has drawn attention to an interesting dynamic amid the Bitcoin price bounce from a recent low of around $59,000. Based on his analysis, the BTC bottom has likely not formed, with … [+2603 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
-        "description": "Bitcoin bear market analysis showed copycat BTC price moves ongoing despite new hopes of a US-Iran peace deal.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin.jpg",
-        "publishedAt": "2026-06-09T15:05:28Z",
-        "content": "Bitcoin (BTC) hit week-to-date lows at Tuesday's Wall Street open as analysis put $65,000 as bulls level to beat.\r\nKey points:\r\n<ul><li>Bitcoin needs to revisit $65,000 for bulls to take charge, says… [+2729 chars]"
       }
     ]
   }
