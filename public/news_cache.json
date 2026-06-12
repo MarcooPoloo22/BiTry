@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-06-12T07:14:49.399Z",
+  "timestamp": "2026-06-12T11:36:43.226Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole, Shaurya Malwa",
+        "title": "Bitcoin advances, holds above key technical level that ether, solana can't break through",
+        "description": "BTC's dominance rate has risen from last week's low, a sign of renewed capital flowing into the largest cryptocurrency as major altcoins struggle.",
+        "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-advances-holds-above-key-technical-level-that-ether-solana-can-t-break-through",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/52f0f2e25ac03c42dc6b3ba111b1458e3cf3f9db-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-11T10:45:05Z",
+        "content": "Bitcoin BTC\r\n$63,101.63 rose Thursday, and its share of the total crypto market, its dominance rate, gained alongside a meteoric rise in a lesser-known cryptocurrency.\r\nThe BTC price advanced 2.4% in… [+3925 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Ethereum Exchange Reserves Lose 475,000, Is The Red Month Of June A Time To Buy?",
+        "description": "The Ethereum price decline seems to have opened up the opportunity for fast accumulation among investors over the last week. This comes as data shows a significant amount of the cryptocurrency actually being moved out of the wallets of centralized exchanges. …",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-exchange-reserves/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/04/Ethereum-market-squeeze-surge-explosion.png?fit=1333%2C888",
+        "publishedAt": "2026-06-11T09:30:20Z",
+        "content": "The Ethereum price decline seems to have opened up the opportunity for fast accumulation among investors over the last week. This comes as data shows a significant amount of the cryptocurrency actual… [+2258 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Philippines' central bank says Binance and its local partner lack licenses to operate",
+        "description": "Binance and its local partner do not hold the necessary license required to operate in the country, the Philippine central bank said, according to a local media report.",
+        "url": "https://www.coindesk.com/policy/2026/06/11/philippines-central-bank-says-binance-and-its-local-partner-lack-licenses-to-operate",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b0c4e35cc37acbbd2deffb1aa8985ccde816eaf9-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-11T08:49:47Z",
+        "content": "Binance is trying to enter the Philippines market through a local partner. Regulators are making clear it won't be simple.\r\nThe country's central bank said neither the world's largest crypto exchange… [+1667 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,32 +433,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg",
         "publishedAt": "2026-06-09T12:06:13Z",
         "content": "In brief\r\n<ul><li>Bitcoin's 50% drawdown from its $126,000 all-time high is its shallowest to date, compared to 2012s 90% correction.</li><li>Analysts point to ETF outflows and macro tightening as si… [+4133 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei",
-        "description": "SBI will give out vouchers that can be redeemed for Bitcoin, Ether or XRP through SBI VC Trade, linking bank savings with the group’s crypto exchange arm.",
-        "url": "https://cointelegraph.com/news/sbi-shinsei-bank-crypto-vouchers-deposit-interest-japan",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-initiatives-sbi-holdings.jpg",
-        "publishedAt": "2026-06-09T10:32:48Z",
-        "content": "SBI Shinsei Bank will reportedly launch a service that rewards deposit customers with cryptocurrency exchange vouchers based on their account balances.\r\nAccording to a Nikkei report, customers will r… [+2065 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Charles Thuo",
-        "title": "Ethereum price forecast as BitMine buys 126,971 ETH: has ETH bottomed?",
-        "description": "BitMine tripled its weekly ETH buy to 126,971 tokens, now holding 4.59% of supply. Only 11% of ETH supply is in threefold profit, the lowest reading since Feb 2017. A weekly close below $1,500 could push ETH toward the $1,000 support zone. The Ethereum price …",
-        "url": "https://coinjournal.net/news/ethereum-price-forecast-as-bitmine-buys-126971-eth-has-eth-bottomed/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2025/07/ethereum-eth-price.png",
-        "publishedAt": "2026-06-09T10:27:08Z",
-        "content": "<ul><li>BitMine tripled its weekly ETH buy to 126,971 tokens, now holding 4.59% of supply.</li><li>Only 11% of ETH supply is in threefold profit, the lowest reading since Feb 2017.</li><li>A weekly c… [+4806 chars]"
       }
     ]
   }
