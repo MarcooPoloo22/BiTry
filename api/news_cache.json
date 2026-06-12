@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-12T14:37:19.719Z",
+  "timestamp": "2026-06-12T17:32:24.121Z",
   "data": {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Godspower Owie",
+        "title": "Ethereum Nears 200 Million Non-Empty Wallets Despite Market Uncertainty",
+        "description": "Despite persistent market uncertainty and bearish sentiment across parts of the cryptocurrency sector, Ethereum is approaching a significant adoption milestone, with the number of non-empty wallets nearing 200 million. While price fluctuations often dominate …",
+        "url": "http://www.newsbtc.com/news/ethereum/ethereum-nears-200-million-wallets/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Ethereum-from-Getty-Images-26.jpg?fit=612%2C408",
+        "publishedAt": "2026-06-11T17:00:08Z",
+        "content": "My name is Godspower Owie, and I was born and brought up in Edo State, Nigeria. I grew up with my three siblings who have always been my idols and mentors, helping me to grow and understand the way o… [+2495 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,32 +459,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin.jpg",
         "publishedAt": "2026-06-09T15:05:28Z",
         "content": "Bitcoin (BTC) hit week-to-date lows at Tuesday's Wall Street open as analysis put $65,000 as bulls level to beat.\r\nKey points:\r\n<ul><li>Bitcoin needs to revisit $65,000 for bulls to take charge, says… [+2729 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yashu Gola",
-        "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
-        "description": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in.",
-        "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-1.jpg",
-        "publishedAt": "2026-06-09T14:33:53Z",
-        "content": "Bitcoin (BTC) bulls successfully defended the $60,000 psychological support during last weeks 13% correction. \r\nBTC/USD daily chart. Source: TradingView\r\nHowever, the rebound has not fully erased dow… [+4672 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
-        "description": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds.",
-        "url": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-for-the-crypto-industry-supporting-sanctions-is-an-opportunity-to-rebrand.jpg",
-        "publishedAt": "2026-06-09T14:22:11Z",
-        "content": "Blockchain researchers have raised concerns about the United Kingdom's sanctions against crypto exchange HTX, arguing that the move may have created broad collateral damage across the industry's comp… [+2132 chars]"
       }
     ]
   }
