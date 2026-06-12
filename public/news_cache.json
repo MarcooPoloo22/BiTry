@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-06-12T11:36:43.226Z",
+  "timestamp": "2026-06-12T14:37:19.719Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Scott Matherson",
+        "title": "Bitcoin Has Never Broken This Line Before And Price Just Touched It Again",
+        "description": "Crypto analyst Crypto Rover has pointed to a trendline that Bitcoin has never broken below in every market cycle. The leading crypto has now touched this trendline, providing optimism that it could bounce from that level as it did in previous bear cycles. Bit…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-unbroken-key-line/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-from-Getty-Images-19.jpg?fit=612%2C393",
+        "publishedAt": "2026-06-11T14:00:17Z",
+        "content": "Crypto analyst Crypto Rover has pointed to a trendline that Bitcoin has never broken below in every market cycle. The leading crypto has now touched this trendline, providing optimism that it could b… [+2545 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Margaux Nijkerk",
+        "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
+        "description": "The firms making that possible say eligible shares can also be converted back into tokens, creating a bridge between traditional brokerage accounts and blockchain-based markets.",
+        "url": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9f49c07fc596bf0c2db50c23c38cfbe175dcb9cd-2048x1365.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-11T14:00:00Z",
+        "content": "SpaceX (SPCX) shares will begin trading on Solana the same day the company is expected to list on Nasdaq, according to Sunrise, a tokenization infrastructure provider, and Backpack Securities, a regu… [+1633 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Hungary to reverse crypto trading crackdown after EU scrutiny",
+        "description": "Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.",
+        "url": "https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-hungarys-crypto-crackdown-avoid-this-mistake-or-face-2-years-in-jail.jpg",
+        "publishedAt": "2026-06-11T12:52:15Z",
+        "content": "Hungary is set to decriminalize crypto trading, reversing restrictions that imposed potential jail terms for certain crypto-to-fiat and crypto-to-crypto transactions, according to Tisza government sp… [+3188 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Sandra White",
+        "title": "Why The Bitcoin Price Could Mark A Generational Bottom And Rise Over 200%",
+        "description": "Bitcoin’s investor sentiment is in ruins, but buried inside the wreckage, a technical signal that has appeared only at the most consequential turning points in Bitcoin’s history has just fired again. This technical argument, which is built around Bitcoin’s Re…",
+        "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-price-generational-bottom/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/bitcoin-bottom.jpeg?fit=1280%2C853",
+        "publishedAt": "2026-06-11T12:30:35Z",
+        "content": "Bitcoin’s investor sentiment is in ruins, but buried inside the wreckage, a technical signal that has appeared only at the most consequential turning points in Bitcoin’s history has just fired again.… [+2723 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,19 +472,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-for-the-crypto-industry-supporting-sanctions-is-an-opportunity-to-rebrand.jpg",
         "publishedAt": "2026-06-09T14:22:11Z",
         "content": "Blockchain researchers have raised concerns about the United Kingdom's sanctions against crypto exchange HTX, arguing that the move may have created broad collateral damage across the industry's comp… [+2132 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Akash Girimath",
-        "title": "This is Bitcoin's Shallowest Bear Market—But is the Bottom In?",
-        "description": "Bitcoin is down 50% from its all-time high in the shallowest bear market to date—but analysts caution that the bottom isn't in yet.",
-        "url": "https://decrypt.co/370495/this-is-bitcoins-shallowest-bear-market-but-is-the-bottom-in",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-06-09T12:06:13Z",
-        "content": "In brief\r\n<ul><li>Bitcoin's 50% drawdown from its $126,000 all-time high is its shallowest to date, compared to 2012s 90% correction.</li><li>Analysts point to ETF outflows and macro tightening as si… [+4133 chars]"
       }
     ]
   }
