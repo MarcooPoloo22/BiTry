@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-13T15:26:39.207Z",
+  "timestamp": "2026-06-13T17:13:24.035Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "AI Boost",
+        "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
+        "description": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
+        "url": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/591ebb1d6a707d8b8d862afa4610b4958bd2ccaf-1540x864.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-12T16:05:31Z",
+        "content": "Latest developments: VanEck recently launched the first U.S. spot BNB ETF, trading under the ticker VBNB on Nasdaq.\r\n<ul><li>The fund gives investors exposure to BNB through traditional brokerage acc… [+1345 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/05/ChatGPT-Image-12.-Mai-2026-15_50_57.png?fit=1222%2C814",
         "publishedAt": "2026-06-10T08:00:08Z",
         "content": "Bitcoin has been forming a pattern for years now, and even with the uncertain price movements, this pattern has now finally be completed. This was explained by crypto analyst Bitcoin Teddy on the X s… [+1973 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "Aayush Jindal",
-        "title": "Solana (SOL) Back On The Defensive—Can Bulls Prevent Another Drop?",
-        "description": "Solana failed to stay above $67 and corrected some gains. SOL price is moving lower and might aim for another increase if it stays above $63.00. SOL price started a downside correction below $66 against the US Dollar. The price is now trading below $65 and th…",
-        "url": "http://www.newsbtc.com/analysis/solana-sol-back-defensive-65/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/01/Solana-SOL-Slips-Further.jpg?fit=1024%2C572",
-        "publishedAt": "2026-06-10T05:28:33Z",
-        "content": "Aayush Jindal, a luminary in the world of financial markets, whose expertise spans over 15 illustrious years in the realms of Forex and cryptocurrency trading. Renowned for his unparalleled proficien… [+3011 chars]"
       }
     ]
   }
