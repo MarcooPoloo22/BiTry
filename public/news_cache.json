@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-13T02:35:13.382Z",
+  "timestamp": "2026-06-13T06:51:30.787Z",
   "data": {
     "status": "ok",
     "totalResults": 34,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Jesse Coghlan",
+        "title": "Coinbase launches tool letting AI agents make payments and trade crypto",
+        "description": "Coinbase for Agents will let users of the crypto exchange manage their holdings “without the constant manual oversight” and can autonomously perform a range of tasks.",
+        "url": "https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-coinbase-transaction-ai.jpg",
+        "publishedAt": "2026-06-12T04:19:03Z",
+        "content": "Crypto exchange Coinbase has launched a tool that allows artificial intelligence agents to make payments and trade crypto on behalf of users, as crypto companies look to ride a wave of interest in AI… [+3252 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,19 +446,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-77.jpg?fit=1792%2C1024",
         "publishedAt": "2026-06-10T02:30:04Z",
         "content": "Bitcoin is holding above $62,000 after the massive drop that defined last week’s market action and erased months of recovery progress in a matter of days. The price is stabilizing but analyst MorenoD… [+4753 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Logan Hitchcock",
-        "title": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
-        "description": "The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.",
-        "url": "https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/jail_decrypt_style_01-gID_7.png",
-        "publishedAt": "2026-06-09T20:26:11Z",
-        "content": "In brief\r\n<ul><li>A 47-year old man from the Seattle area helped defraud investors of nearly $100 million, prosecutors said.</li><li>Victims thought they were investing in oil and gas, but funds were… [+2570 chars]"
       }
     ]
   }
