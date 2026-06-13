@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-13T06:51:30.787Z",
+  "timestamp": "2026-06-13T09:51:51.810Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.",
+        "description": "Bitcoin's weekly RSI contains a critical level that has reliably separated bull and bear market regimes across multiple cycoles. And right now the indicator has yet to clear that line.",
+        "url": "https://www.coindesk.com/markets/2026/06/12/there-s-one-simple-way-to-tell-whether-bitcoin-has-really-bottomed-right-now-it-hasn-t",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/58f9ff1c92ee9fd91f3cbf0e64fe3c96ce047971-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-12T07:57:47Z",
+        "content": "Crypto traders, having seen bitcoin BTC\r\n$62,895.02, the largest cryptocurrency, bounce overnight to $64,000 from recent lows under $60,000, may be wondering whether the bottom has been hit and a fre… [+996 chars]"
+      },
       {
         "source": {
           "id": null,
