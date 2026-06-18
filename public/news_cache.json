@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-18T16:54:30.506Z",
+  "timestamp": "2026-06-18T19:19:24.908Z",
   "data": {
     "status": "ok",
-    "totalResults": 25,
+    "totalResults": 24,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
+        "description": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
+        "url": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png",
+        "publishedAt": "2026-06-17T19:17:37Z",
+        "content": "In brief\r\n<ul><li>Trace Finance raised a $32 million Series A round led by CoinFund, with backing from Coinbase Ventures, Haun Ventures, and more.</li><li>The funding comes as Brazil reclassifies cro… [+3081 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -303,32 +316,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_TCuRkhB2_1780514567180_raw.jpg?fit=1024%2C1024",
         "publishedAt": "2026-06-13T10:00:03Z",
         "content": "<ul><li>Deribit Insights says Wall Street participation has changed Bitcoins market structure.</li><li>The episode points to lower volatility, compressed basis trades and stronger institutional marke… [+3072 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Cointelegraph",
-        "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-        "description": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
-        "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-projects-should-end-up-in-decentralized-governance-spacex-ipo.jpg",
-        "publishedAt": "2026-06-13T02:17:55Z",
-        "content": "Crypto trading platforms Bybit, Binance, Bitget Wallet and MEXC canceled their tokenized SpaceX IPO campaigns and offered refunds for users as SpaceX went public on the Nasdaq on Friday. \r\nSpaceXs IP… [+1637 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
-        "description": "Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto sell-off.",
-        "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-12T18:09:06Z",
-        "content": "The cryptocurrency market reached its definitive bottom for the currency cycle, Standard Chartered Analyst Geoffrey Kendrick said in a note on Friday.\r\nThe cycle low is now locked in at $59,000 for b… [+907 chars]"
       }
     ]
   }
