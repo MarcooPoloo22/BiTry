@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-20T11:09:01.784Z",
+  "timestamp": "2026-06-20T13:30:36.698Z",
   "data": {
     "status": "ok",
     "totalResults": 23,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Ezra Reguerra",
+        "title": "Binance can serve Philippine traders under SEC framework, BlockShoals says",
+        "description": "BlockShoals’ head of legal clarified that Binance can offer crypto trading access in the Philippines but cannot handle peso services without a BSP-licensed VASP.",
+        "url": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bookphilippines.jpg",
+        "publishedAt": "2026-06-19T12:15:20Z",
+        "content": "Binance is allowed to provide crypto trading access to users in the Philippines through its arrangement with BlockShoals Technologies, but neither company is authorized to handle peso transfers or pe… [+3065 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "Zcash dips 4% as broader crypto market remains bearish",
+        "description": "Key takeaways ZEC is still struggling under the $477-$500 zone.  Although momentum indicators show signs of stabilization, Zcash remains vulnerable to further downside as investors react to persistent macroeconomic uncertainty and rising rate-hike expectation…",
+        "url": "https://coinjournal.net/news/zcash-dips-4-as-broader-crypto-market-remains-bearish/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-12_12_25-PM.png",
+        "publishedAt": "2026-06-19T11:13:43Z",
+        "content": "Key takeaways\r\n<ul><li>ZEC is still struggling under the $477-$500 zone. </li><li>Although momentum indicators show signs of stabilization, Zcash remains vulnerable to further downside as investors r… [+2559 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -277,32 +303,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/europe-binance.jpg",
         "publishedAt": "2026-06-16T16:24:39Z",
         "content": "Cryptocurrency exchange Binance, whose application under the European Unions Markets in Crypto Assets (MiCA) framework is under consideration, has generally deferred responding to a report that the c… [+2504 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Helene Braun, AI Boost",
-        "title": "Coinbase to join tokenized stock race with onchain shares, dividend payments",
-        "description": "The crypto exchange said investors will own the shares and receive dividends, underscoring growing momentum behind tokenized securities.",
-        "url": "https://www.coindesk.com/business/2026/06/16/coinbase-to-join-tokenized-stock-race-with-onchain-shares-dividend-payments",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9268abf5db9f7f161c113bf2b5b24faee1de23c2-7008x4672.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-16T15:03:21Z",
-        "content": "Coinbase (COIN) said it plans to introduce tokenized stocks backed one-for-one by underlying U.S. equities, joining the growing competition among crypto firms and traditional financial companies to b… [+1057 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Ian Allison",
-        "title": "Binance says its European regulatory application is compliant despite report of Greek rejection",
-        "description": "An EU crypto license application by the world’s largest crypto exchange is set to be rejected by the Greek regulator HCMC, according to a report from Reuters.",
-        "url": "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/7fbb8826aec1d65a8179a17cd1a5cab330c9bd7a-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-16T14:55:35Z",
-        "content": "Binance, the worlds largest cryptocurrency exchange, may be unable to serve customers in Europe if its regulatory license application in Greece is turned down, as Reuters reported on Tuesday.\r\nBinanc… [+889 chars]"
       }
     ]
   }
