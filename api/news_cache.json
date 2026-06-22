@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-22T02:53:07.025Z",
+  "timestamp": "2026-06-22T08:50:31.374Z",
   "data": {
     "status": "ok",
     "totalResults": 22,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Brazil’s Crypto Market Tops $318B, Chainalysis Flags Money Laundering Risk",
+        "description": "Chainalysis's latest report shows Brazil's crypto market reaching $318B, while highlighting escalating money laundering risks and the need for enhanced compliance.",
+        "url": "http://www.newsbtc.com/news/07-brazil-crypto-market-hits-318b-crime-risks/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/06/brazil-bitcoin-shutterstock_758500030-scaled.jpg",
+        "publishedAt": "2026-06-21T07:32:54Z",
+        "content": "Brazil’s cryptocurrency market has reached a staggering $318 billion in on-chain value over a year, but this rapid growth comes with a significant warning from blockchain analytics firm Chainalysis. … [+2476 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -277,19 +290,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/enhanced-bitgo-illustration.png",
         "publishedAt": "2026-06-17T09:02:48Z",
         "content": "BitGo, a crypto custody company, is moving into Europes tighter regulatory landscape as exchanges race to maintain access ahead of a key licensing deadline.\r\nBitGo Europe launched a crypto-as-a-servi… [+2807 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Logan Hitchcock",
-        "title": "Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters",
-        "description": "Binance said it believes it is compliant as a regulatory deadline in the European Union nears—and a report says it's likely to lose access.",
-        "url": "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-        "publishedAt": "2026-06-16T20:25:52Z",
-        "content": "In brief\r\n<ul><li>A report from Reuters cites sources saying that the firm's MiCA application will be denied in the European Union.</li><li>Binance said Tuesday that it believes it is operating in co… [+2508 chars]"
       }
     ]
   }
