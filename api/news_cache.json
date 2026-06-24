@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-06-24T13:12:12.245Z",
+  "timestamp": "2026-06-24T16:09:36.347Z",
   "data": {
     "status": "ok",
-    "totalResults": 23,
+    "totalResults": 24,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "André Beganski",
+        "title": "Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street",
+        "description": "Investors are digesting a hawkish Fed, with risk-off sentiment driving a sell-off in AI and crypto",
+        "url": "https://decrypt.co/371867/bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png",
+        "publishedAt": "2026-06-23T15:54:07Z",
+        "content": "In brief\r\n<ul><li>Bitcoin fell in sympathy with tech stocks on Tuesday, hitting a two-week low as investors appeared to fixate on expectations of rate hikes.</li><li>The weakness follows a frenetic r… [+3745 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Yashu Gola",
+        "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+        "description": "SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,000 support at risk as traders brace for a deeper BTC sell-off.",
+        "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-elon-musks-net-worth-breakdown-tesla-spacex-and-cryptocurrency-holdings-explained.jpg",
+        "publishedAt": "2026-06-23T14:38:32Z",
+        "content": "Bitcoin (BTC) has dropped over 8% from its June high near $67,255, putting the $60,000 support level back in focus.\r\nBTC/USD daily chart. Source: TradingView\r\nKey takeaways:\r\n<ul><li>The SpaceX-led t… [+2793 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -290,19 +316,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-gathering-up-price-prediction-for-post-halving.jpg",
         "publishedAt": "2026-06-18T14:46:56Z",
         "content": "A viral social media post is reviving an alleged Bitcoin prediction that appears to have called several major BTC price levels from 2019 through 2024, with one final target remaining: $145,000 by Oct… [+3451 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
-        "description": "Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.",
-        "url": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b19fea6ba8d91933fbd0aa045661baca984f3247-4080x2720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-18T05:08:05Z",
-        "content": "Bitcoin BTC\r\n$63,874.70 has recently been flirting with a level that has historically proved a near-perfect entry point for bulls, generating handsome returns, crypto exchange Kraken's Chief Economis… [+841 chars]"
       }
     ]
   }
