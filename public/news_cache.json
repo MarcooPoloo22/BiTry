@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-06-25T16:16:43.957Z",
+  "timestamp": "2026-06-25T19:02:25.489Z",
   "data": {
     "status": "ok",
-    "totalResults": 22,
+    "totalResults": 24,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Logan Hitchcock",
+        "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
+        "description": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
+        "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+        "publishedAt": "2026-06-24T17:37:52Z",
+        "content": "In brief\r\n<ul><li>Binance said Wednesday that it formally withdrew its Markets in Crypto Assets (MiCA) license application in Greece. </li><li>Instead, the crypto exchange will seek license approval … [+2885 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+        "description": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+        "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2525adad1cb5953ca2fa403eed869e80e89d9022-2400x1368.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-24T17:18:08Z",
+        "content": "Binance has withdrawn its application for a Markets in Crypto-Assets (MiCA) license in Greece and will seek authorization in another European Union country, the crypto exchange said Wednesday via sev… [+954 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "Binance withdraws Greek MiCA bid, seeks alternative EU license",
+        "description": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+        "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-seeks-alternative-eu-license",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2525adad1cb5953ca2fa403eed869e80e89d9022-2400x1368.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-24T17:18:08Z",
+        "content": "Binance has withdrawn its application for a Markets in Crypto-Assets (MiCA) license in Greece and will seek authorization in another European Union country, the crypto exchange said Wednesday via sev… [+954 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "William Suberg",
+        "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
+        "description": "Bitcoin traders still see a BTC price relief bounce taking the market toward $70,000 despite heavy shorting and a trip toward range lows.",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/article-covers-246799-what-crashed-bitcoin-three-theories-btc-trip-below-60k.jpg",
+        "publishedAt": "2026-06-24T17:06:46Z",
+        "content": "Bitcoin (BTC) hit new two-week lows at Wednesdays Wall Street open as traders predicted a rally to a \"poor\" lower high.\r\nKey points:\r\n<ul><li>Bitcoin price action edges closer to range lows, which tr… [+2275 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Logan Hitchcock",
+        "title": "Bitcoin Hasn't Broken the 4-Year Cycle Yet, Says 21Shares as BTC Dives Below $60K",
+        "description": "As Bitcoin falls below the $60,000 mark, 21Shares said that its prediction that BTC breaks the historical four-year cycle hasn't come true.",
+        "url": "https://decrypt.co/371985/bitcoin-hasnt-broken-4-year-cycle-yet-21shares",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-06-24T16:59:23Z",
+        "content": "In brief\r\n<ul><li>21Shares predicted that Bitcoin's four-year cycle would fall in 2026, but conceded that it hasn't yet.</li><li>The firm indicated the market cycle has changed, however, pointing to … [+3203 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -251,45 +316,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a188c78c65397976904078eac59897272644525e-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "publishedAt": "2026-06-22T09:19:24Z",
         "content": "A hawkish Fed. Rising bond yields. Concerns about Strategy (MSTR). Bitcoin BTC\r\n$64,156.16 already has plenty working against it. Now an ominous chart pattern is adding to the uncertainty.\r\nThe patte… [+898 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Yashu Gola",
-        "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
-        "description": "Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-opinion-20-of-all-bitcoin-lost-how-can-this-be-and-what-follows-from-it.jpg",
-        "publishedAt": "2026-06-21T14:21:06Z",
-        "content": "Bitcoin (BTC) could tumble by over 60% to under $24,000 in 2026, according to technical analyst Jesse Olson, if the stock market experiences a major crash. \r\nKey takeaways:\r\n<ul><li>A US stock market… [+3048 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Ezra Reguerra",
-        "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
-        "description": "A Japanese corporate pension fund serving about 1,200 small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto as part of a currency diversification strategy.",
-        "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/skjapan.jpg",
-        "publishedAt": "2026-06-21T08:54:41Z",
-        "content": "A Japanese corporate pension fund serving about 1,200 small and medium-sized businesses plans to allocate roughly 1% of its assets to cryptocurrency during fiscal 2026.\r\nAccording to Nikkei, the Nati… [+2008 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Brazil’s Crypto Market Tops $318B, Chainalysis Flags Money Laundering Risk",
-        "description": "Chainalysis's latest report shows Brazil's crypto market reaching $318B, while highlighting escalating money laundering risks and the need for enhanced compliance.",
-        "url": "http://www.newsbtc.com/news/07-brazil-crypto-market-hits-318b-crime-risks/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/06/brazil-bitcoin-shutterstock_758500030-scaled.jpg",
-        "publishedAt": "2026-06-21T07:32:54Z",
-        "content": "Brazil’s cryptocurrency market has reached a staggering $318 billion in on-chain value over a year, but this rapid growth comes with a significant warning from blockchain analytics firm Chainalysis. … [+2476 chars]"
       }
     ]
   }
