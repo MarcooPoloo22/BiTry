@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-06-26T06:44:48.041Z",
+  "timestamp": "2026-06-26T10:15:29.754Z",
   "data": {
     "status": "ok",
-    "totalResults": 22,
+    "totalResults": 23,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Helen Partz",
+        "title": "Polish crypto exchange Kanga secures MiCA license in Latvia",
+        "description": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation.",
+        "url": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/license-approved.jpg",
+        "publishedAt": "2026-06-25T08:24:41Z",
+        "content": "Kanga, a crypto exchange founded in Poland, said it has obtained a Markets in Crypto-Assets Regulation (MiCA) license in Latvia, allowing it to passport its services across the European Union.\r\nThe e… [+2240 chars]"
+      },
       {
         "source": {
           "id": null,
