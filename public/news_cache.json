@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-07-01T08:44:45.986Z",
+  "timestamp": "2026-07-01T11:52:48.194Z",
   "data": {
     "status": "ok",
     "totalResults": 35,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Francisco Rodrigues, AI Boost",
+        "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
+        "description": "The group built trust via WhatsApp, then misappropriated user funds to Hong Kong bank accounts instead of executing any actual crypto trades.",
+        "url": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/98bc6ee335a20769da0bc251a374c4869a66cb43-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-30T09:54:50Z",
+        "content": "A federal judge in New York entered a $5.5 million default judgment against NanoBit Limited and five related defendants over an alleged relationship-investment scam built on a fake crypto trading pla… [+1057 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
+        "description": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
+        "url": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+        "publishedAt": "2026-06-30T09:20:00Z",
+        "content": "In brief\r\n<ul><li>Director Carl Rinsch was sentenced Monday to 30 months in prison for defrauding Netflix of $11 million meant to finish a sci-fi series he never delivered.</li><li>Rinsch lost millio… [+3152 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -433,32 +459,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.jpg",
         "publishedAt": "2026-06-25T16:41:47Z",
         "content": "Crypto exchange Kraken and onchain asset manager Maple have launched an onchain warehouse financing facility for crypto-backed loans, applying a lending structure widely used in traditional credit ma… [+2837 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "TRM Labs Says CoinEx Processed $3.84 Billion In Iran-Linked Crypto Flows",
-        "description": "TRM Labs says CoinEx processed billions in Iran-linked crypto flows, putting exchange compliance and sanctions screening back under the spotlight.",
-        "url": "http://www.newsbtc.com/news/trm-labs-says-coinex-processed-3-84-billion-in-iran-linked-crypto-flows/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2021/12/106911087-16263029762021-07-12t182451z_1049474836_rc26jo9ua1af_rtrmadp_0_fintech-crypto-flows-scaled.jpeg?fit=2560%2C1603",
-        "publishedAt": "2026-06-25T16:00:11Z",
-        "content": "TRM Labs says CoinEx processed billions in Iran-linked crypto flows, putting exchange compliance and sanctions screening back under the spotlight.\r\n<ul><li>TRM Labs traced $3.84 billion in Iran-linke… [+3607 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Polish Crypto Exchange Kanga Obtains Latvian MiCA License For EU Expansion",
-        "description": "Polish-founded crypto exchange Kanga has reportedly obtained a Latvian MiCA license, giving it a passporting route across the EU.",
-        "url": "http://www.newsbtc.com/news/polish-crypto-exchange-kanga-obtains-latvian-mica-license-for-eu-expansion/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2018/02/eu-flag-2108026_1280.jpg",
-        "publishedAt": "2026-06-25T15:46:51Z",
-        "content": "Polish-founded crypto exchange Kanga has reportedly secured a Latvian MiCA license, giving the company a regulatory route to offer crypto-asset services across the European Union under the blocs new … [+3111 chars]"
       }
     ]
   }
