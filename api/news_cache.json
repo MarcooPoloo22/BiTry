@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-02T17:28:06.630Z",
+  "timestamp": "2026-07-02T19:11:09.213Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "US Bitcoin Demand Stays Weak As Coinbase Premium Remains Negative",
+        "description": "The Coinbase Premium Index has reportedly stayed negative since May 6, pointing to softer US Bitcoin demand relative to global venues.",
+        "url": "http://www.newsbtc.com/news/us-bitcoin-demand-stays-weak-as-coinbase-premium-remains-negative/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/02/Picture8_3c49da.jpg?fit=936%2C524",
+        "publishedAt": "2026-07-01T17:45:00Z",
+        "content": "Bitcoins US demand signal is still struggling to recover, with the Coinbase Premium Index reportedly sitting in negative territory for eight straight weeks. The run began on May 6, 2026, and now mark… [+2886 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,32 +433,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg",
         "publishedAt": "2026-06-26T19:20:33Z",
         "content": "The chair of the Spanish National Securities Market Commission reportedly said that there would be no extensions or waivers for crypto companies that did not receive approval to operate in European U… [+2274 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Sander Lutz",
-        "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
-        "description": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
-        "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-        "publishedAt": "2026-06-26T18:02:22Z",
-        "content": "In brief\r\n<ul><li>Spain's securities regulator said there will be no extension to the EU's July 1 MiCA licensing deadline for crypto firms.</li><li>Binance, still unlicensed after withdrawing its app… [+2449 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-        "description": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.",
-        "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/article-covers-254743-bitcoin-nearly-overtakes-dollar74k-as-data-suggests-bear-market-is-not-over.jpg",
-        "publishedAt": "2026-06-26T15:55:56Z",
-        "content": "Bitcoin (BTC) struggled to reclaim $60,000 on Friday amid continued global market volatility.\r\nKey points:\r\n<ul><li>Bitcoin closes below $60,000 on daily time frames for the first time since Septembe… [+3282 chars]"
       }
     ]
   }
