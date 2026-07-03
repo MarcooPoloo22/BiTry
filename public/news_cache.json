@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-07-03T19:04:02.114Z",
+  "timestamp": "2026-07-03T20:54:18.574Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
       {
         "source": {
@@ -407,19 +407,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service.jpg",
         "publishedAt": "2026-06-29T09:40:31Z",
         "content": "South Korean brokerage Kiwoom Securities is reportedly in talks to buy a stake in Bithumb, making it the latest traditional financial firm in the country to seek exposure to a local crypto exchange.\r… [+2497 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Ian Allison",
-        "title": "Crypto exchange BitMEX removes CEO, CFO and head of growth",
-        "description": "The firm’s global general counsel, Peter Wilkinson, has taken over as CEO from Stephan Lutz.",
-        "url": "https://www.coindesk.com/business/2026/06/29/crypto-exchange-bitmex-removes-ceo-cfo-and-head-of-growth",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/71a75482873773279251b19c3a9a322fd3443694-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-29T07:03:51Z",
-        "content": "BitMEX, the troubled cryptocurrency exchange reportedly looking for a buyer, has cleared out its executive team, removing chief executive Stephan Lutz, chief financial officer Ina Steiner, and chief … [+1108 chars]"
       }
     ]
   }
