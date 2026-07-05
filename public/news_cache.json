@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-07-05T13:11:07.745Z",
+  "timestamp": "2026-07-05T15:06:55.528Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
       {
         "source": {
@@ -368,19 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-are-governments-implementing-the-guidelines-bitcoin.jpg",
         "publishedAt": "2026-06-30T03:53:34Z",
         "content": "Sovereign wealth funds have been accumulating spot Bitcoin, a sign that Bitcoins current price level is becoming attractive to institutional investors, according to MidChains CEO Basil Al Askari.\r\nWh… [+2513 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Marcel Pechman",
-        "title": "Bitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K?",
-        "description": "Rising demand for put options and persistent ETF outflows highlight Bitcoin's weakness despite lower oil prices.",
-        "url": "https://cointelegraph.com/markets/bitcoin-put-call-ratio-hits-1-year-high-are-bears-preparing-for-drop-to-55k",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/article-covers-191991-bitcoin-bears-analysis-dismisses-btc-price-double-top.jpg",
-        "publishedAt": "2026-06-29T19:41:04Z",
-        "content": "Key takeaways:\r\n<ul><li>An extreme Bitcoin put-call options imbalance and a 19% delta skew reveal heavy hedging against downside price swings.</li><li>Strategys cash hoard eases short-term debt fears… [+3218 chars]"
       }
     ]
   }
