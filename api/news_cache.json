@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-07T07:30:09.895Z",
+  "timestamp": "2026-07-07T10:47:10.144Z",
   "data": {
     "status": "ok",
     "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+        "description": "The approval means Ripple is now fully MiCA-compliant for payments, financial institutions, corporates and businesses across all 30 European Economic Area countries.",
+        "url": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f51f4fb1abaeae6f744f3245167da2a894eac1b1-1024x569.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-06T10:01:24Z",
+        "content": "Ripple said Monday that Luxembourg upgraded its preliminary Crypto-Asset Service Provider (CASP) authorization under the European Unions (EU) Markets in Crypto-Assets (MiCA) regulations to a full lic… [+1115 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,19 +381,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/australia-crypto-market-adoption-traveller-tourist.jpg",
         "publishedAt": "2026-06-30T06:29:02Z",
         "content": "Crypto exchange users in Australia will soon face stricter rules on all transfers as the countrys travel rule is set to come into force on Wednesday, aligning it with similar rules in the EU, US and … [+3137 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Brayden Lindrea",
-        "title": "Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip",
-        "description": "ARK Invest has purchased $43.5 million worth of shares in Coinbase, Circle and other crypto companies over the past three trading days, taking advantage of the latest market dip.",
-        "url": "https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-etf.jpg",
-        "publishedAt": "2026-06-30T05:49:50Z",
-        "content": "Tech-focused asset manager ARK Invest has capitalized on the recent crypto market downturn, buying a combined $43.5 million worth of shares in crypto firms such as Coinbase and Circle over the past t… [+1765 chars]"
       }
     ]
   }
