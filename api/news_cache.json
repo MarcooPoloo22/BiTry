@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-07-07T10:47:10.144Z",
+  "timestamp": "2026-07-07T13:12:19.369Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
+        "description": "Strategy sold 3,588 Bitcoin to fund dividends and replenish its US dollar reserve, while Bernstein said the company remains unlikely to become a forced seller.",
+        "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-michael-saylor-2.jpg",
+        "publishedAt": "2026-07-06T12:59:04Z",
+        "content": "Michael Saylor's Strategy sold 3,588 Bitcoin (BTC) to fund preferred stock dividend payments and replenish its cash reserves.\r\nStrategy sold the Bitcoin for $216 million, reducing its total holdings … [+2484 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Belgian regulator flags six unauthorized crypto providers after MiCA deadline",
+        "description": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
+        "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/european-union-eu-european-parliament-brussels-1.jpg",
+        "publishedAt": "2026-07-06T12:15:20Z",
+        "content": "Belgiums financial markets regulator warned consumers against six crypto-asset service providers (CASPs) it said were operating in the country without authorization, days after the European Unions Ma… [+2217 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Francisco Rodrigues",
+        "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
+        "description": "Services will integrate into \"Sberbank Online\" and \"SberInvestments\" once the \"On Digital Currency and Digital Rights\" bill takes effect in September.",
+        "url": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/69d88d811de6cddb538ec7d407061b9d441d2dd2-2048x1536.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-06T11:36:05Z",
+        "content": "Non-qualified investors will be allowed to trade under testing requirements and limits capped at roughly 300,000 rubles (around $3,800) per year, while market participants will have until July 1, 202… [+1232 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "Ethereum begins new week on strong footing as bulls target key breakout levels",
+        "description": "Key takeaways Bitcoin, Ethereum, and XRP started the week holding onto last week’s strong gains. Ethereum is approaching its 50-day EMA near $1,806, a key hurdle for extending its recovery. Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) began the week on a co…",
+        "url": "https://coinjournal.net/news/ethereum-begins-new-week-on-strong-footing-as-bulls-target-key-breakout-levels/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-6-2026-12_00_42-PM.png",
+        "publishedAt": "2026-07-06T11:01:53Z",
+        "content": "Key takeaways\r\n<ul><li>Bitcoin, Ethereum, and XRP started the week holding onto last week’s strong gains.</li><li>Ethereum is approaching its 50-day EMA near $1,806, a key hurdle for extending its re… [+1770 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "Bitcoin dips below $63K amid ETF outflows and geopolitical risks",
+        "description": "Key takeaways Bitcoin is trading below $64,000 after rallying more than 6% last week. U.S. spot Bitcoin ETFs recorded $526.64 million in net outflows, marking an eighth consecutive week of withdrawals. Renewed geopolitical concerns surrounding the Strait of H…",
+        "url": "https://coinjournal.net/news/bitcoin-dips-below-63k-amid-etf-outflows-and-geopolitical-risks/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-6-2026-11_48_20-AM.png",
+        "publishedAt": "2026-07-06T10:49:20Z",
+        "content": "Key takeaways\r\n<ul><li>Bitcoin is trading below $64,000 after rallying more than 6% last week.</li><li>U.S. spot Bitcoin ETFs recorded $526.64 million in net outflows, marking an eighth consecutive w… [+3836 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -329,58 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-1.jpg",
         "publishedAt": "2026-06-30T17:44:31Z",
         "content": "By the end of 2025, the power capacity tied to artificial intelligence data centers worldwide had reached about 29.6 gigawatts (GW), enough to run all of New York state at peak demand, according to S… [+6438 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny, AI Boost",
-        "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-        "description": "The bank said the bill faces major hurdles, with passage boosting institutional crypto adoption and delays prolonging regulatory uncertainty.",
-        "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-30T14:41:59Z",
-        "content": "The Clarity Act is widely viewed as the crypto industry's most important market structure bill because it would establish clear rules for when digital assets are regulated as securities by the Securi… [+1383 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Francisco Rodrigues, AI Boost",
-        "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
-        "description": "The group built trust via WhatsApp, then misappropriated user funds to Hong Kong bank accounts instead of executing any actual crypto trades.",
-        "url": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/98bc6ee335a20769da0bc251a374c4869a66cb43-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-06-30T09:54:50Z",
-        "content": "A federal judge in New York entered a $5.5 million default judgment against NanoBit Limited and five related defendants over an alleged relationship-investment scam built on a fake crypto trading pla… [+1057 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
-        "description": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
-        "url": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
-        "publishedAt": "2026-06-30T09:20:00Z",
-        "content": "In brief\r\n<ul><li>Director Carl Rinsch was sentenced Monday to 30 months in prison for defrauding Netflix of $11 million meant to finish a sci-fi series he never delivered.</li><li>Rinsch lost millio… [+3152 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Jesse Coghlan",
-        "title": "Australia’s crypto travel rule is coming into effect: Here’s what's changing",
-        "description": "Australia will implement a travel rule for crypto starting Wednesday, with regulated exchanges required to ask for additional information on all transfers to and from their platforms.",
-        "url": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/australia-crypto-market-adoption-traveller-tourist.jpg",
-        "publishedAt": "2026-06-30T06:29:02Z",
-        "content": "Crypto exchange users in Australia will soon face stricter rules on all transfers as the countrys travel rule is set to come into force on Wednesday, aligning it with similar rules in the EU, US and … [+3137 chars]"
       }
     ]
   }
