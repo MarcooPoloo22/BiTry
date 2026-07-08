@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-08T17:20:21.096Z",
+  "timestamp": "2026-07-08T19:09:34.480Z",
   "data": {
     "status": "ok",
     "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Ian Allison",
+        "title": "Crypto exchange Kraken is trying to become a bank in Europe",
+        "description": "Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
+        "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-07T18:38:10Z",
+        "content": "Kraken, the cryptocurrency exchange planning to go public in the U.S., is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it, according to a person … [+910 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,19 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-lazer-eyes-and-bull-run1.jpg",
         "publishedAt": "2026-07-01T16:47:01Z",
         "content": "Bitcoin (BTC) rallied to $60,000 at Wednesdays Wall Street open as stocks moved higher and US dollar strength fell.\r\nKey points:\r\n<ul><li>Bitcoin catches an early tailwind at the start of July's firs… [+3004 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Solana USDC Liquidity Jumps As Circle Mints Another $1 Billion",
-        "description": "Circle reportedly minted another $1 billion of USDC on Solana, adding to the network’s already large gross issuance total for 2026.",
-        "url": "http://www.newsbtc.com/news/solana-usdc-liquidity-jumps-as-circle-mints-another-1-billion/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2023/10/SOL.jpg?fit=1365%2C768",
-        "publishedAt": "2026-07-01T16:15:00Z",
-        "content": "Solana has received another major injection of stablecoin liquidity after Circle reportedly minted an additional $1 billion in USDC on the network around July 1. The move adds to a year that has alre… [+3021 chars]"
       }
     ]
   }
