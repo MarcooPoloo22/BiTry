@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-07-08T15:10:43.180Z",
+  "timestamp": "2026-07-08T17:20:21.096Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nate Kostar",
+        "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
+        "description": "Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
+        "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/canada-tether.png",
+        "publishedAt": "2026-07-07T16:43:07Z",
+        "content": "Tether has invested $20 million in Brazilian crypto platform Mercado Bitcoin to support the company's expansion into tokenized assets, stablecoin payments, lending and other blockchain-based financia… [+2464 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Sam Bourgi",
+        "title": "Institutional crypto exchange EDX lands $76M from SBI Holdings",
+        "description": "The funding round comes as institutional investors continue backing crypto market infrastructure despite slower venture investment across the digital asset sector.",
+        "url": "https://cointelegraph.com/news/institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-edx.png",
+        "publishedAt": "2026-07-07T16:16:35Z",
+        "content": "EDX Markets, a cryptocurrency exchange focused on institutional investors, has raised $76 million in a Series C funding round led by Japans SBI Holdings, marking one of the larger funding rounds this… [+2400 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off",
+        "description": "Bitcoin price action is \"at a critical point,\" says John Bollinger as BTC surfs a fresh US stocks dip on the day SpaceX joins the Nasdaq 100.",
+        "url": "https://cointelegraph.com/markets/bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-trade-wars-impact-stocks-and-crypto.jpg",
+        "publishedAt": "2026-07-07T15:13:25Z",
+        "content": "Bitcoin (BTC) circled $63,000 after Tuesdays Wall Street open as chip companies led a dip in US stocks.\r\nKey points:\r\n<ul><li>Bitcoin attempts to hold $63,000 after seeing its highest levels in two w… [+2758 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +394,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2023/10/SOL.jpg?fit=1365%2C768",
         "publishedAt": "2026-07-01T16:15:00Z",
         "content": "Solana has received another major injection of stablecoin liquidity after Circle reportedly minted an additional $1 billion in USDC on the network around July 1. The move adds to a year that has alre… [+3021 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Jamie Crawley",
-        "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
-        "description": "The Cathie Wood-led investment firm has a tendency to \"buy the dip,\" loading up on shares in cryptocurrency companies at times when their prices are depressed.",
-        "url": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-07-01T11:42:22Z",
-        "content": "Ark Invest has a tendency to load up on shares in cryptocurrency companies when their prices are depressed, and June was no exception.\r\nBitcoin BTC\r\n$58,551.99, the largest cryptocurrency, recorded i… [+918 chars]"
       }
     ]
   }
