@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-09T14:33:43.315Z",
+  "timestamp": "2026-07-09T17:12:51.467Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 27,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown",
+        "description": "More than 3,000 raids since 2022 have led to 629 arrests, as authorities target miners siphoning electricity from the national grid.",
+        "url": "https://decrypt.co/373030/malaysia-seizes-over-75000-crypto-mining-rigs-in-power-theft-crackdown",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png",
+        "publishedAt": "2026-07-08T15:40:15Z",
+        "content": "In brief\r\n<ul><li>Malaysian authorities have seized more than 75,000 crypto mining machines in over 3,000 raids between 2022 and May 2026, the Deputy Home Minister told parliament.</li><li>The operat… [+2950 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,32 +355,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-photo-6770845.jpeg?fit=1000%2C1500",
         "publishedAt": "2026-07-02T17:00:00Z",
         "content": "The headline number is useful, but the real story is what it says about positioning. Bitcoin Reclaims $61,000 as Dovish Inflation Outlook Softens Market Fear gives NewsBTC readers a clean angle on Bi… [+3261 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "SBI Crypto shuts Bitcoin mining pool after five-year run",
-        "description": "SBI Crypto will shut down its Bitcoin mining pool on July 31 after more than five years, ranking 12th globally with about 2.2% of hashrate share.",
-        "url": "https://cointelegraph.com/news/sbi-bitcoin-mining-pool-shutdown-five-years",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/mining-pool-edit-sbi1.jpg",
-        "publishedAt": "2026-07-02T10:37:14Z",
-        "content": "SBI Crypto, a cryptocurrency-focused division of Japanese financial conglomerate SBI, is shutting down its Bitcoin mining pool after a five-year run.\r\nThe company announced Wednesday that it will end… [+2658 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "Yield-bearing stablecoin slowdown ends three-year run for crypto-native products",
-        "description": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
-        "url": "https://cointelegraph.com/news/yield-bearing-stablecoins-lose-3-5-billion-q2",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-yield-farming-in-defi-stablecoin.jpg",
-        "publishedAt": "2026-07-02T10:23:33Z",
-        "content": "Yield-bearing stablecoin supply fell by more than $3.5 billion in the second quarter of 2026, reversing nearly three years of quarterly growth as crypto-native products contracted and Treasury-backed… [+2710 chars]"
       }
     ]
   }
