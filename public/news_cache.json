@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-10T10:15:45.489Z",
+  "timestamp": "2026-07-10T13:04:55.787Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "Singapore's Temasek investment fund says crypto is off the table, will focus on AI",
+        "description": "The $400 billion wealth fund plans to expand AI holdings to 15% of its portfolio by 2031 from the current 6%.",
+        "url": "https://www.coindesk.com/business/2026/07/09/singapore-s-temasek-investment-fund-says-crypto-is-off-the-table-will-focus-on-ai",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d6ff7ac663416cc8d1eafb78db5bcac050ac5db9-1600x1200.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-09T10:22:35Z",
+        "content": "Singapores state-owned investment firm, Temasek Holdings, said it will prioritize AI investments over crypto due to regulatory uncertainty and the lingering impact of a $275 million write-off from th… [+911 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,32 +381,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1.jpg",
         "publishedAt": "2026-07-04T13:09:16Z",
         "content": "Bitcoin (BTC) is completing a perfectly fractal reversal pattern that a well-known analyst hopes could end the bear market.\r\nKey points:\r\n<ul><li>Bitcoin is on the final leg of what could become a ma… [+2514 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price tags $62.3K nine-day high after global stocks hit historic record",
-        "description": "Bitcoin set new highs for July after the Dow Jones and global stocks market cap set new all-time highs before the US Independence Day holiday.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-ipo-stocks-explained2.jpg",
-        "publishedAt": "2026-07-03T15:11:30Z",
-        "content": "Bitcoin (BTC) saw new July highs on Friday as bulls kept pushing over the US holiday period.\r\nKey points:\r\n<ul><li>Bitcoin sustains upside momentum as BTC price action nears its 200-week moving avera… [+2556 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying",
-        "description": "A Labour MP says the Reform leader pressed the Bank of England on policy that could enrich his biggest donor, a major Tether investor.",
-        "url": "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/nigel-farage-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-07-03T13:06:56Z",
-        "content": "In brief\r\n<ul><li>Labour MP Phil Brickell has reported Nigel Farage to the Parliamentary Commissioner for Standards, alleging he lobbied the Bank of England on crypto policy that could benefit his bi… [+4207 chars]"
       }
     ]
   }
