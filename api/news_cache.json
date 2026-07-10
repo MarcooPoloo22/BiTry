@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-10T16:15:36.554Z",
+  "timestamp": "2026-07-10T18:17:38.212Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "Can Bitcoin hold $62K ahead of Friday’s $1.4 billion options expiry?",
+        "description": "Bitcoin traders watch as BTC reclaims $63k ahead of $1.4B Deribit expiry, with Treasury yields sparking correction fears.",
+        "url": "https://cointelegraph.com/markets/can-bitcoin-hold-62k-ahead-of-fridays-14-billion-options-expiry",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-options-expiry-explained-what-it-means-for-traders.jpg",
+        "publishedAt": "2026-07-09T16:31:10Z",
+        "content": "Bitcoin (BTC) reclaimed the $63,000 mark on Thursday, but traders fear a correction ahead of Fridays $1.4 billion options expiry on Deribit. The concerns stem from the US government bond yield climbi… [+3166 chars]"
+      },
       {
         "source": {
           "id": null,
