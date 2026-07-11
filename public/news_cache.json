@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-07-11T15:45:50.686Z",
+  "timestamp": "2026-07-11T16:44:04.893Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 24,
     "articles": [
       {
         "source": {
@@ -316,32 +316,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-escrow-services-and-how-do-they-work-strategyb-1.jpg",
         "publishedAt": "2026-07-06T15:22:45Z",
         "content": "Bitcoin (BTC) saw flash volatility into Mondays Wall Street open as markets reacted to tech company Strategys new BTC sales.\r\nKey points:\r\n<ul><li>Bitcoin reacts sharply to news that Strategy had sol… [+2880 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Sony Crypto Exchange Push Moves Japan’s Digital Asset Market Into A New Phase",
-        "description": "Sony is putting its name closer to crypto trading in Japan, with Amber Japan being rebranded as S.BLOX as the group prepares a refreshed domestic exchange push. \n\n TL;DR \n\n \n\n This article was written by the News Desk and edited by Samuel Rae .",
-        "url": "http://www.newsbtc.com/news/sony-crypto-exchange-push-moves-japans-digital-asset-market-into-a-new-phase/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2023/10/SOL.jpg?fit=1365%2C768",
-        "publishedAt": "2026-07-06T14:56:00Z",
-        "content": "Sony is putting its name closer to crypto trading in Japan, with Amber Japan being rebranded as S.BLOX as the group prepares a refreshed domestic exchange push.\r\nFor more details, visit the official … [+1997 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
-        "description": "Strategy sold 3,588 Bitcoin to fund dividends and replenish its US dollar reserve, while Bernstein said the company remains unlikely to become a forced seller.",
-        "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-michael-saylor-2.jpg",
-        "publishedAt": "2026-07-06T12:59:04Z",
-        "content": "Michael Saylor's Strategy sold 3,588 Bitcoin (BTC) to fund preferred stock dividend payments and replenish its cash reserves.\r\nStrategy sold the Bitcoin for $216 million, reducing its total holdings … [+2484 chars]"
       }
     ]
   }
