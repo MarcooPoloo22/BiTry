@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-07-15T01:28:59.136Z",
+  "timestamp": "2026-07-15T04:42:30.080Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 25,
     "articles": [
       {
         "source": {
@@ -329,19 +329,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-australia.jpg",
         "publishedAt": "2026-07-08T05:30:03Z",
         "content": "Australian crypto exchange Swyftx says it will be seeking opportunities in the crypto payments space after securing a license from Australias market regulator. \r\nSwyftx said on Wednesday that it rece… [+3065 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "Bitcoin under pressure as U.S.-Iran escalation lifts oil",
-        "description": "Major cryptocurrencies are trading in the red as renewed U.S.-Iran airstrikes push oil higher.",
-        "url": "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-07-08T04:30:24Z",
-        "content": "Bitcoin BTC\r\n$62,740.60 and the broader cryptocurrency market came under pressure Tuesday after the US and Iran exchanged aerial strikes, sending the dollar higher.\r\nBTC, the leading cryptocurrency b… [+1188 chars]"
       }
     ]
   }
