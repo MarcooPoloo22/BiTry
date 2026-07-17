@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-17T17:01:46.321Z",
+  "timestamp": "2026-07-17T18:54:15.556Z",
   "data": {
     "status": "ok",
     "totalResults": 19,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Helene Braun",
+        "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+        "description": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets.",
+        "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-16T18:38:13Z",
+        "content": "T. Rowe Price has brought what it said is the industry's first actively managed multi-token spot crypto exchange-traded fund (ETF) to the market.\r\nThe T. Rowe Price Active Crypto ETF (TKNZ) began tra… [+945 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -238,19 +251,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-or-bear-how-sec-actions-correlate-with-market-prices2-1.jpg",
         "publishedAt": "2026-07-11T11:21:07Z",
         "content": "Bitcoin (BTC) is seeing its best month of July since 2022, but analysis warns that the result could be firmly bearish.\r\nKey points:\r\n<ul><li>Bitcoin is nearing double-digit gains for July, but market… [+2601 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Brayden Lindrea",
-        "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-        "description": "Brokerage firm said it will expand its AI agent trading feature for equities and options to crypto “soon,” enabling agentic accounts to place crypto trades on behalf of users.",
-        "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/robinhood-us.jpg",
-        "publishedAt": "2026-07-11T04:12:30Z",
-        "content": "Robinhood said eligible US-based customers will soon be able to connect third-party AI agents to make crypto trades on their behalf, marking the latest expansion in autonomous trading after the compa… [+2917 chars]"
       }
     ]
   }
