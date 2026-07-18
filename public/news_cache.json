@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-18T12:54:25.785Z",
+  "timestamp": "2026-07-18T14:16:58.337Z",
   "data": {
     "status": "ok",
-    "totalResults": 17,
+    "totalResults": 18,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
+        "description": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako, expanding its presence in stablecoins, onchain finance and tokenization.",
+        "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-sbi-virtual-currencies-the-bank-backed-japanese-exchange-with-big-plans.jpg",
+        "publishedAt": "2026-07-17T13:30:20Z",
+        "content": "Japanese financial services group SBI Holdings has acquired a majority stake in Holdbuild, the parent company of Singaporean crypto platform Coinhako, after receiving regulatory approval from Singapo… [+2128 chars]"
+      },
       {
         "source": {
           "id": null,
