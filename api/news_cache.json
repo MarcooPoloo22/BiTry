@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-21T10:57:30.001Z",
+  "timestamp": "2026-07-21T12:22:03.229Z",
   "data": {
     "status": "ok",
-    "totalResults": 18,
+    "totalResults": 19,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yohan Yun",
+        "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
+        "description": "The new rules establish penalties as much as $1,9000 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam’s regulated crypto market launch.",
+        "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-of-cryptocurrency-regulations-in-vietnam-1.jpg",
+        "publishedAt": "2026-07-20T12:04:06Z",
+        "content": "Vietnam has decreed administrative penalties for use of unlicensed cryptocurrency platforms, adding an enforcement framework to the countrys upcoming regulated market.\r\nDecree No. 284/2026/N-CP, issu… [+908 chars]"
+      },
       {
         "source": {
           "id": null,
