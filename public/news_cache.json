@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-22T08:09:51.037Z",
+  "timestamp": "2026-07-22T10:59:04.133Z",
   "data": {
     "status": "ok",
-    "totalResults": 21,
+    "totalResults": 22,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price gains to $66.3K as range breakout attempt sparks one-month high",
+        "description": "Bitcoin expands to its highest levels in over a month as a trader sees another 6% upside if BTC price action reaches $68,000.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-hits-663k-as-range-breakout-attempt-sparks-one-month-high",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-gains-100000.png",
+        "publishedAt": "2026-07-21T10:26:35Z",
+        "content": "Bitcoin (BTC) passed one-month highs on Tuesday as price action defied the odds to top $66,000.\r\nKey points:\r\n<ul><li>Bitcoin broke through resistance to hit $66,000 for the first time in more than a… [+2969 chars]"
+      },
       {
         "source": {
           "id": null,
