@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-07-23T11:01:12.856Z",
+  "timestamp": "2026-07-23T13:26:24.990Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 27,
     "articles": [
       {
         "source": {
@@ -355,19 +355,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter.jpg",
         "publishedAt": "2026-07-16T23:47:12Z",
         "content": "Crypto exchange Crypto.com on Thursday announced it has secured a $400 million investment from global market maker Citadel Securities at a $20 billion valuation.\r\nThe investment comes amid growing in… [+904 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jason Nelson",
-        "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-        "description": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
-        "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png",
-        "publishedAt": "2026-07-16T20:01:03Z",
-        "content": "In brief\r\n<ul><li>Eligible E*Trade customers can now trade spot Bitcoin, Ethereum, and Solana.</li><li>Crypto trades are executed through Zero Hash, which also provides custody.</li><li>The launch fo… [+2538 chars]"
       }
     ]
   }
