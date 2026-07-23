@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-07-23T08:13:29.308Z",
+  "timestamp": "2026-07-23T11:01:12.856Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "BTC trades near $66K as a break above the 50-Day EMA strengthens bullish momentum",
+        "description": "Key takeaways Bitcoin (BTC) trades around $66,300, extending gains after reclaiming the 50-day EMA. The leading cryptocurrency remains below the 100-day and 200-day EMAs, leaving key resistance levels intact. Technical indicators, including the RSI and MACD, …",
+        "url": "https://coinjournal.net/news/btc-trades-near-66k-as-a-break-above-the-50-day-ema-strengthens-bullish-momentum/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-22-2026-11_44_19-AM.png",
+        "publishedAt": "2026-07-22T10:46:32Z",
+        "content": "Key takeaways\r\n<ul><li>Bitcoin (BTC) trades around $66,300, extending gains after reclaiming the 50-day EMA.</li><li>The leading cryptocurrency remains below the 100-day and 200-day EMAs, leaving key… [+2717 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
+        "description": "An attacker fed the lending system a fake, abnormally low bitcoin price, liquidated vaults that should have been safe, and pocketed the difference in a single transaction.",
+        "url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d4b2490f30fa58bdb6ed0c1a89ed37ee02479a66-3407x2556.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-22T09:01:54Z",
+        "content": "Balance Coin, a low-circulation algorithmic stablecoin meant to hold a dollar peg, crashed more than 99% on Wednesday after an attacker exploited a pricing flaw in the protocol behind it, blockchain … [+1256 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -52,7 +78,7 @@
         "author": "Cointelegraph by Sam Bourgi",
         "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
         "description": "Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades.",
-        "url": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says",
+        "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says",
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed.png",
         "publishedAt": "2026-07-21T17:46:30Z",
         "content": "Bitcoin and the broader cryptocurrency market looked poised for a recovery on Tuesday as progress on landmark US crypto legislation boosted sentiment, with analysts also pointing to a slowdown in the… [+2016 chars]"
@@ -65,7 +91,7 @@
         "author": "Cointelegraph by Sam Bourgi",
         "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
         "description": "Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades.",
-        "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says",
+        "url": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says",
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed.png",
         "publishedAt": "2026-07-21T17:46:30Z",
         "content": "Bitcoin and the broader cryptocurrency market looked poised for a recovery on Tuesday as progress on landmark US crypto legislation boosted sentiment, with analysts also pointing to a slowdown in the… [+2016 chars]"
@@ -342,32 +368,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png",
         "publishedAt": "2026-07-16T20:01:03Z",
         "content": "In brief\r\n<ul><li>Eligible E*Trade customers can now trade spot Bitcoin, Ethereum, and Solana.</li><li>Crypto trades are executed through Zero Hash, which also provides custody.</li><li>The launch fo… [+2538 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Helene Braun",
-        "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-        "description": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets.",
-        "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-07-16T18:38:13Z",
-        "content": "T. Rowe Price has brought what it said is the industry's first actively managed multi-token spot crypto exchange-traded fund (ETF) to the market.\r\nThe T. Rowe Price Active Crypto ETF (TKNZ) began tra… [+945 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
-        "description": "Bitcoin fell 1.5% from local highs amid a reversal in US stocks as markets moved from bullish US inflation cues to retail profit-taking.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-2.jpg",
-        "publishedAt": "2026-07-16T16:58:02Z",
-        "content": "Bitcoin (BTC) cooled off with US stocks on Thursday as tech selling tempered gains from low inflation.\r\nKey points:\r\n<ul><li>Bitcoin follows US stocks as they come off local highs sparked by bullish … [+2456 chars]"
       }
     ]
   }
