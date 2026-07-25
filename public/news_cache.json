@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-25T11:02:46.862Z",
+  "timestamp": "2026-07-25T13:04:12.121Z",
   "data": {
     "status": "ok",
     "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Will Canny",
+        "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
+        "description": "The SBI-owned crypto trading firm is said to have attracted takeover interest from a number of suitors over the past 18 months, but valuation has been a sticking point.",
+        "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8da0275422489abf75f6dc703d2c645c27ac6f41-7360x4140.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-24T11:49:06Z",
+        "content": "Crypto markets have struggled for much of the year as weaker trading volumes, concerns over the economy and fading risk appetite weighed on digital assets. The tougher backdrop has hurt market makers… [+1236 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -299,7 +312,7 @@
         "author": "Cointelegraph by Sam Bourgi",
         "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
         "description": "Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades.",
-        "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says",
+        "url": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says",
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed.png",
         "publishedAt": "2026-07-21T17:46:30Z",
         "content": "Bitcoin and the broader cryptocurrency market looked poised for a recovery on Tuesday as progress on landmark US crypto legislation boosted sentiment, with analysts also pointing to a slowdown in the… [+2016 chars]"
@@ -312,7 +325,7 @@
         "author": "Cointelegraph by Sam Bourgi",
         "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
         "description": "Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades.",
-        "url": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says",
+        "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says",
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed.png",
         "publishedAt": "2026-07-21T17:46:30Z",
         "content": "Bitcoin and the broader cryptocurrency market looked poised for a recovery on Tuesday as progress on landmark US crypto legislation boosted sentiment, with analysts also pointing to a slowdown in the… [+2016 chars]"
@@ -381,19 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-gains-100000.png",
         "publishedAt": "2026-07-21T10:26:35Z",
         "content": "Bitcoin (BTC) passed one-month highs on Tuesday as price action defied the odds to top $66,000.\r\nKey points:\r\n<ul><li>Bitcoin broke through resistance to hit $66,000 for the first time in more than a… [+2969 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
-        "description": "The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.",
-        "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-07-20T20:02:33Z",
-        "content": "In brief\r\n<ul><li>The State Duma's second and third readings of a pending crypto bill are scheduled for July 21; if approved, the law takes effect September 1.</li><li>The bill explicitly permits cry… [+4263 chars]"
       }
     ]
   }
