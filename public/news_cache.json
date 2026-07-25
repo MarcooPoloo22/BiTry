@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-25T05:35:38.134Z",
+  "timestamp": "2026-07-25T07:51:58.105Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+        "description": "Mirae Asset, the $1 trillion South Korean financial giant, says its plans for newly acquired Korbit go far beyond capturing crypto market share — it wants to build an intelligent investment platform seamlessly connecting real-world assets, stablecoins and dig…",
+        "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/ae0a096246871f868542edd025af448d189d9fa4-2177x1110.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-24T06:10:49Z",
+        "content": "Korbit currently holds less than 1% of South Korea's domestic crypto market, far behind giants Upbit and Bithumb. When asked directly about its strategy to compete, Mirae Asset stressed that the goal… [+1353 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,32 +420,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-2.jpg",
         "publishedAt": "2026-07-20T17:50:00Z",
         "content": "Top Ethereum treasury company Bitmine said Monday its Ether holdings had reached 5.78 million tokens, representing about 4.8% of Ethereums circulating supply, as the company closed in on its stated g… [+3154 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Charles Thuo",
-        "title": "Avalanche faces key test as $23M token unlock meets surging network activity",
-        "description": "Daily Avalanche transactions surged from 300K to 6.2 million in a year. A $23.3 million AVAX unlock could shape short-term price action. AVAX must hold $6.32 support to keep bullish momentum alive. Avalanche enters a critical week with two contrasting forces …",
-        "url": "https://coinjournal.net/news/avalanche-faces-key-test-as-23m-token-unlock-meets-surging-network-activity/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/05/Avalanche-token.png",
-        "publishedAt": "2026-07-20T16:39:29Z",
-        "content": "<ul><li>Daily Avalanche transactions surged from 300K to 6.2 million in a year.</li><li>A $23.3 million AVAX unlock could shape short-term price action.</li><li>AVAX must hold $6.32 support to keep b… [+4086 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
-        "description": "Bitcoin traders stay optimistic about BTC price action reaching levels closer to $70,000 despite near-term friction at the hands of the US-Iran war and US tech-stock selling.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-is-doing-great-but-is-an-altseason-emerging.png",
-        "publishedAt": "2026-07-20T15:47:00Z",
-        "content": "Traders balked on Bitcoin (BTC) at $65,000 on Monday as crypto and risk-assets remained under pressure.\r\nKey points:\r\n<ul><li>Bitcoin staged several unsuccessful attempts to break and hold $65,000.</… [+2791 chars]"
       }
     ]
   }
