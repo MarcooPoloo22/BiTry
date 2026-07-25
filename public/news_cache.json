@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-25T15:57:39.904Z",
+  "timestamp": "2026-07-25T16:53:08.519Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jose Antonio Lanz",
+        "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
+        "description": "BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
+        "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
+        "publishedAt": "2026-07-24T16:17:37Z",
+        "content": "In brief\r\n<ul><li>U.S. spot Bitcoin ETFs posted $225.2 million in net outflows on July 23, ending a seven-day streak that had pulled in nearly $1 billion, according to SoSoValue data.</li><li>BlackRo… [+3089 chars]"
+      },
       {
         "source": {
           "id": null,
