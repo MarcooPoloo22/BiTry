@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-07-25T13:04:12.121Z",
+  "timestamp": "2026-07-25T14:55:33.004Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Will Canny",
+        "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+        "description": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
+        "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/26685777b02289720baed417998ab31c5110fd17-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-07-24T14:36:16Z",
+        "content": "Institutional crypto trading platform LMAX Group is working with Morgan Stanley (MS) and investment bank KBW, part of Stifel (SF), to evaluate strategic options, according to three people familiar wi… [+1317 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ciaran Lyons",
+        "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
+        "description": "Quantum fears have caused a 30% decline in the Bitcoin price says Charles Edwards. Unveiling a clear plan to fix it, would see the price surge by double digits “very quickly.”",
+        "url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/interview-23-07-2026.jpg",
+        "publishedAt": "2026-07-24T13:30:00Z",
+        "content": "Bitcoin developers need to swallow their pride and outline a clear plan to harden the blockchain against quantum computing attacks, according to Capriole Investments founder Charles Edwards. He says … [+4408 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,58 +368,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png",
         "publishedAt": "2026-07-21T16:06:20Z",
         "content": "In brief\r\n<ul><li>Jack Mallers stepped down as CEO of Twenty One Capital, announcing his return to Bitcoin payments firm Strikewhich will remain an independent company.</li><li>Tether's plan to merge… [+4024 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yohan Yun",
-        "title": "More MiCA-licensed crypto firms could exit EU market: Gate Europe CEO",
-        "description": "Gate Europe CEO Giovanni Cunti said some MiCA-licensed crypto firms may still exit the EU market as compliance costs rise, despite securing authorization under the bloc’s new crypto rules.",
-        "url": "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation-1.jpg",
-        "publishedAt": "2026-07-21T11:58:02Z",
-        "content": "Crypto companies already licensed under the European Unions Markets in Crypto-Assets Regulation (MiCA) could still exit the market as compliance costs mount, according to Gate Europes CEO.\r\nGiovanni … [+2527 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Russian parliament passes law regulating crypto market",
-        "description": "The State Duma legislation creates a regulated framework for crypto market participants and now moves to President Vladimir Putin for his signature before becoming law.",
-        "url": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/russia-bitcoin.jpg",
-        "publishedAt": "2026-07-21T11:49:30Z",
-        "content": "Russias State Duma has approved a bill establishing rules for the cryptocurrency market, setting conditions for crypto asset operations inside the country and for cross-border trade.\r\nThe parliament … [+1038 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Charles Thuo",
-        "title": "Ethereum price forecast: ETH eyes $2,000 breakout as ETF inflows boost momentum",
-        "description": "Ethereum (ETH) has gained 8.8% in a week as momentum strengthened. BlackRock’s ETHA helped drive fresh spot ETF inflows. $2,000 remains Ethereum’s next major resistance level. Ethereum has extended its latest recovery, climbing above the $1,900 level and putt…",
-        "url": "https://coinjournal.net/news/ethereum-price-forecast-eth-eyes-2000-breakout-as-etf-inflows-boost-momentum/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2025/11/Ethereum.jpg",
-        "publishedAt": "2026-07-21T11:27:31Z",
-        "content": "<ul><li>Ethereum (ETH) has gained 8.8% in a week as momentum strengthened.</li><li>BlackRock’s ETHA helped drive fresh spot ETF inflows.</li><li>$2,000 remains Ethereum’s next major resistance level.… [+5100 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price gains to $66.3K as range breakout attempt sparks one-month high",
-        "description": "Bitcoin expands to its highest levels in over a month as a trader sees another 6% upside if BTC price action reaches $68,000.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-hits-663k-as-range-breakout-attempt-sparks-one-month-high",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-gains-100000.png",
-        "publishedAt": "2026-07-21T10:26:35Z",
-        "content": "Bitcoin (BTC) passed one-month highs on Tuesday as price action defied the odds to top $66,000.\r\nKey points:\r\n<ul><li>Bitcoin broke through resistance to hit $66,000 for the first time in more than a… [+2969 chars]"
       }
     ]
   }
