@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-28T15:58:49.229Z",
+  "timestamp": "2026-07-28T17:27:00.208Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Will Canny",
+        "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
+        "description": "The crypto trading platform said the layoffs reflect a strategic shift toward its fast-growing enterprise business.",
+        "url": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?auto=format&q=75",
+        "publishedAt": "2026-07-27T16:47:06Z",
+        "content": "The cuts come as the crypto industry grapples with a prolonged downturn. After three consecutive quarters of declines, the total cryptocurrency market capitalization fell to around $2.1 trillion at t… [+1458 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,32 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf.jpg",
         "publishedAt": "2026-07-23T07:08:25Z",
         "content": "US-listed spot Bitcoin exchange-traded funds (ETFs) have attracted about $1 billion in net inflows over seven straight trading sessions.\r\nSpot Bitcoin ETFs recorded $68.99 million in net inflows on W… [+1108 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
-        "description": "Korbit, South Korea's first cryptocurrency exchange, has joined the Mirae Asset Group family, marking the first time a traditional Korean financial group's affiliate has taken a controlling stake in a domestic crypto exchange.",
-        "url": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/daec67875a17af486d5c2ab3ce621f84580db22f-1260x645.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-07-23T07:05:42Z",
-        "content": "Korbit, South Korea's first homegrown crypto exchange founded in 2013, now has a new home and its a traditional finance behemoth.\r\nThe exchange announced Thursday that it is now part of the Mirae Ass… [+986 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Swiss bank BancaStato launches regulated crypto trading with Sygnum",
-        "description": "Switzerland’s BancaStato adds regulated crypto trading through Sygnum and Avaloq to enable its clients to buy, sell and hold four crypto assets, including BTC, ETH, LTC and SOL.",
-        "url": "https://cointelegraph.com/news/bancastato-regulated-crypto-trading-sygnum-avaloq",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-u-banks-have-deeper-interest-in-digital-than-previously-thought-switzerland.jpg",
-        "publishedAt": "2026-07-23T06:00:00Z",
-        "content": "Swiss bank BancaStato has launched regulated cryptocurrency trading using digital asset bank Sygnum and banking software provider Avaloq.\r\nBancaStato, the cantonal bank serving Switzerlands Italian-s… [+2717 chars]"
       }
     ]
   }
