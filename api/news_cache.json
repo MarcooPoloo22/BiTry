@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-07-28T17:27:00.208Z",
+  "timestamp": "2026-07-28T19:09:38.252Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 27,
     "articles": [
       {
         "source": {
@@ -355,19 +355,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-3.jpg",
         "publishedAt": "2026-07-23T09:03:20Z",
         "content": "Crypto-focused asset manager Grayscale said that Bitcoins price may have bottomed earlier than the traditional four-year cycle, which would imply a cycle low in September or October. \r\nGrayscales hea… [+2184 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Bitcoin ETFs approach $1B in 7-session inflow run",
-        "description": "US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, extending their inflow streak to seven sessions and bringing total inflows during the period to nearly $1 billion",
-        "url": "https://cointelegraph.com/markets/bitcoin-etfs-1-billion-7-session-inflow-streak",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf.jpg",
-        "publishedAt": "2026-07-23T07:08:25Z",
-        "content": "US-listed spot Bitcoin exchange-traded funds (ETFs) have attracted about $1 billion in net inflows over seven straight trading sessions.\r\nSpot Bitcoin ETFs recorded $68.99 million in net inflows on W… [+1108 chars]"
       }
     ]
   }
