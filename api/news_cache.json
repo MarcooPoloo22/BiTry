@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-30T19:11:04.379Z",
+  "timestamp": "2026-07-30T20:57:41.456Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Helene Braun, Krisztian Sandor",
+        "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+        "description": "The brokerage reported $100 million revenue from crypto trading, a 38% decline in a year, offset by stronger options, equities and prediction markets activity.",
+        "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?auto=format&q=75",
+        "publishedAt": "2026-07-29T20:40:43Z",
+        "content": "Robinhood (HOOD) topped Wall Street's second-quarter expectations, but shares fell about 4% in after-hours trading, adding to their 3.1% decline during Wednesday's session.\r\nThe online brokerage repo… [+981 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,32 +394,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
         "publishedAt": "2026-07-24T16:17:37Z",
         "content": "In brief\r\n<ul><li>U.S. spot Bitcoin ETFs posted $225.2 million in net outflows on July 23, ending a seven-day streak that had pulled in nearly $1 billion, according to SoSoValue data.</li><li>BlackRo… [+3089 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Sam Bourgi",
-        "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
-        "description": "In this week’s Crypto Biz, US spot Bitcoin ETFs extend their inflow streak as AI stocks lose momentum and lawmakers advance the CLARITY Act, boosting optimism for digital assets.",
-        "url": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/sad-bitcoin-delayed.jpg",
-        "publishedAt": "2026-07-24T15:15:57Z",
-        "content": "Crypto markets showed renewed signs of life this week as institutional investors fueled the longest streak of inflows into US spot Bitcoin exchange-traded funds (ETFs) since April and crypto-linked s… [+5152 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Will Canny",
-        "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-        "description": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
-        "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/26685777b02289720baed417998ab31c5110fd17-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "publishedAt": "2026-07-24T14:36:16Z",
-        "content": "Institutional crypto trading platform LMAX Group is working with Morgan Stanley (MS) and investment bank KBW, part of Stifel (SF), to evaluate strategic options, according to three people familiar wi… [+1317 chars]"
       }
     ]
   }
