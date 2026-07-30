@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-07-30T10:14:12.666Z",
+  "timestamp": "2026-07-30T12:24:00.984Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
+        "description": "The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.",
+        "url": "https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg",
+        "publishedAt": "2026-07-29T12:10:26Z",
+        "content": "In brief\r\n<ul><li>Crypto accounted for more than half of all scam losses reported to the FBI last year, at $11.37 billion.</li><li>The Consumer Federation of America puts the true cost at $80.7 billi… [+2971 chars]"
+      },
       {
         "source": {
           "id": null,
