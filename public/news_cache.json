@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-08-08T02:53:14.248Z",
+  "timestamp": "2026-08-08T04:05:26.004Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Bitget explores licensed crypto presence in Bhutan",
+        "description": "Bitget signed an agreement with Bhutan’s Gelephu Mindfulness City Authority to pursue a licensed local digital asset presence.",
+        "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/building-bitcoin-investment-bhutan.jpg",
+        "publishedAt": "2026-08-07T03:22:26Z",
+        "content": "Bitget has signed an agreement with Bhutans Gelephu Mindfulness City Authority to explore establishing a licensed local operation, as the crypto exchange seeks a foothold in the countrys developing d… [+1002 chars]"
+      },
       {
         "source": {
           "id": null,
