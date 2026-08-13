@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-08-13T09:54:07.118Z",
+  "timestamp": "2026-08-13T10:54:26.888Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
       {
         "source": {
@@ -433,19 +433,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2771883a4e6391de7227ecc345175032a26924a9-1280x925.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "publishedAt": "2026-08-05T09:00:20Z",
         "content": "Arthur Hayes thinks everyone has the AI trade filed under the wrong category. \r\nIn a new essay, the co-founder of crypto exchange BitMEX and crypto fund Maelstrom said the ongoing infrastructure buil… [+1030 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yohan Yun",
-        "title": "Boerse Stuttgart Digital, Tradias close European crypto merger",
-        "description": "Boerse Stuttgart Digital and Tradias completed their merger, forming a 300-person European crypto unit spanning trading, custody, staking and tokenization.",
-        "url": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-institutional-trading-and-cryptocurrency-industry-eu.jpg",
-        "publishedAt": "2026-08-05T08:47:24Z",
-        "content": "Boerse Stuttgart Digital and institutional crypto trading firm Tradias have completed their merger after clearing the required ownership control procedure, creating a combined digital asset infrastru… [+1223 chars]"
       }
     ]
   }
