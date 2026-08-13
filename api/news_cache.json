@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-08-13T12:48:59.627Z",
+  "timestamp": "2026-08-13T14:16:23.890Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
       {
         "source": {
@@ -420,19 +420,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-1.jpg",
         "publishedAt": "2026-08-05T10:43:05Z",
         "content": "US-listed spot Bitcoin exchange-traded funds (ETFs) are attracting fresh capital as a high-profile cryptocurrency custody incident puts renewed focus on digital asset security.\r\nSpot Bitcoin ETFs rec… [+3300 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Ethereum price stalls as retail selling offsets whale accumulation",
-        "description": "Key takeaways Ethereum traded sideways as mixed on-chain activity reflected uncertainty among investors. Whale wallets holding 10,000–100,000 ETH accumulated a net 130,000 ETH over the past week. Smaller wallet cohorts collectively reduced their holdings by a…",
-        "url": "https://coinjournal.net/news/ethereum-price-stalls-as-retail-selling-offsets-whale-accumulation/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/08/ChatGPT-Image-Aug-5-2026-10_43_46-AM.png",
-        "publishedAt": "2026-08-05T09:45:44Z",
-        "content": "Key takeaways\r\n<ul><li>Ethereum traded sideways as mixed on-chain activity reflected uncertainty among investors.</li><li>Whale wallets holding 10,000–100,000 ETH accumulated a net 130,000 ETH over t… [+4514 chars]"
       }
     ]
   }
