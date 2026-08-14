@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-08-14T17:44:48.615Z",
+  "timestamp": "2026-08-14T18:41:48.000Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
       {
         "source": {
@@ -368,19 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/building-bitcoin-investment-bhutan.jpg",
         "publishedAt": "2026-08-07T03:22:26Z",
         "content": "Bitget has signed an agreement with Bhutans Gelephu Mindfulness City Authority to explore establishing a licensed local operation, as the crypto exchange seeks a foothold in the countrys developing d… [+1002 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Felix Ng",
-        "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
-        "description": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
-        "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/miner.jpg",
-        "publishedAt": "2026-08-07T02:17:07Z",
-        "content": "Bitcoin miner MARA swung to a net loss of $611.3 million from a year-earlier profit in the second quarter of 2026, driven primarily by a change in the value of its Bitcoin holdings, despite reporting… [+3097 chars]"
       }
     ]
   }
