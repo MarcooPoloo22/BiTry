@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-08-14T14:09:35.361Z",
+  "timestamp": "2026-08-14T15:42:36.521Z",
   "data": {
     "status": "ok",
     "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
+        "description": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
+        "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-08-13T14:31:56Z",
+        "content": "In brief\r\n<ul><li>Britain's Financial Conduct Authority and HTX are in talks to settle the regulator's claim that the exchange illegally promoted crypto services to UK consumers.</li><li>The High Cou… [+2963 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,19 +394,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/06/decrypt-style-metamask-fox-gID_7.jpg",
         "publishedAt": "2026-08-06T16:26:56Z",
         "content": "In brief\r\n<ul><li>MetaMask has launched Agent Wallet, a self-custodial wallet designed for AI-powered crypto trading.</li><li>Users can set spending limits, allowlist protocols, and choose security s… [+2588 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
-        "description": "Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg",
-        "publishedAt": "2026-08-06T16:24:18Z",
-        "content": "Bitcoin (BTC) stayed motionless at Thursdays Wall Street open as analysis saw signs of reemergent US stagflation.\r\nKey points:\r\n<ul><li>Bitcoin stays below $65,000 as Iran tempers expectations over t… [+3309 chars]"
       }
     ]
   }
