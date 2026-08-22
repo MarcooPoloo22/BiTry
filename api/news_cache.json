@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-08-22T16:13:14.490Z",
+  "timestamp": "2026-08-22T17:12:43.365Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jose Antonio Lanz",
+        "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
+        "description": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
+        "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+        "publishedAt": "2026-08-21T16:29:01Z",
+        "content": "In brief\r\n<ul><li>U.S. spot Bitcoin ETFs took in $606.29 million on August 20, their largest single-day haul since May 1 and a fourth straight day of inflows.</li><li>BlackRock's IBIT accounted for $… [+5148 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,32 +433,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/regulation-binance-1.jpg",
         "publishedAt": "2026-08-14T13:36:34Z",
         "content": "Binance will stop processing transactions involving crypto exchange HTX and 10 other listed crypto platforms and service providers from Aug. 23.\r\nThe cryptocurrency exchange cited recent regulatory d… [+1265 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cryptonews"
-        },
-        "author": "Ahmed Barakat",
-        "title": "Google Gemini AI Predicts Bitcoin Price by the End of 2026",
-        "description": "An accounting rule change might be the most underrated catalyst on this list. Google Gemini AI predicts it will help carry Bitcoin to $85,000 to $105,000 by...",
-        "url": "https://cryptonews.com/news/google-gemini-ai-predicts-bitcoin-price-by-end-of-2026/",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/C1476BBF3FAFF6D310A5AE1DEEA40318DAF1B79AB4FF9B76ACF52C60C0E05A32/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2Fb65c1c6402963e0efdf880627d582c45.jpg",
-        "publishedAt": "2026-08-14T09:34:36Z",
-        "content": "An accounting rule change might be the most underrated catalyst on this list. Google Gemini AI predicts it will help carry Bitcoin to $85,000 to $105,000 by the end of 2026, and the price prediction … [+3503 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Crypto payments barely register among euro area merchants, ECB finds",
-        "description": "An ECB survey of 8,205 euro area companies found just 0.2% of online sellers accept crypto, as while acceptance at physical points of sale remained below 1% and mobile payment adoption jumped sharply.",
-        "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg",
-        "publishedAt": "2026-08-14T08:22:54Z",
-        "content": "Crypto remains a marginal payment option among euro area businesses even as other forms of digital payments gain ground, according to a new European Central Bank (ECB) report.\r\nJust 0.2% of companies… [+3052 chars]"
       }
     ]
   }
