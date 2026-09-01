@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-09-01T10:49:56.072Z",
+  "timestamp": "2026-09-01T15:19:53.887Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 36,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Sam Bourgi",
+        "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
+        "description": "Strive’s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.",
+        "url": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C52C7MYQ0QY4TB55BX8Z68/moses-and-bitcoins.jpg",
+        "publishedAt": "2026-08-31T15:08:12Z",
+        "content": "Strive, a publicly traded asset manager and Bitcoin treasury company, added 1,800 Bitcoin to its holdings last week, accelerating an accumulation strategy that has propelled it into the ranks of the … [+1814 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
+        "description": "Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates from the country’s largest bank.",
+        "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg",
+        "publishedAt": "2026-08-31T14:50:58Z",
+        "content": "Cryptocurrency trading in Russia is expected to bring 4 trillion rubles ($46.4 billion) in trading volume for regulated domestic exchanges in the first year after legalization, according to estimates… [+1213 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Robinhood Chain Revenue Tops Ethereum In 24-Hour App Metrics",
+        "description": "Robinhood Chain recorded $2.66 million in daily app revenue, surpassing Ethereum mainnet and Hyperliquid over the same 24-hour measurement window, accordin...",
+        "url": "http://www.newsbtc.com/news/robinhood-chain-revenue-tops-ethereum-app-metrics/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-59.jpg?fit=1792%2C1024",
+        "publishedAt": "2026-08-31T12:15:00Z",
+        "content": "Robinhood Chain recorded $2.66 million in daily app revenue, surpassing Ethereum mainnet and Hyperliquid over the same 24-hour measurement window, according to validated DeFiLlama-style dashboard dat… [+4114 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Bitcoin Holds $78K As Strait Of Hormuz Strike Lifts Oil Above $90",
+        "description": "Bitcoin held near the $78,000 area as geopolitical tension around the Strait of Hormuz pushed Brent crude above $90, giving traders another macro-risk even...",
+        "url": "http://www.newsbtc.com/news/bitcoin-holds-78k-strait-hormuz-oil-90/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin.jpeg?fit=1280%2C853",
+        "publishedAt": "2026-08-31T11:30:00Z",
+        "content": "Bitcoin held near the $78,000 area as geopolitical tension around the Strait of Hormuz pushed Brent crude above $90, giving traders another macro-risk event to price across energy, inflation, and ris… [+4230 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -420,84 +472,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/XRP-from-Getty-Images-67.jpg?fit=612%2C408",
         "publishedAt": "2026-08-21T20:30:00Z",
         "content": "A US appeals court has allowed a proposed Binance-related theft lawsuit to proceed in federal court, rejecting a lower-court order that had forced the plaintiffs into arbitration.\r\nThe Eleventh Circu… [+4119 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Turner Wright",
-        "title": "Onchain, in court: What happened in crypto legal news this week",
-        "description": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
-        "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
-        "publishedAt": "2026-08-21T19:19:27Z",
-        "content": "Former Alameda Research and FTX executives receive 5-year trading bans\r\nOn Tuesday, the US District Court for the Southern District of New York (SDNY) entered consent orders related to a 2022 enforce… [+2295 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
-        "description": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
-        "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-        "publishedAt": "2026-08-21T16:29:01Z",
-        "content": "In brief\r\n<ul><li>U.S. spot Bitcoin ETFs took in $606.29 million on August 20, their largest single-day haul since May 1 and a fourth straight day of inflows.</li><li>BlackRock's IBIT accounted for $… [+5148 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Sam Bourgi",
-        "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-        "description": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
-        "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
-        "publishedAt": "2026-08-21T16:11:07Z",
-        "content": "Shares of Bitcoin miners and digital asset treasury companies surged toward the end of the week, tracking a broader rally across crypto markets after the US Treasury announced it would double certain… [+1844 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Tyler Warner",
-        "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
-        "description": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
-        "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg",
-        "publishedAt": "2026-08-21T14:27:31Z",
-        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt.\r\nGM!\r\nTodays top news:\r\n<ul><li>Crypto m… [+4698 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
-        "description": "Nomura-backed Laser Digital Japan received Japan’s first crypto exchange registration in nearly four years and plans to provide local market liquidity.",
-        "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean.jpg",
-        "publishedAt": "2026-08-21T13:08:12Z",
-        "content": "Nomura Groups digital asset subsidiary, Laser Digital, received authorization to operate as a crypto asset exchange service provider under Japans Payment Services Act (PSA)\r\nA list issued by Japans F… [+1317 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cryptonews"
-        },
-        "author": "Ahmed Barakat",
-        "title": "Ethereum ETF Pulls $221M as ETH Eyes Another Breakout",
-        "description": "Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 mill...",
-        "url": "https://cryptonews.com/news/ethereum-etf-inflows-189-million/",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/675B0A3D7473BB54B6E04C67F402F8C8472AA753F8DB96EC3AB55151D9DC9E90/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F4609a971aed8cf2260be1daef8a98ebf",
-        "publishedAt": "2026-08-21T10:41:22Z",
-        "content": "Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winnin… [+3202 chars]"
       }
     ]
   }
