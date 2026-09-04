@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-09-04T10:19:25.201Z",
+  "timestamp": "2026-09-04T14:38:15.153Z",
   "data": {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 33,
     "articles": [
       {
         "source": {
@@ -433,19 +433,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-network-death-spiral-still-likely.jpg",
         "publishedAt": "2026-08-26T10:49:26Z",
         "content": "Bitcoin (BTC) remains sensitive to sell-side pressure at $80,000, even as investors broadly avoid mass profit-taking.\r\nKey points:\r\n<ul><li>Bitcoin investors unrealized profit and loss crosses above … [+3264 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Pi holds above $0.085 support as crypto market recovery loses momentum",
-        "description": "Key takeaways Pi Network trades around $0.0900 on Wednesday, maintaining mild upside momentum above the critical $0.0853 support. The broader cryptocurrency market is retreating as investors take profits following last week’s double-digit gains. A break above…",
-        "url": "https://coinjournal.net/news/pi-holds-above-0-085-support-as-crypto-market-recovery-loses-momentum/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/08/ChatGPT-Image-Aug-26-2026-09_35_59-AM.png",
-        "publishedAt": "2026-08-26T08:37:40Z",
-        "content": "Key takeaways\r\n<ul><li>Pi Network trades around $0.0900 on Wednesday, maintaining mild upside momentum above the critical $0.0853 support.</li><li>The broader cryptocurrency market is retreating as i… [+3379 chars]"
       }
     ]
   }
