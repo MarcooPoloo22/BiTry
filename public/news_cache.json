@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-09-11T10:16:52.791Z",
+  "timestamp": "2026-09-11T14:43:40.367Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 25,
     "articles": [
       {
         "source": {
@@ -329,19 +329,6 @@
         "urlToImage": null,
         "publishedAt": "2026-09-03T15:45:00Z",
         "content": "Metaplanet has bought another 1,007 Bitcoin for $69 million, lifting its total corporate treasury holdings to 20,000 BTC.\r\nThe company said the latest purchase was made at an average price of $68,520… [+4155 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-        "description": "Standard Chartered launches spot Bitcoin and Ether trading for institutional clients in the UAE, claiming it is the first global bank to launch a similar regulated offering.",
-        "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KANTKWQNSCNEMJXC5A98C8/hi-crypto-assets-regulation-in-dubai-is-cryptocurrency-regulated-in-uae.jpg",
-        "publishedAt": "2026-09-03T10:15:34Z",
-        "content": "London-headquartered multinational bank Standard Chartered has launched spot Bitcoin and Ether trading for institutional clients in the United Arab Emirates (UAE), through its entity regulated by the… [+1491 chars]"
       }
     ]
   }
