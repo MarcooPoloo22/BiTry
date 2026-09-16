@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-09-16T17:52:21.044Z",
+  "timestamp": "2026-09-16T20:40:26.409Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jose Antonio Lanz",
+        "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
+        "description": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the move stopped well short of panic.",
+        "url": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/stocks-gID_7.jpg",
+        "publishedAt": "2026-09-15T19:18:29Z",
+        "content": "In brief\r\n<ul><li>The Senate failed to invoke cloture on the Digital Asset Market Clarity Act Tuesday, after 50 senators voted against it.</li><li>Bitcoin slid from a session high near $77,200 to a l… [+4594 chars]"
+      },
       {
         "source": {
           "id": null,
