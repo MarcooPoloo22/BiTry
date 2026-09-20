@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-09-20T17:09:59.722Z",
+  "timestamp": "2026-09-20T20:01:17.304Z",
   "data": {
     "status": "ok",
     "totalResults": 26,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
+        "description": "Read the latest update on Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions.",
+        "url": "http://www.newsbtc.com/news/coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/09/IMG_3439-3.png?fit=1280%2C960",
+        "publishedAt": "2026-09-19T19:00:00Z",
+        "content": "TL;DR\r\n<ul><li>Coinbase is partnering with Stablecore to bring crypto services into existing bank technology.</li><li>Stablecores infrastructure reaches more than 3,000 U.S. banks and credit unions.<… [+2655 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -329,19 +342,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
         "publishedAt": "2026-09-11T17:22:39Z",
         "content": "In brief\r\n<ul><li>Robinhood's crypto trading volume rose 61% month over month to $17.5 billion in August, according to new operating data.</li><li>The figure remains 38% below last August's total.</l… [+3477 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yohan Yun",
-        "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
-        "description": "Robinhood reported $17.5 billion in August crypto volume, up 61% from July but down 38% year over year as Bitstamp contributed $10.1 billion.",
-        "url": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg",
-        "publishedAt": "2026-09-11T11:49:07Z",
-        "content": "Robinhoods crypto trading volume rose 61% month-on-month to $17.5 billion in August, though it remained 38% below the year-earlier level.\r\nThe online brokerage said in its August 2026 monthly operati… [+1023 chars]"
       }
     ]
   }
