@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-09-22T05:39:07.735Z",
+  "timestamp": "2026-09-22T10:38:06.399Z",
   "data": {
     "status": "ok",
     "totalResults": 24,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+        "description": "Bitcoin price momentum sees fresh strength as BTC returns to $85,000 for the first time since January.",
+        "url": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31Q8BFZ8GX28390FWKSDR14/hi-why-i-am-cynically-bullish-about-the-bitcoin-4.jpg",
+        "publishedAt": "2026-09-21T10:15:51Z",
+        "content": "Bitcoin (BTC) starts a new week at its highest levels in nearly eight months as bulls propel the market to $85,000.\r\nKey points:\r\n<ul><li>Bitcoin hit $85,248 on Monday, marking its highest levels sin… [+7364 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
+        "description": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
+        "url": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg",
+        "publishedAt": "2026-09-21T09:51:24Z",
+        "content": "In brief\r\n<ul><li>Four masked men broke into a house in Vendin-le-Vieil at around 4am on Sunday and bound a couple and their two children with tape.</li><li>The father, a salaried IT worker in the cr… [+2684 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -290,32 +316,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg",
         "publishedAt": "2026-09-15T16:02:01Z",
         "content": "Bitcoin (BTC) saw month-to-date lows at Tuesdays Wall Street open as global bond yields spiked and crypto markets awaited a key US Senate vote on the CLARITY Act.\r\nKey points:\r\n<ul><li>Bitcoin droppe… [+3559 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Felix Ng",
-        "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
-        "description": "CoinEx said falling trading volumes and liquidity, along with rising regulatory and compliance costs, had exceeded “reasonable boundaries,” with withdrawals remaining open until Dec. 22.",
-        "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HJPZRCHW98XR8YR97CKYKA/crypto-winter.jpg",
-        "publishedAt": "2026-09-15T04:19:16Z",
-        "content": "Crypto exchange CoinEx said it is winding down operations, citing a prolonged crypto market downturn, sinking trading volumes and liquidity, and rising regulatory and compliance costs, according to a… [+1943 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nate Kostar",
-        "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
-        "description": "Strive’s latest Bitcoin purchase was funded entirely through its SATA preferred stock as the company continues its rapid climb among corporate BTC holders.",
-        "url": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GEQRXMNZKPZF714Z603E41/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.png",
-        "publishedAt": "2026-09-14T17:50:12Z",
-        "content": "Strive, a top-five Bitcoin treasury company and asset manager, purchased 469 Bitcoin for about $36.6 million last week, bringing its holdings to 25,000 BTC.\r\nAccording to a Monday filing with the US … [+2331 chars]"
       }
     ]
   }
