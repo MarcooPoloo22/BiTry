@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-09-24T05:40:06.807Z",
+  "timestamp": "2026-09-24T10:47:51.779Z",
   "data": {
     "status": "ok",
-    "totalResults": 25,
+    "totalResults": 26,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
+        "description": "Bitcoin price analysis sees onchain signals repeating the signs that “confirmed” the past two bull markets.",
+        "url": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36VKH38PWTADPGEVC4SV8G0/hi-fiat-institutions-and-crypto-trading-desks-1.jpg",
+        "publishedAt": "2026-09-23T10:05:10Z",
+        "content": "Bitcoin (BTC) faces its next real test at $90,000 as traders continue to return to unrealized profit.\r\nKey points:\r\n<ul><li>Bitcoin profit-takers may stall BTC price upside at $90,000, CryptoQuant pr… [+2931 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+        "description": "Raiffeisen Bank International is expanding crypto access through Bitpanda, giving its network banks infrastructure that could serve about 18 million customers.",
+        "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+        "publishedAt": "2026-09-23T09:42:39Z",
+        "content": "Raiffeisen Bank International (RBI), an Austrian banking group with operations across Central and Eastern Europe, is expanding its cryptocurrency push through a group-wide partnership with Bitpanda.\r… [+1437 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -316,19 +342,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "publishedAt": "2026-09-18T06:52:23Z",
         "content": "Iran has spent this year charging tankers between $1 million and $2 million to cross the Strait of Hormuz, and the U.S. Treasury said that since June, part of that money has moved through a cryptocur… [+927 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Felix Ng",
-        "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
-        "description": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
-        "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
-        "publishedAt": "2026-09-18T01:33:54Z",
-        "content": "US authorities on Thursday announced sanctions against Iranian crypto exchange BitBank, accusing it of processing Bitcoin paid by ships transiting the Strait of Hormuz.\r\nThe US Department of the Trea… [+2289 chars]"
       }
     ]
   }
