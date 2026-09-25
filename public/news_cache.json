@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-09-25T12:26:44.425Z",
+  "timestamp": "2026-09-25T17:38:58.209Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 27,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Staff",
+        "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
+        "description": "Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
+        "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/french-police-gendarme-decrypt-style-1-scaled-gID_7.jpg",
+        "publishedAt": "2026-09-24T13:01:03Z",
+        "content": "In brief\r\n<ul><li>Elliptic launched Pulse, an AI product that gives frontline law enforcement officers a plain-language financial summary of any wallet address or transaction hash in seconds, no bloc… [+2658 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Krisztian Sandor",
+        "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+        "description": "Rachel Conlan and Jamal Raees join as Solana aims to court institutions moving payments and assets onchain.",
+        "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/be69f7e3e9544b2f09ff312d461acfec072b473d-2047x1323.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "content": "The Solana Foundation has appointed former Binance executive Rachel Conlan as its new chief strategy officer, adding a high-profile crypto industry veteran as the Solana (SOL) blockchain makes a bigg… [+1070 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -329,19 +355,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
         "publishedAt": "2026-09-20T14:01:03Z",
         "content": "In brief\r\n<ul><li>Over two years, Bitcoin gained 28% while the median mid-cap altcoin lost 74% and Ethereum landed roughly sideways, per a Glassnode and Bybit reporta stark reversal of the usual \"alt… [+2767 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
-        "description": "Read the latest update on Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions.",
-        "url": "http://www.newsbtc.com/news/coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/09/IMG_3439-3.png?fit=1280%2C960",
-        "publishedAt": "2026-09-19T19:00:00Z",
-        "content": "TL;DR\r\n<ul><li>Coinbase is partnering with Stablecore to bring crypto services into existing bank technology.</li><li>Stablecores infrastructure reaches more than 3,000 U.S. banks and credit unions.<… [+2655 chars]"
       }
     ]
   }
