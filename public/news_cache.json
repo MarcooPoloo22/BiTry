@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-09-25T06:52:51.816Z",
+  "timestamp": "2026-09-25T12:26:44.425Z",
   "data": {
     "status": "ok",
     "totalResults": 26,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Tyler Warner",
+        "title": "Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules",
+        "description": "The CFTC has been extremely busy ever since the Clarity Act failed its vote, and it appears they’re ready to accelerate.",
+        "url": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-09-24T11:56:11Z",
+        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our daily news show 'FOMO … [+5267 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+        "description": "Every institution interviewed that owned crypto held Bitcoin, usually as its largest asset; some set exit conditions for Ether and Solana.",
+        "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3995AEZDZAHF7KGY7TNVJAH/bitwise-report.png",
+        "publishedAt": "2026-09-24T09:18:16Z",
+        "content": "None of the 15 institutions interviewed by asset manager Bitwise cut their crypto allocations during a roughly 50% market drawdown, while several bought more.\r\nEvery institution in the group that own… [+2196 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -316,32 +342,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/09/IMG_3439-3.png?fit=1280%2C960",
         "publishedAt": "2026-09-19T19:00:00Z",
         "content": "TL;DR\r\n<ul><li>Coinbase is partnering with Stablecore to bring crypto services into existing bank technology.</li><li>Stablecores infrastructure reaches more than 3,000 U.S. banks and credit unions.<… [+2655 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-        "description": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
-        "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-        "publishedAt": "2026-09-19T16:01:03Z",
-        "content": "In brief\r\n<ul><li>Over five days in August, Bitcoin rose 24.6% while coin-denominated open interest fell 12.6%, meaning the rally ran on unwinding short positions rather than fresh bullish bets.</li>… [+2848 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-        "description": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
-        "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/solana-price-up-decrypt-style-01-gID_7.png",
-        "publishedAt": "2026-09-19T13:01:04Z",
-        "content": "In brief\r\n<ul><li>Solana's target slot timethe window a validator gets to produce a blockdropped from 300 milliseconds to 250 on Friday, the network's third speed cut since August.</li><li>The change… [+3322 chars]"
       }
     ]
   }
