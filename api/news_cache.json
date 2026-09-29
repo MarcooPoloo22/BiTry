@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-09-29T13:34:46.861Z",
+  "timestamp": "2026-09-29T19:00:07.853Z",
   "data": {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 26,
     "articles": [
       {
         "source": {
@@ -342,19 +342,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33Y5TYZKZESE6DRNC3V960G/hi-a-stronger-foundation-for-bitcoin-etf-applications1-3.jpg",
         "publishedAt": "2026-09-22T07:33:37Z",
         "content": "US spot Bitcoin exchange-traded funds (ETFs) drew nearly $1 billion in net inflows on Monday, their biggest daily haul of 2026.\r\nThe funds recorded $998.9 million in daily net inflows, surpassing the… [+1179 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Coinbase Opens IPO Allocations To US Retail Traders Starting With Oura",
-        "description": "TL;DR Eligible US retail Coinbase customers can now request allocations in IPOs through the Coinbase app. The service is offered through FINRA-registered Coinbase Capital Markets. Oura is the first IPO on the platform, with allocation rules designed to discou…",
-        "url": "http://www.newsbtc.com/news/coinbase-opens-ipo-allocations-to-us-retail-traders-starting-with-oura/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_xy4INP0h_1780626753962_raw.jpg?fit=1024%2C1024",
-        "publishedAt": "2026-09-22T03:30:00Z",
-        "content": "<ul><li>Eligible US retail Coinbase customers can now request allocations in IPOs through the Coinbase app.</li><li>The service is offered through FINRA-registered Coinbase Capital Markets.</li><li>O… [+1809 chars]"
       }
     ]
   }
