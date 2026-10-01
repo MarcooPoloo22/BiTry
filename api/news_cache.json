@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-09-30T23:20:36.688Z",
+  "timestamp": "2026-10-01T03:15:17.024Z",
   "data": {
     "status": "ok",
     "totalResults": 26,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yohan Yun",
+        "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
+        "description": "Binance Pay will let eligible overseas users spend USDT at most PayPay-supported merchants in Japan through HIVEX, with stores receiving yen.",
+        "url": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2PR3RBJ5STG23V6141JFH/hi-how-binance-debit-cards-work.png",
+        "publishedAt": "2026-09-30T02:25:00Z",
+        "content": "Binance Pay will allow eligible overseas users visiting Japan to spend Tether USDt (USDT) at the vast majority of PayPay-supported merchants starting Wednesday.\r\nThe service will run through HIVEX, a… [+1165 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -329,19 +342,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
         "publishedAt": "2026-09-23T09:42:39Z",
         "content": "Raiffeisen Bank International (RBI), an Austrian banking group with operations across Central and Eastern Europe, is expanding its cryptocurrency push through a group-wide partnership with Bitpanda.\r… [+1437 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-        "description": "A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.",
-        "url": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-13-gID_7.png",
-        "publishedAt": "2026-09-22T18:46:03Z",
-        "content": "In brief\r\n<ul><li>Bitcoin traded near $86,559 Tuesday, up 12.2% over the past week, after clearing the resistance band that had capped it since early September.</li><li>The Crypto Fear &amp; Greed In… [+4221 chars]"
       }
     ]
   }
