@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-10-01T03:15:17.024Z",
+  "timestamp": "2026-10-01T10:35:43.675Z",
   "data": {
     "status": "ok",
-    "totalResults": 26,
+    "totalResults": 27,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+        "description": "Robinhood users could soon access an AI agent that trades on behalf of them even at 2 am. Plus, they will get to trade crypto perpetuals.",
+        "url": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/444f7a787b146a0e468e858e32f1f9d80f6c9c32-3600x2400.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-09-30T05:59:31Z",
+        "content": "\"Whether you're an expert or are just getting started with AI, you're at a disadvantage if you're not using Robinhood,\" said Abhishek Fatehpuria, Robinhood's vice president of product management.\r\nTh… [+1089 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
+        "description": "In February, ai.com drew enough traffic to crash its website after a $15 million Super Bowl ad, but months later, users are still wondering what’s happened to their promised AI agent.",
+        "url": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3R6DNNDMD14KM1BFQ6A4CBC/ai-agent.jpg",
+        "publishedAt": "2026-09-30T03:40:42Z",
+        "content": "Crypto.com says its personal AI agent venture, pitched to perform a broad set of tasks from trading stocks to updating online dating profiles, is still under construction, months after a Super Bowl d… [+2673 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -329,19 +355,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36VKH38PWTADPGEVC4SV8G0/hi-fiat-institutions-and-crypto-trading-desks-1.jpg",
         "publishedAt": "2026-09-23T10:05:10Z",
         "content": "Bitcoin (BTC) faces its next real test at $90,000 as traders continue to return to unrealized profit.\r\nKey points:\r\n<ul><li>Bitcoin profit-takers may stall BTC price upside at $90,000, CryptoQuant pr… [+2931 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-        "description": "Raiffeisen Bank International is expanding crypto access through Bitpanda, giving its network banks infrastructure that could serve about 18 million customers.",
-        "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
-        "publishedAt": "2026-09-23T09:42:39Z",
-        "content": "Raiffeisen Bank International (RBI), an Austrian banking group with operations across Central and Eastern Europe, is expanding its cryptocurrency push through a group-wide partnership with Bitpanda.\r… [+1437 chars]"
       }
     ]
   }
