@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-03T18:28:31.332Z",
+  "timestamp": "2026-10-03T21:55:42.627Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nate Kostar",
+        "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+        "description": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
+        "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
+        "publishedAt": "2026-10-02T20:40:47Z",
+        "content": "European crypto users are placing more trust in regulated platforms following the implementation of the European Unions Markets in Crypto-Assets framework (MiCA), according to Christian Trummer, co-C… [+1339 chars]"
+      },
       {
         "source": {
           "id": null,
