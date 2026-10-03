@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-03T09:33:46.539Z",
+  "timestamp": "2026-10-03T14:31:45.410Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yohan Yun",
+        "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+        "description": "Strategy’s scale and cash reserves give it an edge over treasury rivals, according to Saifedean Ammous, author of “The Bitcoin Standard.”",
+        "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2FGXJEE6QVA6ZCTS/saifedean-ammous.png",
+        "publishedAt": "2026-10-02T10:54:33Z",
+        "content": "Bitcoin treasury companies built primarily around buying the cryptocurrency may struggle to compete with Michael Saylors Strategy, according to economist and The Bitcoin Standard author Saifedean Amm… [+2626 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +368,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "publishedAt": "2026-09-24T21:59:32Z",
         "content": "Crypto exchange Bitget had $351.6 million dollars exposed to a system breach on Thursday, CEO Gracy Chen announced in a social media post. \r\nIn a post on X, Chen said that Bitgets cold wallets and us… [+1041 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Charles Bennett",
-        "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-        "description": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
-        "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
-        "publishedAt": "2026-09-24T20:32:16Z",
-        "content": "Bitcoin (BTC) had a volatile Thursday during US hours as the yield on the 10-year US Treasury note climbed to its highest level in nearly two decades. After briefly falling below $83,000, BTC struggl… [+2905 chars]"
       }
     ]
   }
