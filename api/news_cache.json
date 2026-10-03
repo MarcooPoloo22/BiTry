@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-10-03T14:31:45.410Z",
+  "timestamp": "2026-10-03T18:28:31.332Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 29,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Krisztian Sandor",
+        "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+        "description": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.",
+        "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/030d61604f4bdf32cd4013015de2ad6a80a15e24-7200x4800.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-10-02T17:15:35Z",
+        "content": "The chains economics deteriorated quickly as speculative capital moved elsewhere and activity faded. Total value locked peaked over $2 billion in June 2024, according to DeFiLlama, and has since fall… [+1179 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jose Antonio Lanz",
+        "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
+        "description": "A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.",
+        "url": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png",
+        "publishedAt": "2026-10-02T16:45:52Z",
+        "content": "In brief\r\n<ul><li>The U.S. added only 29,000 jobs in September versus 84,000 expected, and odds of an October Fed hike plunged to roughly 14% from 70% earlier this week.</li><li>Bitcoin trades at $86… [+4319 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+        "description": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.",
+        "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YJCPAEGNQQMRKZHXC717XH/hi-bitcoins-hidden-messages-bitcoin-price-960x640.webp",
+        "publishedAt": "2026-10-02T15:27:31Z",
+        "content": "Bitcoin (BTC) spiked past $87,000 on Friday as US jobs data missed expectations.\r\nKey points:\r\n<ul><li>Bitcoin tapped $87,200 but failed to make new multi-month highs as overhead resistance held.</li… [+2532 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,32 +381,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "publishedAt": "2026-09-26T14:00:00Z",
         "content": "Payward has divided that vision into four pillars: trading through Kraken, banking, asset management and Payward Services, its business-to-business infrastructure division.\r\nKraken has about 6.6 mill… [+1666 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Andrew Fenton",
-        "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
-        "description": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
-        "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
-        "publishedAt": "2026-09-24T23:27:17Z",
-        "content": "Asian countries account for almost half of Adoption Index\r\nAlmost half of the top 20 nations in terms of grassroots crypto adoption are in the Asia Pacific region. According to Chainalysiss newly rel… [+6296 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Aoyon Ashraf, Nikhilesh De",
-        "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-        "description": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
-        "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-        "publishedAt": "2026-09-24T21:59:32Z",
-        "content": "Crypto exchange Bitget had $351.6 million dollars exposed to a system breach on Thursday, CEO Gracy Chen announced in a social media post. \r\nIn a post on X, Chen said that Bitgets cold wallets and us… [+1041 chars]"
       }
     ]
   }
