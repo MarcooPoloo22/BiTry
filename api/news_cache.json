@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-10-07T14:05:51.392Z",
+  "timestamp": "2026-10-07T20:21:08.801Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
+        "description": "Bitcoin remained caught below ask liquidity around $87,000 as the S&P 500 and Nasdaq broke out to hit new all-time highs.",
+        "url": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48Y4PJ2GGMHEEAY807E953G/hi-why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-rate-cuts.jpg",
+        "publishedAt": "2026-10-06T17:19:58Z",
+        "content": "Bitcoin (BTC) continued to circle $86,000 on Tuesday as US stock markets hit fresh all-time highs.\r\nKey points:\r\n<ul><li>Bitcoin attempted to move toward $87,000 but faces ongoing friction from ask l… [+3197 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Crypto ‘Godfather’ Gets 78 Months For $37M Meta Fraud Scheme",
+        "description": "TL;DR Adam Iza, who called himself “The Godfather,” has been sentenced to 78 months in federal prison. Prosecutors said he stole more than $37 million from Meta through fraud involving access to business-manager accounts and credit lines. The court also order…",
+        "url": "http://www.newsbtc.com/regulation/crypto-godfather-gets-78-months-for-37m-meta-fraud-scheme/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/10/fac08d46731c4b6fa729f9b50b73515c.png?fit=1920%2C1080",
+        "publishedAt": "2026-10-06T16:00:43Z",
+        "content": "<ul><li>Adam Iza, who called himself The Godfather, has been sentenced to 78 months in federal prison.</li><li>Prosecutors said he stole more than $37 million from Meta through fraud involving access… [+2166 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Genius Group Restarts Bitcoin Buying With 10 BTC Purchase",
+        "description": "TL;DR Genius Group has restarted Bitcoin purchases, buying 10 BTC for approximately $854,000. The company paid an average of $85,364 per Bitcoin across purchases made between October 2 and October 5. The renewed buying follows the removal of a court injunctio…",
+        "url": "http://www.newsbtc.com/news/bitcoin/genius-group-restarts-bitcoin-buying-with-10-btc-purchase/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/09/Newsbtc-Image.jpg?fit=1458%2C1090",
+        "publishedAt": "2026-10-06T16:00:32Z",
+        "content": "<ul><li>Genius Group has restarted Bitcoin purchases, buying 10 BTC for approximately $854,000.</li><li>The company paid an average of $85,364 per Bitcoin across purchases made between October 2 and … [+2229 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Krisztian Sandor, Helene Braun",
+        "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+        "description": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.",
+        "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/48e1bc98ccc51766412e64283bb94e7d3faa1a55-3000x2001.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-10-06T15:20:30Z",
+        "content": "Crypto exchange OKX has secured fresh investment as it looks to transform itself from a venue for trading digital assets into a broader global financial technology platform spanning crypto, payments … [+1037 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -316,84 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3S34AE4B11G1QWG7E88GP0J/hi-uk-compliance-deadline-is-upcoming-should-users-expect-crypto-firm-closures-2.jpg",
         "publishedAt": "2026-09-30T12:06:04Z",
         "content": "The United Kingdoms Financial Conduct Authority (FCA) opened applications Wednesday for crypto businesses seeking authorization under a regulatory regime due to take effect on Oct. 25, 2027.\r\nCompani… [+1166 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
-        "description": "Robinhood users could soon access an AI agent that trades on behalf of them even at 2 am. Plus, they will get to trade crypto perpetuals.",
-        "url": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/444f7a787b146a0e468e858e32f1f9d80f6c9c32-3600x2400.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-        "publishedAt": "2026-09-30T05:59:31Z",
-        "content": "\"Whether you're an expert or are just getting started with AI, you're at a disadvantage if you're not using Robinhood,\" said Abhishek Fatehpuria, Robinhood's vice president of product management.\r\nTh… [+1089 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Felix Ng",
-        "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-        "description": "In February, ai.com drew enough traffic to crash its website after a $15 million Super Bowl ad, but months later, users are still wondering what’s happened to their promised AI agent.",
-        "url": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3R6DNNDMD14KM1BFQ6A4CBC/ai-agent.jpg",
-        "publishedAt": "2026-09-30T03:40:42Z",
-        "content": "Crypto.com says its personal AI agent venture, pitched to perform a broad set of tasks from trading stocks to updating online dating profiles, is still under construction, months after a Super Bowl d… [+2673 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yohan Yun",
-        "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
-        "description": "Binance Pay will let eligible overseas users spend USDT at most PayPay-supported merchants in Japan through HIVEX, with stores receiving yen.",
-        "url": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2PR3RBJ5STG23V6141JFH/hi-how-binance-debit-cards-work.png",
-        "publishedAt": "2026-09-30T02:25:00Z",
-        "content": "Binance Pay will allow eligible overseas users visiting Japan to spend Tether USDt (USDT) at the vast majority of PayPay-supported merchants starting Wednesday.\r\nThe service will run through HIVEX, a… [+1165 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "21Shares Sets New Staking Payouts Across Five Crypto ETFs",
-        "description": "21Shares has declared September staking distributions for five crypto ETFs covering Ethereum, Solana, Hyperliquid, Sui and Polkadot. The largest per-share distribution is $0.191360 for the Hyperliquid Staking ETF. The funds distribute staking rewards generate…",
-        "url": "http://www.newsbtc.com/institutional/21shares-sets-new-staking-payouts-across-five-crypto-etfs/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_fireblocks_eth_staking_clean.jpg?fit=1600%2C900",
-        "publishedAt": "2026-09-29T19:30:00Z",
-        "content": "<ul><li>21Shares has declared September staking distributions for five crypto ETFs covering Ethereum, Solana, Hyperliquid, Sui and Polkadot.</li><li>The largest per-share distribution is $0.191360 fo… [+2565 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
-        "description": "Bitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.",
-        "url": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-        "publishedAt": "2026-09-29T16:50:46Z",
-        "content": "In brief\r\n<ul><li>Bitcoin is up 7.33% for September, just ahead of 2024's 7.29%, which would make it the best September returns going back to 2013.</li><li>A fourth straight green September would be … [+4211 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
-        "description": "CoinShares says Bitcoin ETF flows offer clues to institutional activity but do not clearly distinguish institutional buying from retail demand.",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
-        "publishedAt": "2026-09-29T12:40:12Z",
-        "content": "Billions are flowing back into Bitcoin exchange-traded funds (ETFs), but the figures alone do not reveal how much of the demand comes from institutions, according to CoinShares.\r\nUS crypto investment… [+2605 chars]"
       }
     ]
   }
