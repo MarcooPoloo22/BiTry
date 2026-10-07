@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-10-07T06:44:00.958Z",
+  "timestamp": "2026-10-07T14:05:51.392Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Andrew M. Cuomo",
+        "title": "US crypto rules need to survive the next election",
+        "description": "US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, bipartisan legislation.",
+        "url": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489PAR81ADC43W66ZRS8PBE/hi-what-is-a-clarity-act-coinbase-1.png",
+        "publishedAt": "2026-10-06T13:00:00Z",
+        "content": "Opinion by Andrew M. Cuomo, former governor of New York\r\nThe digital asset revolution is here, and its already transforming our financial system.\r\nWere no longer questioning if it will continue to de… [+5182 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Tyler Warner",
+        "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+        "description": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
+        "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-10-06T12:27:11Z",
+        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our daily news show 'FOMO … [+6251 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+        "description": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.",
+        "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png",
+        "publishedAt": "2026-10-06T10:36:57Z",
+        "content": "In brief\r\n<ul><li>Adam Iza, 26, was sentenced to 78 months and ordered to pay $23.4 million in restitution.</li><li>Five former Los Angeles County Sheriff's Department deputies have been convicted ov… [+3616 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+        "description": "Binance BTC withdrawals set their highest weekly tally since mid-2023 as analysis sees the trend echoing the recovery from Bitcoin’s last bear market.",
+        "url": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489V6KADJ5PEVWVG55W2YFF/hi-quantum-threat-to-bitcoin-80000-btc-just-moved-after-14-years.jpg",
+        "publishedAt": "2026-10-06T09:59:12Z",
+        "content": "Bitcoin (BTC) outflows from largest crypto exchange Binance set multiyear records in late September, new analysis reveals.\r\nKey points:\r\n<ul><li>Binance net Bitcoin outflows passed 23,000 BTC in the … [+2670 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,45 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
         "publishedAt": "2026-09-29T12:40:12Z",
         "content": "Billions are flowing back into Bitcoin exchange-traded funds (ETFs), but the figures alone do not reveal how much of the demand comes from institutions, according to CoinShares.\r\nUS crypto investment… [+2605 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-        "description": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
-        "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P8GAEMYVH36BJMJ67FFQFK/etf-btc-eth.png",
-        "publishedAt": "2026-09-29T10:15:19Z",
-        "content": "US spot crypto exchange-traded fund (ETF) attracted about $64.8 million on inflows continued to cool on Monday, down roughly 80% from Friday after a strong week of buying.\r\nSoSoValue data showed US s… [+1830 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-        "description": "Bitcoin price weathers a fresh surge in US bond yields as it returns to $84,000 and protects critical support for its uptrend.",
-        "url": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
-        "publishedAt": "2026-09-29T10:04:42Z",
-        "content": "Bitcoin (BTC) preserved crucial support into Tuesday as analysis warned of a new profit-taking surge.\r\nKey points:\r\n<ul><li>Bitcoin rebounded to $84,000 without violating $82,500, a level seen as ess… [+3172 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-        "description": "Greece joined ESMA’s MiCA register for the first time with four providers as HCMC expanded its denial of remarks in a report about Binance and Lagarde.",
-        "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png",
-        "publishedAt": "2026-09-29T09:50:22Z",
-        "content": "Greece has entered the European Unions crypto regulatory register for the first time, with four providers added.\r\nFour Greek providers BCash, Xenios Blockchain Group, Capital Wallet Greece and Piraeu… [+3022 chars]"
       }
     ]
   }
