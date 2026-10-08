@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-08T00:36:59.221Z",
+  "timestamp": "2026-10-08T06:52:47.602Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+        "description": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
+        "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4A095MDC2D69YPTJKJTJZCV/mica.jpg",
+        "publishedAt": "2026-10-07T01:48:53Z",
+        "content": "Bitcoin Group SE says it is seeking an alternative operating model for its bitcoin.de platform after the German Federal Financial Supervisory Authority (BaFin) refused its subsidiary futurum bank AGs… [+1582 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RAGTSRKJH3XGCDAAGQTVXB/regulations-singapore-crypto.jpg",
         "publishedAt": "2026-09-30T13:00:00Z",
         "content": "Singapores crypto activity rose 55.4% to $284 billion in the year ended June 2026, bucking a regional contraction and regaining its position as the largest crypto economy in Central and Southeast Asi… [+3976 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Yohan Yun",
-        "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
-        "description": "The FCA opened crypto authorization applications ahead of the UK’s October 2027 regime, with existing businesses urged to apply by Feb. 28.",
-        "url": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3S34AE4B11G1QWG7E88GP0J/hi-uk-compliance-deadline-is-upcoming-should-users-expect-crypto-firm-closures-2.jpg",
-        "publishedAt": "2026-09-30T12:06:04Z",
-        "content": "The United Kingdoms Financial Conduct Authority (FCA) opened applications Wednesday for crypto businesses seeking authorization under a regulatory regime due to take effect on Oct. 25, 2027.\r\nCompani… [+1166 chars]"
       }
     ]
   }
