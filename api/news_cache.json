@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-10-08T06:52:47.602Z",
+  "timestamp": "2026-10-08T14:15:29.394Z",
   "data": {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Krisztian Sandor",
+        "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+        "description": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain.",
+        "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-10-07T12:34:13Z",
+        "content": "Crypto trading and market-making firm GSR is committing $100 million to a new onchain credit business, betting that vaults will become a bigger part of how institutional investors put digital and tok… [+1047 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+        "description": "Bitcoin fell 2.3% in two hours amid suspicion over the appearance of leveraged BTC short positions on Hyperliquid.",
+        "url": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AW745VDSWX1CKPHGAJA9VF/big-wave-bitcoin-market-fall.jpg",
+        "publishedAt": "2026-10-07T09:45:35Z",
+        "content": "Bitcoin (BTC) dipped below $84,000 on Wednesday as flash downside liquidated over $500 million in crypto long positions.\r\nKey points:\r\n<ul><li>Bitcoin briefly dropped to $83,560 but held support at i… [+2416 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinjournal.net"
+        },
+        "author": "Hassan Maishera",
+        "title": "Bitcoin slips below $84,000 ahead of FOMC minutes",
+        "description": "Key takeaways Bitcoin briefly fell below $84,000 during Wednesday’s Asian session. Rising oil prices added inflation concerns ahead of the FOMC minutes, keeping interest-rate expectations in focus. BTC’s immediate support lies around 80,000–82,000, while a su…",
+        "url": "https://coinjournal.net/news/bitcoin-slips-below-84000-ahead-of-fomc-minutes/",
+        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/10/Traders-Analyze-Bitcoins-Bearish-Slide.png",
+        "publishedAt": "2026-10-07T08:12:53Z",
+        "content": "Key takeaways\r\n<ul><li>Bitcoin briefly fell below $84,000 during Wednesday’s Asian session.</li><li>Rising oil prices added inflation concerns ahead of the FOMC minutes, keeping interest-rate expecta… [+3240 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Russia clears first crypto exchanges, custodians under new law",
+        "description": "Sberbank joined Russia’s first group of registered crypto custodians and plans to launch Bitcoin, Ether and USDT products through its platforms on Dec. 1.",
+        "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AKW3XPT7HT038RPJCR9B5F/digital-bank-russia.jpg",
+        "publishedAt": "2026-10-07T08:06:35Z",
+        "content": "Russia has registered its first cryptocurrency exchange operators and digital custodians under new crypto regulations that took effect on Sept. 1.\r\nThe Bank of Russia on Tuesday published its first r… [+1034 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+        "description": "Bitcoin dipped to around $84,200 on Wednesday but stayed inside its recent range, keeping the broader bullish stair-step trajectory intact.",
+        "url": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/0b4999b3425c23ed7837f68c0ef62de17ff278d0-1600x1017.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-10-07T07:52:22Z",
+        "content": "Bitcoin BTC\r\n$84,039.25 is on the back foot Wednesday. Its bigger bullish pattern is still holding.\r\nThe cryptocurrency fell to $84,200 early Wednesday, down over 2% from near $86,500 on Tuesday, acc… [+975 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,32 +407,6 @@
         "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
         "publishedAt": "2026-10-01T14:18:14Z",
         "content": "The incident adds to a rough year for crypto security. Just last week, exchange Bitget suffered an exploit that resulted in over $350 million in stolen assets. Other major incidents included Liquid N… [+807 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "description": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
-        "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
-        "publishedAt": "2026-09-30T17:27:43Z",
-        "content": "In brief\r\n<ul><li>Bitcoin ETFs took in $66.19 million on Sept. 29, their ninth straight day of net inflows.</li><li>The Sept. 1729 run has drawn about $3.08 billion, edging past the roughly $3.04 bil… [+2794 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "Singapore crypto activity grows 55% as broader region contracts",
-        "description": "Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers.",
-        "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RAGTSRKJH3XGCDAAGQTVXB/regulations-singapore-crypto.jpg",
-        "publishedAt": "2026-09-30T13:00:00Z",
-        "content": "Singapores crypto activity rose 55.4% to $284 billion in the year ended June 2026, bucking a regional contraction and regaining its position as the largest crypto economy in Central and Southeast Asi… [+3976 chars]"
       }
     ]
   }
