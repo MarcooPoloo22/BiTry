@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-10-10T10:17:42.982Z",
+  "timestamp": "2026-10-10T16:03:16.322Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+        "description": "Bitcoin seeks a recovery from Thursday’s drop to near $80,000 as crypto markets appear to brush off reports of a Ledger hardware wallet exploit.",
+        "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GJTJRRZ47S1YP6DQSY53GK/hand-coin-laptop-hack-bitcoin-1280x853.webp",
+        "publishedAt": "2026-10-09T15:20:36Z",
+        "content": "Bitcoin (BTC) sought to avoid fresh losses on Friday as crypto markets digested reports of an exploit affecting Ledger hardware wallets.\r\nKey points:\r\n<ul><li>Bitcoin rebounded from local lows of $80… [+2716 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Krisztian Sandor",
+        "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+        "description": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses.",
+        "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5df7a99bcc921212ec004cc48e5fe4a959b18bcd-1420x916.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "publishedAt": "2026-10-09T15:02:51Z",
+        "content": "As a precaution, the company said it asked CryptoBilis to pause all sales and shipments while its investigation continues. Ledger advised customers who purchased devices from the reseller within the … [+1167 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+        "description": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange.",
+        "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FZR0YP4HAX26C5RVN1W1T2/hi-russias-law-on-crypto-whats-the-latest-2.jpg",
+        "publishedAt": "2026-10-09T10:34:37Z",
+        "content": "The UK government has sanctioned three cryptocurrency exchanges and two payment platforms suspected of helping Russian entities circumvent financial sanctions.\r\nThree of the service providers were li… [+1580 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -446,19 +485,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AA4ZNADXTBYDCDTTV3CT3X/hi-vivek-waving-hello.png",
         "publishedAt": "2026-10-05T10:11:26Z",
         "content": "Two years ago, then-presidential candidate Vivek Ramaswamy couldnt stop praising the virtues of cryptocurrency.\r\nRunning to be the 2024 Republican nominee in the race for the White House, Ramaswamy s… [+5522 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Olivier Acuna",
-        "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
-        "description": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
-        "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-        "publishedAt": "2026-10-05T09:26:24Z",
-        "content": "Payward, the financial infrastructure company behind crypto exchange Kraken, integrated Singapore Gulf Banks real-time clearing network to enable institutional clients to settle qualifying digital-as… [+1063 chars]"
       }
     ]
   }
