@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-10-19T22:08:05.819Z",
+  "timestamp": "2026-10-20T01:23:15.764Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 28,
     "articles": [
       {
         "source": {
@@ -368,32 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg",
         "publishedAt": "2026-10-14T10:25:53Z",
         "content": "Saifedean Ammous, the author of the 2018 academic book The Bitcoin Standard, said that Bitcoin already functions as a medium of exchange and that volatilitys effect on that is likely to diminish.\r\nBi… [+1643 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-        "description": "Standard Chartered expanded its Bitcoin and Ether trading to professional investors in the UAE, as it continues to expand its regulated digital asset offerings in the region.",
-        "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQPH22MB1PQE91PWD5QS21/hi-dubai-overview-crypto-and-blockchain.jpg",
-        "publishedAt": "2026-10-14T10:07:03Z",
-        "content": "Standard Chartered has expanded Bitcoin (BTC) and Ether (ETH) trading to wealthy clients in the United Arab Emirates (UAE) who qualify as professional investors.\r\nEligible investors can trade these a… [+1281 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Francisco Rodrigues",
-        "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-        "description": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
-        "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-        "publishedAt": "2026-10-14T08:10:07Z",
-        "content": "Standard Chartered (STAN) introduced a crypto trading service for affluent clients in the United Arab Emirates, allowing eligible investors to buy and sell bitcoin BTC\r\n$83,478.64 and ether ETH\r\n$2,5… [+1110 chars]"
       }
     ]
   }
