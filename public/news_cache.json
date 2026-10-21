@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-21T05:34:54.617Z",
+  "timestamp": "2026-10-21T10:52:52.539Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+        "description": "The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator.",
+        "url": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5913E3NB29C5XXKGWE4B5TQ/thailand-2.jpg",
+        "publishedAt": "2026-10-20T10:00:00Z",
+        "content": "Crypto exchange Bitget has announced plans to acquire Thailands GMO-Z.com Cryptonomics, seeking to expand its Southeast Asia footprint weeks after a major hack impacting its hot and warm wallets. \r\nT… [+2060 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,19 +407,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YGMAKBQ7H9BQG4RR5WN0J2/polygon.jpg",
         "publishedAt": "2026-10-15T00:55:21Z",
         "content": "Polygon Labs has completed its acquisition of Coinme, giving its stablecoin payments platform a regulated way to convert dollars into digital assets and back across 48 US states.\r\nPolygon said Wednes… [+1127 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-        "description": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
-        "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-10-14T19:46:03Z",
-        "content": "In brief\r\n<ul><li>The Bank of Russia added Sberbank to its register of crypto exchange operators on October 12, six days after listing it as a digital depository.</li><li>Sberbank plans to launch its… [+3166 chars]"
       }
     ]
   }
