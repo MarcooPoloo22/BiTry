@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-10-21T19:49:09.782Z",
+  "timestamp": "2026-10-21T22:55:52.257Z",
   "data": {
     "status": "ok",
-    "totalResults": 29,
+    "totalResults": 28,
     "articles": [
       {
         "source": {
@@ -368,19 +368,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png",
         "publishedAt": "2026-10-16T06:11:22Z",
         "content": "An internal research model at OpenAI accessed a funded crypto wallet without authorization, using testnet Ether to deploy smart contracts on the Sepolia network and later omitting the spending from i… [+2514 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-        "description": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
-        "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-10-15T20:31:04Z",
-        "content": "In brief\r\n<ul><li>The Bank of Russia confirmed in an October 12 FAQ that direct crypto trades between individuals are legal only until July 1, 2027, citing new law.</li><li>The regulator also says in… [+3700 chars]"
       }
     ]
   }
