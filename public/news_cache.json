@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-22T06:52:40.612Z",
+  "timestamp": "2026-10-22T12:40:06.347Z",
   "data": {
     "status": "ok",
     "totalResults": 28,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+        "description": "Bitcoin buyers from late 2025 have added to ongoing BTC price resistance above $87,000, new research from Glassnode reports.",
+        "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0PB0PYRW4ADV979RY5M5W/hi-on-chain-volume-vs-trading-value.jpg",
+        "publishedAt": "2026-10-21T10:39:13Z",
+        "content": "Bitcoin (BTC) investors sitting on unrealized losses are capping price gains at $87,700, while ETF inflows strengthen support at $80,000, analysis reveals.\r\nKey points:\r\n<ul><li>Bitcoin investors who… [+3379 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,19 +368,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
         "publishedAt": "2026-10-16T10:39:08Z",
         "content": "In brief\r\n<ul><li>OpenAI said an internal research model used funds from a crypto wallet it had not been given to pay for a contract deployment on Ethereum's Sepolia test network.</li><li>The model d… [+3200 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-        "description": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
-        "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51KABB9BETQZNEF1DB9SNM5/openai-ether.png",
-        "publishedAt": "2026-10-16T06:11:22Z",
-        "content": "An internal research model at OpenAI accessed a funded crypto wallet without authorization, using testnet Ether to deploy smart contracts on the Sepolia network and later omitting the spending from i… [+2514 chars]"
       }
     ]
   }
