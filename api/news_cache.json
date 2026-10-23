@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-23T13:58:38.103Z",
+  "timestamp": "2026-10-23T18:04:59.441Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Turner Wright",
+        "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+        "description": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.",
+        "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg",
+        "publishedAt": "2026-10-22T16:48:00Z",
+        "content": "The Central Bank of Ireland announced an enforcement action against Coinbase Ireland for failures to safeguard user funds and provide oversight between 2020 and 2025. \r\nIn a Thursday notice, the regu… [+1416 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,19 +407,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N11.png?fit=1600%2C900",
         "publishedAt": "2026-10-17T19:13:00Z",
         "content": "TL;DR: Charles Schwab is expanding its direct Bitcoin and Ethereum services, including phased external wallet transfers. The move brings digital asset ownership further into the company’s conventiona… [+1935 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Binance.US Seeks $100 Million Funding Round At $1 Billion Valuation",
-        "description": "TL;DR: Binance.US is reportedly seeking up to $100 million from private investors at a proposed valuation of approximately $1 billion. The financing discussions come as the American exchange attempts to rebuild after several difficult years. Binance.US is rep…",
-        "url": "http://www.newsbtc.com/crypto-news/binance-us-seeks-100-million-funding-round-at-1-billion-valuation/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N09.png?fit=1600%2C900",
-        "publishedAt": "2026-10-17T17:13:00Z",
-        "content": "TL;DR: Binance.US is reportedly seeking up to $100 million from private investors at a proposed valuation of approximately $1 billion. The financing discussions come as the American exchange attempts… [+1802 chars]"
       }
     ]
   }
