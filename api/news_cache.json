@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-10-24T05:14:25.612Z",
+  "timestamp": "2026-10-24T10:01:29.081Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Ryan Gladwin",
+        "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+        "description": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
+        "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bhutan-bitcoin-decrypt-style-02-gID_7.jpg",
+        "publishedAt": "2026-10-23T08:55:35Z",
+        "content": "In brief\r\n<ul><li>Bitcoin hasn't moved more than 6% over the past month, and every top five cryptocurrency has failed to move more than 2% over the past seven days.</li><li>Market analysts say that a… [+5149 chars]"
+      },
       {
         "source": {
           "id": null,
