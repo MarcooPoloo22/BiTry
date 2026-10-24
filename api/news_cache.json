@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-10-24T14:10:44.091Z",
+  "timestamp": "2026-10-24T17:44:05.288Z",
   "data": {
     "status": "ok",
     "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Staff",
+        "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+        "description": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+        "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-gID_7.png",
+        "publishedAt": "2026-10-23T16:31:03Z",
+        "content": "In brief\r\n<ul><li>New York Attorney General Letitia James is seeking about $1.37 billion from NovaTech founders Cynthia and Eddy Petion, who fled the U.S. before an August 2025 default judgment.</li>… [+3361 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+        "description": "Bitcoin weathers a fresh surge in oil prices as BTC price analysts see need to reclaim the 50-day moving average to avoid a drop below $80,000.",
+        "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg",
+        "publishedAt": "2026-10-23T15:39:17Z",
+        "content": "Bitcoin (BTC) saw a fresh dip below $81,000 after Fridays Wall Street open as Brent crude oil set new seven-month highs.\r\nKey points:\r\n<ul><li>Bitcoin briefly dropped below $81,000 at the start of Fr… [+2665 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,32 +420,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png",
         "publishedAt": "2026-10-19T16:05:09Z",
         "content": "In brief\r\n<ul><li>Bitcoin trades at $82,164, just above the a key support line, after touching $83,040 today and giving back part of the gain.</li><li>Oil near $108, 3.7% inflation, and a 10-year yie… [+4064 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Latvia Changes Crypto Tax Treatment And Opens A 2027 Declaration Window",
-        "description": "Latvia has passed a change to the way crypto investment-account gains are taxed, shifting attention from individual trades to what an investor ultimately withdraws from an eligible account. TL;DR: New Latvian legislation taxes qualifying account withdrawals a…",
-        "url": "http://www.newsbtc.com/regulation/latvia-changes-crypto-tax-treatment-and-opens-a-2027-declaration-window/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2018/02/eu-flag-2108026_1280.jpg?fit=1280%2C853",
-        "publishedAt": "2026-10-19T13:00:00Z",
-        "content": "Strict editorial policy that focuses on accuracy, relevance, and impartiality\r\nCreated by industry experts and meticulously reviewed\r\nThe highest standards in reporting and publishing\r\nStrict editori… [+1952 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-        "description": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.",
-        "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Handcuffs-gID_7.png",
-        "publishedAt": "2026-10-19T10:31:09Z",
-        "content": "In brief\r\n<ul><li>Three men have been jailed for between five and six years after breaking into a man's home in Bristol, England, and demanding a large amount of cryptocurrency.</li><li>All three ple… [+2675 chars]"
       }
     ]
   }
