@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-10-25T10:26:08.524Z",
+  "timestamp": "2026-10-25T14:42:07.815Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 30,
     "articles": [
       {
         "source": {
@@ -394,19 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5913E3NB29C5XXKGWE4B5TQ/thailand-2.jpg",
         "publishedAt": "2026-10-20T10:00:00Z",
         "content": "Crypto exchange Bitget has announced plans to acquire Thailands GMO-Z.com Cryptonomics, seeking to expand its Southeast Asia footprint weeks after a major hack impacting its hot and warm wallets. \r\nT… [+2060 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "German Savings Banks Begin Crypto Trading Rollout Inside Sparkassen App",
-        "description": "Germany’s Sparkassen savings-bank group is beginning a phased cryptocurrency-trading rollout inside its existing banking app, taking an asset class it once treated cautiously into a familiar retail-finance setting. TL;DR: The first participating Sparkassen ba…",
-        "url": "http://www.newsbtc.com/crypto-news/german-savings-banks-begin-crypto-trading-rollout-inside-sparkassen-app/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/10/sparkassen_finanzgruppe_logo.jpg?fit=1280%2C720",
-        "publishedAt": "2026-10-19T19:00:00Z",
-        "content": "Strict editorial policy that focuses on accuracy, relevance, and impartiality\r\nCreated by industry experts and meticulously reviewed\r\nThe highest standards in reporting and publishing\r\nStrict editori… [+2009 chars]"
       }
     ]
   }
