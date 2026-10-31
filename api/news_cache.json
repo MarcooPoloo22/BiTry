@@ -1,10 +1,49 @@
 {
   "version": 3,
-  "timestamp": "2026-10-30T21:15:55.753Z",
+  "timestamp": "2026-10-31T01:16:15.534Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "NewsBTC Editorial Team",
+        "title": "Robinhood Crypto Revenue Falls 55% as Prediction Markets Support Growth",
+        "description": "Robinhood reported third-quarter 2026 results on October 27, with total net revenue of about $1.42 billion, up 12% from the comparable period a year.",
+        "url": "https://www.newsbtc.com/news/robinhood-crypto-revenue-falls-55-as-prediction-markets-support-growth/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-30T01:00:00Z",
+        "content": "TL;DR: Robinhood reported third-quarter 2026 results on October 27, with total net revenue of about $1.42 billion, up 12% from the comparable period a year earlier. Market participants can learn some… [+3992 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Nate Kostar",
+        "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+        "description": "Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibillion-dollar transfers from Binance-linked wallets fueling uncertainty.",
+        "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg",
+        "publishedAt": "2026-10-29T23:24:21Z",
+        "content": "Cryptocurrency markets fell sharply Thursday as reports of a potential multibillion-dollar hack involving Binance wallets rattled investors, sending BNB down more than 7% and pushing the broader mark… [+1109 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jose Antonio Lanz",
+        "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+        "description": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+        "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
+        "publishedAt": "2026-10-29T21:36:24Z",
+        "content": "In brief\r\n<ul><li>At least $5.57 billion left Binance-linked wallets on Ethereum, Bitcoin and Tron on Thursday, per an on-chain tally; Binance said it is investigating.</li><li>Tether froze 975.1 mil… [+3818 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -368,32 +407,6 @@
         "urlToImage": null,
         "publishedAt": "2026-10-24T15:00:00Z",
         "content": "TL;DR: Sygnum and Debifi have launched MultiSYG, a Bitcoin-backed lending service using segregated multisignature wallets. The arrangement spreads control of collateral across several parties, while … [+3034 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Bitwise Dogecoin ETF Reaches Scheduled Liquidation As Holders Face Cash Redemption",
-        "description": "Bitwise’s BWOW Dogecoin ETF reached its announced October 22 liquidation distribution date, with remaining shareholders due cash based on the fund’s net asset value.",
-        "url": "https://www.newsbtc.com/crypto-news/bitwise-bwow-dogecoin-etf-cash-liquidation-october-22/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/06/Dogecoin-from-Getty-Images-6.jpg",
-        "publishedAt": "2026-10-23T21:15:00Z",
-        "content": "TL;DR: Bitwises BWOW Dogecoin ETF reached its announced October 22 liquidation distribution date, with remaining shareholders due cash based on the funds net asset value.\r\nFor investors who held the … [+2688 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Staff",
-        "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
-        "description": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
-        "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-gID_7.png",
-        "publishedAt": "2026-10-23T16:31:03Z",
-        "content": "In brief\r\n<ul><li>New York Attorney General Letitia James is seeking about $1.37 billion from NovaTech founders Cynthia and Eddy Petion, who fled the U.S. before an August 2025 default judgment.</li>… [+3361 chars]"
       }
     ]
   }
