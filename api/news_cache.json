@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-11-03T23:48:32.924Z",
+  "timestamp": "2026-11-04T04:01:21.485Z",
   "data": {
     "status": "ok",
     "totalResults": 39,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Binance begins second withdrawal phase following record hack",
+        "description": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Nov. 1.",
+        "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FN2679AMA9PVMMSE4QTW9R/binance-1.jpg",
+        "publishedAt": "2026-11-03T03:03:44Z",
+        "content": "Binance plans to begin a second phase of cryptocurrency withdrawals on Tuesday, as data show withdrawal volumes have started to stabilize following last weeks $6.3 billion hack.\r\nWithdrawals for addi… [+1568 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -498,19 +511,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6120BTEQBS14CMZ858YG88A/hi-hong-kong-situation-solana.jpg",
         "publishedAt": "2026-10-28T11:05:33Z",
         "content": "The Hong Kong arm of Mirae Asset Securities, one of South Koreas largest securities firms, has issued tokenized notes on Solana to institutional investors.\r\nThe transaction involved six-month floatin… [+1174 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Francisco Rodrigues",
-        "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-        "description": "Itau Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of a month-end deadline under Resolution 520.",
-        "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-        "publishedAt": "2026-10-28T10:07:54Z",
-        "content": "Itaú Unibanco, Brazils largest private bank, formalized its cryptocurrency trading and custody operations under the countrys new digital-asset rules, becoming the first bank in the country to do so.\r… [+1103 chars]"
       }
     ]
   }
