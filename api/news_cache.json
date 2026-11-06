@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-11-06T10:26:02.808Z",
+  "timestamp": "2026-11-06T17:45:09.806Z",
   "data": {
     "status": "ok",
     "totalResults": 42,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Ryan Gladwin",
+        "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+        "description": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.",
+        "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
+        "publishedAt": "2026-11-05T16:37:20Z",
+        "content": "In brief\r\n<ul><li>House Democrats reportedly plan to expand Maxine Waters Crypto Investor Consumer Bill of Rights into a broader market structure bill that would give the SEC more oversight.</li><li>… [+5024 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+        "description": "Thailand will block access to Bitget from Dec. 5 after its securities regulator filed a criminal complaint against the exchange’s operator.",
+        "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NPN42BG6Z4FSAM7R35THVD/hi-bitget-research-article-350000-crypto-currency-traders-in-japan-bitget-research-2.jpg",
+        "publishedAt": "2026-11-05T11:33:20Z",
+        "content": "Thailands securities regulator has filed a criminal complaint against BG Limited, the operator of cryptocurrency exchange Bitget, for allegedly operating without a license.\r\nThailands Securities and … [+1187 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -524,32 +550,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65CZZGFZ3KNMMA8P6JN3YH4/uniswap.jpg",
         "publishedAt": "2026-10-30T03:47:01Z",
         "content": "The Binance hack could accelerate a shift in crypto trading toward decentralized exchanges, benefiting Uniswap over the longer term, according to Standard Chartereds global head of digital assets res… [+1762 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Robinhood Crypto Revenue Falls 55% as Prediction Markets Support Growth",
-        "description": "Robinhood reported third-quarter 2026 results on October 27, with total net revenue of about $1.42 billion, up 12% from the comparable period a year.",
-        "url": "https://www.newsbtc.com/news/robinhood-crypto-revenue-falls-55-as-prediction-markets-support-growth/",
-        "urlToImage": null,
-        "publishedAt": "2026-10-30T01:00:00Z",
-        "content": "TL;DR: Robinhood reported third-quarter 2026 results on October 27, with total net revenue of about $1.42 billion, up 12% from the comparable period a year earlier. Market participants can learn some… [+3992 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nate Kostar",
-        "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
-        "description": "Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibillion-dollar transfers from Binance-linked wallets fueling uncertainty.",
-        "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg",
-        "publishedAt": "2026-10-29T23:24:21Z",
-        "content": "Cryptocurrency markets fell sharply Thursday as reports of a potential multibillion-dollar hack involving Binance wallets rattled investors, sending BNB down more than 7% and pushing the broader mark… [+1109 chars]"
       }
     ]
   }
