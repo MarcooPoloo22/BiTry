@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-11-10T01:21:26.305Z",
+  "timestamp": "2026-11-10T08:59:26.539Z",
   "data": {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+        "description": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
+        "publishedAt": "2026-11-09T08:17:35Z",
+        "content": "US spot Bitcoin exchange-traded funds (ETFs) recorded $1.28 billion in net outflows last week, their largest weekly withdrawals since late June.\r\nThe withdrawals brought the funds net outflows for th… [+2283 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -472,32 +485,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2018/06/Circle-Bank-Vault.jpg",
         "publishedAt": "2026-11-02T21:00:00Z",
         "content": "TL;DR\r\n<ul><li>Jane Street Capital joined the ETFs listed authorized participants.</li><li>The change appears in an October 30 prospectus supplement.</li><li>The appointment is different from an inve… [+3930 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-        "description": "Bitcoin price analysis expects a drop to local support at $76,000 as risk assets stay nervous over tech earnings and the US midterm elections.",
-        "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640-960x640.webp",
-        "publishedAt": "2026-11-02T19:27:58Z",
-        "content": "Bitcoin (BTC) returned below $77,000 after Mondays Wall Street open as crypto shrugged off hopes of a US-Iran peace deal.\r\nKey points:\r\n<ul><li>Bitcoin fell below $78,000 as WTI crude oil hit $95.15 … [+3798 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-        "description": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-        "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/hacker3-gID_7.png",
-        "publishedAt": "2026-11-02T16:46:03Z",
-        "content": "In brief\r\n<ul><li>Mercado Bitcoin suspended deposits and withdrawals on Monday after a security incident, saying customers lost nothing and no data leaked.</li><li>Blockchain security firm Hypernativ… [+2726 chars]"
       }
     ]
   }
