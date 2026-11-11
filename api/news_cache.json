@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-11-11T10:03:20.193Z",
+  "timestamp": "2026-11-11T18:13:49.237Z",
   "data": {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Isabelle Castro",
+        "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+        "description": "Mercado Bitcoin will reopen Pix deposits and withdrawals next week after a $49 million hack, while crypto trading and transfers stay suspended.",
+        "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M732NFDQVGSJE1VGENNVNKQT/trading-app-crypto-messenger-phone.jpg",
+        "publishedAt": "2026-11-10T18:12:07Z",
+        "content": "Crypto exchange Mercado Bitcoin will resume deposits and withdrawals in Brazilian reais via Pix, the countrys instant payment system, next week, a company representative told Cointelegraph. The resta… [+1499 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Yohan Yun",
+        "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+        "description": "Bitcoin Opportunity Fund co-founder Mark Moss explains why investors should ignore Bitcoin’s performance this week and look ahead to a new record high in 2027.",
+        "url": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M706AM1558Y70YWGC5XVGNF0/mark-moss-trade-secrets.png",
+        "publishedAt": "2026-11-10T13:30:00Z",
+        "content": "Wall Streets embrace of Bitcoin has created the best buying opportunity ever, according to investor Mark Moss.\r\nMoss co-founded the Bitcoin Opportunity Fund, where he is an advisory partner. In 2025,… [+4786 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,58 +433,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JYK2EH5NQHTWBFQ5A01VV5/hi-biggest-disappointments-in-crypto-in-2021.jpg",
         "publishedAt": "2026-11-04T11:11:57Z",
         "content": "Binances $6.3 billion hack could temporarily hurt confidence in crypto markets but would ultimately lead to stronger security practices across exchanges, according to Grayscale.\r\nIt also underscores … [+1334 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Ethereum reclaims $2,300 as $1.61B ETF outflows weigh on recovery",
-        "description": "Key takeaways Ethereum (ETH) has reclaimed $2,300 after falling below its realized price of $2,309 following the $6.3 billion Binance hack. US spot Ethereum ETFs recorded their seventh consecutive trading day of outflows on Tuesday. ETH faces immediate suppor…",
-        "url": "https://coinjournal.net/news/ethereum-reclaims-2300-as-1-61b-etf-outflows-weigh-on-recovery/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/11/Institutional-Investors-Queue-for-Ethereum-ETF-Withdrawals.png",
-        "publishedAt": "2026-11-04T07:57:41Z",
-        "content": "Key takeaways\r\n<ul><li>Ethereum (ETH) has reclaimed $2,300 after falling below its realized price of $2,309 following the $6.3 billion Binance hack.</li><li>US spot Ethereum ETFs recorded their seven… [+4850 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-        "description": "Bitcoin price action saw downside volatility as US midterm election voting results showed a Democratic sweep of the House and Senate.",
-        "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JMY7XMBZ97KS5GW9AD860J/regulation-papers-960x640.webp",
-        "publishedAt": "2026-11-04T07:25:47Z",
-        "content": "Bitcoin (BTC) sought to erase 3% overnight losses on Wednesday as crypto markets digested the Democratic sweep of the midterm elections.\r\nKey points:\r\n<ul><li>Bitcoin fell to $75,618 as Democrats won… [+3370 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Nate Kostar",
-        "title": "US midterms election 2026 live: What they mean for crypto",
-        "description": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
-        "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg",
-        "publishedAt": "2026-11-03T23:01:32Z",
-        "content": "Within the next few hours, we will begin to learn whether President Donald Trumps Republican Party has managed to retain control of the US Congress, determining his ability to advance his legislative… [+6273 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-        "description": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-        "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-        "publishedAt": "2026-11-03T19:46:03Z",
-        "content": "In brief\r\n<ul><li>GitBook disclosed a targeted cyberattack involving AI agents that gave an attacker unauthorized access to some of its infrastructure credentials on November 2.</li><li>Potentially e… [+5249 chars]"
       }
     ]
   }
