@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-11-12T01:11:26.701Z",
+  "timestamp": "2026-11-12T08:59:59.879Z",
   "data": {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+        "description": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+        "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg",
+        "publishedAt": "2026-11-11T08:43:30Z",
+        "content": "The US Securities and Exchange Commission (SEC) filed 348 enforcement actions in fiscal 2026, down 23.7% from 456 a year earlier. \r\nIts annual enforcement results included cases involving alleged cry… [+1572 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,32 +420,6 @@
         "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/11/Golden-Retriever-Frisbee-Leap.png",
         "publishedAt": "2026-11-05T10:25:28Z",
         "content": "Key takeaways\r\n<ul><li>Dogecoin (DOGE) trades near $0.0770 on Thursday, extending its recovery after two consecutive sessions of gains.</li><li>Dogecoin ETFs have recorded no new inflows since Octobe… [+5124 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Felix Ng",
-        "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-        "description": "Mercado Bitcoin plans to restore limited account access after a $46 million hack and says it will use company funds to replace affected assets.",
-        "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg",
-        "publishedAt": "2026-11-04T23:20:17Z",
-        "content": "Brazilian crypto exchange Mercado Bitcoin said it will begin restoring customer account access Monday after a hack that blockchain analysts estimated resulted in more than $46 million in stolen asset… [+1038 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-        "description": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto’s exposure to shifting US political power.",
-        "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-America-decrypt-style-01-gID_7.png",
-        "publishedAt": "2026-11-04T16:49:31Z",
-        "content": "In brief\r\n<ul><li>Bitcoin recovered from a six-week low to trade at $78,354 early Wednesday, while Ethereum rose to $2,323 following Democratic wins in both chambers of Congress.</li><li>The crypto i… [+4234 chars]"
       }
     ]
   }
