@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-11-13T11:44:51.588Z",
+  "timestamp": "2026-11-13T18:58:39.597Z",
   "data": {
     "status": "ok",
     "totalResults": 33,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+        "description": "Bitcoin sets new 11-week lows near $71,000 as the resignation of Nvidia CEO Jensen Huang sparks a fresh round of tech-stock selling.",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp",
+        "publishedAt": "2026-11-12T15:46:06Z",
+        "content": "Bitcoin (BTC) set new multimonth lows after Thursdays Wall Street open as selling pressure returned to the US stock market. \r\nKey points:\r\n<ul><li>Bitcoin price losses hit 3.5% on Thursday as markets… [+2902 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Staff",
+        "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+        "description": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+        "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/sofi-decrypt-style-gID_7.jpg",
+        "publishedAt": "2026-11-12T14:01:02Z",
+        "content": "In brief\r\n<ul><li>SoFi expanded SoFiUSDthe first stablecoin issued by a U.S. national bankto Polygons Open Money Stack, adding Polygon alongside Ethereum and Solana.</li><li>The move pushes SoFiUSD f… [+2920 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -407,32 +433,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
         "publishedAt": "2026-11-06T17:49:33Z",
         "content": "Bitcoin (BTC) set new multi-week lows after Fridays Wall Street open as BTC price action diverged from stocks.\r\nKey points:\r\n<ul><li>Bitcoin fell to $74,762 after the start of Fridays US trading sess… [+2801 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Agent",
-        "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-        "description": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
-        "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg",
-        "publishedAt": "2026-11-06T17:42:31Z",
-        "content": "In brief\r\n<ul><li>The U.S. Treasury sanctioned four individuals and 41 entities it says support Prince Group, a Cambodian conglomerate accused of running crypto scam compounds.</li><li>The targets in… [+4207 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Decrypt Staff",
-        "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-        "description": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
-        "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg",
-        "publishedAt": "2026-11-06T16:41:29Z",
-        "content": "In brief\r\n<ul><li>Gnosis Pay detected unauthorized access on Nov. 3 to the system powering its own branded cards, exposing some customer information. The company says funds werent affected.</li><li>T… [+3437 chars]"
       }
     ]
   }
