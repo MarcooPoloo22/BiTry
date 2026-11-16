@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-11-16T03:56:55.410Z",
+  "timestamp": "2026-11-16T12:22:16.553Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+        "description": "Bitcoin dropped to a four-month low near $62,000 before rebounding above $65,000, as crypto markets extended losses amid extreme fear and ETF outflows.",
+        "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg",
+        "publishedAt": "2026-11-15T10:23:17Z",
+        "content": "Bitcoin fell to a four-month low near $62,000 on Sunday, extending a selloff across major digital assets before recovering some of its losses.\r\nOn Sunday, Bitcoin (BTC) dropped to a 24-hour low of $6… [+1173 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,19 +407,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
         "publishedAt": "2026-11-09T11:50:36Z",
         "content": "In brief\r\n<ul><li>Coinbase has received final approval from the Office of the Comptroller of the Currency to charter Coinbase National Trust Company.</li><li>The charter brings Coinbase's institution… [+3138 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-        "description": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
-        "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
-        "publishedAt": "2026-11-09T08:17:35Z",
-        "content": "US spot Bitcoin exchange-traded funds (ETFs) recorded $1.28 billion in net outflows last week, their largest weekly withdrawals since late June.\r\nThe withdrawals brought the funds net outflows for th… [+2283 chars]"
       }
     ]
   }
