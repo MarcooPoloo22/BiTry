@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-11-17T22:05:22.388Z",
+  "timestamp": "2026-11-18T03:58:17.049Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Jona Jaupi",
+        "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+        "description": "FalconX’s Joshua Lim says the Binance hack could drive more institutions toward off-exchange custody and change how large investors trade crypto in 2027.",
+        "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png",
+        "publishedAt": "2026-11-16T22:19:41Z",
+        "content": "A major shift in institutional crypto trading could be on the horizon following the recent Binance hack, as security concerns may lead to more large investors keeping their assets outside exchanges, … [+4718 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -394,19 +407,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M706AM1558Y70YWGC5XVGNF0/mark-moss-trade-secrets.png",
         "publishedAt": "2026-11-10T13:30:00Z",
         "content": "Wall Streets embrace of Bitcoin has created the best buying opportunity ever, according to investor Mark Moss.\r\nMoss co-founded the Bitcoin Opportunity Fund, where he is an advisory partner. In 2025,… [+4786 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Bitcoin could dip to $67k amid $1.3 billion ETF outflows",
-        "description": "Key takeaways Bitcoin (BTC) trading volume surged more than 200% over 24 hours as the cryptocurrency fell toward $75,000.  US spot Bitcoin ETFs recorded approximately $1.3 billion in weekly net outflows, while the Crypto Fear and Greed Index dropped to 28.  B…",
-        "url": "https://coinjournal.net/news/bitcoin-could-dip-to-67k-amid-1-3-billion-etf-outflows/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/11/Mountain-Bull-Overlook.png",
-        "publishedAt": "2026-11-10T09:31:10Z",
-        "content": "Key takeaways\r\n<ul><li>Bitcoin (BTC) trading volume surged more than 200% over 24 hours as the cryptocurrency fell toward $75,000. </li><li>US spot Bitcoin ETFs recorded approximately $1.3 billion in… [+4205 chars]"
       }
     ]
   }
