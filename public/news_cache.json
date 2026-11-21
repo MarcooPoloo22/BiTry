@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-11-21T00:31:45.278Z",
+  "timestamp": "2026-11-21T07:53:01.805Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 30,
     "articles": [
       {
         "source": {
@@ -394,19 +394,6 @@
         "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
         "publishedAt": "2026-11-12T21:52:04Z",
         "content": "Shares of Michael Saylors Bitcoin treasury company Strategy fell 6.49% on Thursday, closing at $114.41, a day after MSCI confirmed the companys removal from its global equity indexes and amid a broad… [+1856 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Jona Jaupi",
-        "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-        "description": "DTCC plans to bring tokenized securities to Solana in 2027, but regulatory restrictions could limit how much trading activity the move brings to the network.",
-        "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
-        "publishedAt": "2026-11-12T20:07:41Z",
-        "content": "Plans by the Depository Trust &amp; Clearing Corporations (DTCC) to bring tokenized securities to Solana could attract more traditional financial institutions to the blockchain, but regulatory restri… [+4975 chars]"
       }
     ]
   }
