@@ -1,10 +1,36 @@
 {
   "version": 3,
-  "timestamp": "2026-11-21T15:48:38.816Z",
+  "timestamp": "2026-11-21T21:21:38.441Z",
   "data": {
     "status": "ok",
     "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Jose Antonio Lanz",
+        "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+        "description": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
+        "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg",
+        "publishedAt": "2026-11-20T16:35:59Z",
+        "content": "In brief\r\n<ul><li>Bitcoin fell to $59,300 Friday, breaking below the $60,000 psychological threshold as selling accelerated.</li><li>The Fear and Greed Index fell to 9, its weakest reading since Febr… [+4897 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+        "description": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
+        "publishedAt": "2026-11-20T15:52:06Z",
+        "content": "Bitcoin dropped to $60,000 after Fridays Wall Street open as crypto markets endured contagion from a fresh rout in tech stocks.\r\nKey points:\r\n<ul><li>Bitcoin failed to recover after hitting new 20-we… [+3499 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -381,32 +407,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png",
         "publishedAt": "2026-11-13T20:16:03Z",
         "content": "In brief\r\n<ul><li>JPMorgans Q3 13F filing shows it held roughly $981 million across spot Bitcoin ETFs, Strategy and Coinbase as of Sept. 30close to $1 billion, and likely past it counting Robinhood a… [+3154 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Zoltan Vardai",
-        "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-        "description": "Israeli police arrested five people in a $5 million investigation involving a WhatsApp crypto trading group that allegedly disguised proceeds as loans.",
-        "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg",
-        "publishedAt": "2026-11-13T12:19:01Z",
-        "content": "Israeli police arrested five people on Tuesday in a money laundering investigation involving about 16 million shekels ($5 million) in crypto transactions arranged through a WhatsApp group.\r\nInvestiga… [+1177 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-        "description": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
-        "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A1D62SAT9TKTBQGBY89B4X/article-covers-256285-traders-bitcoin-still-due-next-leg-lower-targeting-46k-btc-price-960x640.webp",
-        "publishedAt": "2026-11-13T09:39:05Z",
-        "content": "Bitcoin (BTC) fell to $67,500 on Friday, slipping below its 200-week simple moving average on its first test of the level in nearly three months.\r\nKey points:\r\n<ul><li>Bitcoin fell to its 200-week si… [+2691 chars]"
       }
     ]
   }
