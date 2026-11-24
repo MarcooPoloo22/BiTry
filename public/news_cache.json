@@ -1,10 +1,62 @@
 {
   "version": 3,
-  "timestamp": "2026-11-24T11:51:08.977Z",
+  "timestamp": "2026-11-24T21:45:31.015Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 30,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Staff",
+        "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+        "description": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+        "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png",
+        "publishedAt": "2026-11-23T18:16:25Z",
+        "content": "In brief\r\n<ul><li>A solo Bitcoin miner mined block 977057 on Nov. 22 via Solo CKPool, earning 3.12871270 BTC, worth roughly $191,000 at current prices.</li><li>Solo miners hold a tiny share of Bitcoi… [+2920 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+        "description": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.",
+        "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
+        "publishedAt": "2026-11-23T16:51:17Z",
+        "content": "Bitcoin gained as much as 5.4% on Monday as cryptocurrencies and stocks rallied following news that Nvidia had reinstated its founder, Jensen Huang, as CEO.\r\nKey points:\r\n<ul><li>Bitcoin (BTC) hit lo… [+2980 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Adrian Zmudzinski",
+        "title": "How market depth shapes the price of a weekend Bitcoin sale",
+        "description": "Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades.",
+        "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84G01VVAQ9V84G4EW1A47S6/canada-biman-1280x853.webp",
+        "publishedAt": "2026-11-23T15:57:55Z",
+        "content": "A narrow bid-ask spread can conceal the cost of selling 10 Bitcoin. If the best bid covers only part of the order, a desk seeking to sell the full amount immediately must accept lower prices for the … [+1083 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Decrypt Agent",
+        "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+        "description": "Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.",
+        "url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png",
+        "publishedAt": "2026-11-23T13:25:35Z",
+        "content": "In brief\r\n<ul><li>Strategy bought 457 BTC for $29.6 million last week, its fourth straight weekly purchase, lifting its holdings to 851,305 BTC, according to an SEC filing.</li><li>Its board approved… [+3223 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -342,71 +394,6 @@
         "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
         "publishedAt": "2026-11-16T21:46:03Z",
         "content": "In brief\r\n<ul><li>Bitcoin touched roughly $62,100 Sunday, its lowest price since July, as about $2 billion in crypto positions were liquidated over a weekend 24-hour window.</li><li>U.S. spot Bitcoin… [+3607 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-        "description": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
-        "publishedAt": "2026-11-16T16:26:52Z",
-        "content": "Bitcoin (BTC) struggled to stay above $65,000 at Mondays Wall Street open as tech-stock weakness dragged US equities lower.\r\nKey points:\r\n<ul><li>Crypto markets followed US stocks downward as AI sect… [+3580 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Tyler Warner",
-        "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
-        "description": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren’t selling.",
-        "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-        "publishedAt": "2026-11-16T13:23:17Z",
-        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our daily news show 'FOMO … [+6905 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Coinjournal.net"
-        },
-        "author": "Hassan Maishera",
-        "title": "Ethereum price forecast: ETH risks further losses as it drops to $1,803",
-        "description": "Key takeaways Ethereum (ETH) fell more than 13% last week as selling pressure intensified across the cryptocurrency market. Ethereum has declined to approximately $1,807, with its RSI at 25 and immediate resistance at $1,823. Negative Moving Average Convergen…",
-        "url": "https://coinjournal.net/news/ethereum-price-forecast-eth-risks-further-losses-as-it-drops-to-1803/",
-        "urlToImage": "https://coinjournal.net/wp-content/uploads/2026/11/Ethereum-Coin-Crashes-Over-Stormy-Cliff.png",
-        "publishedAt": "2026-11-16T09:02:01Z",
-        "content": "Key takeaways\r\n<ul><li>Ethereum (ETH) fell more than 13% last week as selling pressure intensified across the cryptocurrency market.</li><li>Ethereum has declined to approximately $1,807, with its RS… [+3963 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Twenty One Capital’s $1.09 Billion Profit Is Mostly a Bitcoin Accounting Story",
-        "description": "Twenty One Capital has reported net income of about $1.09 billion for the third quarter, a figure that might look extraordinary for a Bitcoin-focused company. But nearly all of that profit came from changes in the fair value of its Bitcoin holdings rather tha…",
-        "url": "https://www.newsbtc.com/bitcoin-news/twenty-one-capital-q3-2026-bitcoin-paper-gains/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-17_cover.jpg",
-        "publishedAt": "2026-11-16T09:00:00Z",
-        "content": "Twenty One Capital has reported net income of about $1.09 billion for the third quarter, a figure that might look extraordinary for a Bitcoin-focused company. But nearly all of that profit came from … [+3414 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "JPMorgan Filing Shows Bigger Strategy Stake and $540 Million in Bitcoin ETF Shares",
-        "description": "A quarterly US securities filing has put fresh numbers around JPMorgan's exposure to crypto-linked investments. The filing shows larger reported positions in both Strategy, the Bitcoin treasury company, and BlackRock's spot Bitcoin ETF at the end of September…",
-        "url": "https://www.newsbtc.com/bitcoin-news/jpmorgan-13f-strategy-ibit-holdings-q3-2026/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-11_cover.jpg",
-        "publishedAt": "2026-11-16T03:00:00Z",
-        "content": "A quarterly US securities filing has put fresh numbers around JPMorgan's exposure to crypto-linked investments. The filing shows larger reported positions in both Strategy, the Bitcoin treasury compa… [+3522 chars]"
       }
     ]
   }
