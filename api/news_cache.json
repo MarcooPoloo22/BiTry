@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "timestamp": "2026-11-24T01:24:50.188Z",
+  "timestamp": "2026-11-24T11:51:08.977Z",
   "data": {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 31,
     "articles": [
       {
         "source": {
@@ -407,19 +407,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-11_cover.jpg",
         "publishedAt": "2026-11-16T03:00:00Z",
         "content": "A quarterly US securities filing has put fresh numbers around JPMorgan's exposure to crypto-linked investments. The filing shows larger reported positions in both Strategy, the Bitcoin treasury compa… [+3522 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "newsBTC"
-        },
-        "author": "NewsBTC Editorial Team",
-        "title": "Stablecoin Supply Shrinkage Raises a Bigger Question About Crypto Liquidity",
-        "description": "Crypto investors spend plenty of time staring at Bitcoin charts, but one of the more revealing signals this month may be the amount of dollar-backed stablecoins circulating across the market. Recent data suggests that the combined supply of major stablecoins …",
-        "url": "https://www.newsbtc.com/crypto-news/stablecoin-supply-contracts-crypto-liquidity-november-2026/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-04_cover.jpg",
-        "publishedAt": "2026-11-15T20:00:00Z",
-        "content": "Crypto investors spend plenty of time staring at Bitcoin charts, but one of the more revealing signals this month may be the amount of dollar-backed stablecoins circulating across the market. Recent … [+3480 chars]"
       }
     ]
   }
