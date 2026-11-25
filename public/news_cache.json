@@ -1,10 +1,23 @@
 {
   "version": 3,
-  "timestamp": "2026-11-24T21:45:31.015Z",
+  "timestamp": "2026-11-25T04:42:48.889Z",
   "data": {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 31,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Andrei Belov",
+        "title": "Solana Price Prediction 2030: Is $2,000 SOL Still on the Table After a 75% Crash?",
+        "description": "Key takeaways SOL trades near $73, roughly 75% below its January 2025 high of $294, and tracked Binance whale positioning leans bearish (about 20% longs) while around 79% of broader accounts are long. PumpGlass shows a $19.5 million short-liquidation cluster …",
+        "url": "https://www.newsbtc.com/news/solana/solana-price-prediction-2030/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/Neon-Solana-Paths-at-Dawn.png",
+        "publishedAt": "2026-11-24T00:08:32Z",
+        "content": "<ul><li>SOL trades near $73, roughly 75% below its January 2025 high of $294, and tracked Binance whale positioning leans bearish (about 20% longs) while around 79% of broader accounts are long.</li>… [+19982 chars]"
+      },
       {
         "source": {
           "id": null,
