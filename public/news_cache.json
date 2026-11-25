@@ -1,10 +1,75 @@
 {
   "version": 3,
-  "timestamp": "2026-11-25T04:42:48.889Z",
+  "timestamp": "2026-11-25T15:10:59.833Z",
   "data": {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+        "description": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
+        "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86V69BFN7DVT7AYSE5HQFWR/hi-russias-central-bank-digital-currency-prospects-and-problems-stablecoin-1-1280x856.webp",
+        "publishedAt": "2026-11-24T14:10:23Z",
+        "content": "Buyers of Tethers USDt (USDT) stablecoin will pay a 22% value-added tax (VAT) on top of the trade price when Moscow Exchange (MOEX) opens crypto trading on Dec. 1, according to the exchanges clearing… [+1049 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "newsBTC"
+        },
+        "author": "Tomás Rivas",
+        "title": "Bitcoin Loses $60,000 And Gold Offers No Protection During Its Worst Selloff Since 1982",
+        "description": "Key takeaways Bitcoin fell back below $60,000 on Tuesday after a Monday recovery above $64,000, while gold is in its own severe correction. Gold fell 24.6% over the 60 days to November 23, its steepest loss over such a period since 1982. Neither asset pays in…",
+        "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-price-below-60000-gold-selloff/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/Bitcoin-and-Gold-Market-Selloff-1-860x484.png",
+        "publishedAt": "2026-11-24T13:21:58Z",
+        "content": "<ul><li>Bitcoin fell back below $60,000 on Tuesday after a Monday recovery above $64,000, while gold is in its own severe correction.</li><li>Gold fell 24.6% over the 60 days to November 23, its stee… [+6417 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+        "description": "Grayscale said Bitcoin looked oversold after more than $2 billion left crypto investment products in a week, but AI risks could drive near-term prices.",
+        "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86R3XR84EC6JZ8PPBN2SC3P/bitcoin1111-1280x853.webp",
+        "publishedAt": "2026-11-24T13:11:44Z",
+        "content": "Bitcoin appeared oversold near $62,000 on Monday, while risks tied to artificial intelligence (AI) could dominate its near-term outlook, according to Grayscale Investments.\r\nMore than $2 billion flow… [+1151 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+        "description": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.",
+        "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z3BJXQ46ZDN2Q8H9RF7F7N/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea-1-1280x853.webp",
+        "publishedAt": "2026-11-24T12:04:16Z",
+        "content": "South Koreas Financial Services Commission (FSC) unveiled a draft bill Tuesday that would initially limit issuance of won-denominated stablecoins to groups majority-owned by banks and generally cap s… [+1248 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by William Suberg",
+        "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+        "description": "Bitcoin price relief fails to last as BTC/USD drops 8% from intraday highs of $64,500 while analysis reveals the full impact of the AI sell-off on gold.",
+        "url": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp",
+        "publishedAt": "2026-11-24T09:25:45Z",
+        "content": "Bitcoin (BTC) dipped below $60,000 on Tuesday after rallying Monday on news that Nvidia reinstated Jensen Huang as CEO.\r\nKey points:\r\n<ul><li>Bitcoin fell nearly 8% from its intraday high of $64,505 … [+3243 chars]"
+      },
       {
         "source": {
           "id": null,
@@ -355,58 +420,6 @@
         "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-17-N17-01_wells-fargo-reports-2-35-billion-in-blackrock-bitcoin-etf-shares-but-the-filing-needs-context.jpg",
         "publishedAt": "2026-11-17T13:00:00Z",
         "content": "TL;DR\r\n<ul><li>Wells Fargo reported approximately 49.58 million IBIT shares valued at $2.35 billion for September 30.</li><li>The filing includes investment-management reporting and does not prove th… [+4343 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Helen Partz",
-        "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-        "description": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.",
-        "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGG7MGZGSJD7F656NEWPFD/hi-bitcoin-etfs-may-have-lost-the-battle-but-not-the-war1-1-1280x853.webp",
-        "publishedAt": "2026-11-17T11:18:18Z",
-        "content": "BlackRocks spot Bitcoin exchange-traded fund (ETF) returned to inflows Monday, ending an 11-session outflow streak totaling roughly $2.35 billion.\r\nThe iShares Bitcoin Trust (IBIT) attracted $76.5 mi… [+1519 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by William Suberg",
-        "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-        "description": "Bitcoin short-term holders realize the largest proportion of onchain losses since February as BTC/USD struggles to rebound from four-month lows.",
-        "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGH6S8Y1QTSMVNC1AQ8PZX/article-covers-184960-panicked-bitcoiner-mistakenly-pays-0-75-btc-in-fees-960x640.webp",
-        "publishedAt": "2026-11-17T11:14:05Z",
-        "content": "Bitcoin investors are showing increasing signs of panic as newer buyers onchain losses hit their highest since February.\r\nKey points:\r\n<ul><li>The spent output profit ratio (SOPR) for Bitcoin (BTC) w… [+3465 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Jona Jaupi",
-        "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-        "description": "FalconX’s Joshua Lim says the Binance hack could drive more institutions toward off-exchange custody and change how large investors trade crypto in 2027.",
-        "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx",
-        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png",
-        "publishedAt": "2026-11-16T22:19:41Z",
-        "content": "A major shift in institutional crypto trading could be on the horizon following the recent Binance hack, as security concerns may lead to more large investors keeping their assets outside exchanges, … [+4718 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Decrypt"
-        },
-        "author": "Jose Antonio Lanz",
-        "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-        "description": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
-        "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
-        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
-        "publishedAt": "2026-11-16T21:46:03Z",
-        "content": "In brief\r\n<ul><li>Bitcoin touched roughly $62,100 Sunday, its lowest price since July, as about $2 billion in crypto positions were liquidated over a weekend 24-hour window.</li><li>U.S. spot Bitcoin… [+3607 chars]"
       }
     ]
   }
